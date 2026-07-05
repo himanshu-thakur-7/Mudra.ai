@@ -4,6 +4,7 @@ from typing import Literal
 from pydantic import BaseModel, Field
 
 Channel = Literal["whatsapp", "social", "email", "web"]
+Audience = Literal["mfd", "ia-ra"]
 Verdict = Literal["pass", "needs_changes", "fail", "error", "pending"]
 Severity = Literal["critical", "major", "minor"]
 
@@ -11,6 +12,7 @@ Severity = Literal["critical", "major", "minor"]
 class ReviewCreate(BaseModel):
     content: str = Field(min_length=1, max_length=20000)
     channel: Channel = "social"
+    audience: Audience = "mfd"
     language: str = "en"
 
 
@@ -32,6 +34,7 @@ class FindingOut(BaseModel):
 class ReviewOut(BaseModel):
     id: str
     channel: str
+    audience: str
     language: str
     content: str
     content_sha256: str

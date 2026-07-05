@@ -24,8 +24,10 @@ async def create_review(
         user_id=user.id,
         content=body.content,
         channel=body.channel,
+        audience=body.audience,
         language=body.language,
         arn_number=user.arn_number,
+        author_name=user.name,
     )
     return review
 

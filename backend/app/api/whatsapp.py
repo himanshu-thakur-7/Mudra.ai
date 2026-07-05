@@ -43,6 +43,7 @@ async def whatsapp_inbound(
         channel="whatsapp",
         language="en",
         arn_number=user.arn_number,
+        author_name=user.name,
     )
     reply = format_whatsapp_reply(review, settings.public_web_url)
     return Response(content=twiml_message(reply), media_type="application/xml")

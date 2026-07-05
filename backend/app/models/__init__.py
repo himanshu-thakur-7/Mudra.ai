@@ -79,6 +79,7 @@ class Review(Base):
     org_id: Mapped[str] = mapped_column(ForeignKey("orgs.id"), index=True)
     user_id: Mapped[str | None] = mapped_column(ForeignKey("users.id"), nullable=True)
     channel: Mapped[str] = mapped_column(String(20), default="social")  # whatsapp|social|email|web
+    audience: Mapped[str] = mapped_column(String(10), default="mfd")  # mfd | ia-ra
     language: Mapped[str] = mapped_column(String(10), default="en")
     content: Mapped[str] = mapped_column(Text)
     content_sha256: Mapped[str] = mapped_column(String(64))
