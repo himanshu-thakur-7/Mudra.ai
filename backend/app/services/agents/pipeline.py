@@ -195,7 +195,9 @@ async def run_rewriter(
     mfd_social_rule = (
         "For MFD content: do NOT name specific schemes or reference their past performance/returns "
         "in self-designed marketing (AMC pre-approval is required for scheme-specific material) — "
-        "keep the rewrite educational or service-oriented instead. "
+        "keep the rewrite educational or service-oriented instead. Never use the words "
+        "'financial plan', 'financial planning', 'advice' or 'adviser' — MFDs may not advertise "
+        "advisory services; say 'investment goals' or 'help you choose suitable schemes' instead. "
         if audience == "mfd"
         else ""
     )
