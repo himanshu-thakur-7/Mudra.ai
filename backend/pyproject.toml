@@ -1,0 +1,37 @@
+[project]
+name = "compliance-officer-backend"
+version = "0.1.0"
+description = "AI Compliance Officer for Indian financial services — pre-review layer for SEBI/AMFI marketing content"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "sqlalchemy>=2.0",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.6",
+    "openai>=1.60",
+    "numpy>=2.0",
+    "pdfplumber>=0.11",
+    "reportlab>=4.2",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+    "twilio>=9.3",
+    "python-multipart>=0.0.12",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
