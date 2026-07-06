@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+    "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+    "downloaded_at": "2026-07-06T02:45:43Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T02:51:38.426355+00:00",
+  "chunks": [
+    {
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "text": "रजिस्ट्री स.ं डी.एल.- 33004/99 REGD. No. D. L.-33004/99\nसी.जी.-टी.एxलx.x-GअID.H-1x6xx0 42026-271854\nCG-TLxx-xEG-1ID6E0x4x2x0 26-271854\nअसाधारण\nEXTRAORDINARY\nभाग III—खण् ड 4\nPART III—Section 4\nप्राजधकार स ेप्रकाजित\nPUBLISHED BY AUTHORITY\nस.ं 261] िई कदल्ली, सोमिार, अप्रैल 13, 2026/चत्रै 23, 1948\nNo. 261] NEW DELHI, MONDAY, APRIL 13, 2026/CHAITRA 23, 1948\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण\nअजधसचू िा\nहदै राबाद, 9 अप्रलै , 2026\nफा. स.ं भा.बी.जि.जि.प्रा./आरआई/ 3/217/2026.— बीमा अजधजियम, 1938 की धारा 101ए की उप-धारा (2)\nएिं (4) द्वारा प्रदत्त िजियों का प्रयोग करत े हुए, प्राजधकरण, बीमा अजधजियम, 1938 की धारा 101बी के अधीि गठित\nसलाहकार सजमजत के साथ परामिश करि े के बाद और केन्द्र सरकार के पूिश-अिुमोदि स े जिम्नजलजखत अजधसूचिा अथाशत्--\n“जित्तीय िर्श 2026-27 के जलए अजििायश अध्यपणश ” िारी करता ह।ै\n1. प्रयोज्यतााः यह अजधसूचिा बीमा अजधजियम, 1938 की धारा 101ए के उपबंध के अिुसार भारतीय पुिबीमाकताशओं\nऔर अन्द्य प्रयोज्य बीमाकताशओं पर लाग ूहोगी।\n2. अध्यपणश का प्रजतिताः भारतीय पुिबीमाकताश(ओं) के पास पुिबीमा की िािेिाली प्रत्येक साधारण बीमा पाजलसी\nपर बीजमत राजि का प्रजतित अध्यपणश 1 अप्रलै 2026 स े प्रारंभ होिेिाल े 31 माचश 2027 तक के जित्तीय िर् श के\nदौराि संबद्ध ककये िािेिाले बीमे के संबंध में 4% (चार प्रजतित) होगा। आतंकिाद प्रीजमयम ,िाजभकीय समूह\n2680 GI/2026 (1)",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(न्द्यूजललयर पलू ) और अपिर्ितश क्षत्रे हते ु मरीि कागो पलू को अध्यर्पशत प्रीजमयम इसके अपिाद होंगे, जििमें यह\n`िून्द्य‘ ककया िाएगा। कुल अजििायश अध्यपणश केिल भारतीय साधारण बीमा जिगम (िीआईसी रे) के पास ही रखा\nिािा चाजहए।\n3. ित ें :\nक) अध्यपणश के बारे म ेंसचू िााः\ni. बीजमत राजि की कोई भी सीमा 1 अप्रलै 2026 से 31 माचश 2027 तक की अिजध के दौराि ककये गय े\nअध्यपणश ों के जलए लाग ूिहीं होगी।\nii. उपयुशि को ध्याि में रखते हुए भारतीय पुिबीमाकताश अध्यपशक बीमाकताश से अपेक्षा कर सकता ह ैकक\nिह भारतीय पुिबीमाकताश द्वारा जिजिर्दशष्ट राजि से अजधक ककसी भी अध्यपशण की िोजखम-अंकि\nसूचिा की िािकारी तत्काल द।े िब भी अध्यपणश ऐसी जिजिर्दशष्ट सीमाओं से अजधक हो िाता ह ै तब\nहर समय अध्यपशक बीमाकताश भारतीय पुिबीमाकताश को सूजचत करेगा।\nख) कमीििाः\nव्यिसाय की जिजभन्न श्रेजणयों के जलए अजििायश अध्यपणश पर कमीिि का प्रजतित जिम्नािुसार होगााः\ni. मोटर टीपी तथा तले और ऊिाश बीमा के जलए न्द्यूितम 5%।\nii. सामूजहक स्ट्िास्ट््य बीमा के जलए न्द्यूितम 10%।\niii. फ़सल बीमा के जलए न्द्यिू तम 7.50%।\niv. जिमािि बीमा के जलए औसत ितें।\nv. बीमा व्यिसाय की सभी अन्द्य श्रेजणयों के जलए न्द्यिू तम 15%।\nउपयुशि स े अजधक कमीिि भारतीय पुिबीमाकताश(ओं) और अध्यपशक बीमाकताश के बीच पारस्ट्पठरक तौर पर\nसहमत रूप में हो सकता ह।ै\nग) लाभ कमीििाः\nभारतीय पुिबीमाकताश जिम्नजलजखत के फैलटररंग के बाद कायशजिष्पादि और अध्यपशक बीमाकताश के कुल अजििाय श\nसंजिभाग के आजधलय के आधार पर अध्यपशक बीमाकताश के साथ 50 : 50 आधार पर लाभ कमीिि का साझा करेगा।\ni. उपगत हाजि % (3 जित्तीय िर्ों के अंत में गणिा करिी चाजहए)\nii. 2% प्रबंधि व्यय।\niii. 5% लाभ।\niv. 12.5% कमीिि।\nए. आर. जित्यािथं म, कायशकारी जिदेिक\n[जिज्ञापि-III/4/असा./30/2026-27]\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 3\nINSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\nNOTIFICATION\nHyderabad, the 9th April, 2026\nF. No. IRDAI/RI/ 3/217/2026.—In exercise of the powers conferred by Sub-section (2) and (4) of the\nSection 101A of the Insurance Act, 1938, the Authority, after consultation with the Advisory Committee, constituted\nunder section 101B of the Insurance Act, 1938 and with the previous approval of the Central Government, hereby makes\nthe following notification namely:- “Obligatory Cession for the financial year 2026-27”.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "1. Applicability: This notification shall be applicable to Indian Re-insurers and other applicable insurers as per the\nprovisions of Section 101A of the Insurance Act, 1938.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Percentage of Cession: The percentage cession of the sum insured on each General Insurance Policy to be\nreinsured with the Indian Re-insurer(s) shall be 4% (four percent) in respect of insurance attaching during the\nfinancial year beginning from 1st April, 2026 to 31st March, 2027, except the terrorism premium and premium\nceded to Nuclear pool wherein it would be made ‘NIL’. The entire Obligatory Cession is to be placed with General\nInsurance Corporation of India (GIC Re) only.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "3",
+      "kind": "numbered",
+      "text": "3. Terms & Conditions:\na) Notice of information on cession:\ni) There would be no limit on sum insured applicable for the cessions made during the period from 1st April,\n2026 to 31st March, 2027.\nii) In view of the above, the Indian Re-insurer may require the ceding insurer to give immediate notice of\nunderwriting information of any cession exceeding an amount as specified by the former. The ceding\ninsurer shall inform the Indian Re-insurer at all times whenever the cession exceeds such specified limits.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "b",
+      "kind": "lettered",
+      "text": "b) Commission:\nPercentage of commission on obligatory cession for different classes of business shall be as follows:\ni) Minimum 5% for Motor TP and Oil & Energy insurance.\nii) Minimum 10% for Group Health insurance.\niii) Minimum 7.50% for Crop Insurance.\niv) Average Terms for Aviation insurance.\nv) Minimum 15% for all other classes of insurance business.\nCommission over and above, can be as mutually agreed between Indian Re-insurer(s) and the ceding insurer.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "c",
+      "kind": "lettered",
+      "text": "c) Profit Commission:\nThe Indian Re-insurer shall share the profit commission, on 50:50 basis, with the ceding insurer based on the\nperformance and surplus of the total obligatory portfolio of the ceding insurer, after factoring the following:\ni) Incurred loss % (to be worked at the end of 3 financial years).\nii) Management Expenses at 2%.\niii) Profit at 5%.\niv) Commission at 12.5%.\nA. R. NITHIYANANTHAM, Executive Director\n[ADVT.-III/4/Exty./30/2026-27]\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\nand Published by the Controller of Publications, Delhi-110054.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7+2026-27+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3+_+Gazette+Notification+-+Obligatory+Cession+for+the+financial+year+2026-27.pdf/34dd26d0-1ea2-1d34-3f93-3ba06819b787?version=1.2&t=1776842220329&download=true",
+        "sha256": "420b0df8a0623119884cd0f0a147f290826e2fcc0d8589dffbb54c6cf7d87240",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    }
+  ]
+}

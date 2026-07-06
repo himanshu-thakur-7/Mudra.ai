@@ -1,0 +1,401 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+    "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+    "downloaded_at": "2026-07-06T02:46:53Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T02:52:10.695488+00:00",
+  "chunks": [
+    {
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "text": "रजिस्ट्री स.ं डी.एल.- 33004/99 REGD. No. D. L.-33004/99\nxxxGIDHxxx\nससससीीीी....जजजजीीीी....----टटटटीीीी....एएएएलललल....----अअअअ....----22222222000033332222000022224444----222255553333333322221111\nxxxGIDExxx\nCCCCGGGG----TTTTLLLL----EEEE----22222222000033332222000022224444----222255553333333322221111\nअसाधारण\nEXTRAORDINARY\nभाग III—खण् ड 4\nPART III—Section 4\nप्राजधकार स ेप्रकाजित\nPUBLISHED BY AUTHORITY\nस.ं 192] िई ददल्ली, बृहस्ट्प जतिार, माचच 21, 2024/चत्रै 1, 1946\nNo. 192] NEW DELHI, THURSDAY, MARCH 21, 2024/CHAITRA 1, 1946\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण\nअजधसचू िा\nहदै राबाद, 20 माच,च 2024\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (बीमा सगु म –बीमा इलेक्ट्राजिक बािार स्ट्थाि) जिजियम, 2024\nफा.स.ंभा.बी.जि.जि.प्रा./जिजियम/5/199/2024.—बीमा अजधजियम, 1938 की धारा 114ए की उपधारा (2) के\nखंड (िेडडी) तथा बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 की धारा 14 की उप-धारा 2 के खंड (ङ) और धारा\n26 की उप-धारा 2 के खंड (ङ) द्वारा प्रदत्त िजियों का प्रयोग करते हुए, प्राजधकरण बीमा सलाहकार सजमजत के साथ परामिच करिे के\nबाद, इसके द्वारा जिम्नजलजखत जिजियम बिाता ह,ै अथाचत्: -\nअध्याय I\nप्रारंजभक\n1. सजं िप्त िाम और प्रारंभ :\nक) ये जिजियम भारतीय बीमा जिजियामक और जिकास प्राजधकरण (बीमा सुगम – बीमा इलेक्ट्राजिक बािार स्ट्थाि)\nजिजियम, 2024 कहलाएँगे।\nख) ये जिजियम सरकारी रािपत्र में इिके प्रकािि की तारीख से प्रिृत्त होंगे।\n2. उद्देश्य :\nक) प्राजधकरण पाजलसी धारकों को सिि बिािे और उिके जहतों का संरिण करिे, भारत में बीमा के व्यापि को बढािे और\nउसकी पहुचँ में िृजि करिे के उद्देश्यों से बीमा सुगम – बीमा इलेक्ट्राजिक बािार स्ट्थाि कहलािे िाली एक जडजिटल\n2156 GI/2024 (1)",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\nसािचिजिक बुजियादी संरचिा की स्ट्थापिा की अिुमजत दिे े के जलए आईआरडीएआई (बीमा सुगम – बीमा इलेक्ट्राजिक\nबािार स्ट्थाि) जिजियम, 2024 िारी करता ह।ै यह समूच ेबीमा मूल्य-चक्र में पारदर्िचता, कायचकुिलता, सहयोग, बीमा\nिेत्र में प्रौद्योजगकीगत ििोन्मेषण को बढािा दिे े, बीमा को सिचव्यापी और लोकतांजत्रक बिािे, तथा “2047 तक सबके\nजलए बीमा” की पररदजृि को साकार करिे के जलए उपभोिाओं, बीमाकताचओं, मध्यिर्तचयों या बीमा मध्यिर्तचयों और\nबीमा एिेंटो िैसे सभी बीमा जहतधारकों के जलए एक समग्र सेिा समाधाि (िि स्ट्टाप सोल्यूिि) होगा। ये जिजियम\nबीमा सुगम – बीमा इलेक्ट्राजिक बािार स्ट्थाि, इस उद्देश्य के जलए गरित कंपिी की स्ट्थापिा, अजभिासि और\nकायचचालि तथा उसके साथ संबि और उसके जलए प्रासंजगक जिषयों के जलए जिजियामक ढाँचा जिजिर्दिच करते हैं।\nख) कंपिी और बीमा सुगम – बीमा इलेक्ट्राजिक बािार स्ट्थाि के कायचचालि को समथच बिािे के जलए इि जिजियमों में स्ट्थलू\nजसिांत जिधाचररत दकये गय ेह।ैं सिम प्राजधकारी उि बािार स्ट्थाि के प्रभािी कायचचालि के जलए आिश्यकता को ध्याि\nमें रखते हुए इि जिजियमों के अंतगचत ददिाजिदिे और पररपत्र, िैसी जस्ट्थजत हो, िारी कर सकता है।\n3. पररभाषाएँ :\n1. इि जिजियमों में, िब तक संदभच से अन्यथा अपेजित ि होोः\nक) “अजधजियम” से बीमा अजधजियम, 1938 (1938 का 4) अजभप्रेत है;\nख) “प्राजधकरण” से बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999(1999 का 41) की धारा 3 की उप-\nधारा (1) के अधीि स्ट्थाजपत भारतीय बीमा जिजियामक और जिकास प्राजधकरण अजभप्रेत है;\nग) “कंपिी” से इि जिजियमों के जिजियम 4(क) के अिुसार बिाई गई कंपिी अजभप्रेत ह;ै\nघ) “उपभोिा” से इि जिजियमों के प्रयोिि के जलए बीमा पाजलसी के संबंध में संभाजित ग्राहक, पाजलसीधारक,\nबीमाकृत व्यजि, िाजमत व्यजि, लाभाथी, दािेदार अजभप्रेत होगा;\nङ) “सिम प्राजधकारी” से अजभप्रेत होःै",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "i/part1",
+      "kind": "roman",
+      "text": "i) अध्यि, या\nii) ऐसे कोई पूणचकाजलक सदस्ट्य अथिा पूणचकाजलक सदस्ट्यों की ऐसी सजमजत अथिा प्राजधकरण के ऐसे\nअजधकारी(यों), िैसा प्राजधकरण के द्वारा जिधाचररत दकया गया हो।\nच) “बीमा सगु म – बीमा इलेक्ट्राजिक बािार स्ट्थाि” (इि जिजियमों में इसके बाद “बािार स्ट्थाि” के रूप में\nउजल्लजखत) से प्राजधकरण द्वारा अिुमत रूप में अन्य बातों के साथ-साथ बीमा पाजलजसयों की खरीद, जबक्री, बीमा\nपाजलजसयों की सर्िचससंग, बीमा दािों के जिपटाि, जिकायत जििारण को सुसाध्य बिािे के जलए जिजभन्न सेिाओं के\nसाथ जिबाचध एकीकरण को समथच बिाते हुए खुले मािकों और अंतर-पररचालिीय प्लेटफामों से युि एक सिि\nजडजिटल सािचिजिक बुजियादी संरचिा अजभप्रेत ह;ै\nछ) “डेटा प्रदाता” से (i) केन्र सरकार या राज्य सरकार की ऐसी संस्ट्था अजभप्रेत है िैसे यूआईडीएआई, जडिीलाकर,\nपररिहि, केंरीय केिाईसी अजभलेख लेखागार, सीबीडीटी, सरकारी डेटाबेस अथिा (ii) ऐसी अन्य संस्ट्था िो डेटा\nधाररत करती ह ैऔर उसे संस्ट्थाओं और सरकारी प्राजधकाररयों/ संस्ट्थाओं को उपलब्ध कराती है; ि) “बीमा जहतधारक” से उपभोिा, बीमाकताच, मध्यिती या बीमा मध्यिती, बीमा एिेंट और प्राजधकरण द्वारा\nअिुमत रूप में कोई अन्य सेिा प्रदाता अजभप्रेत ह।ैं\n2. इि जिजियमों में प्रयुि और अपररभाजषत, परंतु बीमा अजधजियम, 1938 (1938 का 4) या बीमा जिजियामक और\nजिकास प्राजधकरण अजधजियम,1999 (1999 का 41) या उिके अधीि अजधसूजचत जियमों या जिजियमों में पररभाजषत\nिब्दों और अजभव्यजियों के अथच िही होंगे िो क्रमिोः उि अजधजियमों या जियमों या जिजियमों, िसै ी जस्ट्थजत हो, में\nउिके जलए जिधाचररत दकये गय ेह।ैं\nअध्याय II\nकंपिी की स्ट्थापिा, िये रधाररता और अजभिासि\n4.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "i/part2",
+      "kind": "roman",
+      "text": "स्ट्थापिा और िेयरधाररता :\nक) बीमा सुगम – बीमा इलेक्ट्राजिक बािार स्ट्थाि, कंपिी अजधजियम, 2013 की धारा 8 के अधीि बिाई गई एक लाभरजहत\n(िाट फ़र प्रादफट) कंपिी द्वारा स्ट्थाजपत होगी।\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 3\nबिते दक कोई भी अन्य व्यजि बािार स्ट्थाि के उन्हीं अथिा उसी प्रकार के उद्देश्यों के साथ कंपिी के कायच प्रारंभ या\nपररचाजलत िहीं करेगा।\nख) उि कंपिी का मुख्य उद्देश्य बीमा जहतधारकों को जिजभन्न सेिाएँ प्रदाि करिे के जलए बािार स्ट्थाि स्ट्थाजपत करिा, उसे मदद\nदिे ा, उसे जिकजसत करिा, उसका पररचालि करिा और उि बािार स्ट्थाि का अिुरिण करिा है।\nग) कंपिी संस्ट्थापि के बाद प्राजधकरण के पास संस्ट्था के बजहर्िचयम (एमओए) और संस्ट्था के अंतर्िचयम (एओए) फाइल करेगी।\nकंपिी के अंतर्िचयमों में कोई भी संिोधि सिम प्राजधकारी के पूि चअिुमोदि से ही दकया िाएगा।\nघ) उि कंपिी की िेयरधाररता िीिि बीमाकताचओं, साधारण बीमाकताचओं और स्ट्िास्ट््य बीमाकताओंच के बीच व्यापक रूप से\nधाररत की िाएगी िहाँ दकसी एक एकल संस्ट्था के पास जियंत्रण का जहत िहीं होगा। कंपिी दकन्हीं िये िेयरों का प्रेषण, जिगचम\nअथिा दकन्हीं िेयरों के अंतरण का पंिीकरण, केिल सिम प्राजधकारी के पूि चअिुमोदि से ही करेगी।\nङ) िेयरधारक बािार स्ट्थाि के सतत कोरट-उन्नयि और जिकास के जलए जिरंतर आधार पर कंपिी की पूँिीगत अपेिा में अंिदाि\nकरेंगे जिससे यह सुजिजित दकया िा सके दक सेिाएँ इि जिजियमों के उद्देश्यों के अिुसार उपलब्ध कराई िाएँगी।\n5. अजभिासि :\n1. उि कंपिी –\nक) अपिे कायचचालि के जलए भली भाँजत प्रलेखीकृत बोडच द्वारा अिुमोददत िीजतयों, प्रदक्रयाओं और अजभिासि व्यिस्ट्थाओं\nसे युि होगी जििमें अन्य बातों के साथ-साथ पररचालिगत, िोजखम प्रबंध और आंतररक जियंत्रण िाजमल होंगे; तथा\nख) अपिे बोडच में भारतीय बीमा जिजियामक और जिकास प्राजधकरण से िाजमत अजधकतम दो व्यजियों से युि होगी; 2. जियजमत कायों के अजतररि, बोडच जिम्नजलजखत को सुजिजित करेगा –",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "i",
+      "kind": "roman",
+      "text": "i) दक उि बािार स्ट्थाि इि जिजियमों के उद्देश्यों के अंदर कायच करता ह;ै\nii) उसके जिणचय बीमा जहतधारकों के िास्ट्तजिक और जिजधसम्मत जहतों को प्रजतसबंजबत करते हैं;\niii) अजभकजल्पत प्रणाजलयाँ उच्च कोरट की सुरिा और गोपिीयता मािक, पररचालिगत जिश्वसिीयता, पयाप्तच और मापिीय\nिमता से युि होंगी; तथा\niv) बाह्य और आंतररक जिघटिों को ध्याि में रखते हुए उपयुि व्यिसाय जिरंतरता योििा लाग ूकरेगी।\n3. बोडच यह सुजिजित करिे के जलए एक िोजखम प्रबंध सजमजत गरित करेगा दक पररचालिगत और िोजखम प्रबंध िीजतयाँ,\nप्रदक्रयाएँ, प्रणाजलयाँ और जियंत्रण जिद्यमाि होंग े िो अन्य पि सेिा प्रदाताओं सजहत जिजभन्न िोजखमों की पहचाि, मापि,\nजिगरािी, प्रबंध और न्यूिीकरण करिे के जलए कंपिी को समथच बिाएँगे। उि िोजखम प्रबंध सजमजत आिजधक तौर पर\nिीजतयों, प्रदक्रयाओं, प्रणाजलयों और जियंत्रणों के कायाचन्ियि की समीिा करेगी।\n6. अध्यि और प्रबधं ि के प्रमखु व्यजियों (केएमपी) की जियजु ि :\nक) कंपिी i) गैर-कायचकारी अध्यि; तथा ii) प्रबंध जिदिे क और मुख्य कायचकारी अजधकारी की जियुजि, पुिर्िचयुजि,\nसेिासमाजप्त और जियुजि की ितों और जिबंधिों में पररितचि के जलए प्राजधकरण के पूिच- अिुमोदि की अपेिा करेगी।\nख) कंपिी बािार स्ट्थाि के पररचालि और िोजखम प्रबंध के जलए उपयुि अिुभि, कौिलों के जमश्रण, तथा अपिे दाजयत्िों का\nजििचहण करिे के जलए आिश्यक सत्यजिष्ठा से युि प्रबंधि के प्रमुख व्यजियों की जियुजि करेगी तथा प्रबंधि की भूजमकाओं\nऔर दाजयत्िों को स्ट्पि रूप से जिजिर्दिच करेगी।\nअध्याय III\nकायच, कतव्यच और दाजयत्ि\n7. कंपिी और बािार स्ट्थाि के काय चऔर दाजयत्ि:\nकंपिी और बािार स्ट्थाि के कायों में जिम्नजलजखत िाजमल होंगेोः-\nक) बीमा जहतधारकों की और जिस बािार की िह सेिा कर रही ह ै उसकी आिश्यकताएँ पूरी करिे में कुिल और प्रभािी संपूणच\nजडजिटल समाधाि बिािा।\nख) अपिी सेिाओं के संबंध में सहमजत आधाररत संरचिा को लाग ूकरिा।",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "4/part1",
+      "kind": "numbered",
+      "text": "4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\nग) अपिी सेिाओं के जलए उजचत और खुली भूजमका आधाररत पहुचँ की अिुमजत दिे ा।\nघ) यह सुजिजित करिा दक यह हर समय पररचालिरत और पहुचँ -योग्य हो।\nङ) उपयुि सहमजत की व्यिस्ट्था के साथ डेटा प्रदाताओं का प्रिेि सुजिजित करिा।\nच) दकसी भी डेटा का भंडारण, धारण, अिुरिण, साझेदारी और/या प्रसंस्ट्करण लाग ू कािूिों के अिुसार करिा जिससे इि\nजिजियमों के उद्देश्यों को आग ेबढाया िा सके।\nछ) इि जिजियमों के उद्देश्यों के अिुसार अपिे दाजयत्िों का पररदाि करिा।\nि) बीमा के जहतधारकों के जलए सहभाजगता के मािदडं और पररचालिगत ददिाजिदिे पररभाजषत करिा और लाग ूकरिा।\nझ) प्राजधकरण द्वारा समय-समय पर जिजिर्दिच दकया िािेिाला कोई अन्य कायच।\n8. कतचव्य और दाजयत्िोः\nबीमाकताच एक जिरंतर आधार पर बािार स्ट्थाि में जिक्रय के जलए अपिे बीमा उत्पादों की उपलब्धता की सुजिधा प्रदाि करिे का यत्न\nकरेंगे तथा बीमा दािों के जिपटाि, जिकायत जििारण सजहत बीमा पाजलसी से संबंजधत सभी सेिाएँ आिश्यक रूप से उपलब्ध कराएँगे।\nअध्याय IV\nसरु िा और गोपिीयता\n9. सरु िा, गोपिीयता और सहभाजगताोः\nबािार स्ट्थाि के अजभकल्प में अन्य बातों के साथ-साथ जिम्नजलजखत िाजमल होंगेोः-\nक) उपयुि सुरिा व्यिस्ट्था, अद्यति ििीितम प्रौद्योजगकी और गोपिीयता के मािदडं िो ितचमाि और भािी सुरिा की\nआिश्यकताओं का समाधाि करिे के जलए सिोत्तम प्रथाओं को अपिािे के द्वारा खुली और जिष्पि पहुचँ , गोपिीयता को\nसुजिजित करेंगे।\nख) बािार स्ट्थाि में सहभाजगता कंपिी द्वारा जिधाचररत अपेिाओं और सुरिा संबंधी ियाचारों (प्रोटोकाल्स) का अिुपालि करि े\nके अधीि होगी।\nअध्याय V\nस्ट्िय ंधारणीय\n10. रािस्ट्ि\nक) कंपिी के पास एक स्ट्ियं धारणीय रािस्ट्ि माडल पर बोडच द्वारा अिुमोददत िीजत होगी।\nख) बािार स्ट्थाि की सेिाओं का उपयोग करिे के जलए उपभोिाओं से कोई प्रभार िसूल िहीं दकया िाएगा।\nअध्याय VI\nजिजिध\n11. सचू िा मागँ ि,े जिरीिण करि ेऔर िाचँ करि ेके जलए प्राजधकरण की िजि\nप्राजधकरण कंपिी की लेखा और प्रणाजलयों ,संरचिा बुजियादी और दस्ट्तािेिों ,अजभलेखों ,बजहयों-प्रदक्रयाओं का जिरीिण या िांच या\nअन्िेषण कर सकता है। िब भी ऐसे जिरीिण दकये िाते ह ैं तब कंपिी अपेजित रूप में सभी आिश्यक दस्ट्तािेि और सूचिा तथा पहुचँ\nउपलब्ध कराएगी।\n12. कुछ उल्लघं िों/अजतक्रमणों के जलए दंड\nप्राजधकरण इि जिजियमों के उपबंधों और अजधजियम, बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 तथा उिके अधीि\nबिाये गय े जियमों और जिजियमों के संगत उपबंधों, समय-समय पर सिम प्राजधकारी द्वारा िारी दकये गये दकसी भी\nपररपत्र/ददिाजिदिे /आदिे के उपबंधों के उल्लंघि के जलए कंपिी और/या जिजियजमत संस्ट्थाओं के जिरुि उपयुि कारचिाई प्रारंभ कर\nसकता ह।ै\n13.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "4/part2",
+      "kind": "numbered",
+      "text": "पररपत्र, ददिाजिदिे और जिदिे िारी करि ेकी िजिया ँ\nक) सिम प्राजधकारी यदद आिश्यक हो तो बािार स्ट्थाि और कंपिी के संबंध में पररपत्र, ददिाजिदिे और जिदिे िारी कर सकता\nह।ै\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 5\nख) सिम प्राजधकारी बीमा जहतधारकों के जहत में, इि जिजियमों के अधीि स्ट्थाजपत कंपिी को जिदिे भी िारी कर सकता ह।ै\n14. सामान्य करििाइया ँ दरू करि े और स्ट्पिीकरण िारी करि े की िजि – इि जिजियमों के दकसी भी उपबंध को लाग ू करिे अथिा\nउसका अथचजिणचय करिे में उत्पन्न होिेिाली दकसी भी िंका अथिा करििाई को दरू करिे के जलए, सिम प्राजधकारी आिश्यक समझे गय े\nरूप में उपयुि स्ट्पिीकरण अथिा ददिाजिदिे अथिा पररपत्र िारी कर सकता है।\nदबे ािीष पण्डा, अध्यि\n[जिज्ञापि-III/4/असा./848/2023-24]\nINSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\nNOTIFICATION\nHyderabad, the 20th March, 2024\nInsurance Regulatory and Development Authority of India (Bima Sugam - Insurance Electronic\nMarketplace) Regulations, 2024\nF. No. IRDAI/Reg/5/199/2024.—In exercise of the powers conferred by clause (zd) of sub section (2) of\nsection 114A of the Insurance Act, 1938, and clause (e) of sub-section 2 of section 14 and clause (e) of sub-section 2\nof section 26 of the Insurance Regulatory and Development Authority Act, 1999, the Authority, in consultation with\nthe Insurance Advisory Committee, hereby issues the following Regulations, namely: -",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "1. Short title and commencement:\na) These Regulations may be called the Insurance Regulatory and Development Authority of India (Bima\nSugam - Insurance Electronic Marketplace) Regulations, 2024.\nb) These Regulations shall come into force from the date of their publication in the official gazette.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Objectives:\na) The Authority with the objectives to empower and protect the interest of policyholders, to increase\npenetration of insurance in India and to enhance accessibility, issues the IRDAI (Bima Sugam - Insurance\nElectronic Marketplace) Regulations 2024 for allowing establishment of a Digital Public Infrastructure\ncalled Bima Sugam - Insurance Electronic Marketplace. This shall be a one stop solution for all Insurance\nstakeholders such as consumers, insurers, intermediaries or insurance intermediaries and insurance agents to\npromote transparency, efficiency, collaboration across the entire insurance value chain, technological\ninnovation in insurance sector, universalize and democratize insurance and to achieve the vision of\n“Insurance for all by 2047”. These Regulations specify the regulatory framework for establishment,\ngovernance and functioning of the Bima Sugam - Insurance Electronic Marketplace, the Company formed\nfor this purpose and for matters connected therewith and incidental thereto.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "b",
+      "kind": "lettered",
+      "text": "b) Broad principles have been laid down in these Regulations to enable the functioning of the Company and the\nBima Sugam - Insurance Electronic Marketplace. The Competent Authority may issue guidelines and\ncirculars as the case may be under these Regulations considering the need for effective functioning of the\nMarketplace.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "3. Definitions:\n1. In these Regulations, unless the context otherwise requires:\na) “Act” means the Insurance Act, 1938 (4 of 1938);\nb) “Authority” means the Insurance Regulatory and Development Authority of India established under\nsub-section (1) of Section 3 of Insurance Regulatory and Development Authority Act, 1999 (41 of\n1999);\nc) “Company” shall mean the company formed in accordance with Regulation 4(a) of these Regulations;",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "d",
+      "kind": "lettered",
+      "text": "d) “Consumer” for the purpose of these regulations shall mean prospect, policyholder, insured, nominee,\nbeneficiary, claimant, in relation to an insurance policy;",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\ne) “Competent Authority” means:\ni) Chairperson, or\nii) such whole-time member or such committee of the whole-time members or such officer(s) of the\nAuthority, as may be determined by the Authority;\nf) “Bima Sugam - Insurance Electronic Marketplace” (hereinafter referred to as “the Marketplace”) is\na robust Digital Public Infrastructure with open standards and interoperable platforms, enabling\nseamless integration with various services to facilitate inter alia purchase, sale, servicing of insurance\npolicies, settlement of insurance claims, grievance redressal and other related matters as permitted by\nthe Authority;",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "g",
+      "kind": "lettered",
+      "text": "g) “Data Provider” means (i) any entity of the Central Government or State Government such as UIDAI,\nDigiLocker, Parivahan, Central KYC Record Registry, CBDT, government databases; or (ii) such other\nentity, which holds the data and makes it available to the entities and government authorities/entities.\nh) “Insurance Stakeholders” means consumers, insurers, intermediaries or insurance intermediaries,\ninsurance agents and any other service providers as permitted by the Authority.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Words and expressions used and not defined in these Regulations but defined in the Insurance Act, 1938 (4\nof I938) or the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999) or the Rules or the\nRegulations notified there under shall have the meanings respectively assigned to them in those Acts or the\nRules or the Regulations as the case may be.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "4",
+      "kind": "numbered",
+      "text": "4. Establishment and Shareholding:\na) Bima Sugam - Insurance Electronic Marketplace shall be established by a not for profit company formed\nunder section 8 of the Companies Act, 2013.\nProvided that no other person shall commence or operate with same or similar objectives of the Marketplace\nand functions of the Company.\nb) The main objective of the Company shall be to establish, facilitate, develop, operate and maintain the\nMarketplace for providing various services to the insurance stakeholders.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "c",
+      "kind": "lettered",
+      "text": "c) The Company after incorporation shall file the Memorandum of Association and Articles of Association with\nthe Authority. Any amendment to the Memorandum of Association of the Company shall be undertaken\nonly with the prior approval of the Competent Authority.\nd) The shareholding of the Company shall be widely held amongst Life Insurers, General Insurers and Health\nInsurers with no single entity having controlling stake. The Company shall transmit, issue any new shares or\nregister transfer of any shares, only with the prior approval of the Competent Authority.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "e",
+      "kind": "lettered",
+      "text": "e) The shareholders shall contribute to the capital requirement of the Company on an ongoing basis for\ncontinuous upgradation and development of the Marketplace to ensure that the services are provided as per\nthe objectives of these Regulations.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "5. Governance:\n1. The Company shall –\na) have well documented Board approved policies, procedures and governance arrangements for its\nfunctioning which shall inter alia include operational, risk management and internal controls; and\nb) have upto two nominees from Insurance Regulatory and Development Authority of India on its Board.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. In addition to the regular functions, the Board shall ensure –\ni) that the Marketplace functions within the objectives of these regulations;\nii) its decisions reflect genuine and legitimate interests of insurance stakeholders;\niii) systems designed shall have high degree of security and privacy standards, operational reliability,\nadequate and scalable capacity;\niv) put in place appropriate business continuity plan considering external and internal disruptions.\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 7",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "3",
+      "kind": "numbered",
+      "text": "3. The Board shall constitute a Risk Management Committee to ensure that there are operational and risk\nmanagement policies, procedures, systems and controls that enable Company to identify, measure, monitor,\nmanage and mitigate various risks including third party service providers. The Risk Management\nCommittee shall periodically review the implementation of policies, procedures, systems and controls.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6. Appointment of Chairperson and Key Managerial Persons (KMPs):\na) The Company shall seek prior approval of Authority for appointment, re-appointment, termination and\nchange in the terms and conditions of the appointment of the\ni) Non-Executive Chairperson; and\nii) Managing Director and Chief Executive Officer.\nb) The Company shall appoint Key Managerial Persons with appropriate experience, a mix of skills, and the\nintegrity necessary to discharge their responsibilities for the operation and risk management of the\nMarketplace and clearly specify the roles and responsibilities of the management.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER II\nESTABLISHMENT, SHAREHOLDING AND GOVERNANCE OF THE COMPANY"
+      }
+    },
+    {
+      "clause_number": "7",
+      "kind": "numbered",
+      "text": "7. Functions and Responsibilities of the Company and the Marketplace:\nThe functions of the Company and the Marketplace shall include the following :-\na) Creating efficient and effective end-to-end digital solutions in meeting the requirements of the insurance\nstakeholders and the market it serves.\nb) Implementing consent based architecture for its services.\nc) Allowing fair and open role-based access of its services.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER III\nFUNCTIONS, DUTIES, AND RESPONSIBILITIES"
+      }
+    },
+    {
+      "clause_number": "d",
+      "kind": "lettered",
+      "text": "d) Ensuring it is operative and accessible at all times.\ne) Ensuring access to data providers with appropriate consent mechanism.\nf) Storing, holding, maintaining, sharing and/or processing any data, in accordance with applicable laws, in\nfurtherance of objectives of these Regulations.\ng) Delivery of its obligations in accordance with the objectives of these Regulations.\nh) To define and enforce the participation criteria and operating guidelines for the Insurance Stakeholders.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER III\nFUNCTIONS, DUTIES, AND RESPONSIBILITIES"
+      }
+    },
+    {
+      "clause_number": "i",
+      "kind": "roman",
+      "text": "i) Any other function as may be specified by the Authority from time to time.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER III\nFUNCTIONS, DUTIES, AND RESPONSIBILITIES"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8. Duties and Responsibilities:\nInsurers shall endeavor to facilitate availability of their insurance products for sale and necessarily provide all\nservices related to an insurance policy including settlement of insurance claims, grievance redressal in the\nMarketplace on an ongoing basis.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER III\nFUNCTIONS, DUTIES, AND RESPONSIBILITIES"
+      }
+    },
+    {
+      "clause_number": "9",
+      "kind": "numbered",
+      "text": "9. Security, Privacy and Participation:\nThe design of the Marketplace shall inter alia include the following:-\na) Appropriate security mechanism, up-to-date latest technology and privacy standards which will ensure\nopen and fair access, confidentiality by adopting best practices to address current and future security\nrequirements.\nb) Participation to the Marketplace shall be subject to complying with the requirements and security protocols\nlaid down by the Company.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER IV\nSECURITY AND PRIVACY"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10. Revenue\na) The Company shall have a Board approved policy on a self-sustainable revenue model.\nb) Consumers shall not be charged for availing the services of the Market place.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER V\nSELF SUSTAINABLE"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER V\nSELF SUSTAINABLE"
+      }
+    },
+    {
+      "clause_number": "11",
+      "kind": "numbered",
+      "text": "11. Power of the Authority to call for information, carry out inspection and enquiry\nThe Authority may conduct an enquiry or an investigation or an inspection of the books of accounts, records,\ndocuments and infrastructure, systems and procedures, of the Company. The Company shall provide all\nnecessary documents and information and access as required whenever such inspections are carried out.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER VI\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "12",
+      "kind": "numbered",
+      "text": "12. Penalty for certain violations/breaches\nThe Authority may initiate appropriate actions against the Company and/or the regulated entities for violation of\nthe provisions of these regulations and relevant provisions of Act, Insurance Regulatory and Development\nAuthority Act, 1999 and Rules and Regulations made thereunder, any circular/guidelines/order issued by the\nCompetent Authority from time to time.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER VI\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "13",
+      "kind": "numbered",
+      "text": "13. Powers to issue Circular, Guidelines and directions\na) The Competent Authority may issue circulars, guidelines and directions, if necessary, in relation to the\nMarketplace and the Company.\nb) The Competent Authority may also issue directions to the Company, established under these regulations, in\nthe interests of Insurance Stakeholders.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER VI\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "14",
+      "kind": "numbered",
+      "text": "14. General Power to remove difficulties and issue clarifications – In order to remove any doubts or the\ndifficulties that may arise in the application or interpretation of any of the provisions of these regulations, the\nCompetent Authority may issue appropriate clarifications or guidelines or circular or direction as deemed\nnecessary.\nDEBASISH PANDA, Chairperson\n[ADVT.-III/4/Exty./848/2023-24]\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\nand Published by the Controller of Publications, Delhi-110054.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%AE+%E2%80%93+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Bima+Sugam-+Insurance+Electronic+Marketplace%29+Regulations%2C+2024.pdf/dc31b451-7eff-e155-e179-a81ad30d3105?version=1.0&t=1712310564868&download=true",
+        "sha256": "ee92d3b70f3334374bfbac545c474e1196e2fa1383cf4f7f6bb283092422c5e5",
+        "downloaded_at": "2026-07-06T02:46:53Z",
+        "chapter": "CHAPTER VI\nMISCELLANEOUS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+    "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+    "downloaded_at": "2026-07-06T02:46:03Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T02:52:03.894084+00:00",
+  "chunks": [
+    {
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "text": "रजिस्ट्री स.ं डी.एल.- 33004/99 REGD. No. D. L.-33004/99\nसी.जी.-टी.एल.-अ.-09012025-260081\nxxxGIDHxxx\nCG-TL-E-09012025-260081\nxxxGIDExxx\nअसाधारण\nEXTRAORDINARY\nभाग III—खण् ड 4\nPART III—Section 4\nप्राजधकार स ेप्रकाजित\nPUBLISHED BY AUTHORITY\nस.ं 22] िई कदल्ली, िुक्रिार, िििरी 3, 2025/पौर् 13, 1946\nNo. 22] NEW DELHI, FRIDAY, JANUARY 3, 2025/PAUSHA 13, 1946\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण\nअजधसचू िा\nहदै राबाद, 1 िििरी,2025\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (जिजियामक सडैं बाक्स) जिजियम, 2025\nफा.स.ं भा.बी.जि.जि.प्रा./जिजियम/5/212/2025– बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 (1999\nका 41) की धारा 14 की उप-धारा (2) के खंड (ङ) और धारा 26 के साथ पठित बीमा अजधजियम, 1938 (1938 का 4)\nकी धारा 114ए की उप-धारा 2 के खंड (िडे डी) द्वारा प्रदत्त िजियों का प्रयोग करत े हुए, प्राजधकरण बीमा सलाहकार\nसजमजत के साथ परामिश करिे के बाद, इसके द्वारा जिम्नजलजखत जिजियम बिाता ह,ै अथाशत ् :-\nअध्याय I\nप्रारंजभक\n1. सजं िप्त िाम और प्रारंभः\n(1) ये जिजियम भारतीय बीमा जिजियामक और जिकास प्राजधकरण (जिजियामक सैंडबाक्स) जिजियम, 2025\nकहलाएँगे।\n(2) ये जिजियम सरकारी रािपत्र म ेंइिके प्रकािि की तारीख को प्रिृत्त होंगे।\n(3) इि जिजियमों की समीिा आईआरडीएआई (जिजियामक सैंडबाक्स) जिजियम, 2025 के प्रकािि की तारीख से\nप्रत्येक तीि िर् श म े एक बार की िाएगी, िब तक कक इसके पहल े ककसी समीिा, जिरसि अथिा संिोधि की\nआिश्यकता उत्पन्न ि हो।\n2. उद्देश्यः इि जिजियमों के उद्दश्े य जिम्नजलजखत ह ैं :\n100GI/2025",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(1) बीमा िेत्र के सुव्यिजस्ट्थत जिकास और पाजलसीधारकों के जहतों के संरिण को सुजिजित करि े के साथ ही, बीमा\nिेत्र में ििोन्मेर्ण को सुसाध्य बिािा।\n(2) जिजियामक सैंडबाक्स पठरिेि के जिमाशण को सुसाध्य बिािा तथा प्राजधकरण द्वारा बिाये गये ककन्हीं ितशमाि\nजिजियमों के ऐसे उपबंधों को एक सीजमत जिस्ट्तार और सीजमत अिजध के जलए जिजथल करिा/ऐसे उपबंधों से छूट\nदेिा, यकद ऐसा जिजथलि/ऐसी छूट प्रयोग की अिजध के दौराि आिश्यक हो।\n3. पठरभार्ाएँ :\n(1) इि जिजियमों में, िब तक संदभश से अन्यथा अपेजित ि होः-\nक) “अजधजियम” से बीमा अजधजियम, 1938 अजभप्रेत ह;ै\nख) “आिेदक” में जिम्नजलजखत िाजमल ह-ैं",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "(i",
+      "kind": "roman",
+      "text": "(i) बीमाकताश या\n(ii) मध्यिती या बीमा मध्यिती या\n(iii) सिम प्राजधकारी द्वारा जिजिर्दशष्ट रूप म ें न्यिू तम जििल माजलयत (िेट िथ)श से यिु व्यजि को छोड़कर\nकोई अन्य व्यजि या\n(iv) भारत म ें बीमा म ें ििोन्मेर्ण को बढािा देि े के जलए एकल तौर पर अथिा संयुि रूप से अिुमजत की\nअपेिा करिेिाला सिम प्राजधकारी द्वारा जिजिर्दशष्ट कोई अन्य व्यजि;\nग) “प्राजधकरण” से बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 (1999 का 41) की धारा 3 की\nउप-धारा (1) के अधीि स्ट्थाजपत भारतीय बीमा जिजियामक और जिकास प्राजधकरण अजभप्रेत है;\nघ) “सिम प्राजधकारी” से जिम्नजलजखत अजभप्रेत हःै",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "(i/part1",
+      "kind": "roman",
+      "text": "(i) अध्यि, अथिा\n(ii) ऐसा पूणशकाजलक सदस्ट्य या पूणकश ाजलक सदस्ट्यों की ऐसी सजमजत या प्राजधकरण का ऐसा अजधकारी (ऐस े\nअजधकारी), िैसा कक अध्यि के द्वारा जिधाशठरत ककया िाएगा; ङ) “जिजियम” स े अजधजियम की धारा 2(16ए) के अंतगशत यथापठरभाजर्त प्राजधकरण के द्वारा बिाये गय े\nजिजियम अजभप्रेत ह;ैं\nच) “जिजियामक सैंडबाक्स” से जित्तीय सेिाओं के िेत्र म ें प्रयुि पठरिेि अजभप्रेत ह,ै िो िय े व्यिसाय के माडलों,\nप्रकक्रयाओं और अिुप्रयोगों के जलए परीिण आधार उपलब्ध कराता ह ै िो ितशमाि जिजियमों के द्वारा\nआिश्यक रूप स ेपूणतश ः सजममजलत िहीं ह ैअथिा ितशमाि जिजियमों का अिपु ालिकताश िहीं ह।ै\nछ) “सैंडबाक्स पठरिेि” से एक जिजिष्ट समयािजध के जलए प्रयोग हते ु अजभकजल्पत परीिण पठरििे अजभप्रेत ह।ै\n(2) इि जिजियमों में प्रयुि और अपठरभाजर्त, परंतु बीमा अजधजियम, 1938 (1938 का 4) अथिा बीमा जिजियामक\nऔर जिकास प्राजधकरण अजधजियम, 1999 (1999 का 41) अथिा उिके अधीि अजधसूजचत जियमों या जिजियमों\nमें पठरभाजर्त िब्दों और अजभव्यजियों के अथ श िही होंगे िो क्रमिः उि अजधजियमों अथिा जियमों अथिा\nजिजियमों, िैसी जस्ट्थजत हो, म ेंउिके जलए जिधाशठरत ककये गय ेह।ैं\nअध्याय II\nभारत म ेंबीमा म ेंििोन्मर्े ण को बढािा देि ेके जलए अिमु जत मागँ ि ेके जलए प्रकक्रया\n4. आिदे ि की श्रजे णया ँ\nआिेदक समूचे बीमा मूल्य चक्र के अंतगशत भारत म ें बीमा में तथा उि िेत्रों को छोड़कर िो पूँिी, चलजिजध,\nजििेि, िोधि-िमता, आरिण जिधीयि (ठरज़र्ििंग) िैसे जििेकपूणश और जित्तीय जस्ट्थजत/जस्ट्थरता संबंधी जिर्यों स े\nसंबद्ध ह,ैं ऐसे ककसी भी िेत्र में जिसके जलए जिजियमों, अजधसूचिा, मास्ट्टर पठरपत्र, कदिाजिदेिों, पठरपत्र या\nप्राजधकरण द्वारा िारी ककय े गय े ककसी अन्य सूचिा-पत्र में ककसी भी उपबंध स े छूट की आिश्यकता ह,ै तथा समय-\nसमय पर प्राजधकरण द्वारा जिधाशठरत ककये िािेिाल े ऐस े अन्य िेत्रों म ें ििोन्मेर्ण को बढािा देि े या कायाशजन्ित\nकरिे के जलए अिुमजत माँगते हुए प्राजधकरण को आिेदि प्रस्ट्ततु कर सकता ह।ै\n5. भारत म ेंबीमा म ेंििोन्मर्े ण को बढािा देि ेहते ुअिमु जत प्रदाि करि ेके जलए आिदे ि\n(1) भारत म ें बीमा म ें ििोन्मेर्ण को बढािा दिे े अथिा उसे कायाशजन्ित करि े का इच्छुक आिेदक सिम\nप्राजधकारी को जिजिर्दशष्ट फामश में इलेक्राजिक तौर पर आिेदि प्रस्ट्ततु करेगा।\n(2) आिेदि के साथ जिजिर्दशष्ट रूप में िापस ि करिे योग्य िल्ु क का भुगताि ककया िाएगा।\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 3\n(3) सिम प्राजधकारी आिेदकों के जलए अपिे द्वारा योग्य समझे गये रूप में पात्रता के मािदडं जिधाशठरत कर\nसकता ह।ै\n(4) सिम प्राजधकारी आिेदक, जिसे अिुमजत प्रदाि की गई हो, के जिजियामक सैंडबाक्स के प्रयोग के स्ट्तर,\nदेयताओं और दाजयत्िों के जलए पैरामीटर जिधाशठरत कर सकता ह,ै िैसा कक िह उपयिु समझता ह।ै\n6.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "(i/part2",
+      "kind": "roman",
+      "text": "अिमु जत प्रदाि करि ेके जलए ितें\n(1) सिम प्राजधकारी इस बात स े सतं ुष्ट होिे पर कक आिेदक पात्रता के मािदडं ों और अन्य जिजिर्दशष्ट अपेिाओं को\nपूरा करता ह,ै तथा यह कक आिदे िः\nक) भारत में बीमा िेत्र के जलए लाभदायक ििोन्मेर्ण को बढािा देता ह,ै और\nख) पाजलसीधारकों के जहत म ेंह;ै अथिा\nग) उद्योग की सुव्यिजस्ट्थत िृजद्ध के जलए सहायक है; अथिा\nघ) देि में बीमा व्यापि म ेंिृजद्ध को बढािा देगा; अथिा\nङ) बीमा व्यिसाय में कायशकुिलता लाएगा; अथिा\nच) बीमा व्यिसाय करिे की सुगमता में िृजद्ध करता ह;ै\nइस ितश के अधीि कक आिेदक बीमा अजधजियम, 1938 तथा बीमा जिजियामक और जिकास प्राजधकरण\nअजधजियम, 1999, जडजिटल िैयजिक डेटा संरिण अजधजियम, 2023 और सभी अन्य संगत\nसंजिजधयों/जिजियम के संबंजधत उपबंधों का अिपु ालि करता ह,ै अिुमजत प्रदाि कर सकता ह।ै\n(2) प्रदाि की गई अिुमजत जिजिर्दशष्ट प्रयोग अिजध के जलए जिजधमान्य होगी।\n(3) अिुमजत प्रदाि करि े से संबंजधत जिर्यों पर सिम प्राजधकारी का जिणशय अंजतम होगा।\n7. अिमु जत का प्रजतसहं रण\nसिम प्राजधकारी इस प्रकार प्रदाि की गई अिुमजत का प्रजतसंहरण कर सकता ह ै (िापस ल े सकता ह)ै , यकद उसकी राय\nमें ककये गय ेकायशकलापः\n(क) उपयुशि जिजियम 6 में दी गई ितों को पूरा िहीं करते अथिा\n(ख) बीमा अजधजियम, 1938, बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 अथिा अन्य प्रयोज्य\nजिजधयों के उपबंधों का उल्लंघि करते ह।ैं\nबिते कक उि अिुमजत का प्रजतसंहरण करि े से पहल े आिेदक को अपिी बात कहि े के जलए सुििाई का एक अिसर\nकदया िाएगा।\n8. पहली अिमु जत का समय-जिस्ट्तार\n(1) यकद प्रयोग की अिजध के अतं में आिेदक समय के जिस्ट्तार की अपेिा करता ह,ै तो अब तक प्रस्ट्ताि के\nकायशजिष्पादि के जिश्लेर्ण के साथ समय बढािे की अपेिा करिे के जलए कारण बताते हुए सिम प्राजधकारी\nको अिुरोध प्रस्ट्तुत ककया िा सकता ह।ै\n(2) सिम प्राजधकारी आिेदक के अिुरोध पर गणु -दोर् के आधार पर जिचार कर सकता ह।ै\n(3) ककसी भी पठरजस्ट्थजत म ेंआिेदक को जिजिर्दशष्ट समय का कोई जिस्ट्तार प्रदाि िहीं ककया िाएगा।\n(4) जिजियम 7 में उजल्लजखत रूप में अिुमजत के प्रजतसंहरण से सबं ंजधत खंड आिश्यक पठरितिश ों के साथ उि\nजिस्ट्तार-अिजध के जलए लाग ूहोगा।\n9.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "(i/part3",
+      "kind": "roman",
+      "text": "प्रणाजलयों और जियत्रं णों की आतं ठरक जिगरािी, समीिा और मल्ू याकं ि\n(1) अिुमोदि प्रदाि करि े के बाद, आिेदक जिम्नजलजखत को सुजिजित करेगाः\nक) कक प्रणाजलयों की समग्रता का अिुरिण हर समय ककया िाता ह।ै\nख) पाजलसीधारक संबंधी डेटा की गोपिीयता का अिरु िण ककया िाता ह।ै\nग) उसके जियंत्रणों, प्रणाजलयों, प्रकक्रयाओं और रिोपायों की समीिा, जिगरािी और मल्ू यांकि करिे के जलए\nपयाशप्त आंतठरक व्यिस्ट्थाएँ लाग ूकी गई ह।ैं\n(2) िहाँ प्रस्ट्ताि का जिष्पादि करिे म ें कोई जिचलि पाया िाता ह,ै िहाँ आिेदक इसकी सूचिा प्राजधकरण को\nतत्काल दगे ा।\n(3) प्रयोग / परीिण के चरण के दौराि ग्राहक या व्यिसाय िोजखमों के जलए उत्पन्न होिेिाली ककसी भी देयता के\nजलए जिजियामक सैंडबाक्स में प्रिेि करिे के बाद आिेदक जिममेदार होगा तथा प्राजधकरण ऐसी ककसी देयता\nके जलए जिममेदार या भागी िहीं होगा।",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "4/part1",
+      "kind": "numbered",
+      "text": "4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n10. प्राजधकरण द्वारा अिमु ोकदत प्रस्ट्ताि की समीिा\n(1) सिम प्राजधकारी संपकश के एकल स्ट्थाि (एसपीओसी) के माध्यम से जियजमत अंतरालों पर प्रस्ट्ताि की प्रगजत\nकी समीिा करेगा।\n(2) सिम प्राजधकारी आिेदक का मागशदिशि भी सुझािों के रूप में और उपयिु समझे िािेिाले ककसी अन्य प्रकार\nसे कर सकता ह।ै तथाजप, आिेदक प्रस्ट्ताि के संबंध में की गई प्रत्येक कारशिाई के जलए एकमात्र तौर पर\nउत्तरदायी होगा तथा ककन्हीं कािूिी दाजयत्िों सजहत उसके अतं गशत सभी दाजयत्िों का जििशहण करि े के जलए\nजिममेदार होगा।\n11. प्रस्ट्ताि का जिष्कर् श\n(1) जिजिर्दशष्ट रूप में आबंठटत समयािजध के समाप्त होिे पर, आिेदक 30 कदि के अदं र सिम प्राजधकारी को\nपाजलसीधारकों से प्राप्त प्रजतसूचिा (फीडबैक) के साथ एक ठरपोटश प्रस्ट्तुत करेगा कक प्रस्ट्ताि ि े उद्देश्यों को कैसे\nप्राप्त ककया ह ै तथा जिजिर्दशष्ट रूप म ें अन्य सूचिा अथिा जििरण भी प्रस्ट्तुत ककया िाएगा। आिेदक एक कायश-\nयोििा भी प्रस्ट्ततु करेगा कक प्रस्ट्ताि को कैसे ितशमाि जिजियामक ढाँचे के अंतगशत लाया िाएगा।\n(2) आिेदक की ठरपोटश की िाँच करि े के उपरांत, यकद सिम प्राजधकारी संतुष्ट ह ै कक प्रस्ट्ताि के उद्देश्य पूरे ककय े\nगये ह,ैं तो िह आिेदक को ितशमाि जिजियामक ढाँचे के अंतगशत उि प्रस्ट्ताि को अपिािे के जलए अिुमजत\nप्रदाि कर सकता ह ै जिसमें बीमा अजधजियम, 1938 के उपबधं ों के अजतठरि, बीमा जिजियामक और जिकास\nप्राजधकरण अजधजियम, 1999, सभी जिजियम, कदिाजिदेि, पठरपत्र आकद ितशमाि जिजियामक ढाँचे में\nअंतठरत होिे की तारीख से लागू होंगे।\n(3) आिेदक द्वारा प्रस्ट्ततु ठरपोटश की िाँच करिे के बाद, यकद सिम प्राजधकारी की राय ह ैकक प्रस्ट्ताि के उद्देश्य पूरे\nिहीं ककये गय ेह,ैं तो आिेदक को जिदेि कदया िा सकता ह ैकक िह प्रस्ट्ताि को बंद करे।\n(4) आिेदक प्रस्ट्ताि के समय-पूि शसमापि के जलए भी अिुरोध कर सकता ह,ै यकद िह महसूस करता ह ैकक प्रस्ट्ताि\nअपेजित उद्देश्यों को परू ा िहीं कर सकेगा। समय-पूिश समापि के जलए ऐसा अिरु ोध कम स े कम एक महीिा\nपहल े अजग्रम रूप स े प्रस्ट्तुत ककया िािा चाजहए। सिम प्राजधकारी ऐस े अिरु ोध पर गणु -दोर् के आधार पर\nजिचार करेगा तथा अपिे द्वारा योग्य समझी िािेिाली ितों के अधीि तदिुसार आिेदक को सजू चत करेगा।\n(5) प्रस्ट्ताि के अंतगशत प्रकक्रयाओं का समापि होि े पर, आिेदक का यह कतशव्य होगा कक िह सहभाजगयों के समस्ट्त\nव्यजिगत डेटा को जमटा दे और सिम प्राजधकारी को इस आिय का पुष्टीकरण दे।\n(6) प्रस्ट्ताि को आगे िारी रखिे की अिुमजत दी िाए या िहीं, इस संबंध में सिम प्राधीकारी का जिणशय अंजतम\nहोगा।\n12. अतं र-जिजियामक सडैं बाक्स प्रस्ट्ताि\nऐसे जिजियामक सैंडबाक्स आिेदिों, िो एक से अजधक जित्तीय िेत्रों से संबंध रखते ह,ैं पर कारशिाई करिे की प्रकक्रया\nऔर कक्रयाजिजधयाँ प्राजधकरण द्वारा जिजिर्दशष्ट रूप म ें होंगी।\n13.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "4/part2",
+      "kind": "numbered",
+      "text": "जिरीिण, िाचँ आकद करि ेकी िजि\nसिम प्राजधकारी के पास आिेदक से ककसी भी दस्ट्तािेि, अजभलेख या सूचिा-पत्र की मागँ करिे, उसका जिरीिण\nकरिे या िाँच करि े का अजधकार होगा।\nअध्याय III\nजिजिध\n14. जिजियामक सडैं बाक्स म ें ककसी आिदे क को ककसी भी जिजियम के उपबधं ों स े छूट प्रदाि करि े के जलए प्राजधकरण\nके अध्यि की िजि –\n(1) प्राजधकरण का अध्यि आिेदक के जलए प्राजधकरण द्वारा अजधसूजचत ककसी(ककन्हीं) जिजियम(मों) के एक या उससे\nअजधक उपबंधों अथिा प्राजधकरण द्वारा िारी ककये गये ककन्हीं कदिाजिदेिों अथिा पठरपत्रों की प्रयोज्यता से,\nजिजियम 6 म ें उजल्लजखत ितों और आिश्यक समझ े गय े रूप में ककन्हीं अन्य ितों के अधीि छूट प्रदाि कर सकता\nह।ै तथाजप, बीमा अजधजियम, 1938 अथिा बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 अथिा\nककन्हीं अन्य प्रयोज्य जस्ट्थजत रखिेिाली संजिजधयों के अिपु ालि के संबंध में कोई छूट प्रदाि िहीं की िाएगी।\n(2) उपयुशि के बाििूद, िहा ँ सिम प्राजधकारी की राय म ें आिेदक के पठरचालि भारतीय बीमा बािार अथिा बीमा\nपाजलसीधारकों के जहत म ें िहीं ह,ैं िहाँ सिम प्राजधकारी के पास आिेदक को प्रदाि की गई अिुमजत के जिलंबि\nसजहत सभी उपयुि कारशिाइया ँकरि े का अजधकार सुरजित ह।ै\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 5\n15. समय-समय पर पठरपत्र, कदिाजिदेि और जिदिे िारी करि ेकी िजिया ँ\nसिम प्राजधकारी इि जिजियमों के कायाशन्ियि की प्रकक्रया स े संबंजधत पठरचालिगत जिर्यों सजहत, इि जिजियमों के\nसंबंध में यकद आिश्यक हो तो समय-समय पर पठरपत्र, कदिाजिदेि और जिदेि िारी कर सकता ह।ै\n16. स्ट्पष्टीकरण िारी करि ेतथा कठििाइया,ँ यकद कोई हों, दरू करि ेकी िजि\nइि जिजियमों के ककसी भी उपबंध को लाग ू करि े अथिा उसका अथशजिणशय करि े म ें उत्पन्न होिेिाली ककन्हीं भी िंकाओं\nया कठििाइयों को दरू करि े के जलए सिम प्राजधकारी िब भी आिश्यक हो तब उपयुि स्ट्पष्टीकरण िारी कर सकता\nह।ै\n17. जिरसि और बचत\n(1) भारतीय बीमा जिजियामक और जिकास प्राजधकरण (जिजियामक सैंडबाक्स) जिजियम, 2019 इि जिजियमों के\nप्रिृत्त होिे की तारीख से जिरस्ट्त ककय़े िाएँगे।\n(2) िब तक इि जिजियमों के द्वारा अन्यथा व्यिस्ट्था िहीं की िाती, तब तक ऊपर उप-जिजियम (1) में उजल्लजखत\nजिजियमों के संबंध म ें की गई अथिा ककय े गय े रूप म ें समझी गई ककसी भी बात अथिा ककसी भी कारशिाई के\nसंबंध में समझा िाएगा कक िह इि जिजियमों के तदिुरूपी उपबंधों के अतं गतश की गई ह।ै\nदेबािीर् पण्डा, अध्यि\n[जिज्ञापि-III/4/असा./878/2024-25]\nINSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\nNOTIFICATION\nHyderabad, 1st January 2025\nInsurance Regulatory and Development Authority of India (Regulatory Sandbox) Regulations, 2025\nF. No.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "4/part3",
+      "kind": "numbered",
+      "text": "IRDAI/Reg/5/212/2025.- In exercise of the powers conferred by clause (zd) of sub-section 2 of\nSection 114A of the Insurance Act, 1938 (4 of 1938) read with clause (e) of sub section (2) of Section 14\nand section 26 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), the\nAuthority, in consultation with the Insurance Advisory Committee, hereby makes the following regulations,\nnamely: -",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "1. Short title and commencement:\n(1) These Regulations may be called the Insurance Regulatory and Development Authority of India\n(Regulatory Sandbox) Regulations, 2025.\n(2) These Regulations shall come into force on the date of their publication in the Official Gazette.\n(3) These Regulations shall be reviewed once every three years from the date of publication of the\nIRDAI (Regulatory Sandbox) Regulations, 2025, unless a review, repeal or amendment is\nwarranted earlier.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Objectives: The objectives of these Regulations are:\n(1) To facilitate innovation in the insurance sector while ensuring orderly development of the\ninsurance sector and protection of interests of the policyholders\n(2) To facilitate creation of regulatory sandbox environment and to relax such provisions of any\nexisting Regulations framed by the Authority for a limited scope and limited duration, if such a\nrelaxation is necessary during the experiment period.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "3. Definitions:\n6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(1) In these regulations, unless the context otherwise requires: -\na) \"Act\" means the Insurance Act, 1938:\nb) \"Applicant\" includes\n(i) an insurer or\n(ii) an intermediary or insurance intermediary or\n(iii) any person other than an individual having a minimum net-worth as specified by the\nCompetent Authority or\n(iv) any other person specified by the Competent Authority seeking singly or jointly permission\nfor promoting innovation in insurance in India;",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "c",
+      "kind": "lettered",
+      "text": "c) \"Authority\" means the Insurance Regulatory and Development Authority of India established under\nsubsection (1) of Section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of\n1999);\nd) “Competent Authority” means:\n(i) Chairperson, or\n(ii) such Whole-Time Member or such committee of the Whole-Time Members or such\nOfficer(s) of the Authority, as may be determined by the Chairperson;",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "e",
+      "kind": "lettered",
+      "text": "e) \"Regulations\" means the Regulations framed by the Authority as defined under Section 2 (16A) of\nthe Act;\nf) \"Regulatory Sandbox\" means an environment used in the financial services sector, which provides\ntesting ground for new business models, processes and applications that may not necessarily be\ncovered fully by or are not fully compliant with existing Regulations;\ng) \"Sandbox environment\" means a testing environment designed for experimentation for a specific\nperiod of time.\n(2) Words and expressions used and not defined in these Regulations but defined in the Insurance Act,\n1938 (4 of 1938) or the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999)\nor the Rules or the Regulations notified there under, shall have the meanings respectively assigned\nto them in those Acts or the Rules or the Regulations as the case may be.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER I\nPRELIMINARY"
+      }
+    },
+    {
+      "clause_number": "4",
+      "kind": "numbered",
+      "text": "4. Categories of application\nAn applicant may apply to the Competent Authority seeking permission for promoting or implementing\ninnovation in insurance in India across the insurance value chain and in any area that requires relaxation of\nany provision of the Regulations, Notification, Master Circular, Guidelines, Circular or any other\ncommunication issued by the Authority, except for areas involving prudential and financial\ncondition/stability matters, such as capital, liquidity, investment, solvency, reserving and such other areas\nas decided by the Authority from time to time.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "5",
+      "kind": "numbered",
+      "text": "5. Application for grant of permission for promoting innovation in insurance in India\n(1) An applicant desiring to promote or implement innovation in insurance in India shall make an\napplication to the Competent Authority electronically in the specified form.\n(2) The application shall be accompanied by a non-refundable fee as specified.\n(3) The Competent Authority may lay down such eligibility criteria, as it deems fit, for the applicants\n(4) The Competent Authority may lay down the parameter for the experimentation stage of regulatory\nsandbox, liabilities and responsibilities of the applicant who is granted permission, as it deems fit.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6. Conditions for grant of permission\n(1) The Competent Authority, on being satisfied that the applicant meets the eligibility criteria and\nother specified requirements, and that the application:\na) promotes innovation beneficial to insurance sector in India, and\nb) is in the interest of the policyholders; or\nc) is conducive for the orderly growth of the industry; or\nd) would promote increase in insurance penetration in the country; or",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "e",
+      "kind": "lettered",
+      "text": "e) bring in efficiency in insurance business; or\nf) promotes ease of doing insurance business;\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 7\nmay grant permission subject to the applicant complying with the relevant provisions of the\nInsurance Act, 1938 and the Insurance Regulatory and Development Authority Act, 1999, Digital\nPersonal Data Protection Act, 2023 and all other relevant statutes/regulation.\n(2) The permission granted shall be valid for an experiment period as specified.\n(3) The decision of the Competent Authority on matters relating to grant of permission shall be final.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "7",
+      "kind": "numbered",
+      "text": "7. Revocation of permission\nThe Competent Authority may revoke the permission so granted at any time, if it is of the view that the\nactivities carried out are:\n(a) not meeting the conditions given in Regulation 6 above or\n(b) in violation of the provisions of the Insurance Act, 1938, the Insurance Regulatory and\nDevelopment Authority Act, 1999 or other applicable laws.\nProvided that before revoking the permission, the applicant shall be given an opportunity of being heard.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8. Extension of first permission\n(1) If, at the end of experimental period, the applicant seeks extension of time, a request may be made\nto the Competent Authority citing the reasons for seeking the extension along with a performance\nanalysis of the proposal so far.\n(2) The Competent Authority may consider the request of the applicant on merits.\n(3) Under no circumstances will the applicant be granted another extension of time beyond the time as\nspecified.\n(4) The clause relating to revocation of permission as mentioned in Regulation 7 shall apply mutatis\nmutandis for the extension period.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "9",
+      "kind": "numbered",
+      "text": "9. Internal monitoring, review and evaluation of systems and controls\n(1) After grant of permission, the applicant shall ensure:\na) that the integrity of the systems is maintained at all times.\nb) confidentiality of policyholder data is maintained.\nc) adequate internal mechanisms are put in place for reviewing, monitoring and evaluating its\ncontrols, systems, procedures and safeguards.\n(2) Where any deviation is noticed in executing the proposal, the applicant shall notify the same\nimmediately to the Competent Authority.\n(3) The applicant shall be liable for any liability for customer or business risks that may arise during\nthe experimentation/test phase on entering the regulatory sandbox and the Authority shall not be\nresponsible or liable for any such liability.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10. Review of proposal approved by the Competent Authority\n(1) The Competent Authority, through the single point of contact (SPOC), shall review the progress of\nthe proposal at regular intervals.\n(2) The Competent Authority may also guide the applicant in the form of suggestions and in any other\nway as it may deem fit. However, the applicant shall be solely responsible for every action taken in\nrespect of the proposal and shall be liable to discharge all the obligations thereunder including any\nlegal obligations.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "11",
+      "kind": "numbered",
+      "text": "11. Conclusion of the proposal\n(1) On completion of the allocated time period specified, the applicant shall submit a report to the\nCompetent Authority within 30 days on how the proposal met the objectives along with feedback\nfrom the policyholders and such other information or details as specified. The applicant shall also\nsubmit a plan of action as to how the proposal be brought under the extant regulatory framework'.\n(2) On examining the report of the applicant, if the Competent Authority is satisfied that the objectives\nof the proposal have been met, it may accord permission to the applicant to adopt the proposal\nunder the extant regulatory framework wherein in addition to provisions of the Insurance Act,\n1938, the Insurance Regulatory and Development Authority Act, 1999, all Regulations, guidelines,\ncirculars, etc. will be applicable from the date of moving to the extant regulatory framework.\n(3) On examining the report submitted by the applicant, if the Competent Authority is of the view that\nthe objectives of the proposal are not met, the applicant may be directed to discontinue the\nproposal.\n(4) An applicant may also request for early termination of the proposal in case it is felt by him that the\nproposal shall not be able to meet the desired objectives. Such request for early termination has to\nbe submitted at least one month in advance. The Competent Authority shall consider the request on\nmerits and advise the applicant accordingly subject to such conditions as it deems fit.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(5) On completion of the processes under the proposal, it shall be the duty of the applicant to erase all\npersonal data of the participants and give a confirmation to that effect to the Competent Authority.\n(6) The decision of the Competent Authority on whether or not to allow continuation of the proposal\nshall be final.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "12",
+      "kind": "numbered",
+      "text": "12. Inter-Regulatory Sandbox Proposals\nThe process and procedures in dealing with regulatory sandbox applications that cuts across more than one\nfinancial sector shall be as specified by the Competent Authority.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "13",
+      "kind": "numbered",
+      "text": "13. Power to Inspect, Investigate, etc.\nThe Competent Authority shall have the right to call for, inspect or investigate any document, record or\ncommunication from the applicant.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER II\nPROCEDURE FOR SEEKING PERMISSION FOR PROMOTING INNOVATION IN\nINSURANCE IN INDIA"
+      }
+    },
+    {
+      "clause_number": "14",
+      "kind": "numbered",
+      "text": "14. Power of the Competent Authority to grant relaxation from the provisions of any Regulations to\nan applicant in the Regulatory Sandbox –\n(1) The Competent Authority may relax for the applicant the applicability of one or more provisions of\nany Regulation(s) notified by the Authority or any guidelines or circulars issued by the Authority,\nsubject to the conditions mentioned in Regulation 6 and any other conditions as deemed necessary.\nHowever, no relaxation shall be granted in respect of compliance with the Insurance Act, 1938 or\nInsurance Regulatory and Development Authority Act, 1999 or any other applicable statutes.\n(2) Notwithstanding the above, where the Competent Authority is of the opinion that the operations of\nthe applicant are not in the interest of the Indian insurance market or the insurance policyholders,\nthe Competent Authority reserves the right to take all appropriate actions including suspension of\nthe permission granted to the applicant.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER III\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "15",
+      "kind": "numbered",
+      "text": "15. Powers to issue Circular, Guidelines and directions from time to time\nThe Competent Authority may issue circulars, guidelines and directions, if necessary, from time to time,\nrelating to these regulations, including operational issues pertaining to the implementation process of these\nregulations.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER III\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "16",
+      "kind": "numbered",
+      "text": "16. Power to issue clarifications and to remove difficulties, if any\nIn order to remove any doubts or the difficulties that may arise in the application or interpretation of any of\nthe provisions of these regulations, the Competent Authority may issue appropriate clarifications as and\nwhen deemed necessary.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER III\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "17",
+      "kind": "numbered",
+      "text": "17. Repeal and Savings\n(1) Insurance Regulatory and Development Authority of India (Regulatory Sandbox) Regulations,\n2019 shall be repealed from the date these Regulations come into force.\n(2) Unless otherwise provided by these regulations, anything done or any action taken or purported to\nhave been done or taken in respect of the regulations mentioned in sub-regulation (1) above shall\nbe deemed to have been done or taken under the corresponding provisions of these regulations.\nDEBASISH PANDA, Chairperson\n[ADVT.-III/4/Exty./878/2024-25]\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\nand Published by the Controller of Publications, Delhi-110054.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95+%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Regulatory+Sandbox%29+Regulations%2C+2025.pdf/6e398707-c6e5-0eb6-38b3-66b051082b72?version=1.1&t=1737024693663&download=true",
+        "sha256": "b27b7a412e9c85ef5246fe96a9eafaa4218de7d93b9f3323f2c16b85d5096c92",
+        "downloaded_at": "2026-07-06T02:46:03Z",
+        "chapter": "CHAPTER III\nMISCELLANEOUS"
+      }
+    }
+  ]
+}

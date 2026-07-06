@@ -1,0 +1,33 @@
+{
+  "redis_addr": "localhost:6379",
+  "inbox_dir": "../corpus/inbox",
+  "rate_per_minute": 6,
+  "burst": 3,
+  "watch_interval_seconds": 1800,
+  "targets": [
+    {
+      "regulator": "SEBI",
+      "name": "SEBI circulars listing",
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
+      "link_pattern": "sebi\\.gov\\.in/.*(circulars/|\\.pdf)"
+    },
+    {
+      "regulator": "AMFI",
+      "name": "AMFI circulars for distributors",
+      "url": "https://www.amfiindia.com/distributor-corner/circulars",
+      "link_pattern": "(?i)amfiindia\\.com/.*\\.pdf"
+    },
+    {
+      "regulator": "RBI",
+      "name": "RBI notifications",
+      "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+      "link_pattern": "(?i)rbi\\.org\\.in/.*\\.pdf"
+    },
+    {
+      "regulator": "IRDAI",
+      "name": "IRDAI notified regulations",
+      "url": "https://irdai.gov.in/consolidated-gazette-notified-regulations",
+      "link_pattern": "(?i)irdai\\.gov\\.in/.*\\.pdf"
+    }
+  ]
+}

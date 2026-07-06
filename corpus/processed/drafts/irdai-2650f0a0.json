@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+    "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+    "downloaded_at": "2026-07-06T02:48:23Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T02:53:33.833646+00:00",
+  "chunks": [
+    {
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "text": "रजिस्ट्री स.ं डी.एल.- 33004/99 REGD. No. D. L.-33004/99\nसी.जी.-डी.एल.-अ.-23082023-248261\nxxxGIDHxxx\nCG-DL-E-23082023-248261\nxxxGIDExxx\nअसाधारण\nEXTRAORDINARY\nभाग III—खण् ड 4\nPART III—Section 4\nप्राजधकार स ेप्रकाजित\nPUBLISHED BY AUTHORITY\nस.ं 589] िई ददल्ली, बुधिार, अगस्ट्त 23, 2023/भाद्र 1, 1945\nNo. 589] NEW DELHI, WEDNESDAY, AUGUST 23, 2023/BHADRA 1, 1945\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण\nअजधसचू िा\nहदै राबाद, 22 अगस्ट्त, 2023\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (पिु बीमा) (सिं ोधि) जिजियम, 2023\nफा.स.ं भाबीजिजिप्रा/ जिजियम/5/193/2023.—बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999\nकी धाराओं 14 और 26 के साथ पठित बीमा अजधजियम, 1938 की धारा 114ए द्वारा प्रदत्त िजियों का प्रयोग करते हुए,\nप्राजधकरण बीमा सलाहकार सजमजत के साथ परामिश करि े के बाद, इसके द्वारा जिम्नजलजखत जिजियमों का संिोधि करता\nह।ै\nक. भारतीय बीमा जिजियामक और जिकास प्राजधकरण (पुिबीमा) जिजियम, 2018\nख. भारतीय बीमा जिजियामक और जिकास प्राजधकरण (लायड्स को छोड़कर अन्य जिदेिी पुिबीमाकताशओं के िाखा\nकायाशलयों का पंिीकरण और पठरचालि) जिजियम, 2015\nग. भारतीय बीमा जिजियामक और जिकास प्राजधकरण (लायड्स इंजडया)जिजियम,2016\n1. सजं िप्त िाम और प्रारंभः\ni. ये जिजियम भारतीय बीमा जिजियामक और जिकास प्राजधकरण (पिु बीमा) (संिोधि) जिजियम, 2023\nकहलाएँगे।\nii. ये जिजियम सरकारी रािपत्र म ेंइिके प्रकािि की तारीख से प्रिृत्त होंगे।\n5400 GI/2023 (1)",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "2/part1",
+      "kind": "numbered",
+      "text": "2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n2. उद्देश्यः इि संिोधिों का उद्दश्े य भारतीय बीमाकताओंश तथा जिदेिी पुिबीमा िाखाओं (एफआरबी), और\nआईएफएससीए बीमा कायाशलयों (आईआईओ) सजहत भारतीय पुिबीमाकताशओं के जलए लाग ू जिजभन्न जिजियमों के\nउपबंधों को सुसंगत बिािा, अजधक पुिबीमाकताशओं को भारत म ें व्यिसाय स्ट्थाजपत करि े के जलए प्रोत्साजहत\nकरिा एिं व्यिसाय करिे की सगु मता को बढािा ह।ै\nअध्याय-I\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (पिु बीमा) जिजियम, 2018 का सिं ोधि\n3. जिजियम 1 म,ें उप-जिजियम (3) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:\nये जिजियम अजधजियम की धारा 2(9) के अंतगशत यथापठरभाजित बीमाकताशओं तथा अजधजियम की धारा 118(सी) के\nअंतगतश यथापठरभाजित छूट-प्राप्त बीमाकताशओं पर लाग ूहोंगे।\n4. जिजियम 1 म,ें उप-जिजियम (3) के बाद, जिम्नजलजखत उप-जिजियम जिजिष्ट दकया िाएगा, अथातश :्\n“(4) इि जिजियमों की समीिा भारतीय बीमा जिजियामक और जिकास प्राजधकरण (पुिबीमा) (संिोधि)\nजिजियम, 2023 की अजधसूचिा की तारीख स े प्रत्येक तीि िि श म ें एक बार की िाएगी, िब तक दक उि अिजध स े\nपहले इिकी समीिा, जिरसि अथिा संिोधि की आिश्यकता िहीं होती।”\n5. जिजियम 2 म,ें खडं (4) के उप-खडं (क) म,ें िब्द “आईआईओएस को छोड़कर अन्य” को िब्द “एफआरबीएस को\nछोड़कर अन्य” से प्रजतस्ट्थाजपत दकया िाएगा।\n6. जिजियम 2 म,ें खडं (4) के उप-खडं (ख) म,ें िब्द “और अंतरराष्ट्रीय जित्तीय सेिा केन्द्र बीमा कायाशलय\n(आईआईओएस)” छोड़ ददय ेिाएँगे।\n7. जिजियम 2 म,ें खडं (14) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ् :\n“14. `भारतीय बीमाकताश’ स े इि जिजियमों के प्रयोिि के जलए, अजधजियम की धारा 2(9) के अंतगशत\nयथापठरभाजित `बीमाकताश’ अजभप्रेत ह,ै जिसे प्राजधकरण द्वारा पंिीकरण प्रमाणपत्र प्रदाि दकया गया हो तथा\nइसमें छूट-प्राप्त बीमाकताश भी िाजमल होंगे।”\n8. जिजियम 2 म,ें खडं (17) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:-\n“17. अतं रराष्ट्रीय जित्तीय सेिा केन्द्र प्राजधकरण, िो प्रथमािर आईएफएससीए के रूप म ें भी उजल्लजखत ह,ै से\nअंतररा।ष्ट्रीय जित्तीय सेिा केन्द्र प्राजधकरण अजधजियम, 2019 की धारा 4 की उप-धारा (1) के अधीि स्ट्थाजपत\nअंतरराष्ट्रीय जित्तीय सेिा केन्द्र प्राजधकरण अजभप्रेत ह।ै ”\n9. जिजियम 2 म,ें खडं (17) के बाद जिम्नजलजखत खडं जिजिष्ट दकया िाएगा, अथातश ्:\n“17क. `अंतरराष्ट्रीय जित्तीय सिे ा केन्द्र (आईएफएससी) बीमा कायाशलय’ िो इस जिजियम म ें इसके बाद प्रथमािर\n`आईआईओ’ के रूप म ें कहा गया ह,ै का अथ श िही होगा िो इसके जलए आईएफएससीए (बीमा व्यिसाय का\nपंिीकरण) जिजियम, 2021 के अंतगतश जिधाशठरत दकया गया ह।ै ”\n10. जिजियम 2 म,ें खडं (21) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ् :\n“21.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "2/part2",
+      "kind": "numbered",
+      "text": "`िापसी” (रेरोसेिि) से पिु बीमा का िह लेिदेि अजभप्रेत है, जिसके द्वारा धाठरत पिु बीजमत िोजखम का एक\nअंि आगे दकसी अन्य भारतीय बीमाकताश अथिा दकसी आईआईओ अथिा दकसी सीबीआर को अध्यर्पशत दकया\nिाता ह।ै ”\n11. जिजियम 2 म,ें खडं (22) के बाद जिम्नजलजखत को जिजिष्ट दकया िाएगा, अथातश ्:\n23. `देिी प्रिल्ु क िेत्र’ (डोमेजस्ट्टक टैठरफ एठरया) जिसे प्रथमािर `डीटीए’ से भी जिर्दशष्ट दकया िाता ह,ै का अथ श\nिही होगा िो इसके जलए जििेि आर्थशक िेत्र अजधजियम, 2005 की धारा 2 की उप-धारा (i) के अंतगशत जिधाशठरत\nदकया गया ह।ै\n12. जिजियम 2 म,ें ितमश ाि खडं 23 को खडं (24) के रूप म ेंपिु ःसखं यादं कत दकया िाएगा।\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 3\n13. जिजियम 3 म,ें उप-जिजियम (2) के खडं (ग) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:-\n“ग. जिदेिी पिु बीमा िाखाओं (एफआरबी) सजहत प्रत्येक भारतीय पुिबीमाकताश भारत के अदं र िोजखम-अंदकत\nभारतीय पिु बीमा व्यिसाय के 50% का न्यिू तम प्रजतधारण करेगा। िोजखम-अंदकत भारतीय पुिबीमा व्यिसाय\nके 20% तक दकसी आईआईओ को दकसी भी िापसी (रेरोसेिि) की गणिा, 50% के अपेजित न्यूितम प्रजतधारण\nके जलए की िाएगी।”\n14. जिजियम 3 म,ें उप-जिजियम (3) के खडं (क) के उप-खडं (ख) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:\n“ख. प्राजधकरण को जिजिर्दशष्ट सारांि फामेट म ें आगामी जित्तीय ििश के जलए अपिा प्रस्ट्ताजित पिु बीमा कायशक्रम,\nउि जित्तीय ििश के प्रारंभ से कम से कम 45 ददि पहल े प्रस्ट्तुत करेगा।”\n15. जिजियम 3 म,ें उप-जिजियम 3 के खडं (क) के उप-खडं (ग) म ें िब्द और अंक `जित्तीय ििश के प्रारंभ से 30 ददि के\nअंदर’ को िब्द और अंक `जित्तीय ििश के प्रारंभ से 45 ददि के अंदर’ स ेप्रजतस्ट्थाजपत दकया िाएगा।\n16. जिजियम 3 म,ें उप-जिजियम (3) के खडं (क) के उप-खडं (ग) की क्रम स.ं (i) को प्रजतस्ट्थाजपत दकया िाएगा,\nअथातश ्:\n“i. प्रजत बीमा खंड जििल प्रजतधारण म ें सुधारों पर जिजिष्ट रूप से बल देत े हुए, पूिशिती ििश के पुिबीमा कायशक्रम\nसे एिं प्रस्ट्ताजित पिु बीमा कायशक्रम से जिजभन्नता, यदद कोई हो, सजहत जिजियम 3 के उप-जिजियम (3) के खंड\n(क) के उप-खडं (ख) के अतं गतश अपिा बोड शअिुमोददत अंजतम पुिबीमा कायशक्रम।”\n17. जिजियम 3 म,ें उप-जिजियम (3) के खडं (क) के उप-खडं (घ) के बाद, जिम्नजलजखत उप-खडं जिजिष्ट दकया\nिाएगा, अथातश ्:-\n“ङ. जित्तीय ििश के प्रारंभ स े 90 ददि के अंदर प्राजधकरण को यह पुजष्ट करत े हुए बीमाकताश के मुखय कायशकारी\nअजधकारी (सीईओ) से प्राप्त प्रमाणीकरण प्रस्ट्तुत करेगा दक जित्तीय ििश के पुिबीमा कायक्रश म के साथ संबद्ध सभी\nसमझौता करार, समझौता करार के सभी पिकारों से जिजधित् मुद्रांदकत और हस्ट्तािठरत (अथिा जडजिटल तौर\nपर हस्ट्तािठरत) रूप में मलू रूप में प्राप्त दकये गये ह।ैं ”\n18. जिजियम 3 म,ें के उप-जिजियम (3) के खडं (घ) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:\n“घ.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "2/part3",
+      "kind": "numbered",
+      "text": "ऊपर जिजियम 3(3)(ग) के अिुसार जिर्दष्टश अपेिाओं के अजतठरि, प्रत्येक भारतीय पुिबीमाकताश और\nपुिबीमा व्यिसाय का िोजखम-अंकि करिेिाला एफआरबी, बोडश द्वारा अिुमोददत िोजखम-अंकि िीजत फाइल\nकरेगा। उि िोजखम-अंकि िीजत में बाद म ें होिेिाला कोई भी पठरितशि बोड श द्वारा जिजधित् अिुमोददत दकया\nिाएगा और बोड शके अिुमोदि से 15 ददि के अदं र प्राजधकरण के पास फाइल दकया िाएगा।”\n19. जिजियम 3 म,ें उप-जिजियम (3) के खडं (घ) के बाद, जिम्नजलजखत खडं जिजिष्ट दकया िाएगा, अथातश ्:\n“ङ. प्रत्येक भारतीय बीमाकता श अंजतम पिु बीमा कायशक्रम के साथ पुिबीमाकताशओं की सूची की साफ्ट प्रजतयाँ\nउिकी क्रेजडट रेटटंग तथा आिपु ाजतक और गरै -आिपु ाजतक पुिबीमा व्यिस्ट्थाओं में उिके अंिों सजहत प्रस्ट्ततु\nकरेगा।”\n20. जिजियम 3 म,ें उप-जिजियम (5) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:\n“5. अजभलेखों का अिरु िण\nप्रत्येक भारतीय बीमाकताश द्वारा पुिबीमाकताशओं की सूची का अजभलेख उिकी क्रेजडट रेटटंग, आिुपाजतक और गैर-\nआिुपाजतक पुिबीमा व्यिस्ट्थाओं में तथा प्रत्येक पुिबीमा संजिदा में उिके अंिों के साथ सुसंगत ितशमाि जिजियमों\nमें जिजिर्दशष्ट अिजध के जलए रखा िाएगा एिं जिरीिण के जलए प्राजधकरण को उपलब्ध कराया िाएगा।”\n21. जिजियम 4 म,ें उप-जिजियम (2) के अतं गतश जिम्नजलजखत को जिजिष्ट दकया िाएगा, अथातश ्:\n“सदस्ट्यों, सहभाजगयों अथिा प्रबंधकों के रूप में सीबीआरएस से युि दकसी भी अंतरराष्ट्रीय पूल अथिा िोजखम\nसाझदे ारी व्यिस्ट्था के पास पुिबीमा स्ट्थाििों के जलए भी प्राजधकरण का पूिश अिुमोदि अपेजित होगा।”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "4/part1",
+      "kind": "numbered",
+      "text": "4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n22. जिजियम 4 म,ें उप-जिजियम (3) के बाद जिम्नजलजखत उप-जिजियम जिजिष्ट दकया िाएगा, अथातश ् :\n“4. भारत म ें प्रजतधारण को अजधकतम बिािे और दिे ी िमता म ें िृजद्ध करि े के जलए, प्राजधकरण दकसी भी\nसीबीआर के द्वारा िोजखम अंदकत व्यिसाय, दािा अिुभि तथा ददय े गये समथशि की व्यिस्ट्थाओं की समीिा कर\nसकता ह ै तथा उि समीिा के आधार पर प्राजधकरण कजथत लक्ष्य प्राप्त करि े के जलए आिश्यक समझे गय े रूप म ें\nितें जिधाशठरत कर सकता ह।ै ”\n23. जिजियम 5 म,ें उप-जिजियम (1) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश ्:\n“1. अग्रणी पुिबीमा समथशि की अपेिा करिाः\nप्रत्येक अध्यपशक सिोत्तम पुिबीमा ितों की अपेिा करत े समय जिम्नजलजखत उपबंधों का पालि करेगाः\nक. प्रत्येक अध्यपशक सिशप्रथम तत्काल पूिशिती तीि पणू श जित्तीय ििों के दौराि दकसी व्यिधाि के जबिा पुिबीमा\nव्यिसाय करिेिाल े सभी भारतीय पिु बीमाकताशओं तथा कम स े कम 4 अन्य “श्रेणी 2” (जिजियम 5 के उप-\nजिजियम (2)(क) के खंड (ख) के अिुसार) पुिबीमाकताशओं से अग्रणी ितों (अजििायश अध्यपशण से उत्पन्न\nहोिेिाली ितों को छोड़कर अन्य) की अपेिा करेगा।\nख. कोई भी अध्यपशक स्ट्टैंडड श एण्ड पूअसश से प्राप्त `ए-’ अथिा दकसी अन्य प्रमुख अतं रराष्ट्रीय रेटटंग एिेंसी से प्राप्त\nसमकि क्रेजडट रेटटंग स े िीचे की क्रेजडट रेटटंग स े युि सीबीआरएस/ आईआईओएस से अग्रणी ितों की अपेिा\nिहीं करेगा।\nबिते दक न्यूितम क्रेजडट रेटटंग की ऐसी अपेिा िहाँ लागू िहीं होगी यदद कोई आईआईओ दकसी भारतीय\nबीमाकताश की एक सहायक संस्ट्था / िाखा ह।ै\nग. जिकल्पी पुिबीमा संरिण को छोड़कर अन्य प्रयोिि के जलए, कोई भी अध्यपशक दकसी भारतीय बीमाकताश से\nिो एकमात्र पुिबीमा व्यिसाय करि े के जलए प्राजधकरण के पास पंिीकृत िहीं है, अथिा दकसी आईआईओ से\nजिसे पुिबीमा व्यिसाय करिे के जलए आईएफएससीए द्वारा अिुमजत िहीं दी गई है, ितों की अपेिा िहीं\nकरेगा।\nघ. अध्यपशक इि जिजियमों का अिपु ालि करिे के जलए जिम्मेदार और उत्तरदायी होगा, इस बात का जिचार दकये\nजबिा दक ितें प्रत्यि रूप से अथिा दकसी पुिबीमा दलाल के माध्यम से प्राप्त की गई ह।ैं\nस्ट्पष्टीकरण : अध्यपशक ऐसे दकसी पुिबीमाकताश अथिा आईआईओ से ितों की अपिे ा ि करे, िो अन्य भारतीय बीमाकताश\nकी समूह/ सहयोगी कंपिी ह।ै ”\n24. जिजियम 5 म,ें उप-जिजियम (2) के खडं (क) को प्रजतस्ट्थाजपत दकया िाएगा, अथातश :्\n“क.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "4/part2",
+      "kind": "numbered",
+      "text": "प्रत्येक अध्यपशक सिोत्तम ितें (अजििायश अध्यपशण से उत्पन्न होिेिाली ितों को छोड़कर) बतािेिाल े अग्रणी\nपुिबीमाकताशओं के पास न्यूितम आिश्यक स्ट्थािि पूरा करते समय भारतीय बािार के अंदर प्रजतधारण को\nअजधकतम बिाि े के जलए `श्रेणी 1’ और `श्रणे ी 2’ पिु बीमाकताशओं द्वारा अजधकतम सहभाजगता प्राप्त करेगा। प्रत्येक\nअध्यपशक स्ट्थािि की अपेिा करते समय अजधमाि के जिम्नजलजखत क्रम का अिुसरण करेगाः\nक) श्रेणी 1: भारतीय पुिबीमाकताश\nख) श्रेणी 2: आईआईओएस (िो डीटीए में, भारत म ें बीमाकताशओं स े उत्पन्न होिेिाल े प्रजतधाठरत प्रीजमयमों के\n100% का जििेि करत े ह)ैं तथा एफआरबीएस।\nग) श्रेणी 3: अन्य आईआईओएस; घ) श्रेणी 4: अन्य भारतीय बीमाकताश (केिल बीमा खंड म ें प्रजत-िोजखम जिकल्पी स्ट्थाििों के संबंध में जििके\nजलए व्यिसाय करि ेहते ु बीमाकताश का पंिीकरण दकया गया ह)ै एिं सीबीआरएस।\nस्ट्पष्टीकरण 1: जिकल्पी पुिबीमा संरिण को छोड़कर कोई भी अध्यपशक दकसी भी बीमाकताश से िो एकमात्र तौर पर\nपुिबीमा व्यिसाय करि े के जलए प्राजधकरण के पास पंिीकृत िहीं ह ै तथा दकसी भी आईआईओ से जिस े पुिबीमा व्यिसाय\nकरिे के जलए आईएफएससीए द्वारा अिुमजत िहीं दी गई है, सहभाजगता की अपेिा िहीं करेगा। इसके अलािा, ऐसे\nभारतीय बीमाकताश और आईआईओ स ेदकसी पुिबीमा संरिण के संबंध में िेतृत्ि करिे का प्रस्ट्ताि िहीं दकया िाएगा।\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 5\nस्ट्पष्टीकरण 2: अध्यपशक दकसी ऐसे एफआरबी अथिा आईआईओ को सहभाजगता का प्रस्ट्ताि करिे का जिकल्प ि द े जिसि े\nितें बताि ेसे इिकार दकया हो अथिा ितें िहीं बताई हों।\nस्ट्पष्टीकरण 3: अध्यपशक दकसी ऐसे भारतीय पुिबीमाकताश, एफआरबी अथिा आईआईओ को सहभाजगता का प्रस्ट्ताि ि करे,\nिो अन्य भारतीय बीमाकताश की समूह/ सहयोगी कंपिी हो।”\n25. जिजियम 6 म,ें उप-जिजियम (2) के बाद एक परंतकु जिजिष्ट दकया िाएगा, अथातश ्:-\n“बित े दक उपयिुश ािुसार अध्यपशण सीमाएँ उि अध्यपशकों पर लाग ू िहीं होंग े िो एक जित्तीय ििश के दौराि रुपय े\nपचहत्तर करोड़ तक भारत के बाहर कुल पुिबीमा प्रीजमयमों का स्ट्थािि करते ह ैं तथा उि स्ट्थािि बीबीबी+ और\nउससे अजधक रेटटंग से यिु सीबीआरएस के पास ह।ैं ”\n26. जिजियम 12 म,ें उप-जिजियम (2) म ेंखडं (ग) के बाद जिम्नजलजखत खडं जिजिष्ट दकय ेिाएँगे, अथातश ्:\n“घ. सीबीआर की एक्सपोज़र सीमाएँ, सभी अध्यपशकों को एकसाथ लते े हुए; ङ. दिे ी और अंतरराष्ट्रीय बीमा समूहों के जलए ढाँचा;”\n27. जिजियम 12 के बाद, एक िया जिजियम 13 जिजिष्ट दकया िाएगा, अथातश ्:\n13.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "4/part3",
+      "kind": "numbered",
+      "text": "सक्रं मण उपबधं\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (पिु बीमा) (संिोधि) जिजियम, 2023 की अजधसूचिा की तारीख\nसे पहल े बीमाकताशओं के द्वारा जित्तीय ििश 2023-24 के जलए की गई व्यिस्ट्थाओं / समझौतों के अंतगशत सभी पुिबीमा\nस्ट्थािि उिमें जिजहत ितों के अिुसार उि िि श की िेि अिजध के जलए िारी रहगें े। बीमाकताश यह सुजिजित करेंगे दक\nभारतीय बीमा जिजियामक और जिकास प्राजधकरकण (पिु बीमा) (सिं ोधि) जिजियम, 2023 की अजधसूचिा की\nतारीख को अथिा उसके बाद दकये गय ेकोई भी समझौते / व्यिस्ट्थाएँ इि जिजियमों के उपबधं ों का अिपु ालि करें।\nअध्याय-II\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (लायड्स को छोड़कर अन्य जिदेिी पिु बीमाकताशओं के िाखा कायालश यों\nका पिं ीकरण और पठरचालि) जिजियम, 2015 का सिं ोधि\n28. जिजियम 4 के बाद, जिम्नजलजखत स्ट्पष्टीकरण जिजिष्ट दकया िाएगा, अथाशत ्:-\n“स्ट्पष्टीकरणः िोजखम-अंदकत भारतीय पिु बीमा व्यिसाय के 20% तक आईआईओ को दकसी भी िापसी (रेरोसेिि) की\nगणिा 50% के अपेजित न्यूितम प्रजतधारण के जलए की िाएगी।”\n29. जिजियम 5 म,ें उप-जिजियम (छ) को प्रजतस्ट्थाजपत दकया िाएगा, अथाशत ् :\n“(छ) आिेदक िाखा कायाशलय में पचास करोड़ रुपय ेकी न्यिू तम समिुदेजित पूँिी लगाएगा।”\n30. जिजियम 11 म,ें उप-जिजियम (2) के खडं (क) को प्रजतस्ट्थाजपत दकया िाएगा, अथाशत्:\n“(क) पचास करोड़ अथिा उससे अजधक समिुदेजित पूँिी होि े के साक्ष्य का दस्ट्तािेिी प्रमाण”\n31. जिजियम 18 म,ें उप-जिजियम (2) के खडं (क) को प्रजतस्ट्थाजपत दकया िाएगा, अथाशत्:\n“(क) दस लाख रुपये, अथिा”\nअध्याय-III\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (लायड्स इंजडया) जिजियम, 2016 का सिं ोधि\n32. जिजियम 8 के बाद, जिम्नजलजखत स्ट्पष्टीकरण जिजिष्ट दकया िाएगा, अथाशत:्\n“स्ट्पष्टीकरणः िोजखम-अंदकत भारतीय पुिबीमा व्यिसाय के 20% तक दकसी आईआईओ को दकसी भी िापसी\n(रेरोसेिि) की गणिा 50% के अपेजित न्यूितम प्रजतधारण के जलए की िाएगी।”\n33. जिजियम 37 म,ें उप-जिजियम (2) के खंड (क) को प्रजतस्ट्थाजपत दकया िाएगा, अथाशत:्\n“(क) दस लाख रुपये, अथिा”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n34. जिजियम 50 के उप-जिजियम (4) म,ें िब्द “जििेि” को छोड़ ददया िाएगा।\nदेबािीि पण्डा, अध्यि\n[जिज्ञापि III/4/असा./371/2023-24]\nINSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\nNOTIFICATION\nHYDERABAD, the 22nd August, 2023\nInsurance Regulatory and Development Authority of India (Re-insurance) (Amendment) Regulations, 2023\nF. No. IRDAI/ Reg/5/193/2023.—In exercise of the powers conferred by Section 114A of the Insurance Act,\n1938, read with Sections 14 and 26 of the Insurance Regulatory and Development Authority Act, 1999, the Authority,\nin consultation with the Insurance Advisory Committee, hereby makes amendment to the following Regulations.\na. Insurance Regulatory and Development Authority of India (Re-insurance) Regulations, 2018.\nb. Insurance Regulatory and Development Authority of India (Registration and Operations of Branch Offices\nof Foreign Re-insurers other than Lloyd’s) Regulations, 2015.\nc. Insurance Regulatory and Development Authority of India (Lloyd’s India) Regulations, 2016.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "1. Short Title and commencement:\ni. These Regulations may be called the Insurance Regulatory and Development Authority of India (Re-insurance)\n(Amendment) Regulations, 2023.\nii. These Regulations shall come into force from the date of their publication in the official gazette.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Objective: The objective of these amendments is to harmonize the provisions of various regulations applicable to\nIndian Insurers and Indian Re-insurers including Foreign Re-insurance Branches (FRBs) and IFSC Insurance\nOffices (IIOs), encourage more reinsurers to set up business in India and to enhance ease of doing business.\nCHAPTER - I\nAMENDMENT TO THE INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF\nINDIA (RE-INSURANCE) REGULATIONS, 2018",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "3",
+      "kind": "numbered",
+      "text": "3. In Regulation 1, sub-regulation (3), shall be substituted namely:-\nThese Regulations shall be applicable to Insurers as defined under Section2 (9) of the Act, and exempted insurers\nas envisaged under Section118(c) of the Act.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "4",
+      "kind": "numbered",
+      "text": "4. In Regulation 1, after sub-regulation (3), following sub regulation shall be inserted, namely:\n“(4) These Regulations shall be reviewed once every three years from the date of notification of the Insurance\nRegulatory and Development Authority of India (Re-insurance) (Amendment) Regulations, 2023 unless a review,\nrepeal or amendment is warranted earlier.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "5",
+      "kind": "numbered",
+      "text": "5. In Regulation 2, in sub clause (A) of clause (4), the words ‘‘other than IIOs” shall be substituted with words\n“other than FRBs”.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6. In Regulation 2, in sub clause (B) of clause (4), the words “and International Financial Service Centre\nInsurance Offices (IIOs)” shall be omitted.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "7",
+      "kind": "numbered",
+      "text": "7. In Regulation 2, clause (14) shall be substituted, namely:-\n“14. ‘Indian Insurer’, for the purpose of these regulations, means an ‘insurer’ as defined under section\n2(9) of the Act, which has been granted certificate of registration by the Authority, and shall also include\nExempted Insurers.”\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 7",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8. In Regulation 2, clause (17) shall be substituted, namely:-\n“17. International Financial Services Centres Authority, also referred to by the acronym IFSCA, means the\nInternational Financial Services Centres Authority established under sub-section (1) of Section 4 of the\nInternational Financial Services Centres Authority Act, 2019.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "9",
+      "kind": "numbered",
+      "text": "9. In Regulation 2, after clause (17), the following clause shall be inserted, namely:-\n“17A. ‘International Financial Services Centre (IFSC) Insurance Office’, hereinafter called by acronym\n‘IIO’, shall have the same meaning as assigned to it under IFSCA (Registration of Insurance Business)\nRegulations, 2021.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10. In Regulation 2, clause (21) shall be substituted, namely:-\n“21. ‘Retrocession' means a re-insurance transaction whereby a part of assumed reinsured risk is further\nceded to another Indian Insurer or an IIO or a CBR.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "11",
+      "kind": "numbered",
+      "text": "11. In Regulation 2, after clause (22) the following shall be inserted, namely:\n23. ‘Domestic Tariff Area’ also denoted by the acronym ‘DTA’ shall have the same meaning assigned to it under\nsub-section (i) of section 2 of the Special Economic Zones Act, 2005.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "12",
+      "kind": "numbered",
+      "text": "12. In Regulation 2, the existing clause (23) shall be re-numbered as clause (24).",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "13",
+      "kind": "numbered",
+      "text": "13. In Regulation 3, clause (C) of sub-regulation (2) shall be substituted, namely:-\n“C. Every Indian Re-insurer including Foreign Re-insurance Branches (FRBs) shall maintain a minimum\nretention within India of 50% of Indian re-insurance business underwritten. Any retrocession to an IIO up to 20%\nof Indian re-insurance business underwritten shall be reckoned towards the required minimum retention of 50%.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "14",
+      "kind": "numbered",
+      "text": "14. In Regulation 3, sub Clause (b) of clause (A) of sub-regulation (3) shall be substituted, namely:-\n“b. submit to the Authority, its proposed Re-insurance programme, for the forthcoming financial year in the\nspecified summary format, at least 45 days before the commencement of the financial year”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "15",
+      "kind": "numbered",
+      "text": "15. In Regulation 3, in sub clause (c) of clause (A) of sub-regulation 3, for words and figures; ‘within 30 days of\nthe commencement of the financial year’, the words and figures ‘within 45 days of the commencement of the\nfinancial year’ shall be substituted.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "16",
+      "kind": "numbered",
+      "text": "16. In Regulation 3, serial no. (i) of sub clause (c) of clause (A) of sub-regulation (3) shall be substituted,\nnamely:-\n“i. its Board approved Final Re-insurance Programme specifically highlighting improvements in net retention per\ninsurance segment together with the variation, if any, from the Re-insurance Programme of the preceding year as\nwell as from the proposed Re-insurance Programme submitted under sub clause (b) of clause (A) of sub\nRegulation (3) of Regulation 3 .”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "17",
+      "kind": "numbered",
+      "text": "17. In Regulation 3, after sub clause (d) of clause (A) of sub-regulation (3), following sub clause shall be\ninserted, namely:-\n“e. submit to the Authority, within 90 days of the commencement of financial year, a certification from the CEO\nconfirming that all Treaties associated with the Re-insurance Programme for the financial year have been received\nin original, duly stamped and signed (or digitally signed), from all parties to the treaty.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "18",
+      "kind": "numbered",
+      "text": "18. In Regulation 3, clause (D) of sub-regulation (3) shall be substituted, namely:-\n“D. In addition to the requirements as per regulation 3(3)(C) above, every Indian Reinsurer and FRB\nwriting re-insurance business, shall file the Board approved underwriting policy. Any subsequent change,\nin the underwriting policy, shall be duly approved by the Board and filed with the Authority within 15\ndays of Board’s approval.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "19",
+      "kind": "numbered",
+      "text": "19. In Regulation 3, after clause (D) of sub-regulation (3), following clause shall be inserted, namely:-\n“E. Every Indian insurer shall submit soft copies of list of Re-insurers with their credit rating, their shares in\nthe proportional and non-proportional Re-insurance arrangements along with final Re-insurance programme.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "20",
+      "kind": "numbered",
+      "text": "20. In Regulation 3, sub-regulation (5) shall be substituted, namely:-",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n“5. Maintenance of Records\nThe record of list of Re-insurers with their credit rating, their shares in the proportional and non-proportional Re-\ninsurance arrangements, each and every re-insurance contract shall be maintained by every Indian insurer for the\nperiod specified in the relevant extant regulations and shall be made available to the Authority for inspection.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "21",
+      "kind": "numbered",
+      "text": "21. In Regulation 4, under sub-regulation (2), the following shall be inserted, namely:\n“Reinsurance placements with any International Pool or Risk sharing arrangement having CBRs as members,\nparticipants or administrators shall also require prior approval of the Authority.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "22",
+      "kind": "numbered",
+      "text": "22. In Regulation 4, after sub-regulation (3), following sub regulation shall be inserted, namely:-\n“4. To maximize retention in India and to increase domestic capacity, the Authority may undertake review of the\nbusiness underwritten, claims experience and lines of support given by a CBR, and based on the review, the\nAuthority may stipulate such conditions as may be considered necessary to achieve the stated objectives.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "23",
+      "kind": "numbered",
+      "text": "23. In Regulation 5, sub-regulation (1) shall be substituted, namely:-\n“1. Seeking lead re-insurance support:\nEvery Cedant shall abide by the following provisions whilst seeking best re-insurance terms:\nA. Every Cedant shall firstly seek lead terms (other than emanating from obligatory cession) from all\nIndian Re-insurers which have been without interruption transacting re-insurance business during\nimmediate previous complete three financial years and at least 4 other “Category 2” (as per clause",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "(b",
+      "kind": "lettered",
+      "text": "(b) of sub-regulation (2)(A) of Regulation 5) reinsurers.\nB. No Cedant shall seek lead terms from CBRs/IIOs having credit rating below ‘A-‘from Standard &\nPoor’s or an equivalent credit rating from any other International Rating Agency.\nProvided that such requirement of minimum credit rating shall not be applicable if an IIO is a\nsubsidiary/ branch of an Indian insurer.\nC. Except for facultative re-insurance protection, no cedant shall seek terms from any Indian Insurer,\nwhich is not registered with the Authority exclusively to transact re-insurance business or from an\nIIO which is not permitted to undertake re-insurance business by IFSCA.\nD. The cedant shall be responsible and accountable to comply with these regulations, irrespective of\nwhether the terms are obtained directly or through any Re-insurance Broker.\nExplanation : A cedant may not seek terms from a Reinsurer or an IIO which is a group/associate company of\nother Indian Insurer.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "24",
+      "kind": "numbered",
+      "text": "24. In Regulation 5, Clause (A) sub-regulation (2) shall be substituted, namely:-\n“A. Every cedant shall secure maximum participation by ‘Category 1’ and ‘Category 2’ reinsurers in order to\nmaximise retention within Indian market while fulfilling the minimum necessary placement with the lead\nreinsurers quoting the best terms (other than emanating from obligatory cession). Every cedant shall abide by the\nfollowing Order of Preference whilst seeking placement:",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "a",
+      "kind": "lettered",
+      "text": "a) Category 1: Indian Reinsurers\nb) Category 2: IIOs (which invest 100 % of retained premiums, emanating from insurers in India, in the\nDTA) and FRBs.\nc) Category 3: Other IIOs;\nd) Category 4: Other Indian Insurers (only in respect of per-risk facultative placements in the insurance\nsegment for which the Insurer is registered to transact business) and CBRs.\nExplanation 1: Except for facultative re-insurance protection, no cedant shall seek participation from any Indian\nInsurer, which is not registered with the Authority exclusively to transact re-insurance business and an IIO, which\nis not permitted to undertake re-insurance business by IFSCA. Further such Indian Insurer and IIO shall not be\noffered to lead on any reinsurance protection.\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 9\nExplanation 2: A cedant may opt not to offer participation to FRB or an IIO who declined to quote or did not\nquote the terms.\nExplanation 3: A cedant may not offer for participation to an Indian Reinsurer, FRB or an IIO which is a\ngroup/associate company of other Indian Insurer.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "25",
+      "kind": "numbered",
+      "text": "25. In Regulation 6, after sub-regulation (2) a proviso shall be inserted namely:-\n“Provided that the cession limits as above shall not be applicable to cedants which place total reinsurance\npremiums outside India up to rupees seventy-five crore during a financial year and the placements are with CBRs\nhaving a rating of BBB+ and above.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "26",
+      "kind": "numbered",
+      "text": "26. In Regulation 12, after clause C in sub-regulation (2), the following clauses shall be inserted namely:-\n“D. exposure limits of a CBR, with all cedants taken together;\nE. framework for domestic and international Insurance Pools.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "27",
+      "kind": "numbered",
+      "text": "27. After Regulation 12, a new regulation 13 shall be inserted namely:",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "13",
+      "kind": "numbered",
+      "text": "13. Transition Provision\nAll reinsurance placements under any arrangements/ treaties for financial year 2023-24 entered into by insurers\nprior to the date of notification of the Insurance Regulatory and Development Authority of India (Re-insurance)\n(Amendment) Regulations, 2023 shall continue for the remaining period of the year as per the terms therein.\nInsurers shall ensure that any new treaties/ arrangements entered into on or after the date of notification of\nInsurance Regulatory and Development Authority of India (Re-insurance) (Amendment) Regulations, 2023 shall\nbe compliant with provisions of these regulations.\nCHAPTER - II\nAMENDMENT TO THE INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\n(REGISTRATION AND OPERATIONS OF BRANCH OFFICES OF FOREIGN REINSURERS OTHER\nTHAN LLOYD’S) REGULATIONS, 2015.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "28",
+      "kind": "numbered",
+      "text": "28. After Regulation 4, the following explanation shall be inserted, namely:-\n“Explanation: Any retrocession to IIO up to 20% of Indian re-insurance business underwritten shall be reckoned\ntowards the required minimum retention of 50%.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "29",
+      "kind": "numbered",
+      "text": "29. In Regulation 5, sub-regulation (g) shall be substituted, namely:-\n“(g) The applicant shall infuse a minimum assigned capital of Rupees Fifty crore into the branch office”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "30",
+      "kind": "numbered",
+      "text": "30. In Regulation 11, clause (a) of sub-regulation (2) shall be substituted, namely:-\n“(a) Documentary proof of evidence of having Rupees Fifty crore or more assigned capital”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "31",
+      "kind": "numbered",
+      "text": "31. In Regulation 18, clause (a) of sub-regulation (2) shall be substituted, namely:-\n“(a)Ten lakh rupees, or”\nCHAPTER - III\nAMENDMENT TO THE INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\n(LLOYD’S INDIA) REGULATIONS, 2016.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "32",
+      "kind": "numbered",
+      "text": "32. After Regulation 8, the following explanation shall be inserted, namely:\n“Explanation: Any retrocession to an IIO up to 20% of Indian re-insurance business underwritten shall be\nreckoned towards the required minimum retention of 50%.”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "33",
+      "kind": "numbered",
+      "text": "33. In Regulation 37, clause (a) of sub-regulation (2) shall be substituted, namely:-\n“(a)Ten lakh rupees, or”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    },
+    {
+      "clause_number": "34",
+      "kind": "numbered",
+      "text": "34. In sub-regulation (4) of Regulation 50, the word “investment” shall be omitted.\nDEBASISH PANDA, Chairperson\n[ADVT.-III/4/Exty./371/2023-24]\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\nand Published by the Controller of Publications, Delhi-110054.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%28%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A5%8B%E0%A4%A7%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2023+_+IRDAI+Reinsurance+%28Amendment%29+Regulation%2C+2023.pdf/5820828d-4bde-62b0-4904-c02b7ba337bc?version=1.0&t=1692878853341&download=true",
+        "sha256": "2650f0a01643cd35a59f0981393fba31a0ce4c79dce11bb69a93b7e85fed25ab",
+        "downloaded_at": "2026-07-06T02:48:23Z"
+      }
+    }
+  ]
+}

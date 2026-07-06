@@ -38,22 +38,23 @@ class RetrievalStore(Protocol):
 
 
 def _audience_tag(audience: str) -> str:
-    return "audience:mfd" if audience == "mfd" else "audience:ia-ra"
+    return f"audience:{audience}"
+
+
+async def embed_query(query: str) -> np.ndarray:
+    from openai import AsyncOpenAI
+
+    settings = get_settings()
+    client = AsyncOpenAI(api_key=settings.openai_api_key)
+    resp = await client.embeddings.create(
+        model=settings.openai_embedding_model, input=[query]
+    )
+    return np.array(resp.data[0].embedding, dtype=np.float32)
 
 
 class SqliteNumpyStore:
     def __init__(self, db: Session):
         self.db = db
-
-    async def _embed_query(self, query: str) -> np.ndarray:
-        from openai import AsyncOpenAI
-
-        settings = get_settings()
-        client = AsyncOpenAI(api_key=settings.openai_api_key)
-        resp = await client.embeddings.create(
-            model=settings.openai_embedding_model, input=[query]
-        )
-        return np.array(resp.data[0].embedding, dtype=np.float32)
 
     def _audience_clauses(self, audience: str) -> list[Clause]:
         tag = _audience_tag(audience)
@@ -67,7 +68,7 @@ class SqliteNumpyStore:
         scored: dict[str, tuple[Clause, float]] = {}
         embeddable = [c for c in clauses if c.embedding]
         if embeddable:
-            qvec = await self._embed_query(query)
+            qvec = await embed_query(query)
             qvec = qvec / (np.linalg.norm(qvec) or 1.0)
             mat = np.stack([np.frombuffer(c.embedding, dtype=np.float32) for c in embeddable])
             norms = np.linalg.norm(mat, axis=1)
@@ -97,5 +98,10 @@ class SqliteNumpyStore:
         ]
 
 
-def get_store(db: Session) -> SqliteNumpyStore:
+def get_store(db: Session) -> RetrievalStore:
+    settings = get_settings()
+    if settings.retrieval_backend == "qdrant":
+        from app.services.retrieval.qdrant_store import QdrantStore
+
+        return QdrantStore(db)
     return SqliteNumpyStore(db)

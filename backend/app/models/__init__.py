@@ -72,6 +72,27 @@ class Clause(Base):
     doc: Mapped[CorpusDoc] = relationship(back_populates="clauses")
 
 
+class CorpusChangeEvent(Base):
+    """A new/changed regulator document detected by the ingestion fleet.
+
+    The living knowledge base is human-in-the-loop: the consumer produces a
+    draft chunk file, and a reviewer merges vetted clauses into the registry.
+    """
+
+    __tablename__ = "corpus_change_events"
+
+    id: Mapped[str] = mapped_column(String(32), primary_key=True, default=_uuid)
+    regulator: Mapped[str] = mapped_column(String(20), index=True)
+    url: Mapped[str] = mapped_column(String(1000))
+    sha256: Mapped[str] = mapped_column(String(64), unique=True)
+    pdf_path: Mapped[str] = mapped_column(String(500))
+    draft_path: Mapped[str] = mapped_column(String(500), default="")
+    n_chunks: Mapped[int] = mapped_column(default=0)
+    extraction_method: Mapped[str] = mapped_column(String(10), default="")  # native | ocr
+    status: Mapped[str] = mapped_column(String(20), default="pending_review")  # pending_review | merged | ignored
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_now, index=True)
+
+
 class Review(Base):
     __tablename__ = "reviews"
 

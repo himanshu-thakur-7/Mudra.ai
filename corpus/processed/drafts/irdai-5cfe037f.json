@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+    "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+    "downloaded_at": "2026-07-06T02:47:13Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T02:52:59.927889+00:00",
+  "chunks": [
+    {
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "text": "रजिस्ट्री स.ं डी.एल.- 33004/99 REGD. No. D. L.-33004/99\nxxxGIDHxxx\nसी.जी.-टी.एल.-अ.-22032024-253320\nxxxGIDExxx\nCG-TL-E-22032024-253320\nअसाधारण\nEXTRAORDINARY\nभाग III—खण् ड 4\nPART III—Section 4\nप्राजधकार स ेप्रकाजित\nPUBLISHED BY AUTHORITY\nस.ं 193] िई कदल्ली, बृहस्ट्प जतिार, 21 माच,च 2024/चत्रै 1, 1946\nNo. 193] NEW DELHI, THURSDAY, MARCH 21, 2024/CHAITRA 1, 1946\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण\nअजधसचू िा\nहदै राबाद, 20 माचच, 2024\nभारतीय बीमा जिजियामक और जिकास प्राजधकरण (बीमाकताओंच के जलए कंपिी अजभिासि) जिजियम, 2024\nफा. स.ं भा.बी.जि.जि.प्रा./जिजियम/7/201/2024.—बीमा अजधजियम, 1938 (1938 का 4) की धारा 114ए की\nउपधारा (2) के खंड (िडे डी) तथा बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 (1999 का 41) की\nधाराओं 14 और 26 द्वारा प्रदत्त िजियों का प्रयोग करत े हुए, प्राजधकरण, बीमा सलाहकार सजमजत के साथ परामि च करि े\nके बाद, इसके द्वारा जिम्नजलजखत जिजियम बिाता ह,ै अथाचत ्–\nअध्याय - I\nप्रारंजभक\n1. संजिप्त िाम, प्रारंभ और प्रयोज्यता\n(1) य े जिजियम भारतीय बीमा जिजियामक और जिकास प्राजधकरण (बीमाकताचओं के जलए कंपिी अजभिासि)\nजिजियम, 2024 कहलाएँगे।\n(2) य े जिजियम सरकारी रािपत्र म ेंइिके प्रकािि की तारीख स ेप्रिृत्त होंगे।\n(3) अजधसूचिा की तारीख स े प्रत्येक तीि िर्च म ें एक बार इि जिजियमों की समीिा की िाएगी, िब तक कक समीिा\nया जिरसि या संिोधि की आिश्यकता इसके पूिच उत्पन्न ि हो।\n2157 GI/2024 (1)",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(4) य े जिजियम भारत म ें स्ट्थाजपत िाखा के माध्यम स े पुिबीमा व्यिसाय म ें लगी जिदेिी कंपिी को छोड़कर सभी\nबीमाकताचओं पर लागू होंगे।\n2. उद्देश्य\n(1) बीमाकताचओं को उिके अजभिासि की संरचिा के सुदढ़ृ और जििेकपूणच जसद्ांत और प्रथाए ँ अपिािे के जलए\nढाँचा उपलब्ध करािा; तथा\n(2) बीमाकताचओं के बोड च और प्रबधं ि की भूजमकाओं और दाजयत्िों का एक ढाँचा उपलब्ध करािा, पाजलसीधारकों\nसजहत सभी जहतधारकों के जहतों का सरं िण करिा; तथा बीमाकताचओं द्वारा अपिाये िािेिाले प्रबंधकत्ि\nजसद्ांतों के जलए ढाँचा स्ट्थाजपत करिा।\n3. पररभार्ाए ँ\n(1) इि जिजियमों म,ें िब तक संदभच स ेअन्यथा अपेजित ि हो, –\n(क) “अजधजियम” स े बीमा अजधजियम, 1938 (1938 का 4) अजभप्रेत ह।ै\n(ख) “प्राजधकरण” स े बीमा जिजियामक और जिकास प्राजधकरण अजधजियम, 1999 (1999 का 41) की धारा\n3 की उप-धारा (1) के अधीि स्ट्थाजपत भारतीय बीमा जिजियामक और जिकास प्राजधकरण अजभप्रेत ह।ै\n(ग) “बोडच” स ेबीमाकताच का जिदेिक-बोडच अजभप्रेत ह।ै\n(घ) “कंपिी अजधजियम” स े समय-समय पर यथाजिधाचररत कंपिी अजधजियम, 2013 अजभप्रेत ह।ै\n(ङ) “सिम प्राजधकारी”",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(i/part1",
+      "kind": "roman",
+      "text": "(i) अध्यि अजभप्रेत ह ैया\n(ii) से पूणचकाजलक सदस्ट्य अथिा पूणचकाजलक सदस्ट्यों की सजमजत अथिा अध्यि के द्वारा जिधाचररत\nककये िािेिाले प्राजधकरण के ऐसे अजधकारी (ओं)अजभप्रेत ह।ै\n(च) “प्रबधं ि के प्रमखु व्यजि” (केएमपी) स े समय-समय पर यथासंिोजधत भारतीय बीमा जिजियामक और\nजिकास प्राजधकरण (बीमाकताचओं का पंिीकरण, पूँिी जिन्यास, िेयरों का अंतरण और समामेलि)\nजिजियम, 2024 म ें पररभाजर्त रूप म ेंअजभप्रेत ह।ै\n(2) यहाँ इि जिजियमों म ें प्रयुि और अपररभाजर्त, परंत ु कंपिी अजधजियम अथिा अजधजियम अथिा बीमा\nजिजियामक और जिकास प्राजधकरण अजधजियम, 1999 (1999 का 41) अथिा उिके अधीि बिाये गय े जियमों\nया जिजियमों म ें पररभाजर्त सभी िब्दों और अजभव्यजियों का अथ च िही होगा िो क्रमिः उि अजधजियमों या\nजियमों या जिजियमों म ेंउिके जलए जिधाचररत ककया गया ह।ै\nअध्याय – II\nबीमाकताओंच का बोड च\n4.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(i/part2",
+      "kind": "roman",
+      "text": "बोड च\n(1) प्रत्येक बीमाकताच के पास एक बोडच होगा जिसम ें जिदेिकों के रूप म ें सिम और अहतच ा-प्राप्त व्यजि होंग,े िो\nऐसी योग्यताओं और अिुभि स े युि होंग े िो बीमाकता च के माि, व्यिसाय की िरिलता और आकार के अिरूु प\nहों तथा जित्तीय और प्रबंधि की जििेर्ज्ञता के जिजभन्न िेत्रों के होंगे, िैसे िोजखम-अंककत बीमा व्यिसाय की\nव्यिस्ट्थाए,ँ बीमांकि और िोजखमों का अंकि, जित्त, लेखांकि, जियंत्रण काय,च जििेि जिश्लेर्ण और संजिभाग\nप्रबंध, ग्राहक जिकायत प्रबंध, जिजध, बैंककंग, प्रजतभूजतयों, अथिच ास्त्र, आकद।\nसभी बीमाकता च तीि स्ट्ितंत्र जिदेिकों के न्यूितम के अधीि स्ट्ितंत्र जिदेिकों और गरै -कायचकारी जिदेिकों की\nएक इष्टतम संरचिा को सुजिजित करेगा:\nबित े कक जिदेिी जििेि िाल े बीमाकता च भारतीय बीमा कंपजियों (जिदेिी जििेि) जियम, 2015 का भी\nअिुपालि करेंग:े\nपरंत ुआग ेयह भी ित चहोगी कक, मुख्य कायचकारी अजधकारी बोड च का एक पूणचकाजलक सदस्ट्य होगा:\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 3\nपरंत ु यह भी ित च होगी कक सरकारी ित्रे के बीमाकताचओं को छोड़कर अन्य बीमाकताचओं के जलए बोडच का\nअध्यि सिम प्राजधकारी के पूि च अिुमोदि स े जियिु ककया िाएगा।\n(2) बोडच यह सुजिजित करेगा कक यकद स्ट्ितंत्र जिदेिकों की संख्या न्यूितम जिजिर्दष्टच संख्या स े कम हो िाती ह,ै तो\nबीमाकता च तत्परतापूिचक प्राजधकरण को सूजचत करेगा। ऐसी ररजि बोडच द्वारा तत्परतापूिकच , परंत ु तत्काल\nअगली बोडच बैठक स े पहले अथिा ऐसी ररजि की तारीख स े तीि महीिे के अंदर, िो भी बाद म ें हो, प्राजधकरण\nको सूजचत करते हुए भरी िाएगी। इसके अलािा, बीमाकता च के ककसी स्ट्ितंत्र जिदेिक को हिािे/ स्ट्ितंत्र\nजिदेिक द्वारा त्यागपत्र कदय े िािे पर बीमाकता च प्राजधकरण को कारणों के साथ तत्काल, तीस कदि के अंदर\nइसकी सूचिा देगा।\n(3) स्ट्ितंत्र जिदेिक अजधजियम, कंपिी अजधजियम, सेबी अजधजियम तथा उिके अधीि िारी ककय े गय े जियमों,\nजिजियमों, पररपत्रों आकद (िैसा लागू हो) के उपबंधों एि ं सिम प्राजधकारी द्वारा जिजिर्दष्टच की िािेिाली अन्य\nअपेिाओं का अिुपालि करेगा।\n(4) जिदेिक सिम प्राजधकारी द्वारा जिजिर्दष्टच ककय े िािेिाले रूप म,ें एक जिरंतर आधार पर “योग्य और उपयिु ”\nके मािदंडों को हर समय पूरा करेंगे।\n(5) जिदेिकों की अिजध, कायचकाल और जियुजि कंपिी अजधजियम और अजधजियम का अिुपालि करते हुए होगी।\n(6) अजधजियम की धारा 48ए के अधीि की गई व्यिस्ट्था के अिुसार बीमाकताचओं तथा बीमा एिेंिों या मध्यिर्तचयों\nया बीमा मध्यिर्तचयों के बीच सामान्य जिदेिकों की जियुजि के जलए ित ें प्राजधकरण द्वारा जिजिर्दष्टच रूप म ें\nहोंगी।\n(7) बीमाकताच, अन्य बातों के साथ-साथ जिम्नजलजखत को सुजिजित करेंगेः\n(क) प्रबंधि एिं प्रितचकों स े बोडच की स्ट्ितंत्रता; और\n(ख) अिुपालि, िोजखम, लेखा-परीिा, बीमांककक और सजचिीय काय च सजहत जियंत्रण कायों की स्ट्ितंत्रता।\n5.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(i/part3",
+      "kind": "roman",
+      "text": "बोड च की िजिया,ँ भजू मकाएँ और दाजयत्ि\n(1) बोडच बीमाकताच के जलए समग्र कायचिीजत बिािे और उसको जिदेि देि े एिं उसके समग्र प्रबंधि की जिगरािी\nकरि े के जलए उत्तरदायी होगा।\n(2) बोडच सुजिजित करेगा कक िोजखम प्रबंध और आंतररक जियंत्रणों के जलए उपयिु प्रणाजलया ँ और प्रकक्रयाएँ लाग ू\nकी िाएँगी। बोडच यह भी पयिच ेिण करेगा कक य े प्रणाजलयाँ और प्रकक्रयाएँ उकद्दष्ट रूप म ें प्रभािी तौर पर\nपररचालि करें।\n(3) िीजतयाँ बिािा और दाजयत्िों का प्रत्यायोिि –\n(क) बोडच कारपोरेि उद्देश्यों के कायाचन्ियि के जलए एक स्ट्पष्ट और पारदिी िीजत की रूपरेखा जिधाचररत\nकरेगा। बोडच प्रबंधि के द्वारा जिजभन्न िीजतयों और कायचिीजतयों के जिमाचण और अंगीकरण को भी\nसुजिजित करेगा तथा सभी प्रयोज्य जिजधयों और जिजियमों के जलए एक सुदढ़ृ अिुपालि प्रणाली को\nलाग ूकरेगा।\n(ख) बोडच िीजतगत रूपरेखा जिधाचररत करते समय उसके पररचालिों को संचाजलत करि े स े संबद् जिजभन्न\nिोजखमों और उिके संभाजित प्रभाि पर जिचार करेगा तथा सिम प्राजधकारी द्वारा जिजिर्दष्टच रूप में\nजिदेिों और मागचदििच का अिसु रण करेगा।\n(4) अपि े दाजयत्िों के जििचहण म ें बोडच अपिी जिम्मेदाररयों और प्राजधकार का प्रत्यायोिि बोडच की जिजभन्न\nसजमजतयों को कर सकता ह,ै परंत ु ऐसा प्रत्यायोिि बोडच को उसके प्राथजमक दाजयत्िों स े मुि िहीं करता ह।ै\nबोडच सजमजतयों के कायों और चकू ों के जलए भी उत्तरदायी होगा।\n(5) बोडच जिम्नजलजखत सजमजतयाँ गरठत करेगा, िो सिम प्राजधकारी द्वारा जिजिर्दष्टच की िािेिाली भूजमकाओं और\nजिम्मेदाररयों को जिष्पाकदत करेंगीः",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "4/part1",
+      "kind": "numbered",
+      "text": "4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(क) कंपिी अजधजियम द्वारा अजधदिे ात्मक बिाय ेगय ेरुप म ेंसजमजतयाँ\nबोडच, कंपिी अजधजियम के उपबंधों के द्वारा अजधदिे ात्मक बिाये गय े रूप म ें सभी सजमजतयों का गठि करेगा\nजििमें लेखा-परीिा सजमजत, िामांकि और पाररश्रजमक सजमजत तथा कारपोरेि सामाजिक दाजयत्ि सजमजत\nिाजमल ह,ैं परंतु िो केिल इन्हीं तक सीजमत िहीं ह;ैं\nबित े कक कंपिी अजधजियम के अंतगतच जिधाचररत अपेिाओं के अजतररि, लेखा-परीिा सजमजत तथा िामांकि\nऔर पाररश्रजमक सजमजत का अध्यि एक स्ट्ितंत्र जिदेिक होगा।\n(ख) िोजखम प्रबधं सजमजत\nबीमाकताच का बोडच आजस्ट्त-देयता प्रबंध सजहत, सुदढ़ृ िोजखम प्रबंध रणिीजतयों स े युि होि े के जलए िोजखम\nप्रबंध प्रणाली कायाचजन्ित करिे हते ु एक िोजखम प्रबंध सजमजत का गठि करेगा।\n(ग) पाजलसीधारक सरं िण, जिकायत जििारण और दािा जिगरािी सजमजत (पीपीिीआर एण्ड सीएम\nसजमजत)\nबोडच एक पीपीिीआरएण्डसीएम सजमजत का गठि करेगा िो पाजलसीधारकों के जहतों का संरिण करिे, बीमा\nिागरूकता के जिमाणच की कदिा में उपाय सुजिजित करि े और पाजलसीधारकों को सिि बिािे एि ं कुिल\nऔर प्रभािी जिकायत जििारण व्यिस्ट्था तथा दािा जिपिाि प्रकक्रयाओं की जिगरािी करि े के जलए उपयिु\nप्रणाजलयाँ और प्रकक्रयाएँ स्ट्थाजपत करेगी:\nबित ेकक पीपीिीआरएण्डसीएम सजमजत का अध्यि एक स्ट्ितत्रं जिदेिक होगा:\nपरंत ुयह भी ित चहोगी कक पीपीिीआरएण्डसीएम सजमजत का गठि उि कंपजियों के जलए अजधदेिात्मक िहीं\nहोगा जििका एकमात्र उद्देश्य पिु बीमा व्यिसाय करिा ह।ै\n(घ) जिििे सजमजत\nबोडच एक जििेि सजमजत का गठि करेगा, िो बीमाकताच के जििेि पररचालिों के जलए जििेि िीजत और\nपररचालि ढाँचा बिायेगी तथा उिकी जसफाररि करेगी।\n(ङ) लाभयिु (जिद ्प्राकफट्स) सजमजत\nसहभागी (पार्िचजसपेटिंग) िीिि बीमा व्यिसाय करिेिाला प्रत्येक बीमाकताच ‘लाभसजहत व्यिसाय’ के\nउपयुि प्रबंध को सजु िजित करिे के उद्देश्य से एक `लाभयुि (जिद ्प्राक़िि) सजमजत’ गरठत करेगा।\nबित े कक बोडच लागू जिजियामक ढाँच े का अिुपालि करि े के जलए, अथिा उसके द्वारा योग्य समझे गय े रूप म ें\nउसके कायों और दाजयत्िों का जििचहण करिे के जलए ऐसी अन्य सजमजतयाँ (ऊपर (क) स े (ङ) तक म ें\nउजल्लजखत सजमजतयों के अजतररि) भी गरठत करेगा।\n(6) बीमाकता च यह सुजिजित करेंग े कक उपयुचि सजमजतयों का गठि, उिके सदस्ट्यों की जियुजि और बरखास्ट्तगी,\nबैठकों की गणपूर्तच (कोरम) और आिृजत्त, तथा उसकी कायचपद्जत, अजधजियम, कंपिी अजधजियम, सेबी\nअजधजियम एि ं उिके अधीि िारी ककय े गय े जियमों, जिजियमों, पररपत्रों आकद (िैसे लागू हों), तथा सिम\nप्राजधकारी द्वारा जिजिर्दष्टच की िािेिाली अन्य अपिे ाओं का अिुपालि करत े हुए होंगी।\n(7) जहतों का सघं र् च\n(क) बोडच जहतों के संभाजित संघर्ों का समाधाि करि े के जलए पयाचप्त प्रणाजलया,ँ िीजतयाँ और प्रकक्रयाएँ लाग ू\nकरेगा तथा अन्य बातों के साथ-साथ कंपिी अजधजियम के उपबंधों का अिुपालि सुजिजित करेगा।\n(ख) ऐसी जस्ट्थजत म ें िहाँ संबंजधत पिकारों के साथ संजिदा अथिा व्यिस्ट्था करि े का प्रस्ट्ताि ह,ै िहा ँ कंपिी\nअजधजियम के अधीि बिाय े गय े संबंजधत जियमों के साथ परठत कंपिी अजधजियम के उपबंधों के अंतगचत\nअपेजित रूप म ें जिदिे कों के द्वारा प्रकिीकरण और आिश्यक अिुमोदि प्राप्त ककय े िाएँगे।\n(ग) बोडच यह सुजिजित करेगा कक प्रबंधि के प्रमुख व्यजि (केएमपी) बीमाकताच के संबंध म ें एक ही समय म ें\nएक स े अजधक पद धाररत िहीं करेंगे जिससे जहतों के संघर् च या संभाजित संघर्ों के जलए माग च प्रिस्ट्त हो\nसकेगा, िैसे `व्यिसाय और जियंत्रण काय’च अथिा `दो जियंत्रण काय’च।\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 5\n(8) संबजं धत पिकारों के साथ लिे दिे\n(क) माकता च सुजिजित करेंग े कक सबं ंजधत पिकारों के लेिदिे और प्रकिीकरण, कंपिी अजधजियम, सेबी\nअजधजियम तथा उिके अधीि िारी ककय े गय े जियमों, जिजियमों, पररपत्रों आकद के संबंजधत उपबंधों के\nअिुसार तथा सिम प्राजधकारी द्वारा जिजिर्दष्टच की िािेिाली ऐसी अन्य अपेिाओं के अिुसार होंगे।\n(ख) बोडच संबंजधत पिकारों के साथ लेिदिे ों के संबंध म ें एक िीजत, कम स े कम बीमा व्यिसाय के सामान्य\nक्रम म ें लेिदेिों की एक पररभार्ा सजहत, स्ट्ितंत्र (आम्सच लेंग्थ) कीमत-जिधाचरण की पद्जत, लाग ू\nजिजधयों के अंतगचत और/या लखे ा-परीिा सजमजत, बोडच, िेयरधारकों स े अिुमोदि अपेजित मदों की\nसूची तथा संबंजधत पिकारों के साथ लेिदेिों के जलए संगत ककसी अन्य जिर्य के संबंध म ें जिधाचररत\nकरत े हुए बिाएगा।\n(ग) संबंजधत पिकारों के साथ लेिदिे ों संबंधी िीजत की समीिा बोड च द्वारा िार्र्चक तौर पर की िाएगी।\n(9) पिूँ ी जिन्यास\nबीमाकताच की पूँिी को बढ़ािे के जलए जिकल्पों की योििा बिािे या उिकी िाँच करिे के समय बोडच पूँिी जिन्यास\nसंबंधी सांजिजधक अपेिाओं का जिरंतर अिुपालि सुजिजित करेगा।\n(10) स्ट्ितत्रं जिदेिकों सजहत बोड च का मल्ू याकं ि\nस्ट्ितंत्र जिदेिकों सजहत जिदेिकों का मूल्यांकि कंपिी अजधजियम के उपबंधों के अिुसार संचाजलत ककया िाएगा।\n(11) अिक्रु मण (सक्सिे ि) की आयोििा\nबोडच की आंतररक अजभिासि प्रथाओं के भाग के रूप म,ें बोड च जिदेिकत्ि और बीमाकताच के केएमपी पदों को ग्रहण\nकरि े के जलए उपयुि पहचाि और व्यजियों को प्रजिजित करि े के जलए एक प्रकक्रया के माध्यम स े अिुक्रमण की\nआयोििा हते ु उपयुि कदम उठािे और उपाय करिे पर जिचार करेगा। बीमाकताच इस संबंध म ें एक योििा को\nअपिाएगा और बोडच ऐसी अिक्रु मण योििा की समीिा िार्र्चक आधार पर करेगा।\n(12) समहू और सगं िु\n(क) बीमाकताच, िो ककसी कारपोरेि समूह का भाग ह,ैं समूह-स्ट्तर के जलए स्ट्थाजपत और समूचे समूह म ें\nएकसमाि रूप स े कायाचजन्ित की गई अजभिासि िीजतयों और प्रथाओं के संबंध म ें जिजियामक अपेिाओं\nके अधीि हो सकते ह।ैं\n(ख) उपयुचि के अजतररि, ये प्रथाए ँ बीमाकताच के स्ट्तर पर उसके जिजिष्ट व्यिसाय और िोजखम प्रोफाइल तथा\nित्रे (सेक्िर) की जिजियामक अपेिाओं को ध्याि म ेंरखत े हुए पुिरजभमुखीकृत की िा सकती ह।ैं\n(ग) इि जिजियम के प्रयोििों के जलए, िब्द “समूह” का अथ चिही होगा िैसा कक ऐसे िब्द के जलए अजधजियम\nकी धारा 6ए म ेंजिधाचररत ककया गया ह।ै\nअध्याय – III\nप्रबधं ि के प्रमखु व्यजि\n6.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "4/part2",
+      "kind": "numbered",
+      "text": "प्रबधं ि के प्रमखु व्यजियों (केएमपी) की जियजु ि\n(1) प्रत्येक बीमाकताच प्रबंध जिदेिक / मुख्य कायचकारी अजधकारी या पूणचकाजलक जिदेिक(जिदेिकों) की जियुजि, चाह े\nजिस िाम स े भी िािा िाए, अजधजियम की धारा 34ए के उपबंधों के अिुसार करेगा। बोड च यह सुजिजित करि े के\nजलए प्रभािी समुजचत सािधािी बरतगे ा कक आिश्यक अिुमोदिों के जलए पदधारी के िाम की जसफाररि करिे स े\nपहल े िह `योग्य और उपयुि’ (कफि एण्ड प्रोपर) ह।ै\n(2) प्रबंधि के प्रमुख व्यजियों (केएमपी) की जियुजि िामांकि और पाररश्रजमक सजमजत की जसफाररि पर बोडच द्वारा की\nिाएगी। इसके अजतररि, जियुि बीमांकक की जियुजि भारतीय बीमा जिजियामक और जिकास प्राजधकरण\n(बीमाकताचओं के बीमांककक, जित्त और जििेि काय)च जिजियम, 2024 के अिुसार होगी।",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "6/part1",
+      "kind": "numbered",
+      "text": "6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(3) मुख्य अिुपालि अजधकारी (सीसीओ) न्यूितम 3 िर्च स े अन्यूि जियत कायचकाल के जलए जियुि ककया िाएगा।\nअिुपालि काय च के कतचव्यों और दाजयत्िों म ेंकम स े कम जिम्नजलजखत िाजमल होंगेः\n(क) लाग ू अजधजियमों, जियमों, जिजियमों, कदिाजिदेिों और पररपत्रों स े बोडच और िररष्ठ प्रबंधि को अिगत\nकरािा।\n(ख) लाग ू अजधजियमों, उिके अधीि बिाय े गय े जियमों और जिजियमों के उपबंधों, और अन्य जिजियामक\nितों / जिदेिों का अिुपालि सुजिजित करिा।\n(ग) जिजियामक अिुपालि का अजभकल्पि करिा।\n(4) िाजििृजत्त, त्यागपत्र के कारण अथिा अन्य प्रकार स े ररि स्ट्थाि उत्पन्न होिे की जस्ट्थजत म ें ऐसी घििा और उसके\nजलए कारणों से प्राजधकरण को अिगत कराया िाएगा। इसके अलािा, बीमाकताच यह सुजिजित करिे के जलए कक\nऐसा ररि स्ट्थाि जिरंतर एक सौ अस्ट्सी(180) कदि स े अजधक अिजध के जलए खाली ि रह,े ऐसे ररि केएमपी पदों\nको भरि े के जलए प्राथजमकता के आधार पर कारचिाई प्रारंभ करेंगे।\n(5) बीमाकताच अपि े प्रबंधि के प्रमखु व्यजियों (केएमपी) के जििरण का सग्रं हण और अिरु िण ऐसे तरीके स े और ऐस े\nफामेि में करेंगे िो सिम प्राजधकारी द्वारा जिजिर्दष्टच ककये िाएँगे। बीमाकताच केएमपी पद धाररत करिेिाल े ककसी\nिैयजिक व्यजि की जियुजि की या पररितचि की सूचिा तत्परतापूिचक प्राजधकरण को देंगे।\n7. जिदेिकों और प्रबधं ि के प्रमखु व्यजियों (केएमपी) को पाररश्रजमक\n(1) बीमाकताच अपिे कारपोरेि अजभिासि ढाँचे के भाग के रूप में सुदढ़ृ पाररश्रजमक िीजत और प्रथाओं को सुजिजित\nकरेंगे। बीमाकताच बोड च के अध्यि, गैर-कायचकारी जिदेिकों और प्रबंधि के प्रमुख व्यजियों के जलए सिम प्राजधकारी\nद्वारा जिजिर्दष्टच ढाँचे के अिुसार बोडच द्वारा अिुमोकदत एक पाररश्रजमक िीजत भी बिाएँग ेऔर उसे अपिाएगँ े।\n(2) बोडच पाररश्रजमक िीजत के प्रभािी कायाचन्ियि की जिगरािी करेगा िो अत्यजधक या अिुपयुि िोजखम-ग्रहण के\nजलए प्रेररत िहीं करे, कारपोरेि संस्ट्कृजत, उद्देश्यों, कायचिीजतयों, पहचािी गई िोजखम-िहि िमता और बीमाकता च\nके दीघचकाजलक जहत के अिरूु प हो, तथा िो अपि े पाजलसीधारकों और अन्य जहतधारकों के जहतों का उजचत\nसम्माि देता हो।\n(3) बोडच यह सुजिजित करेगा और प्रलेखीकरण करेगा कक पाररश्रजमक िीजत की संरचिा, कायाचन्ियि और समीिा\nकरि े म ें जिणचयि प्रकक्रया जहतों के संघर्च की पहचाि करती ह ै और उसका प्रबंध करती ह।ै बोडच के सदस्ट्य\nपाररश्रजमक संबंधी जिणचयों के संबंध म ें जहतों के िास्ट्तजिक अथिा अिुभूत संघर्ों की जस्ट्थजत म ें िहीं रखे िाएँगे।\nअध्याय – IV\nसाजं िजधक लखे ा-परीिकों की जियजु ि\n8.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "6/part2",
+      "kind": "numbered",
+      "text": "साजं िजधक लखे ा-परीिक\n(1) बीमाकताच संयुि सांजिजधक लेखा-परीिकों के रूप म ें कम स े कम दो लेखा-परीिकों की जियुजि करेंगे तथा यह\nसुजिजित करेंगे कक उिकी जियुजि म ेंजहतों का कोई संघर्च ि हो।\n(2) बोडच लेखा-परीिा सजमजत की जसफाररि पर ऐसे सांजिजधक लेखा-परीिकों की जियुजि बीमाकता च की आम बैठक\nम ें िेयरधारकों के अिुमोदि के अधीि करेगा।\n(3) बीमाकताचओं द्वारा सांजिजधक लेखा-परीिकों की जियुजि के जलए पात्रता मािदंडों, न्यूितम अहतच ाओं, अिुभि\nऔर अन्य अपेिाओं को सिम प्राजधकारी जिजिर्दष्टच कर सकता ह।ै\nअध्याय – V\nप्रबधं कत्ि (स्ट्यअु डचजिप)\n9. प्रबधं कत्ि (स्ट्यअु डचजिप)\n(1) बीमाकताच बोडच द्वारा अिुमोकदत एक प्रबंधकत्ि िीजत बिायगे ा िो प्रबंधकत्ि के उि दाजयत्िों की पहचाि करेगी\nऔर उन्ह ें पररभाजर्त करेगी जिन्ह ें बीमाकताच पूरा करिा चाहता ह ै तथा उसके पाजलसीधारकों के लाभ म ें िृजद्\nकरिे के जलए उि िीजत उि दाजयत्िों को कैसे पूरा करि े का उद्देश्य रखती ह।ै\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 7\n(2) सिम प्राजधकारी के द्वारा जिजिर्दष्टच की िािेिाली अजतररि ितों के अधीि, यह िीजत कम से कम यह व्यिस्ट्था\nकरेगी कक बीमाकताच जििेजिती कंपजियों की आम बैठकों में सकक्रय भूजमका अदा करेंगे तथा अपि े अजभिासि म ें\nसुधार लािे के जलए एक उच्चतर स्ट्तर पर प्रबंधिों के साथ लग ेरहगें े।\nअध्याय – VI\nअजभिासि की अन्य अपिे ाए ँ\n10. प्रकिीकरण और ररपोर्ििंग की अपिे ाए ँ\n(1) इि जिजियमों का अिुपालि सुजिजित करिे और उसे िारी रखि े की जिगरािी करि े के जलए मुख्य अिुपालि\nअजधकारी (सीसीओ) उत्तरदायी होगा। िब तक प्राजधकरण द्वारा संबंजधत जिजियमों म ें अन्यथा जिजिर्दष्टच िहीं\nककया िाता, सीसीओ प्राजधकरण को जििरजणयाँ, ररपोिें और आिेदि प्रस्ट्ततु करि े के जलए पदिाजमत अिुपालि\nअजधकारी होगा।\n(2) इि जिजियमों के अिुपालि की जस्ट्थजत के संबंध म ें एक ररपोिच िार्र्चक आधार पर सिम प्राजधकारी के द्वारा\nजिधाचररत ककय े िािेिाले समय के अदं र और जिधाचररत ककय े िािेिाले फामेि म ें फाइल की िाएगी। इसके\nअजतररि, सिम प्राजधकारी द्वारा जिधाचररत ककय े िािेिाल े फामेि म ें सीसीओ स े एक अलग प्रमाणीकरण प्रस्ट्ततु\nककया िाएगा।\n(3) सभी बीमाकताच अपि े बोडच की संरचिा, बोडच और उसकी सजमजतयों की बैठकों, जिदेिकों और सजमजतयों के\nसदस्ट्यों द्वारा बैठकों म ें उपजस्ट्थजत के जििरण, स्ट्ितंत्र जिदेिकों सजहत सभी जिदेिकों को भुगताि ककये गय े\nपाररश्रजमक, यकद कोई हो, आकद के जििरण के बारे म ें आिश्यक प्रकिीकरण सिम प्राजधकारी द्वारा जिजिर्दष्टच\nककय े िािेिाले तरीके से और जिजिर्दष्टच फामेि में करेंगे।\n11.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "6/part3",
+      "kind": "numbered",
+      "text": "पररििे गत, सामाजिक और अजभिासि (ईएसिी)\n(1) प्रत्येक बीमाकताच के पास एक बोडच-अिुमोकदत पररिेिगत, सामाजिक और अजभिासि (ईएसिी) ढाँचा\nजिद्यमाि होगा। ईएसिी के अतं गचत बीमाकता च की कायचकलापों की जिगरािी बोडच द्वारा की िाएगी। ईएसिी\nढाँच े की समीिा बोडच द्वारा िार्र्चक आधार पर की िाएगी।\n(2) बोडच िलिाय ु िोजखम प्रबंध को सुसाध्य बिािे के जलए, उिके पररचालिों के आकार, स्ट्िरूप और िरिलता को\nध्याि म ेंरखत े हुए एक व्यापक िलिाय ु िोजखम प्रबंध का ढाँचा स्ट्थाजपत करेगा।\nअध्याय – VII\nजिजिध\n12. समय-समय पर पररपत्र, कदिाजिदेि और जिदेि िारी करि ेके जलए िजियाँ:\nसिम प्राजधकारी यकद आिश्यक हो तो इि जिजियमों के संबंध म ें पररपत्र, कदिाजिदेि और जिदेि िारी कर सकता ह ै\nजििमें इि जिजियमों की कायाचन्ियि प्रकक्रया के संबंध में अस्ट्थायी उपबंध िाजमल ह,ैं परंतु िो केिल इन्हीं तक सीजमत\nिहीं ह।ैं\n13. स्ट्पष्टीकरण िारी करि ेऔर करठिाइया,ँ यकद कोई हों, दरू करि ेके जलए िजिः\nइि जिजियमों म ें स े ककसी भी जिजियम के कायाचन्ियि म ें या उसके अथच-जिणचय म ें उत्पन्न होिेिाली ककसी भी िंका या\nकरठिाई को दरू करिे के जलए सिम प्राजधकारी िब भी आिश्यक समझा िाता ह ै तब उपयुि स्ट्पष्टीकरण िारी कर\nसकता ह।ै\nदेबािीर् पण्डा, अध्यि\n[जिज्ञापि-III/4/असा./849/2023-24]",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\nINSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA\nNOTIFICATION\nHyderabad, the 20th March, 2024\nInsurance Regulatory and Development Authority of India (Corporate Governance for Insurers) Regulations,\n2024\nF. No. IRDAI/Reg/7/201/2024.—In exercise of the powers conferred by clause (zd) of Sub-section (2) of\nSection 114A of the Insurance Act, 1938 (4 of 1938), and sections 14 and 26 of the Insurance Regulatory and\nDevelopment Authority Act, 1999 (41 of 1999), the Authority, in consultation with the Insurance Advisory\nCommittee, hereby makes the following regulations, namely: -\nCHAPTER – I\nPRELIMINARY",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "1",
+      "kind": "numbered",
+      "text": "1. Short title, Commencement & Applicability\n(1) These Regulations may be called the Insurance Regulatory and Development Authority of India\n(Corporate Governance for Insurers) Regulations, 2024.\n(2) These Regulations shall come into force from the date of their publication in the official gazette.\n(3) These Regulations shall be reviewed once in every three years from the date of notification, unless the\nreview or repeal or amendment is warranted earlier.\n(4) These Regulations shall be applicable to all insurers except foreign company engaged in re-insurance\nbusiness through a branch established in India.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. Objectives\n(1) To provide the framework for insurers to adopt sound and prudent principles and practices of their\ngovernance structure; and\n(2) To provide a framework of roles and responsibilities of the Board and the management of insurers, to\nprotect the interests of all stakeholders including policyholders; and to establish the framework for\nstewardship principles to be adopted by insurers.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "3",
+      "kind": "numbered",
+      "text": "3. Definitions\n(1) In these Regulations, unless the context otherwise requires, –\n(a) “Act” means the Insurance Act, 1938 (4 of 1938).\n(b) “Authority” means the Insurance Regulatory and Development Authority of India established under\nsub-section (1) of Section 3 of the Insurance Regulatory and Development Authority Act, 1999\n(41 of 1999).\n(c) “Board” means the Board of Directors of the insurer.\n(d) “Companies Act” means the Companies Act, 2013, as amended from time to time.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(e",
+      "kind": "lettered",
+      "text": "(e) \"Competent Authority\"\n(i) means Chairperson or\n(ii) such whole-time member or committee of the whole-time members or such officer(s) of the\nAuthority, as may be determined by the Chairperson.\n(f) “Key Management Persons” (KMPs) means as defined in the Insurance Regulatory and\nDevelopment Authority of India (Registration, Capital Structure, Transfer of Shares and\nAmalgamation of Insurers) Regulations, 2024 as amended from time to time.\n(2) All words and expressions used herein and not defined in these Regulations but defined in the\nCompanies Act or the Act, or in the Insurance Regulatory and Development Authority Act, 1999 (41 of\n1999) or Rules or Regulations made thereunder shall have the same meaning respectively assigned to\nthem in those Acts or Rules or Regulations.\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 9\nCHAPTER – II\nBOARD OF INSURERS",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "4",
+      "kind": "numbered",
+      "text": "4. Board\n(1) Every insurer shall have a Board comprising of competent and qualified individuals as directors, with\nqualifications and experience that are commensurate with scale, nature, complexity of business and size of\nthe insurer, from various areas of financial and management expertise such as the lines of insurance\nbusiness underwritten, actuarial and underwriting risks, finance, accounting, control functions, investment\nanalysis and portfolio management, customer grievance management, law, banking, securities, economics,\netc.,\nAll insurers shall ensure an optimum composition of Independent Directors and non-executive directors,\nsubject to a minimum of three Independent Directors:\nProvided that insurers having foreign investment shall also comply with the Indian Insurance\nCompanies (Foreign Investment) Rules, 2015:\nProvided further that, the Chief Executive Officer shall be a Whole-time Director of the Board:\nProvided further that the Chairperson of the Board shall be appointed with the prior approval of the\nCompetent Authority except for public sector insurers.\n(2) The Board shall ensure that in case the number of Independent Directors falls below the minimum specified\nnumber, the insurer shall promptly intimate the Authority. Such vacancy shall be filled up by the Board at\nthe earliest but not later than immediate next Board meeting or three months from the date of such\nvacancy, whichever is later, under intimation to the Authority. Further, upon removal/ resignation of an\nIndependent Director of the insurer, the insurer shall forthwith intimate the same, along with reasons,\nwithin thirty days to the Authority.\n(3) An Independent Director shall comply with the provisions of the Act, Companies Act, SEBI Act and rules,\nregulations, circulars etc. issued thereunder (as applicable) and such other requirements as may be\nspecified by the Competent Authority.\n(4) The directors shall fulfil the “fit and proper” criteria, at all times, on a continuous basis, as may be specified\nby the Competent Authority.\n(5) The term, tenure and appointment of the directors shall be in compliance with the Companies Act and the\nAct.\n(6) The conditions for appointment of common directors between insurers and insurance agents or intermediaries\nor insurance intermediaries as provided under section 48A of the Act, shall be as specified by the\nAuthority.\n(7) The insurers shall, inter-alia, ensure the following:",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) independence of the Board from the management as well as the promoters; and\n(b) independence of control functions including compliance, risk, audit, actuarial and secretarial\nfunction.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "5",
+      "kind": "numbered",
+      "text": "5. Powers, Roles and Responsibilities of the Board\n(1) The Board shall be responsible for formulating the overall strategy and direction to the insurer, as well as\noverseeing its overall management.\n(2) The Board shall ensure appropriate systems and procedures for risk management and internal controls\nare in place. The Board shall also oversee that these systems and procedures are operating effectively as\nintended.\n(3) Framing of policies and delegation of responsibilities –",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) The Board shall set a clear and transparent policy framework for translation of the corporate\nobjectives. The Board shall also ensure the formulation and adoption of various policies and\nstrategies by the management and put in place a robust compliance system for all applicable laws\nand regulations.\n(b) The Board, while laying down the policy framework shall consider various risks involved in\ncarrying out its operations and their potential impact and shall follow the directions and\nguidance, as specified by the Competent Authority.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]\n(4) In discharge of its responsibilities, the Board may delegate its responsibilities and authority to various\nCommittees of the Board, but such delegation does not absolve the Board from its primary\nresponsibilities. The Board shall also be responsible for the acts and omissions of the Committees.\n(5) The Board shall constitute the following committees, who shall perform such roles and responsibilities\nas may be specified by the Competent Authority:",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) Committees as mandated by the Companies Act\nThe Board shall constitute all committees, as mandated by the provisions of the Companies Act\nincluding but not limited to Audit Committee, Nomination and Remuneration Committee and\nCorporate Social Responsibility Committee:\nProvided that in addition to the requirements set out under the Companies Act, the Chairperson\nof the Audit Committee and Nomination and Remuneration Committee shall be an Independent\nDirector.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(b",
+      "kind": "lettered",
+      "text": "(b) Risk Management Committee\nThe Board of the insurer shall constitute a Risk Management Committee to implement the Risk\nManagement System in order to have strong risk management strategies including Asset-\nLiability Management.\n(c) Policyholder Protection, Grievance Redressal and Claims Monitoring Committee\n(PPGR&CM Committee)\nThe Board shall constitute a PPGR&CM Committee which shall establish suitable systems and\nprocesses towards protection of the interests of policyholders, ensure measures towards creation\nof insurance awareness and empowering policyholders, and efficient and effective grievance\nredressal mechanism and monitoring of claims settlement processes:\nProvided that the chairperson of PPGR&CM Committee shall be an Independent Director:\nProvided further that the constitution of PPGR&CM Committee shall not be mandatory in case\nof companies whose sole purpose is to carry on re-insurance business.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(d",
+      "kind": "lettered",
+      "text": "(d) Investment Committee\nThe Board shall constitute an Investment Committee, which shall formulate and recommend\ninvestment policy and the operational framework for the investment operations of the insurer.\n(e) With Profits Committee\nEvery insurer transacting participating life insurance business shall constitute a ‘With Profits\nCommittee’ with the objective of ensuring appropriate management of ‘with profit business’.\nProvided that the Board may also constitute such other Committees (in addition to the committees\nmentioned in (a) to (e) above) to discharge its functions and responsibilities to comply with applicable\nregulatory framework, or as it deems fit.\n(6) The insurers shall ensure that constitution of the above committees, appointment and removal of its\nmembers, quorum and frequency of meetings, and its functioning shall be in compliance with the\nprovisions of the Act, Companies Act, SEBI Act and rules, regulations, circulars, etc. issued thereunder\n(as applicable) and such other requirements as may be specified by the Competent Authority.\n(7) Conflict of Interest",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) The Board shall put in place adequate systems, policies and procedures to address potential\nconflicts of interest and inter alia ensure compliance with the provisions of the Companies Act.\n(b) In an event where it is proposed to enter into a contract or arrangement with related parties, the\ndisclosures by Directors and necessary approvals, as required under the provisions of the\nCompanies Act, read with the relevant rules thereunder, shall be obtained.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(c",
+      "kind": "lettered",
+      "text": "(c) The Board shall ensure that Key Management Persons shall not simultaneously hold more than\none position in the insurer that could lead to conflict or potential conflicts of interest such as\n‘business and control function’ or ‘two control functions’.\n(8) Related Party Transactions\n(a) The insurers shall ensure that the related party transactions and disclosures are in accordance\nwith the relevant provisions of Companies Act, SEBI Act and rules, regulations, circulars, etc.\nissued thereunder (as applicable) and such other requirements as may be specified by the\nCompetent Authority.\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 11",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(b",
+      "kind": "lettered",
+      "text": "(b) The Board shall formulate a policy on Related Party Transactions laying down, at a minimum,\nincluding the definition of transactions in the ordinary course of insurance business, method of\ndetermination of arm’s length pricing, list of items requiring approvals under applicable laws\nand/or from Audit Committee, Board, Shareholders and any other matter relevant to the Related\nParty Transactions.\n(c) The policy on Related Party Transactions shall be reviewed annually by the Board.\n(9) Capital Structure\nThe Board shall ensure continuous compliance with the statutory requirements on capital structure while\nplanning or examining options for capital augmentation of the insurer.\n(10) Evaluation of the Board including Independent Directors\nThe evaluation of directors including the Independent Directors shall be conducted in accordance with\nthe provisions of the Companies Act.\n(11) Succession Planning\nAs part of the Board’s internal governance practices, the Board shall consider and adopt appropriate\nsteps and measures towards succession planning through a process of proper identification and nurturing\nof individuals for taking up directorship and KMP positions of the insurer. The insurer shall adopt a\nplan in this regard and the Board shall review such succession plan on an annual basis.\n(12) Groups and Conglomerates",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) Insurers that are a part of a corporate group may be subject to the regulatory requirements\nregarding governance policies and practices established for the group-level and implemented\nuniformly across the group.\n(b) In addition to the above, these practices may be reoriented at the level of the insurer taking\ninto account its specific business and risk profile and sectoral regulatory requirements.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(c",
+      "kind": "lettered",
+      "text": "(c) For the purposes of these Regulation, the term “group” shall have the same meaning as\nascribed to such term in Section 6A of the Act.\nCHAPTER – III\nKEY MANAGEMENT PERSONS",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "6",
+      "kind": "numbered",
+      "text": "6. Appointment of Key Management Persons\n(1) Every insurer shall appoint Managing Director/ Chief Executive Officer or Whole-time Director(s), by\nwhatever name called in accordance with the provisions of Section 34A of the Act. The Board shall\ncarry out effective due diligence to ensure that the incumbent is ‘fit and proper’ before recommending\nhis/ her name for necessary approvals.\n(2) The KMPs shall be appointed by the Board on recommendation of the Nomination and Remuneration\nCommittee. Further, the appointment of Appointed Actuary shall be in accordance with the Insurance\nRegulatory and Development Authority of India (Actuarial, Finance and Investment Functions of\nInsurers) Regulations, 2024.\n(3) Chief Compliance Officer (CCO) shall be appointed for a minimum fixed tenure of not less than 3 years.\nThe duties and responsibilities of the compliance function shall include at least the following:",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "(a",
+      "kind": "lettered",
+      "text": "(a) Apprising the Board and senior management on applicable Acts, Rules, Regulations,\nGuidelines and Circulars.\n(b) Ensuring compliance with the provisions of applicable Acts, Rules and Regulations made\nthereunder, and other Regulatory stipulations/directions.\n(c) Designing compliance framework.\n(4) In the event of vacancy due to retirement, resignation or otherwise, the Authority shall be kept informed\nof such event and the reasons therefor. Further, insurers shall initiate action for filling up of such vacant\nKMP positions on a priority basis, to ensure that it shall not remain vacant for a continuous period of\nmore than one hundred and eighty days.\n(5) The insurers shall collect and maintain details of their KMPs in such manner and format as may be\nspecified by the Competent Authority. The insurers shall promptly inform the Authority of any\nappointment or change in the individual person holding the KMP position.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "12",
+      "kind": "numbered",
+      "text": "12 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4]",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "7",
+      "kind": "numbered",
+      "text": "7. Remuneration to Directors and Key Management Persons (KMPs)\n(1) The insurers shall ensure sound remuneration policy and practices, as part of their Corporate Governance\nframework. Insurers shall also formulate and adopt a comprehensive Board approved remuneration\npolicy in accordance with the framework specified by the Competent Authority for Chairperson of the\nBoard, Non-Executive Directors and Key Management Persons.\n(2) The Board shall oversee the effective implementation of remuneration policy which does not induce\nexcessive or inappropriate risk taking, is in line with corporate culture, objectives, strategies, identified\nrisk appetite and long term interest of the insurer and which gives due regard to the interests of its\npolicyholders and other stakeholders.\n(3) The Board shall ensure and document that in structuring, implementing and reviewing the remuneration\npolicy, the decision making process identifies and manages conflicts of interests. Members of the Board\nshall not be placed in a position of actual or perceived conflict of interests with respect of remuneration\ndecisions.\nCHAPTER – IV\nAPPOINTMENT OF STATUTORY AUDITORS",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8. Statutory Auditors\n(1) The insurers shall appoint a minimum of two auditors as joint statutory auditors and shall ensure that\nthere is no conflict of interest in their appointment.\n(2) The Board shall appoint such statutory auditors on the recommendation of the Audit Committee, subject\nto the shareholders’ approval at the general meeting of insurer.\n(3) The Competent Authority may specify the eligibility norms, minimum qualifications, experience and\nother requirements for appointment of statutory auditors by the insurers.\nCHAPTER – V\nSTEWARDSHIP",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "9",
+      "kind": "numbered",
+      "text": "9. Stewardship\n(1) The insurer shall formulate a board approved Stewardship Policy which shall identify and define the\nstewardship responsibilities that the insurer wishes to undertake and how the policy intends to fulfill the\nresponsibilities to enhance the benefits to its policyholders.\n(2) Subject to further stipulations as may be specified by the Competent Authority, the policy shall, at a\nminimum, provide that the insurers would play an active role in the general meetings of investee\ncompanies and engage with the managements at a greater level to improve their governance.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z"
+      }
+    },
+    {
+      "clause_number": "10",
+      "kind": "numbered",
+      "text": "10. Disclosure & Reporting Requirements\n(1) The CCO shall be responsible for ensuring and monitoring continuing compliance with these\nRegulations. Unless specified otherwise by the Authority in the respective Regulations, CCO shall be the\ndesignated Compliance Officer for submitting returns, reports and applications for approvals to the\nAuthority.\n(2) A report on the status of compliance with these Regulations shall be filed on an annual basis within such\ntime and in such format as may be specified by the Competent Authority. Further, there shall be a\nseparate certification from the CCO, in such format as specified by the Competent Authority.\n(3) All insurers shall make necessary disclosures about the composition of its Board, meetings of Board &\nits Committees, details of attendance of meetings by directors and members of Committees, details of\nremuneration paid, if any, to all directors including Independent Directors, etc. in such manner and\nformat as may be specified by the Competent Authority.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z",
+        "chapter": "CHAPTER VI\nOTHER GOVERNANCE REQUIRMENTS"
+      }
+    },
+    {
+      "clause_number": "11",
+      "kind": "numbered",
+      "text": "11. Environment, Social and Governance (ESG)\n(1) Every insurer shall have in place a board approved Environmental, Social and Governance (ESG)\nframework. The activities of insurer under ESG are to be monitored by the Board. The ESG framework\nshall be reviewed by the Board on annual basis.\n(2) The Board shall establish a comprehensive Climate Risk Management framework to facilitate the climate\nrisk management, keeping in view their size, nature and complexity of operations.\n\n[भाग III—खण् ड 4] भारत का रािपत्र : असाधारण 13",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z",
+        "chapter": "CHAPTER VI\nOTHER GOVERNANCE REQUIRMENTS"
+      }
+    },
+    {
+      "clause_number": "12",
+      "kind": "numbered",
+      "text": "12. Powers to issue Circular, Guidelines and directions from time to time:\nThe Competent Authority may issue circulars, guidelines and directions, if necessary, from time to time, relating to\nthese regulations, including but not limited to, transitory provisions regarding implementation process of these\nregulations.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z",
+        "chapter": "CHAPTER VII\nMISCELLANEOUS"
+      }
+    },
+    {
+      "clause_number": "13",
+      "kind": "numbered",
+      "text": "13. Power to issue clarifications and to remove difficulties, if any:\nIn order to remove any doubts or the difficulties that may arise in the application or interpretation of any of the\nprovisions of these regulations, the Competent Authority may issue appropriate clarifications as and when deemed\nnecessary.\nDEBASISH PANDA, Chairperson\n[ADVT.-III/4/Exty./849/2023-24]\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\nand Published by the Controller of Publications, Delhi-110054.",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2024+_+IRDAI+%28Corporate+Governance+for+Insurers%29+Regulations%2C+2024.pdf/8790b24d-fffe-dd53-e0b6-403faed32fb4?version=1.3&t=1712314595969&download=true",
+        "sha256": "5cfe037fe9ea55e75361cec0b38dcc52610e7f326e0ccb801bd798b08c7c9762",
+        "downloaded_at": "2026-07-06T02:47:13Z",
+        "chapter": "CHAPTER VII\nMISCELLANEOUS"
+      }
+    }
+  ]
+}

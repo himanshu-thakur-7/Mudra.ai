@@ -120,10 +120,31 @@ def main() -> None:
     p_ext.add_argument("--regulator", required=True)
     p_ext.add_argument("--doc-id", required=True)
 
+    sub.add_parser("sync-qdrant", help="Rebuild the Qdrant collection from the DB registry")
+
     args = parser.parse_args()
     if args.cmd == "load":
         n_docs, n_clauses = load_registry(args.file, embed=not args.no_embed)
         print(f"Loaded {n_docs} docs, {n_clauses} clauses (embed={not args.no_embed})")
+        if get_settings().retrieval_backend == "qdrant" and not args.no_embed:
+            from app.core.db import get_session_factory
+            from app.services.retrieval.qdrant_store import sync_from_db
+
+            db = get_session_factory()()
+            try:
+                print(f"Synced {sync_from_db(db)} clauses to Qdrant")
+            finally:
+                db.close()
+    elif args.cmd == "sync-qdrant":
+        init_db()
+        from app.core.db import get_session_factory
+        from app.services.retrieval.qdrant_store import sync_from_db
+
+        db = get_session_factory()()
+        try:
+            print(f"Synced {sync_from_db(db)} clauses to Qdrant")
+        finally:
+            db.close()
     elif args.cmd == "extract":
         out = extract_draft(args.pdf, args.regulator, args.doc_id)
         print(f"Draft written to {out} — review before merging into clauses.json")

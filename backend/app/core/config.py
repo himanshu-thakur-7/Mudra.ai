@@ -21,6 +21,12 @@ class Settings(BaseSettings):
     # Single-tenant MVP auth: one bearer token for the seeded org.
     api_token: str = "dev-token"
 
+    redis_url: str = "redis://localhost:6379/0"
+
+    # Retrieval backend: "sqlite" (numpy cosine) or "qdrant" (payload-filtered vector DB).
+    retrieval_backend: str = "sqlite"
+    qdrant_path: str = str(BACKEND_DIR / ".qdrant")
+
     # Base URL used in WhatsApp replies to link back to the web result page.
     public_web_url: str = "http://localhost:5173"
 

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "regulator": "IRDAI",
+    "source_url": "https://irdai.gov.in/documents/37343/620662/policyholder+complaints+registration+form29092021.pdf/5ff5e0af-a34e-6cba-91d2-fe053b076624?t=1633587167192",
+    "sha256": "8976655c081d14c04cecd6f4e8a9fb42f3d4fa95ceaf6051f10dd66b96dbab0a",
+    "downloaded_at": "2026-07-06T02:45:43Z"
+  },
+  "extraction_method": "ocr",
+  "generated_at": "2026-07-06T02:51:37.368052+00:00",
+  "chunks": [
+    {
+      "clause_number": "2",
+      "kind": "numbered",
+      "text": "2. AGaress oF the complainant:\n\n3. a. Mobile/Telephone Number:\n\nb. E-mail ID (if any):",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/620662/policyholder+complaints+registration+form29092021.pdf/5ff5e0af-a34e-6cba-91d2-fe053b076624?t=1633587167192",
+        "sha256": "8976655c081d14c04cecd6f4e8a9fb42f3d4fa95ceaf6051f10dd66b96dbab0a",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "5",
+      "kind": "numbered",
+      "text": "4. Name of the Insurance company:\n5. Name of the intermediary/Agent (if any):",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/620662/policyholder+complaints+registration+form29092021.pdf/5ff5e0af-a34e-6cba-91d2-fe053b076624?t=1633587167192",
+        "sha256": "8976655c081d14c04cecd6f4e8a9fb42f3d4fa95ceaf6051f10dd66b96dbab0a",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "7",
+      "kind": "numbered",
+      "text": "6. Policy number/Proposal number:\n7. Certificate of Insurance Number (required for Group Insurance policies):",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/620662/policyholder+complaints+registration+form29092021.pdf/5ff5e0af-a34e-6cba-91d2-fe053b076624?t=1633587167192",
+        "sha256": "8976655c081d14c04cecd6f4e8a9fb42f3d4fa95ceaf6051f10dd66b96dbab0a",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    },
+    {
+      "clause_number": "8",
+      "kind": "numbered",
+      "text": "8. Nature of Complaint: (Please tick)\n\nLife Non-Life\nPolicy Type Policy Type\nUnit Linked Health insurance\nPension Policy (other than Unit Motor Insurance\nLinked)\nHealth Insurance Crop Insurance\nConventional Life Fire Insurance\nOthers Other(s)/ Miscellaneous\nComplaint Type Complaint Type\nDeath Claims Claims\nHealth (incl. Critical Illness)\nClaims Cover Note\nPolicy Servicing Coverage\nProposal Processing Policy Related\nSurvival Claims Premium\nULIP Related Product/Sales related\nUnfair Business Practices Proposal Processing\n\nRefund\n\nSIGNATURE",
+      "metadata": {
+        "regulator": "IRDAI",
+        "source_url": "https://irdai.gov.in/documents/37343/620662/policyholder+complaints+registration+form29092021.pdf/5ff5e0af-a34e-6cba-91d2-fe053b076624?t=1633587167192",
+        "sha256": "8976655c081d14c04cecd6f4e8a9fb42f3d4fa95ceaf6051f10dd66b96dbab0a",
+        "downloaded_at": "2026-07-06T02:45:43Z"
+      }
+    }
+  ]
+}
