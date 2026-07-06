@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+    "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+    "downloaded_at": "2026-07-06T12:00:38Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:22.523014+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "c9a4c1d7-7328-53b4-ac2c-627c4f3c55f8",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/19/34/11(2)2026-AFD-POD1/I/13764/2026 June 16, 2026\nTo,\nAll Alternative Investment Funds (AIFs)\nAll Venture Capital Funds (VCFs) registered under erstwhile SEBI (Venture\nCapital Funds) Regulations, 1996\nSir/Madam,\nSub: Guidelines for winding up of AIFs with respect to retention of proceeds and\n‘Inoperative Fund’ status",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "d58f2acf-8e63-56bc-99de-326ace6c435b",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI (Alternative Investment Funds) Regulations, 2012 (“AIF Regulations”) have\nbeen amended and notified on April 18, 2026 to provide certain flexibility to AIFs\nwith respect to winding up of their schemes and surrender of registration.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "7bae33f7-8340-5676-9ac7-797c78d1ccfd",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Regulation 29 of AIF Regulations states, inter-alia, the following with respect to\nwinding up –",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "0ffb6c99-2e7e-5924-9859-64de93d0d9d8",
+      "clause_number": "2.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "2.1. Regulation 29(7) - Within the liquidation period, the assets shall be liquidated,\nand the proceeds accruing to investors in the AIF or the scheme of the AIF\nshall be distributed to them after satisfying all liabilities, subject to conditions\nas may be specified by SEBI from time to time.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "6adfc553-cd32-5253-8c87-45268d2934e4",
+      "clause_number": "2.2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "2.2. Regulation 29(10A) - An AIF may be tagged as an inoperative fund, in such\nmanner and subject to conditions as may be specified by SEBI from time to\ntime.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "82a45521-683f-553a-86f0-ce334f6e720f",
+      "clause_number": "2.3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "2.3. Regulation 29(11) - Upon winding up of the AIF, the certificate of registration\nshall be surrendered to SEBI.\nThe conditions and modalities with respect to retention of proceeds beyond\npermissible fund life, tagging as ‘Inoperative Fund’ and surrender of registration are\nbeing specified in this circular.\nRetention of proceeds beyond permissible fund life",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "30c642a5-e83b-5691-9c36-341bedf5a896",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "3. AIFs/schemes of AIFs may retain liquidation proceeds beyond the liquidation period\nor dissolution period (beyond “permissible fund life”), as applicable, subject to\nsatisfying at least one of the following conditions –",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "423f5de7-6228-583b-bb93-059a93457217",
+      "clause_number": "3.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "3.1. Demonstrable receipt of a litigation notice or demand by the AIF/scheme of\nAIF, which includes any official written communication from a tax authority,\nregulatory authority, law enforcement agency, court of law, or from an investor\nor counterparty in relation to litigation, which indicates a potential tax,\nregulatory or legal liability. This shall include show-cause notices, re-\nassessment notices, investigation summons, or similar communications and\nshall not be restricted to crystallised demand notices;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "a8a97aed-272c-5b58-9ddb-cf04916bfcbf",
+      "clause_number": "3.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "3.2. Consent obtained from at least seventy-five percent of the investors by value\nof their investment in the scheme, in cases where proceeds are proposed to\nbe retained on account of anticipated liabilities arising due to a\npossible/probable litigation or tax demand;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "cc687498-9c54-5be8-9584-fce2c7c2eda3",
+      "clause_number": "3.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "3.3. Substantiation of amounts retained for meeting residual winding up related\noperational expenses, through invoices, supporting documents or records of\ncomparable expenses incurred in previous years.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "90863ebc-8dc2-5390-9139-dc1cf7e7ea2e",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "4. In cases where monies are being retained on account of anticipated liabilities as\nspecified in paragraph 3.2 above, the manager of AIF shall disclose the amount\nbeing retained and estimated time period for which it is proposed to be retained to\nthe investors of the fund while seeking their consent for retention.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "ee145a3e-4bba-5a53-95bf-a63367088283",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "5. In cases where monies are being retained for meeting residual winding up related\noperational expenses as specified in paragraph 3.3 above, the time period for such\nretention shall not exceed three years from the end of permissible fund life of the\nAIF/scheme of AIF. Further, the implementation standards for standardising the\noperational heads under which monies may be retained, shall be formulated by\nStandard Setting Forum of AIFs (‘SFA’), in consultation with SEBI.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "e5edf63f-c709-5e4f-a503-1468ce517ef4",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 13,
+      "text": "6. All monies retained in line with conditions at paragraph 3 above shall be invested in\naccordance with Regulation 15(1)(f) of the AIF Regulations.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "e128cd54-52d4-58eb-84c6-963affb67e96",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "7. Once the liabilities are satisfied and the pending retained monies are distributed to\nthe investors of the fund, the scheme shall be wound up in terms of Regulation 29\nof AIF Regulations.\nApplication for ‘Inoperative Fund’ status",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "e1fc166c-e9f0-58bd-a1a3-b4b358d0b30b",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "8. An AIF having one or more schemes with retained monies as specified in paragraph\n3 above and intending to surrender its registration, may apply for obtaining the\n‘Inoperative Fund’ status. The application shall be submitted to SEBI in the format\nas specified in Annexure A, by emailing to inoperativeaif@sebi.gov.in.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "e693bea2-c140-57aa-9abe-a4c44581706d",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 16,
+      "text": "9. An AIF whose scheme(s) have not retained any monies beyond the permissible\nfund life, but intending to continue with the registration solely in anticipation of a\nfavourable outcome of a pending litigation, may also apply for obtaining the\n‘Inoperative Fund’ status.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "52c8acdb-1bd6-5c03-aa5f-71ce3bcb067b",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 17,
+      "text": "10. Upon approval of the aforesaid application, the applicant AIF will be tagged as\n‘Inoperative Fund’.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "70c4bc29-4850-579e-a4bb-65cb97584fac",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 18,
+      "text": "11. Such Inoperative Fund shall apply to SEBI for surrender of its certificate of\nregistration only after the liabilities are satisfied and the pending retained monies\nare distributed to the investors in all its schemes.\nRegulatory framework applicable to ‘Inoperative funds’",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "f9e71a85-40dd-554e-99d7-8b041e52c0c7",
+      "clause_number": "12",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 19,
+      "text": "12. An AIF tagged as ‘Inoperative Fund’ shall be subject to the following conditions, with\neffect from the date of obtaining the tag –",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "c6f736a0-22c5-57e8-a01c-345687b1d954",
+      "clause_number": "12.1",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 20,
+      "text": "12.1. The monies retained by scheme(s) of such AIF in terms of paragraph 3 above,\nshall be invested in accordance with Regulation 15(1)(f) of the AIF\nRegulations;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "57fdb615-448e-576c-8749-e57dbf3e34cc",
+      "clause_number": "12.2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 21,
+      "text": "12.2. No new scheme shall be launched under the AIF; and,",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "b5252e66-bb14-5a59-a35c-b849edda6ecf",
+      "clause_number": "12.3",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 22,
+      "text": "12.3. No management fees shall be charged in respect of any of its scheme(s).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "156e6f84-ac6e-5936-bd11-0240e1b29468",
+      "clause_number": "13",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 23,
+      "text": "13. The regulatory requirements as specified in Annexure B shall not be applicable to\nAIFs tagged as ‘Inoperative Funds’.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "ae0aadb0-1130-55de-a14d-c02338eda251",
+      "clause_number": "14",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 24,
+      "text": "14. AIFs having schemes which have retained monies in terms of paragraph 3 above\nand AIFs tagged as ‘Inoperative Funds’ shall submit an annual status report on\nretained monies and outstanding liabilities to SEBI and to investors of the relevant\nscheme(s), in the format as given at Annexure C of this circular. The report shall\nbe submitted on SEBI Intermediary portal within 30 calendar days from the end of\nMarch of every financial year.\nApplicability to erstwhile Venture Capital Funds",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "c36c981d-bdf2-5cb9-864a-5d58d82957df",
+      "clause_number": "15",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 25,
+      "text": "15. The aforesaid facility of retention of proceeds beyond permissible fund life and\navailing Inoperative Fund status shall also be applicable to Venture Capital Funds\nregistered under erstwhile SEBI (Venture Capital Funds) Regulations, 1996. The\nregulatory framework applicable to such VCFs tagged as ‘Inoperative Funds’ shall\nbe the same as applicable to AIFs, stated in para 12 to 14 above.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "bd2ca36d-72ee-5e04-b826-1f762282461c",
+      "clause_number": "16",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 26,
+      "text": "16. This circular shall come into force with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "270c2b64-61f2-55ab-8b83-2eb0dbc6d31f",
+      "clause_number": "17",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 27,
+      "text": "17. This circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "cafa713a-5086-52a2-98b8-68500ba9e80d",
+      "clause_number": "18",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 28,
+      "text": "18. This circular is issued in exercise of powers conferred under Section 11(1) of the\nSecurities and Exchange Board of India Act, 1992 read with Regulation 29 and\nRegulation 36 of SEBI (Alternative Investment Funds) Regulations, 2012, to protect\nthe interests of investors in securities and to promote the development of, and to\nregulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "816280e6-f42b-5182-9801-bf5d90a2cd57",
+      "clause_number": "19",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 29,
+      "text": "19. The circular is available on SEBI website at www.sebi.gov.in under the categories\n\"Legal  Circulars\" and \"Info for  Alternative Investment Funds”.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "ab9a6f6f-20d1-5152-aa65-e3c1d359d559",
+      "clause_number": "20",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 30,
+      "text": "20. The SEBI Master Circular for AIFs dated June 03, 2026 has also been updated with\nthe provisions of this circular. The updated Master Circular for AIFs is available on\nSEBI website at www.sebi.gov.in in the path \"Legal  Master Circulars\" and \"Info\nfor  Alternative Investment Funds”.\nYours faithfully,\nAnshul Jagdish Goyal\nDeputy General Manager\nTel no.: +91-22-26449389\nanshulg@sebi.gov.in\nEnclosures: As above\n***",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "7d97fdbe-4c28-5b84-ad7d-10a19de2f1ea",
+      "clause_number": "Annexure",
+      "kind": "chapter",
+      "page": 12,
+      "paragraph_index": 31,
+      "text": "Annexure C\nFormat for Annual Retention Status Report\n(To be submitted to SEBI and investors within 30 calendar days from the end of March\nof every financial year)\nDetails of AIF and its scheme(s)\n\nNote - *Scheme wise information to be provided separately.\nDetails of investment made with monies retained in terms of regulation 15(f) of\nAIF Regulations\nS. Name of Name of Cost of Latest Value of Type of Provide\nNo. Scheme Instrumen Holding as at Holding as at Security details, if\n* t/Investee the end of the the end of the [Refer Type of\nCompany reporting reporting Note 4] Security\n[Refer Note period (Rs. Cr) period (Rs. Cr) chosen is\n1] [Refer Note 2] [Refer Note 3] ‘Others'\nNote 1: Each Mutual Fund Scheme, T-bill, G-sec etc. should be stated separately.\nNote 2: Cost of temporary investments held as at the end of the reporting period is to\nbe provided\nNote 3: Valuation considered for calculation of Scheme's latest NAV is to be provided.\nNote 4: Liquid Mutual Fund, Other than Liquid Mutual Funds, Bank deposits, T-bills,\nTREPS, CPs, CDs and Others",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z",
+        "chapter": "Annexure B\nExemption from certain regulatory requirements for Inoperative Fund"
+      }
+    },
+    {
+      "uid": "c89d1813-103f-5a74-986e-9fe820289c15",
+      "clause_number": "table-p6-1",
+      "kind": "table",
+      "page": 6,
+      "paragraph_index": 32,
+      "text": "Table on page 6 (18 rows): S. No. | Particulars | Details\n\n| S. No. | Particulars | Details |\n|---|---|---|\n| Part A - Details of AIF |  |  |\n| 1. | Name of the AIF |  |\n| 2. | Category of the AIF |  |\n| 3. | Registration Number of the AIF |  |\n| 4. | Name of the trustee |  |\n| 5. | Name of the Sponsor |  |\n| 6. | Name of the Manager |  |\n| 7. | No. of schemes launched under the AIF |  |\n| 8. | No. of schemes where proceeds have been retained to meet liabilities |  |\n| Part B - Details of schemes of AIF (Information shall be submitted at scheme level, separately for each scheme of the AIF) |  |  |\n| 9. | Name of scheme |  |\n| 10. | Date of initial closing of the fund (dd/mm/yyyy) |  |\n| 11. | Date of final closing of the fund (dd/mm/yyyy) |  |\n| 12. | Tenure of the fund (in years, as disclosed in PPM of the fund) |  |\n| 13. | Extension of tenure availed, if any (in years) |  |\n| 14. | Dissolution period availed, if any (from dd/mm/yyyy to dd/mm/yyyy) |  |\n| 15. | End Date of permissible fund life (end of liquidation period or dissolution period as applicable in dd/mm/yyyy format) |  |\n| 16. | Corpus of the scheme (in INR Crore) |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "2037a319-cce8-5f10-a68d-4272fac971e1",
+      "clause_number": "table-p7-2",
+      "kind": "table",
+      "page": 7,
+      "paragraph_index": 33,
+      "text": "Table on page 7 (8 rows): S. No. | Particulars | Details\n\n| S. No. | Particulars | Details |\n|---|---|---|\n| 17. | Cumulative investments made by the scheme (at Cost, in INR Crore) |  |\n| 18. | Date of liquidation of last investment of the scheme (in dd/mm/yyyy format) |  |\n| 19. | Liquidation proceeds accrued to the fund (in INR Crore) |  |\n| 20. | Liquidation proceeds distributed to the investors (in INR Crore) |  |\n| 21. | Date of payment of last tranche of proceeds to investors (aside from proceeds retained) (in INR Crore) |  |\n| 22. | Liquidation proceeds retained by the fund (in INR Crore) |  |\n| 23. | Winding up of the fund on account of - | a) Tenure of the fund as mentioned in PPM is over; or, b) Opinion of trustee that the fund be wound up in the interest of the investors c) Resolution for winding up, by seventy five percent of the investors by value of their investment in the fund |\n| 24. | Amounts retained/’Inoperative fund’ status sought on account of - | a) Pending litigation or tax / regulatory demand (Demonstrable Receipt/Official communication to be enclosed) b) Anticipated litigation or tax demand (Document recording the details of investor consent obtained to be enclosed) |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "9ec45f04-c13a-56b6-8556-094a89c535d5",
+      "clause_number": "table-p8-3",
+      "kind": "table",
+      "page": 8,
+      "paragraph_index": 34,
+      "text": "Table on page 8 (5 rows): S. No. | Particulars | Details\n\n| S. No. | Particulars | Details |\n|---|---|---|\n|  |  | c) Residual operational expenses (Supporting invoices / comparable expense statement from previous years to be enclosed) d) No retained monies; continuing with registration solely in anticipation of favourable litigation outcome (Supporting documents in form of notices/official communication to be enclosed) |\n| 25. | Expected timeline for resolution and distribution of any pending retained amount to investors (End date in form of dd/mm/yyyy) |  |\n| 26. | Proposed instruments for investment of retained monies |  |\n| 27. | Details of pending enforcement actions |  |\n| Part C - Undertaking to be submitted by the Manager of the AIF 1. The information supplied in this application for obtaining Inoperative Fund for [Name of AIF], including the attachment sheets, is complete and true. The Manager of the AIF [Name of AIF] has exercised due diligence with respect to the claims made in this application. 2. The scheme(s) [Names of scheme(s)] of the AIF has completed its investment activity and all the assets/investments of the scheme(s) have been liquidated. 3. The monies retained are solely on account of [specify applicable ground(s): pending litigation/tax demand | anticipated litigation/tax demand with investor consent | residual operational expenses | anticipation of favourable litigation outcome], and supporting documentation is enclosed. 4. No new scheme shall be launched and no management fees shall be charged from the investors from the date of obtaining Inoperative Fund status. |  |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "e47b3d5f-74e5-562f-8431-4c3293059d55",
+      "clause_number": "table-p9-4",
+      "kind": "table",
+      "page": 9,
+      "paragraph_index": 35,
+      "text": "Table on page 9 (2 rows): S. No. | Particulars | Details\n\n| S. No. | Particulars | Details |\n|---|---|---|\n| 5. The retained monies shall be invested only in accordance with Regulation 15(f) of the AIF Regulations. 6. An annual status report shall be submitted to SEBI and to the investors of the relevant scheme(s) until all liabilities are resolved and a NIL bank balance is achieved. 7. The retention proceeds pending after meeting the liabilities and any proceeds received pursuant to a favourable litigation outcome, shall be distributed to the investors of the fund in accordance with terms of its PPM. For and on behalf of [Name of Manager], manager of [Name of AIF] Authorized signatory |  |  |\n| Part D - Undertaking to be submitted by the Trustee / Board of Directors/ Designated Partners of the AIF (as applicable depending on the form of AIF) We, [Name of entity], trustee/Board of Directors/Designated Partners of the AIF, have reviewed the circumstances of [Name of the AIF] and we are satisfied that the application for ‘Inoperative Fund’ status is bona fide in nature and the amounts retained, if any, are solely on account of the ground(s) specified in the application. For and on behalf of [Name of Entity], trustee/Board of Directors/Designated Partners of [Name of AIF] Authorized signatory |  |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "ccf44e47-4b82-5f50-a54e-c090276cbc30",
+      "clause_number": "table-p10-5",
+      "kind": "table",
+      "page": 10,
+      "paragraph_index": 36,
+      "text": "Table on page 10 (7 rows): S. No. | Regulatory requirements | Effective date of non-applicability\n\n| S. No. | Regulatory requirements | Effective date of non-applicability |\n|---|---|---|\n| 1. | Limited Quarterly Activity Report and Annual Activity Report (Para 21.1 under Chapter 21 of SEBI Master Circular for AIFs dated June 03, 2026 (‘AIF Master Circular’)) | Limited Quarterly Activity Report - From the quarter subsequent to the quarter in which the AIF is tagged as Inoperative Fund Annual Activity Report - From the Financial Year subsequent to the Financial Year in which the AIF is tagged as Inoperative Fund |\n| 2. | Audit of terms of PPM (Para 21.3 under Chapter 21 of AIF Master Circular) | From the Financial Year subsequent to the Financial Year in which the AIF is tagged as Inoperative Fund. |\n| 3. | Intimation of changes in PPM (Para 21.4 under Chapter 21 of AIF Master Circular) |  |\n| 4. | Compliance Test Report (CTR) (Para 21.2 under Chapter 21 of AIF Master Circular) |  |\n| 5. | Reporting of information, including scheme-wise valuation and cash flow data to the Benchmarking Agencies for performance benchmarking (Chapter 22 of AIF Master Circular) |  |\n| 6. | NISM certification requirement for the key investment team of the fund (Regulation 4(g)(i) of AIF Regulations) | Date of obtaining Inoperative Fund status |\n| 7. | Requirement of custodian for safekeeping of securities of AIF | Date of obtaining Inoperative Fund status |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "665c9b3c-1b3d-58d4-bae7-430cb2311d58",
+      "clause_number": "table-p11-6",
+      "kind": "table",
+      "page": 11,
+      "paragraph_index": 37,
+      "text": "Table on page 11 (4 rows): S. No. | Regulatory requirements | Effective date of non-applicability\n\n| S. No. | Regulatory requirements | Effective date of non-applicability |\n|---|---|---|\n|  | (Regulation 20(11) of AIF Regulations) |  |\n| 8. | Periodic disclosure to investors regarding fund investments in terms of Regulation 22(a) of AIF Regulations | Date of obtaining Inoperative Fund status |\n| 9. | Annual (Category I and II AIFs) /Quarterly reports (Category III AIFs) to investors in terms of Regulation 22(g) and 22(h) of AIF Regulations | From the Financial Year/Quarter subsequent to the Financial Year/Quarter in which the AIF is tagged as Inoperative Fund. |\n| 10. | Valuation of investments of AIFs (Regulation 23(2) and 23(3) of AIF Regulations) | Date of obtaining Inoperative Fund status – The valuation shall be reported to investors as part of annual retention status report and accordingly, the updated Net Asset Value of the AIF units shall also be reported to depositories within 30 calendar days from the end of March of every financial year. |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "abea77e9-be6f-5637-a9b9-6dc51d27ad7c",
+      "clause_number": "table-p12-7",
+      "kind": "table",
+      "page": 12,
+      "paragraph_index": 38,
+      "text": "Table on page 12 (8 rows): S. No. | Information related to | Particulars | Details\n\n| S. No. | Information related to | Particulars | Details |\n|---|---|---|---|\n| 1. | Details of AIF | a) Name of the AIF |  |\n|  |  | b) Category of the AIF |  |\n|  |  | c) Registration Number |  |\n|  |  | d) Date of obtaining ‘Inoperative Fund’ status (If applicable) |  |\n| 2. | Details of scheme(s) with retained monies* | a) Name of the scheme(s) |  |\n|  |  | b) End date of permissible fund life (end of liquidation period or dissolution period as applicable in dd/mm/yyyy format) |  |\n|  |  | c) Reason(s) for non-winding up of scheme before end of permissible fund life (Provide specific reason for non-winding up/ retention of proceeds) |  |\n|  |  | d) Amounts retained/’Inoperative fund’ obtained on account of – | (i) Pending litigation or tax / regulatory demand (Demonstrable Receipt/Official |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "8dc69d93-8010-5f18-8104-184815337ebc",
+      "clause_number": "table-p13-8",
+      "kind": "table",
+      "page": 13,
+      "paragraph_index": 39,
+      "text": "Table on page 13 (4 rows): S. No. | Information related to | Particulars | Details\n\n| S. No. | Information related to | Particulars | Details |\n|---|---|---|---|\n|  |  | (Choose one of the options given herein) ( | communication to be enclosed) (ii) Anticipated litigation or tax demand (Document recording the details of investor consent obtained to be enclosed) (iii) Residual operational expenses (Supporting invoices / comparable expense statement from previous years to be enclosed) iv) No retained monies; continuing with registration solely in anticipation of favourable litigation outcome |\n|  |  | e) Total amount retained (in INR) |  |\n|  |  | f) Amount distributed as on date to investors out of the retained amount (in INR) |  |\n|  |  | g) Amount retained as on reporting date (in INR) |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    },
+    {
+      "uid": "dc22a683-ebf6-55fa-857b-0a834d4bbc2f",
+      "clause_number": "table-p14-9",
+      "kind": "table",
+      "page": 14,
+      "paragraph_index": 40,
+      "text": "Table on page 14 (2 rows): S. No. | Information related to | Particulars | Details\n\n| S. No. | Information related to | Particulars | Details |\n|---|---|---|---|\n|  |  | h) Present status of the reason(s) mentioned at row (c) above |  |\n|  |  | i) Expected timeline for resolution (in dd/mm/yyyy) |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781613591249.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/guidelines-for-winding-up-of-aifs-with-respect-to-retention-of-proceeds-and-inoperative-fund-status_102171.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/db84e9b1-1781613591249.pdf",
+        "sha256": "db84e9b12f6c8246df068d2a67da34ae15ca4be4de3ef224264b0e5a608d0dc2",
+        "downloaded_at": "2026-07-06T12:00:38Z"
+      }
+    }
+  ]
+}

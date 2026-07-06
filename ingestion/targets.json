@@ -9,7 +9,8 @@
       "regulator": "SEBI",
       "name": "SEBI circulars listing",
       "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
-      "link_pattern": "sebi\\.gov\\.in/.*(circulars/|\\.pdf)"
+      "link_pattern": "sebi\\.gov\\.in/legal/circulars/.*\\.html",
+      "pdf_pattern": "(?i)sebi\\.gov\\.in/.*\\.pdf"
     },
     {
       "regulator": "AMFI",

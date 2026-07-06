@@ -87,7 +87,15 @@ export interface IngestionStatus {
   inbox?: { file: string; regulator: string; kb: number }[]
   total_docs?: number
   total_change_events?: number
-  recent_changes?: { regulator: string; n_chunks: number; method: string; status: string; created_at: string }[]
+  doc_states?: Record<string, number>
+  recent_changes?: {
+    regulator: string
+    n_chunks: number
+    method: string
+    status: string
+    created_at: string
+    supersession_hints?: number
+  }[]
   activity?: IngestionActivity[]
 }
 

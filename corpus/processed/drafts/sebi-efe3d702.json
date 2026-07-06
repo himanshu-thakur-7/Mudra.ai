@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+    "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+    "downloaded_at": "2026-07-06T12:06:46Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.549978+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "f9d3064b-29e7-5cd3-9b7a-c7c528241b8c",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/49/11/11(123)2026-CFD-RAC-DIL2/I/8760/2026 April 07, 2026\nTo\nAll Registered Merchant Bankers\nAll Recognized Stock Exchanges\nAll entities who propose to list specified securities\nSir / Madam,\nSubject: One-time relaxation with respect to validity of SEBI Observations",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "d9faef5f-c508-5e97-92f3-0270c73ced85",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. In terms of Regulations 44(1) and 59C of SEBI (Issue of Capital and Disclosure\nRequirements) Regulations, 2018 (ICDR Regulations, 2018), a public issue\nmay be opened within twelve months and eighteen months respectively from\nthe date of issuance of observations by SEBI.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "87a58873-3514-5982-b458-5e23d0c49d35",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. SEBI has received representation from the Industry body on difficulties faced\nby the issuers in mobilizing resources and accessing the capital market in the\nbackdrop of ongoing geopolitical tensions in the Middle East. This has led to\nseveral issuers to defer, recalibrate or withdraw issuance plans leading to\npotential lapses in observation letter validity and duplication of regulatory\nprocesses",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "7a6e020b-0151-576f-a47e-e876be4b72fd",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Considering the representation of the Industry Body, the prevailing uncertain\nmarket conditions due to ongoing geopolitical tensions and subdued investor\nparticipation, SEBI has decided to grant one time relaxation to extend validity\nof the SEBI Observations letters, expiring between April 1, 2026 - September\n30, 2026 till September 30, 2026, subject to an undertaking from Lead\nManager to the issue confirming compliance with Schedule XVI of the ICDR\nRegulations while submitting the updated offer document to the Board.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "77ed1520-07ae-5d3e-93c4-3c8ee8c4a44b",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. This circular shall come into force with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "ab4df21b-0333-5505-b6f6-355313ceacae",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. This Circular is issued in exercise of powers conferred under Section 11 and\nSection 11A of the Securities and Exchange Board of India Act, 1992 to protect\nthe interests of investors in securities and to promote the development of, and\nto regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    },
+    {
+      "uid": "5651d955-7d3a-509e-9931-0db89de93751",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. This Circular is available at www.sebi.gov.in under the link “Legal > Circulars”.\nYours sincerely,\nBhumika Kanojia\nDeputy General Manager\nCorporation Finance Department\nEmail: bhumikak@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775561723309.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/one-time-relaxation-with-respect-to-validity-of-sebi-observations_100786.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/efe3d702-1775561723309.pdf",
+        "sha256": "efe3d702d3da4db195de966165ba0f993cfd9cd4dace36d681c48be5a15f182a",
+        "downloaded_at": "2026-07-06T12:06:46Z"
+      }
+    }
+  ]
+}

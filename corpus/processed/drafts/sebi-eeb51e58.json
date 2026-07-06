@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+    "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+    "downloaded_at": "2026-07-06T12:00:06Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:21.671736+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "626ed623-5014-5da0-95a0-bba99a14bb5a",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/47/16/13(4)2026-MRD-POD1/I/14266/2026 June 19, 2026\nTo\nThe Managing Directors / Chief Executive Officers\nAll Recognized Stock Exchanges/Clearing Corporations having Commodity Derivatives\nSegment\nMadam/Sir,\nSubject: Clarification with respect to applicability of the benefit of early pay-in in\nCommodity Derivatives Segment",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "1659599b-e175-59fa-8686-07e2bc7d8ddf",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. Para 11.3 of Chapter 11 of SEBI Master Circular SEBI/HO/MRD/MRD-PoD-1/P/CIR/2023/136\nfor Commodity Derivatives Segment dated Aug 04, 2023 prescribes norms for Early Pay-in\nFacility in respect of commodity derivatives.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "1bd2d2fb-a141-541c-965e-cd9024563c98",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Based on representations received from stakeholders and deliberations by the Working Group\n(WG) on “Review of current regulatory framework of delivery and settlement applicable to\nAgricultural Commodity Derivatives Segment and the Commodity Derivatives Advisory\nCommittee (CDAC), paragraph 11.3.1 of the aforementioned Master Circular stands revised\nas under:\n“11.3.1. Clearing Corporations shall provide early pay-in facility to market participants permitting\nthem to deposit certified goods to the Clearing Corporation accredited warehouse\nagainst relevant derivatives contracts. For such positions against which early pay-in\nhas been made, based on risk perception, Clearing Corporations may exempt\nimposition of all types of margins. However, Clearing Corporations shall continue to\ncollect mark to market margins from such market participants against such positions.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "6e888878-f336-5aed-9494-5eb4b01bcec4",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 4,
+      "text": "3. This circular shall come into effect from September 21, 2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "892e94df-0321-50d0-870b-b702818d900d",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. The Stock Exchanges and Clearing Corporations are advised to make necessary changes to\ntheir systems for implementation of the above and bring the provisions of this circular to the\nnotice of their members and also to disseminate the same on their website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "a30baced-9170-5f91-89b8-14a226179499",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "5. This Circular is issued in exercise of the powers conferred under Section 11 (1) of the\nSecurities and Exchange Board of India Act, 1992, read with Regulation 51 of the Securities\nContracts (Regulation) (Stock Exchange and Clearing Corporations) Regulations, 2018 to\nprotect the interests of investors in securities and to promote the development of, and to\nregulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "0c052791-23d5-5fac-8c18-8f6002835119",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. The Circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    },
+    {
+      "uid": "8020afa9-260b-57f2-8f4c-b5f62cfaac0e",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "7. This Circular is available on SEBI website www.sebi.gov.in under the category\n“Legal>Circulars” and “Info for Commodity Derivatives”.\nYours faithfully,\nNeetika Rajpal\nDeputy General Manager\nMarket Regulation Department\nEmail: neetikar@sebi.gov.in\nPhone Number: +91-22-26449628",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781863954185.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/clarification-with-respect-to-applicability-of-the-benefit-of-early-pay-in-in-commodity-derivatives-segment_102229.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/eeb51e58-1781863954185.pdf",
+        "sha256": "eeb51e58c696983e8f478895f36d0f3617cd67da9a27e82e5bc00dde62f7c9e2",
+        "downloaded_at": "2026-07-06T12:00:06Z"
+      }
+    }
+  ]
+}

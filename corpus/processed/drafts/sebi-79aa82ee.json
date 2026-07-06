@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+    "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+    "downloaded_at": "2026-07-06T12:04:12Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:26.132663+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "dad3ff68-f064-57db-8f90-72705b430a60",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/19/19/11(2)2026-AFD-RAC2 I/10624/2026 April 30, 2026\nTo,\nAll Alternative Investment Funds (AIFs)\nAll Merchant Bankers\nSir/Madam,\nSub: Fast-Track Mechanism for Processing of Placement Memorandum of AIFs\nfiled with SEBI",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "910a903f-ed6c-532b-a473-6766139f470e",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. In order to ensure that a minimum standard of disclosure is available in the Private\nPlacement Memorandum (PPM) of AIFs, templates for PPMs were introduced vide\nSEBI circular dated February 05, 2020.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "c2ce9517-a341-502f-b779-014fa6d26995",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. The requirement of filing of PPM of AIFs with SEBI through SEBI registered\nMerchant Banker was introduced vide SEBI circular dated October 21, 2021 inter\nalia to streamline the processing of applications for launch of scheme/ fund.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "afff5954-fe1f-5d0b-a3f9-a281803f0b30",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. As per the extant procedure, SEBI reviews the disclosures made in PPMs,\nMerchant Banker Due Diligence Certificate, etc. and provide comments, if any, to\nMerchant Banker/ AIF. Thereafter, Merchant Banker/the AIF carries out necessary\nchanges incorporating the SEBI comments and submits revised PPM/ other\ndocuments to SEBI for taking the same on record. Owing to time-consuming nature\nof the extant procedure, review of the current procedure is required to enable\nefficient deployment of capital by AIFs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "be83af0f-e4a7-56dd-9391-faf27df9b6b4",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. As an Ease of Doing Business Measure, considering various factors including\nsophistication level of AIF investors, due-diligence and experience gained by\nMerchant Bankers, etc. and after consultation with various stakeholders, it has\nbeen decided to follow fast-track mechanism for launch of scheme/fund in respect\nof the PPMs filed by Angel Funds and AIF schemes other than ‘Large value fund\nfor accredited investors (LVFs)’ {herein after collectively referred as “non-LVF\nschemes”}, as given hereunder:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "499e9352-06aa-5f4f-a10a-6a898e0d71c9",
+      "clause_number": "4.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "4.1. Launch of scheme/ circulation of PPMs for non-LVF schemes:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "366fdc22-2578-5edc-84e7-87c84b0fa06a",
+      "clause_number": "4.1.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 7,
+      "text": "4.1.1. It is clarified that in terms of Regulation 12 and 19 of SEBI (AIF)\nRegulations, 2012, AIFs can proceed with launch of their new schemes\nand circulate the PPM to their investors for soliciting funds after 30 days\nof filing of application with SEBI, unless otherwise advised.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "7163c89d-7fbc-5006-a46a-426167d1a41c",
+      "clause_number": "4.1.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "4.1.2. However, in case of first scheme of AIFs, it is clarified that AIFs can\nproceed with launch of such schemes from the date of grant of SEBI\nregistration (or) after 30 days of filing of application with SEBI, whichever\nis later.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "78ae11bc-7965-55b2-9656-bedb8e2bd98c",
+      "clause_number": "4.1.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "4.1.3. Comments, if any, provided by SEBI during this period of 30 days shall\nbe complied with by Merchant Banker/ AIF prior to launch of the scheme/\ncirculation of PPM.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "8975c0d0-3747-562a-a878-0625da07efe0",
+      "clause_number": "4.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "4.2. Timeline for First close:\nFurther, the first close of the scheme shall be declared not later than 12 months\nfrom the date on which the AIF becomes eligible to launch its scheme as stated\nat para 4.1.1 & 4.1.2 above. Para 2.3.1 of SEBI Master Circular for AIFs dated\nMay 07, 2024 stands modified to this extent.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "9d0cb997-7179-5b6d-a186-fc5358d7526b",
+      "clause_number": "4.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "4.3. Responsibility:\nThe Merchant Banker and the Manager of the AIF shall be responsible for\nensuring the accuracy and completeness of all disclosures made in the PPMs\nof non-LVF schemes, as well as in declarations submitted by them.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "864d8abd-1cae-55af-8d2d-46984f3657f5",
+      "clause_number": "5.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "5. Filing requirements:\n5.1. Documents required to be filed with SEBI:\nPPM of non-LVF schemes shall be filed on SEBI intermediary portal along with\nthe following documents in addition to payment of applicable (scheme) fee:\n(i) Duly signed Merchant Banker Due Diligence Certificate;\n(ii) Duly signed Fit and Proper declarations with respect to the AIF, Sponsor,\nManager of the AIF as specified in Schedule II of SEBI (Intermediaries)\nRegulations, 2008;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "84690783-564f-5c27-a78f-2e40288280e5",
+      "clause_number": "(iii",
+      "kind": "roman",
+      "page": 2,
+      "paragraph_index": 13,
+      "text": "(iii) Sponsor / Manager declarations with respect to minimum continuing\ninterest commitment in AIF/scheme;\n(iv) Copies of PANs of AIF, its scheme (if available), Sponsor, Manager,\nTrustee, directors/ partners of Sponsor, Manager & Trustee, key\ninvestment team members.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "f805d70f-02ff-549d-a998-14d3a40564c6",
+      "clause_number": "5.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 14,
+      "text": "5.2. Disclaimer:\nThe following disclaimer clause shall be included in the PPMs of all non-LVF\nschemes:\n“1. Merchant Banker viz., <Name of Merchant Banker> has independently\nexercised due-diligence regarding the information given in the placement\nmemorandum, including the veracity and adequacy of disclosures made\ntherein. Merchant Banker has certified in its Due-Diligence Certificate dated\n______ submitted to SEBI that the disclosures made in the placement\nmemorandum are true, fair and adequate to enable the investors to make an\ninformed decision with respect to the investment in the proposed\nScheme/Fund and such disclosures are in accordance with the requirements\nof Securities and Exchange Board of India (Alternative Investment Funds)\nRegulations, 2012, circulars, guidelines issued thereunder and other\napplicable legal requirements.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "b21e775c-1ca0-5142-8a8a-c0ec8080c62b",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "2. It is to be distinctly understood that submission of the PPM to SEBI should\nnot in any way be deemed or construed that the same has been approved\nby SEBI. SEBI does not assume any responsibility for the accuracy and\ncorrectness of disclosures, facts and claims made in the PPM and for the\ncapability and performance of the Manager.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "25fbbaf9-2c9b-58ec-bd58-22f2a7e99391",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 16,
+      "text": "3. The Manager and Merchant Banker are responsible for ensuring that the\ninformation contained in the PPM is true and accurate in all material respects\nand in compliance with SEBI (Alternative Investment Funds) Regulations,\n2012 and other applicable laws and that there are no material facts, the\nomission of which would make any statement in this memorandum, whether\nof fact or opinion, misleading.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "13db2fe3-9b58-5cc6-9fbd-ea513f500f57",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 17,
+      "text": "6. In case of any irregularity or lapse in the PPM, concerned entities shall be liable\nfor action.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "ff6b1256-de6e-571a-b190-09b0a6b4fde7",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 18,
+      "text": "7. All other provisions of Master Circular for AIFs dated May 07, 2024 shall remain\nunchanged.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "a3beae27-5d41-5570-a7c4-32535a0517f6",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 19,
+      "text": "8. This circular shall come into force with immediate effect and would also apply to all\nPPMs of non-LVF schemes pending as on date with SEBI.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "aa4dac8c-a580-580e-bc48-cf9b42520290",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 20,
+      "text": "9. This circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "6df6ab5d-d760-5d90-a117-7ce37dcfd4f2",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 21,
+      "text": "10. This circular is issued in exercise of powers conferred under Section 11(1) of the\nSecurities and Exchange Board of India Act, 1992, read with Regulation 12, 19 &\n36 of AIF Regulations, to protect the interests of investors in securities and to\npromote the development of, and to regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    },
+    {
+      "uid": "6d8fe7c7-53b8-5fde-94a1-f44eff73e64c",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 22,
+      "text": "11. The circular is available on SEBI website at www.sebi.gov.in under the categories\n\"Legal framework - Circulars\" and \"Info for - Alternative Investment Funds”.\nYours faithfully,\nVikash Narnoli\nDeputy General Manager\nTel no.: +91-22-26449161\nEmail ID: vikashn@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777545192885.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/fast-track-mechanism-for-processing-of-placement-memorandum-of-aifs-filed-with-sebi_101213.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/79aa82ee-1777545192885.pdf",
+        "sha256": "79aa82ee40fc9273ff023a58854d510040131c6bea14cea32212ad88c23543da",
+        "downloaded_at": "2026-07-06T12:04:12Z"
+      }
+    }
+  ]
+}

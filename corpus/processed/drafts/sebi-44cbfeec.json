@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+    "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+    "downloaded_at": "2026-07-06T12:07:06Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.664929+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "7df22f5d-1600-5e09-8a3a-a35f608a09aa",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/38/12/12(1)2026-MIRSD-SEC-FATF/I/7934/2026 March 25, 2026\nTo,\nAll registered Research Analysts,\nResearch Analyst Administration and Supervisory Body (RAASB)\nMadam/ Sir,\nSubject: Clarification regarding eligibility of members of the Institute of Cost\nAccountants of India to conduct annual audit of Research Analysts",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "4da95c84-96ab-5b37-9b16-d8cca2e5b308",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI vide Master Circular for Research Analysts dated February 06, 20261 (‘Master\nCircular’), has provided a consolidated document containing all directions/ instructions/\nreporting requirements pertaining to Research Analysts (RAs).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "bd0e26bb-9aea-5b4a-872f-c172ee193bcf",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. The paragraph 31 of Chapter VI of the Master Circular, inter-alia, provides that a member\nof Institute of Chartered Accountants of India or Institute of Company Secretaries of India\ncan conduct annual audit of an RA to verify compliance with the provisions of the SEBI\n(Research Analysts) Regulations, 2014 (‘RA Regulations’) and circulars issued thereunder.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "364568ac-366e-54b4-91a2-8df47abdc643",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Given the representation from the Institute of Cost Accountants of India and considering\nthe recognition of Cost Accountants to conduct annual audit of RAs, under Regulation\n25(3) of the RA Regulations, it has been decided to modify the aforementioned paragraph\nto clarify eligibility of members of the Institute of Cost Accountants of India to conduct\nannual audit of RAs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "e762e266-ff4e-5921-8cff-b27fd2870b6f",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. Accordingly, the paragraph 31 of Chapter VI of the Master Circular, shall be replaced with\nthe following:\n“Annual audit report and adverse findings, if any:\nIn terms of regulation 25(3) of the RA Regulations, research analyst or research entity\nshall conduct annual audit in respect of compliance with RA regulations and circulars\nissued thereunder from a member of Institute of Chartered Accountants of India or Institute\nof Company Secretaries of India or Institute of Cost Accountants of India within six months\nfrom the end of each financial year and submit a compliance audit report to RAASB/ SEBI\nwithin a period of one month from the date of the audit report but not later than October",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "b760a9f3-a664-5036-bfdd-3d5caea6bc07",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "1 Circular no. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026 dated February 6, 2026;\n31st of each year for the previous financial year. RA/research entity shall publish the status\nof the compliance audit report on its website and shall also publish the adverse findings of\naudit, if any, along with the action taken thereof on its website. RA/ research entity shall\nprovide the compliance audit report to its clients.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "b24ca352-7b73-5746-974b-829fc93fbf99",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "5. The provisions of this circular shall be applicable from the date of issue of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "73dd145f-d16e-5454-82ab-a02851043a57",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "6. This circular is issued in exercise of powers conferred under Section 11(1) of the Securities\nand Exchange Board of India Act, 1992, read with Regulation 25(3) of the SEBI (Research\nAnalysts) Regulations, 2014, to protect the interests of investors in securities and to\npromote the development of, and to regulate the securities markets.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "1f280d62-4d1c-5c7f-9e85-6059b42d6d6a",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "7. This circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    },
+    {
+      "uid": "28486761-c139-559f-bcb5-2e7146764595",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "8. This circular is available on the SEBI website at www.sebi.gov.in under the category,\n‘Legal → Circulars’.\nYours faithfully,\nDivya Hamirbasia\nDeputy General Manager\n022-26449293\ndivyah@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433908492.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-research-analysts_100565.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/44cbfeec-1774433908492.pdf",
+        "sha256": "44cbfeec8ce5e044758e5057d817fad4b5427d1d677df90fa49841e19b6a2b1a",
+        "downloaded_at": "2026-07-06T12:07:06Z"
+      }
+    }
+  ]
+}

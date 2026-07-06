@@ -108,6 +108,31 @@ export default function IngestionPage() {
         <StatCard label="Change events" value={status.total_change_events ?? 0} accent="text-slate-700" />
       </div>
 
+      {status.doc_states && Object.keys(status.doc_states).length > 0 && (
+        <section>
+          <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-slate-500">
+            Ingestion state machine
+          </h2>
+          <div className="flex flex-wrap items-center gap-2 rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+            {['DISCOVERED', 'DOWNLOADED', 'PARSED', 'CHUNKED', 'EMBEDDED', 'VERIFIED'].map((state, i) => (
+              <div key={state} className="flex items-center gap-2">
+                {i > 0 && <span className="text-slate-300">→</span>}
+                <span
+                  className={`rounded-lg px-3 py-1.5 text-xs font-semibold ${
+                    (status.doc_states![state] ?? 0) > 0
+                      ? 'bg-indigo-50 text-indigo-700 ring-1 ring-indigo-200'
+                      : 'bg-slate-50 text-slate-400'
+                  }`}
+                >
+                  {state}
+                  <span className="ml-1.5 rounded bg-white/70 px-1 font-mono">{status.doc_states![state] ?? 0}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       <section>
         <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-slate-500">Watched regulator targets</h2>
         <div className="grid gap-3 md:grid-cols-2">
@@ -183,6 +208,11 @@ export default function IngestionPage() {
                   </span>
                   <span className="flex-1 text-slate-600">
                     {c.n_chunks} clauses chunked <span className="text-slate-400">({c.method})</span>
+                    {(c.supersession_hints ?? 0) > 0 && (
+                      <span className="ml-1.5 rounded bg-rose-50 px-1.5 py-0.5 text-[10px] font-semibold text-rose-700">
+                        ⚠ {c.supersession_hints} supersession hint{c.supersession_hints! > 1 ? 's' : ''}
+                      </span>
+                    )}
                   </span>
                   <span className="rounded bg-amber-50 px-1.5 py-0.5 text-[10px] font-medium text-amber-700">
                     {c.status}

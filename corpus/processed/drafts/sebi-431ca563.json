@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+    "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+    "downloaded_at": "2026-07-06T12:02:31Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:24.628686+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "f9eb38a5-8df1-596d-b7ec-689d7fd54954",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nSEBI/HO/DDHS/DDHS-PoD-2/ I/11700/2026 May 15, 2026\nTo,\nAll Infrastructure Investment Trusts (“InvITs”)\nAll Parties to InvITs\nAll Depositories\nAll Recognized Stock Exchanges\nMadam / Sir,\nSubject: Permitted use of fresh borrowings for InvITs where Net Borrowings\nexceeds forty-nine percent of the value of InvIT assets",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "96267bed-77d1-5fef-96db-cf6fd34b206b",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. Regulation 20(3)(b)(ii) of SEBI (Infrastructure Investment Trusts) Regulations,\n2014 (“InvIT Regulations”) was amended on April 17, 2026 to expand the\npermissible use of borrowings above forty-nine percent in the manner as\nspecified by the Board",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "f28c460b-76c1-56b7-8201-6c5bb1b4128e",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Accordingly, the following shall be considered as permissible use of borrowing\nabove forty-nine percent under Regulation 20(3)(b)(ii) of InvIT Regulations–",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "f945b760-58c8-50c9-acf2-d912cd8de4a0",
+      "clause_number": "2.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "2.1. Capital expenditure made to enhance asset performance or for capacity\naugmentation;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "48635852-dabc-5423-b6d2-27e67b929a5b",
+      "clause_number": "2.2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "2.2. Major maintenance expense in respect of Road Project, wherein -",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "425afca0-cb9e-52fa-8c2f-b2ac324db8a8",
+      "clause_number": "2.2.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "2.2.1. Major maintenance expense shall mean expenditure incurred on\nmaintenance of road project which is not routine maintenance and is in\naccordance with the obligations and requirements specified in the\nconcession agreement;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "771a4115-47b3-53fb-8ef4-77c32494c41e",
+      "clause_number": "2.2.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "2.2.2. Road Project shall mean a project in the 'Roads and bridges'\ninfrastructure sub-sector as mentioned in the notification of the Ministry\nof Finance dated September 19, 2025 and shall include any\namendments or additions made thereto.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "550be491-d4e1-5844-961d-1d16dc90634d",
+      "clause_number": "2.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "2.3. Refinancing of debt, by the InvIT, SPV or Holdco, subject to the following\nconditions:\n2.3.1. the original debt which is being refinanced was utilized for the purposes\npermitted under Regulation 20(3)(b)(ii) of the InvIT Regulations;\n2.3.2. only the principal portion of debt is refinanced i.e. any accumulated\ninterest or any charges or fees by whatever name called shall not be\nrefinanced.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "6e0712c3-4e6a-5119-b66b-78c3fd6b4133",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "3. This circular shall come into force with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "a1e0017b-85e7-5151-b773-bcda59dff50b",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "4. This circular is issued in exercise of the powers conferred under Section 11(1)\nof the Securities and Exchange Board of India Act, 1992, Regulation 20(3)(b)(ii)\nand Regulation 33 of the SEBI (Infrastructure Investment Trusts) Regulations,\n2014. This circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "c901f994-5d0f-5e27-8bf6-66b9a455636f",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "5. The recognized Stock Exchanges are advised to disseminate the contents of\nthis Circular on their website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    },
+    {
+      "uid": "ebe1a67e-0784-5c6c-8bac-24b57efd277c",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "6. This circular is available on the website of Securities and Exchange Board of\nIndia at www.sebi.gov.in under the category “Legal  Circulars”.\nYours faithfully\nRitesh Nandwani\nDeputy General Manager\nDepartment of Debt and Hybrid Securities\nTel No. +91-22-2644 9696\nEmail id – riteshn@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844118656.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/permitted-use-of-fresh-borrowings-for-invits-where-net-borrowings-exceeds-forty-nine-percent-of-the-value-of-invit-assets_101465.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/431ca563-1778844118656.pdf",
+        "sha256": "431ca5634957914cd777a7c2e24a922c3bd48834c98076f42c15f2719d1b9b3a",
+        "downloaded_at": "2026-07-06T12:02:31Z"
+      }
+    }
+  ]
+}

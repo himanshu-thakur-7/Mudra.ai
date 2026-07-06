@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+    "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+    "downloaded_at": "2026-07-06T12:03:12Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:24.990082+00:00",
+  "supersession_hints": [
+    {
+      "page": 2,
+      "phrase": "supersede",
+      "context": "ing facility to strengthen its framework. Stock Exchanges are hereby advised to disseminate the circular to the Stock brokers. 8. This circular shall supersede earlier SEBI circular no SEBI/HO/MIRSD/MIRSD- PoD-1/P/CIR/2022/177 dated December 30, 2022. 9. This circular is being is",
+      "refs": [
+        "circular no SEBI/HO/MIRSD/MIRSD-",
+        "PoD-1/P/CIR/2022/177"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "uid": "0be0642f-f83c-5132-af68-466c4ad309d2",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/38/44/12(3)2025-MIRSD-TPD1/I/10705/2026 May 07, 2026\nTo\nAll recognized Stock Exchanges\nDear Sir/ Madam,\nSub: - Discontinuation of Investor Risk Reduction Access (IRRA) platform",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "f8de4503-a252-5fa1-954b-3c808c280b87",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI vide circular dated December 30, 2022 introduced IRAA platform for the\nStock brokers. The platform is designed to provide Stock brokers an alternative\naccess point for trading in case of disruption of trading services offered by them.\nThe platform was operationalized with effect from October 01, 2023.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "3f1e5845-4169-512a-a443-16ca287ecac4",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. In the meantime, SEBI has introduced various technology driven measures to\nstrengthen the business continuity requirements for the Stock broker’s operations.\nThese measures include operationalization of BCP-DR requirements, enhanced\nCyber Security and Cyber Resilience framework, implementation of Security\nOperations Centre for the market (M-SoC) and strengthening the technical glitch\nframework etc.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "dacc251e-ab00-5173-b19f-f0cf8e087895",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Furthermore, the trading operations of Stock brokers have seen significant\ntechnological advancements over the years. These innovations have\nstrengthened the operational resilience of Stock brokers by facilitating seamless\ntransitions between primary and alternate sites during periods of disruption and\nemergence of independent cold sites for business continuity etc.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "3069dc85-d385-5dbe-a4aa-e2fa063849c6",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. In addition, Stock Exchanges provide an alternative contingency trading\nframework for the Stock brokers (i.e. Contingency Pool Trading facility). The\nContingency Pool Trading facility is a mechanism offered by Stock Exchanges that\nallows Stock brokers to square off outstanding open positions for their clients\nduring business disruptions. This facility operates via the exchange's internal\nnetwork within its physical premises, where broker allocated dedicated terminals\nare seamlessly connected to the Stock Exchange trading platform.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "28e8a958-770b-5559-a7d8-9295fbc49096",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. These initiatives were designed to ensure operational continuity and provide\ninvestors with seamless trading services from the Stock brokers. Such\nenhancements have significantly improved the trading infrastructure of Stock\nbrokers, bolstering their capacity to provide continuity in their trading services to\nthe investors. Furthermore, the Contingency Pool Trading facility has been utilized\nby brokers on several occasions over the past few years in case of business\ndisruptions.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "7774c7eb-c4f5-5d8c-89b9-17d16d3ca3e8",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. Consequently, Stock Exchanges have informed SEBI that the IRRA platform has\nbecome structurally redundant. Since its inception, the platform has not been\naccessed by the stock brokers, largely due to the implementation of robust\nregulatory measures, significant technological innovations within trading\noperations and the availability of Contingent Pool Trading facility. Hence, Stock\nExchanges unanimously recommended that there is a case to discontinue the\nIRRA platform.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "1a75196b-2c2d-59d8-b41d-e4dc93a07896",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "7. Accordingly, based on stakeholder feedback and the aforementioned factors, it\nhas been decided to discontinue the IRRA platform with immediate effect.\nConcurrently, Stock Exchanges may review the Contingency Pool Trading facility\nto strengthen its framework. Stock Exchanges are hereby advised to disseminate\nthe circular to the Stock brokers.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "a15dc1db-2097-5303-8c7b-8c8a58e43265",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "8. This circular shall supersede earlier SEBI circular no SEBI/HO/MIRSD/MIRSD-\nPoD-1/P/CIR/2022/177 dated December 30, 2022.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "a59b21fe-ff4a-51db-bd2c-23c0c4a5cea9",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "9. This circular is being issued in exercise of powers conferred under Section 11 (1)\nof the Securities and Exchange Board of India Act 1992 and Regulation 50 of SEBI\n(Stock Brokers) Regulations 2026, to protect the interests of investor in securities\nand to promote the development of, and to regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "6b5a3cdc-2f71-5ad8-8350-7ab26eb8d231",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "10. This circular is available on SEBI website at www.sebi.gov.in under the categories\n“Legal Framework” and “Circulars”.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    },
+    {
+      "uid": "8e483af8-a301-5e63-807e-3196f4f83bc3",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "11. This circular shall come into effect from May 07, 2026.\nYours faithfully,\nVishal M Padole\nGeneral Manager, MIRSD\nTel. No: 022 26449247\nEmail ID: vishalp@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778149088029.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/discontinuation-of-investor-risk-reduction-access-irra-platform_101300.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/b8bc1f0e-1778149088029.pdf",
+        "sha256": "b8bc1f0e115668de0dd036a01f6ca77fa510b7615be61ef62d0961f104bbe38d",
+        "downloaded_at": "2026-07-06T12:03:12Z"
+      }
+    }
+  ]
+}

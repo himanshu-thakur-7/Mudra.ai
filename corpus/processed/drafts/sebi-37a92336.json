@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+    "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+    "downloaded_at": "2026-07-06T12:02:01Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:24.311902+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "49b9b36c-f488-5584-8e2e-936f89269600",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "Circular\nHO/24/11/24(62)2026-IMD-RAC4/I/11872/2026 May 19, 2026\nTo,\nAll Mutual Funds\nAll Asset Management Companies (AMCs)\nAll Trustee Companies/ Board of Trustees of Mutual Funds\nAssociation of Mutual Funds in India (AMFI)\nMadam/ Sir,\nSub: Revision of Monthly Cumulative Report (MCR) Format",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "aa07d3d5-b555-56b4-a1ac-c18f9d164a48",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. Please refer to clause 6.20 of SEBI Master Circular for Mutual Funds dated March 20, 2026\n(hereinafter referred as “Master Circular”) prescribing the format for reporting of Monthly\nCumulative Report (MCR).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "6843cdcf-f1e9-5042-88bd-dbe80b4e2721",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Pursuant to introduction of a new scheme categories vide SEBI Circular dated February 26, 2026\non Categorisation and Rationalisation of Mutual Fund Scheme now consolidated as clause 3.7 of\nMaster Circular, it has been decided to modify MCR format from June 2026 onwards. The revised\nformat of MCR is enclosed as Annexure A along with MCR SIF format enclosed at Annexure B.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "0d93869b-919e-532c-b9a6-001b7f71b264",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. All other conditions specified in the above mentioned clause of the Master Circular shall remain\nunchanged.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "a044343d-64e1-5cd6-b90d-3c3ca71a1576",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. This Circular is issued in exercise of the powers conferred by Section 11(1) of the Securities and\nExchange Board of India Act, 1992 read with provisions of the SEBI (Mutual Funds) Regulations\n2026 to protect the interest of investors in securities and to promote the development of, and to\nregulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "c9472b59-bf94-59a8-a742-f8c052b04f6f",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. This Circular is available at www.sebi.gov.in under the link “Legal ->Circulars”.\nYours sincerely,\nJubin Mehta\nDeputy General Manager\nInvestment Management Department",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "4de30938-ab30-51e5-a0ec-880b782b2ad1",
+      "clause_number": "table-p2-1",
+      "kind": "table",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "Table on page 2 (93 rows): Name of the Mutual Fund : -------\n\n| Name of the Mutual Fund : ------- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| MCR for the Month of ------- (Month), 20XX |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Sr. No. | Scheme Category | No.of schemes as on ----- | No.of folios as on ----- | Funds mobilised for the period (since April 01, 20XX to ----- ) INR in crore | Repurchase/redem ption for the period (since April 01, 20XX to -----) INR in crore | Net Inflow(ve) / Outflow(-ve) for the period (since April 01, 20XX to ---- ) INR in crore | Net Asset under management as on ---- INR in crore | Average assets under management for the month ---- INR in crore | No.of segregated portfolio created as on ----- | Net assets under management in segregated portfolios as on ----- INR in crore | SIP Infows for the Month of ---, 20XX | Existing SIP Accounts at the beginning of the Month of ----, 20XX (Excluding STP) | SIP Accounts Registered during the Month of ---, 20XX | SIP Accounts Matured during the Month of ---, 20XX | SIP Accounts terminated prematurely during the Month of -----, 20XX | Closing no. of SIPs at the end of Month of --- --, 20XX |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) | (14) | (15) | (16) | (17) |\n| A | Open ended Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| I | Debt Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Overnight Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Liquid Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Ultra Short Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iv. | Ultra Short to Short Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| v. | Money Market Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vi. | Short Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vii. | Medium Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| viii. | Medium to Long Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ix. | Long Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| x. | Dynamic Term Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xi. | Corporate Bond Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xii. | Credit Risk Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xiii. | Banking and PSU Debt Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xiv. | Gilt Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xv. | 10-year Constant Maturity Gilt Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xvi. | Floating Interest Rates Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xvii. | Sectoral Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - I |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Equity Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Multi Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Large Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Large & Mid Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iv. | Mid Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| v. | Small Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vi. | Flexi Cap Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vii. | Dividend Yield Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| viii. | Value Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ix. | Contra Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| x. | Focused Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xi. | Sectoral Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xii. | Thematic Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| xiii. | ELSS- Tax Saver Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - II |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| III | Hybrid Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Conservative Hybrid Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Balanced Hybrid Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Aggressive Hybrid Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iv. | Balanced Advantage Fund/ Dynamic Asset Allocation |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| v. | Multi Asset Allocation Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vi. | Arbitrage Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vii. | Equity Savings Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - III |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| IV | Life Cycle Funds |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Life Cycle Fund with Maturity of 5 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Life Cycle Fund with Maturity of 10 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Life Cycle Fund with Maturity of 15 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iv. | Life Cycle Fund with Maturity of20 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| v. | Life Cycle Fund with Maturity of 25 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vi. | Life Cycle Fund with Maturity of 30 Years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - IV |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| V | Solution Oriented Schemes ** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Retirement Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Childrens' Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| V | Index Funds |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Equity Funds |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Debt Funds |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Hybrid Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - VI |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| VI | Exchange Traded Funds (ETFs) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Equity ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Debt ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Hybrid ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iv. | Gold ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| v. | Silver ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vi. | Other ETF |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| vii. | ETFs investing overseas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - VII |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| VIII | Overseas Fund of Funds |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Fund of Funds investing overseas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - VIII |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Total A- Open Ended Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| B | Close Ended Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| I | Income/Debt Oriented Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Fixed Term Plan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Infrastructure Debt Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Other Debt Scheme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total I |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| II | Growth/Equity Oriented Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | ELSS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total II |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Total B -Close ended Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| C | Interval Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Income/Debt Oriented Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Total C -Interval Schemes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Grand Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Fund of Funds Scheme (Domestic) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Notes: 1.In column number (3), numberof schemes shall include series / serialplans 2.In column number (3),segregated portfolios created in a scheme shall not be treated as a separate scheme. 3.In column number (4), number of folios shall not include folios of segregated portfolios 4.In column number (8)and (9), AUM of segregated portfoliosshall be included 5.In column number (9), AAUM is the average of the daily AUM of the Mutual Fund for the month. 6.In column number (10), numberof segregated portfolios created in a scheme can be more than one 7.Inter scheme investments are excluded from the above data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    },
+    {
+      "uid": "11ce1a5b-fcd8-5c5a-8772-b104b383a363",
+      "clause_number": "table-p3-2",
+      "kind": "table",
+      "page": 3,
+      "paragraph_index": 8,
+      "text": "Table on page 3 (18 rows): Name of the SIF: ____\n\n| Name of the SIF: ____ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Name of the Mutual Fund : ------- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| MCR-SIF for the Month of ------- (Month), 20XX |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Sr. No. | Scheme Category | No.of schemes as on ----- | No.of folios as on ----- | Funds mobilised for the period (since April 01, 20XX to ----- ) INR in crore | Repurchase/ redemption for the period (since April 01, 20XX to ----- ) INR in crore | Net Inflow(ve) / Outflow(-ve) for the period (since April 01, 20XX to ---- ) INR in crore | Net Asset under manageme nt as on ---- INR in crore | Average assets under m anageme nt for the month ---- INR in crore | No.of segregate d portfolio created as on ----- | Net assets under managem ent in segregate d portfolios as on ----- | SIP Infows for the Month of ---, 20XX | Existing SIP Accounts at the beginning of the Month of ----, 20XX (Excluding STP) | SIP Accounts Registere d during the Month of ---, 20XX | SIP Accounts Matured during the Month of ---, 20XX | SIP Accounts terminated premature ly during the Month of -----, 20XX | Closing no. of SIPs at the end of Month of -----, 20XX |\n| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | INR in (11) | (12) | (13) | (14) | (15) | (16) | (17) |\n| A | Equity Oriented Investment Strategies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Equity Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Equity Ex-Top 100 Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| iii. | Sector Rotation Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| B | Debt Oriented Investment Strategies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Debt Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Sectoral Debt Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| C | Hybrid Investment Strategies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| i. | Active Asset Allocator Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ii. | Hybrid Long-Short Fund |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Sub total - C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | Grand Total (A+B+C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779193408747.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/revision-of-monthly-cumulative-report-mcr-format_101522.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/37a92336-1779193408747.pdf",
+        "sha256": "37a92336e5f62b2896688eb0617bb0f2f4d94db337d4ffe0ebdd382d751c11f3",
+        "downloaded_at": "2026-07-06T12:02:01Z"
+      }
+    }
+  ]
+}

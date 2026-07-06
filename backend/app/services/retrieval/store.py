@@ -57,8 +57,14 @@ class SqliteNumpyStore:
         self.db = db
 
     def _audience_clauses(self, audience: str) -> list[Clause]:
+        """Audience pre-filter + temporal hard-filter: SUPERSEDED/AMENDED
+        clauses can never enter a review, mirroring the Qdrant payload filter."""
         tag = _audience_tag(audience)
-        return [c for c in self.db.scalars(select(Clause)).all() if tag in (c.tags or [])]
+        return [
+            c
+            for c in self.db.scalars(select(Clause).where(Clause.status == "ACTIVE")).all()
+            if tag in (c.tags or [])
+        ]
 
     async def search(self, query: str, audience: str, k: int = 12) -> list[RetrievedClause]:
         clauses = self._audience_clauses(audience)

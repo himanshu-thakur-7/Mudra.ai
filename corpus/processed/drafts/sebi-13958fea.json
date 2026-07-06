@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+    "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+    "downloaded_at": "2026-07-06T12:06:26Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.458722+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "f5b27789-1acb-59ec-84f8-9026f96fe45e",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/49/14/14(13)2026-CFD-POD2/ I/8772/2026 April 7, 2026\nTo,\nAll listed entities\nAll recognised Stock Exchanges\nAll registered Depositories\nMadam / Sir,\nSubject: Relaxation from the applicability of SEBI Master Circular for compliance with the\nprovisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,\n2015 on non-compliance with the Minimum Public Shareholding (MPS) requirements",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "1af2a0b5-e905-598e-ac2e-0b4dbe00b602",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI Master Circular dated July 11, 2023 for compliance with the provisions of the SEBI\n(Listing Obligations and Disclosure Requirements) Regulations, 2015 by listed entities\n(Master Circular), inter alia, prescribes the procedure to be followed by recognized stock\nexchanges and depositories in respect of listed entities not complying with MPS\nrequirements, including levy of fines, freezing of promoter shareholding, and other\nconsequential actions.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "e187f2a4-f372-5c3b-b733-92d62930b016",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. SEBI has received representation from an Industry body highlighting the difficulties faced\nby listed entities in achieving compliance with MPS requirements, inter alia, on account of\ncapital market volatility arising from ongoing geopolitical tensions in the Middle East.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "0b29531d-c293-53ce-80eb-2542b9cf0c8d",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Considering the above representation and the prevailing market conditions, it has been\ndecided to grant one-time relaxation from the applicability of penal provisions under the\nMaster Circular for listed entities whose due date for compliance with MPS requirements\nfalls during the period from April 1, 2026 to September 30, 2026. Accordingly, recognised\nstock exchanges and depositories are advised not to take any penal action as envisaged\nunder the Master Circular against such entities for non-compliance during the said period.\nFurther, any penal actions initiated by the stock exchanges or depositories against such\nlisted entities for non-compliance with MPS requirements during the period from April 1,\n2026 till date may be withdrawn.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "774f6cf5-b6e2-50d5-8000-a7cd93409a94",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. The circular shall be applicable with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "aa207012-ca70-57a2-bb9a-3ae439acdcef",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "5. The stock exchanges are accordingly advised to:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "f07bf1c4-1c14-5373-9cd3-353f416c2fa1",
+      "clause_number": "5.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "5.1. Bring the provisions of this circular to the notice of all the entities whose securities are\nlisted in the stock exchange and also to disseminate the same on its website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "20bdc04e-fea2-5718-8658-a3eb4d31fa5a",
+      "clause_number": "5.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "5.2. Make amendments to the relevant bye-laws, rules and regulations for the\nimplementation of the terms of this circular, if necessary.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "a3e3313e-7738-5ef1-b850-0dff5f1b11a2",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "6. This Circular is issued in exercise of powers conferred under Section 11 and Section 11A\nof the Securities and Exchange Board of India Act, 1992 to protect the interests of\ninvestors in securities and to promote the development of, and to regulate the securities\nmarket.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    },
+    {
+      "uid": "15fdf580-5d6f-5b7e-a35d-b205f6c9927b",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "7. This Circular is available at www.sebi.gov.in under the link “LegalCirculars”.\nYours faithfully,\nRaj Kumar Das\nDeputy General Manager\nCorporation Finance Department\nPolicy and Development-2\n+91-22-26449253\nrajkd@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775562977206.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/relaxation-from-the-applicability-of-sebi-master-circular-for-compliance-with-the-provisions-of-the-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-on-non-compliance-with-the-_100787.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/13958fea-1775562977206.pdf",
+        "sha256": "13958fea2eebf797c63bc49bed4edcf6927b2ebd690141529da77670ec5dd20e",
+        "downloaded_at": "2026-07-06T12:06:26Z"
+      }
+    }
+  ]
+}

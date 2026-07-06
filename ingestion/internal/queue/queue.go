@@ -17,7 +17,16 @@ const (
 	ProcessQueue  = "ingest:process"  // cross-language: downloader -> Python consumer
 	SeenSetPrefix = "ingest:seen:"    // per-regulator set of already-handled doc URLs
 	ActivityList  = "ingest:activity" // capped feed of structured fleet events (dashboard)
+	DocStateHash  = "ingest:docstate" // url -> {state, sha256, ts}: the ingestion state machine
 	activityCap   = 500
+)
+
+// Document lifecycle states (pillar: idempotent transactional ingestion).
+// DISCOVERED -> DOWNLOADED -> PARSED -> CHUNKED are written by the fleet and
+// the Python consumer; EMBEDDED/VERIFIED land when vetted clauses are merged.
+const (
+	StateDiscovered = "DISCOVERED"
+	StateDownloaded = "DOWNLOADED"
 )
 
 // Activity is one dashboard-feed event. The Python consumer publishes the
@@ -36,12 +45,16 @@ type DownloadJob struct {
 	Regulator    string `json:"regulator"`
 	SourcePage   string `json:"source_page"`
 	DiscoveredAt string `json:"discovered_at"`
+	// PDFPattern, when set, marks this as a detail-page hop: an HTML response
+	// is mined for URLs matching the pattern instead of being skipped.
+	PDFPattern string `json:"pdf_pattern,omitempty"`
 }
 
 // ProcessJob tells the Python service a PDF landed in the object store.
 type ProcessJob struct {
 	PDFPath      string `json:"pdf_path"`
-	URL          string `json:"url"`
+	URL          string `json:"url"`         // the PDF itself
+	SourcePage   string `json:"source_page"` // listing/detail page it was discovered on (lineage)
 	Regulator    string `json:"regulator"`
 	SHA256       string `json:"sha256"`
 	DownloadedAt string `json:"downloaded_at"`
@@ -54,6 +67,7 @@ type Queue interface {
 	IsSeen(ctx context.Context, regulator, url string) (bool, error)
 	MarkSeen(ctx context.Context, regulator, url string) error
 	PublishActivity(ctx context.Context, a Activity)
+	SetDocState(ctx context.Context, url, state, sha256 string)
 }
 
 type RedisQueue struct{ rdb *redis.Client }
@@ -95,6 +109,16 @@ func (q *RedisQueue) IsSeen(ctx context.Context, regulator, url string) (bool, e
 // content hash and the Python consumer is idempotent per sha256.
 func (q *RedisQueue) MarkSeen(ctx context.Context, regulator, url string) error {
 	return q.rdb.SAdd(ctx, SeenSetPrefix+regulator, url).Err()
+}
+
+// SetDocState records a document's position in the ingestion state machine.
+// Best-effort like the activity feed: state loss must never block ingestion.
+func (q *RedisQueue) SetDocState(ctx context.Context, url, state, sha256 string) {
+	b, _ := json.Marshal(map[string]string{
+		"state": state, "sha256": sha256,
+		"ts": time.Now().UTC().Format(time.RFC3339),
+	})
+	_ = q.rdb.HSet(ctx, DocStateHash, url, b).Err()
 }
 
 // PublishActivity pushes a dashboard event (best-effort: feed loss must never

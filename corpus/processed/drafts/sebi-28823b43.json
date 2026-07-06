@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+    "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+    "downloaded_at": "2026-07-06T12:05:53Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.214995+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "4de78be1-2ea2-5cae-99f8-d73fe48ba19f",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/49/14/11(12)2026-CFD-POD1/I/8806/2026 April 13, 2026\nTo\nThe Institute of Social Auditors of India\nThe ICSI Institute of Social Auditors\nThe ICMAI Social Auditors Organization\nSocial Impact Assessors\nDear Sir / Madam,\nSubject: NISM Certification for Social Impact Assessors",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    },
+    {
+      "uid": "3d1b56ee-eed5-5d94-be9f-1e4747755868",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. In terms of Regulation 292A (f) of SEBI (Issue of Capital and Disclosure Requirements)\nRegulations, 2018 (‘ICDR Regulations’), a Social Impact Assessor, inter-alia, is required\nto qualify the certification program conducted by National Institute of Securities Market\n(NISM) and holds a valid certificate.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    },
+    {
+      "uid": "c91fef50-0916-5b92-8481-06e95ec084d3",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. It is hereby specified that the Social Impact Assessor shall obtain the following certification\nof the National Institute of Securities Market –\n‘NISM Series XXIII – Social Impact Assessors Certification Examination’.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    },
+    {
+      "uid": "546f9bfd-7b35-5305-8cde-becd44b774f7",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. For renewal of the certification, the Social Impact Assessor shall, either again obtain the\n‘NISM Series XXIII – Social Impact Assessors Certification Examination’ certification or\nsuccessfully complete the ‘NISM Series XXIII - Social Impact Assessors Certification eCPE\nProgram’ of NISM.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    },
+    {
+      "uid": "246d84e1-eaa9-5fbc-9fbb-d34ed50a5a14",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. This Circular is issued in exercise of the powers conferred under Section 11(1) of the\nSecurities and Exchange Board of India Act, 1992 read with Regulation 292A(f) of the\nICDR Regulations to protect the interests of investors and to promote the development of,\nand to regulate the securities market and shall come into effect immediately.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    },
+    {
+      "uid": "2dd66b92-3cab-5294-9cb5-8379968d3dc9",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. A copy of this circular is available on SEBI website at www.sebi.gov.in under the categories\n“Legal → Circulars”.\nYours faithfully,\nVimal Bhatter\nDeputy General Manager\nCorporation Finance Department\nTel. No.: +91 22 4045 9386\nEmail id: vimalb@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776082646745.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/nism-certification-for-social-impact-assessors_100911.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/28823b43-1776082646745.pdf",
+        "sha256": "28823b43479145e22c2ed7d24716d31ee246989abeb4976f4edad77cccb4a0b4",
+        "downloaded_at": "2026-07-06T12:05:53Z"
+      }
+    }
+  ]
+}

@@ -13,6 +13,10 @@ type Target struct {
 	Name        string `json:"name"`         // human label, e.g. "SEBI circulars listing"
 	URL         string `json:"url"`          // listing page to watch
 	LinkPattern string `json:"link_pattern"` // regexp a candidate document link must match
+	// PDFPattern enables the second crawl hop: when the matched link serves
+	// HTML (a detail page), the downloader extracts URLs matching this pattern
+	// from the page body — including JS-embedded ones — and fetches those.
+	PDFPattern string `json:"pdf_pattern,omitempty"`
 }
 
 // Config is the fleet configuration (targets.json).

@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+    "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+    "downloaded_at": "2026-07-06T12:04:27Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:26.449099+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "23ba4f80-d9c0-5395-be1f-2cff7d2dad61",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/38/14/(4)2026-MIRSD-POD/I/10557/2026 April 29, 2026\nTo,\nAll Registered Credit Rating Agencies (“CRAs”)\nAll Registered Investment Advisers (“IAs”)\nAll Registered Research Analysts (“RAs”)\nAll Registered Stock Brokers (“SBs”)\nAll Recognised Stock Exchanges (“SEs”)\nAll Recognised Clearing Corporations (“CCs”)\nAll Recognised Depositories\nAssociation of Mutual Funds in India (“AMFI”)\nAll exchange empanelled Algo Providers through Stock Brokers\nDear Sir/Madam,\nSubject: Operationalisation of Past Risk and Return Verification Agency\n(“PaRRVA”)\nBackground",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "5bb3c3dd-6980-5f36-886c-850112bb3dc7",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI, vide circular no. SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/51 dated April 4,\n2025, specified the framework for recognition and operationalisation of PaRRVA.\nAs specified in the said circular, A CRA may be recognized as a PaRRVA, in terms\nof Regulation 12A of the ‘SEBI (Credit Rating Agencies) Regulations, 1999’\n(“CRA Regulations”) read with Regulation 16E of the SEBI (Intermediaries\nRegulations), 2008 (“Intermediaries Regulations”) and such CRA shall engage with\na recognized SE which will serve as the PaRRVA Data Centre (“PDC”).\nRecognition of PaRRVA",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "8f19836d-7b6b-5aa9-a762-336c602ae333",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. In pursuance of the above circular, Care Ratings Limited (“CRL”) has been granted\nrecognition as PaRRVA, with National Stock Exchange India Limited (“NSE”)\nacting as PDC. The recognition shall be valid until it is revoked or suspended by\nSEBI.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "c876f620-88ae-55b9-aa96-8a5dc7cf1404",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 4,
+      "text": "3. Post successful completion of the pilot-phase, CRL shall begin providing its\nservices on regular basis from May 04, 2026.\nCommunication of certified past performance by IAs/RAs to clients",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "12cbb61c-3319-53e6-81c3-e6929fafb90f",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. SEBI, vide circular no. HO/38/12/11(1)2025-MIRSD-POD/I/73/2025 dated October\n30, 2025, as an interim arrangement, permitted IAs/RAs to communicate certified\npast performance data of the period prior to operationalization of PaRRVA (“pre-\nPaRRVA period”) to a client, in accordance with the provisions laid down in the\nsaid circular. The circular inter alia also mandates the following:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "717a29c2-4d59-5014-a132-0b7f54226327",
+      "clause_number": "4.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "4.1. IAs/RAs who wish to communicate certified past performance data to clients\n(including prospective clients) must enroll with PaRRVA within three months of\nits operationalization, else such IAs/RAs will not be able to communicate\ncertified past performance data to clients post three months from the date of\noperationalization of PaRRVA.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "2143d1ab-a041-5067-b1c6-ee61921d55ac",
+      "clause_number": "4.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "4.2. After two years from the date of operationalization of PaRRVA, IAs/RAs will be\npermitted to communicate/display only PaRRVA verified risk and return\nmetrics and will not be permitted to use past performance data related to\nthe period prior to the date of operationalization of PaRRVA, in any\ncommunication to clients (including prospective clients).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "a9251324-09a2-5228-8587-f12da1a35b1a",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "5. In view of the above, it is specified that-",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "ff18ab03-7390-50c2-8d3e-d11233305c90",
+      "clause_number": "5.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "5.1. IAs/RAs who wish to communicate certified past performance data to clients\n(including prospective clients) must enroll with PaRRVA by August 03, 2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "86b81b71-eb37-5774-a85a-2b56215c798a",
+      "clause_number": "5.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "5.2. IAs/RAs may communicate certified past performance data to clients (including\nprospective clients), only up to May 03, 2028.\nChange in composition of Oversight Committee",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "516bbc64-6156-5e43-8d82-3c6845485b54",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "6. Paragraph 27 of the SEBI Circular no. SEBI/HO/MIRSD/MIRSD-\nPoD/P/CIR/2025/51 dated April 4, 2025 mandates PaRRVA to constitute an\noversight committee to oversee the activities of the CRA as PaRRVA and the Stock\nExchange as PDC. The said para also prescribed the composition of the oversight\ncommittee.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "cd43c112-da99-57d8-ad50-3f72491c3ffc",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 12,
+      "text": "7. Based on receipt of representations from PaRRVA and PDC regarding the\nchallenges faced in constitution of the committee, the proposed composition of the\noversight committee has been revised as under:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "1587b6b8-1cdf-51aa-b3ed-2b76ea2322b4",
+      "clause_number": "7.1",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 13,
+      "text": "7.1. The committee may consist of representatives of PaRRVA, PDC,\nintermediaries/regulated persons and SEBI recognised investor association\nand an eminent individual having substantial regulatory experience as\nChairperson of the committee.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "99d0c38b-c72f-5f31-8bb9-0767abd4ea2e",
+      "clause_number": "7.2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "7.2. The PaRRVA representative/s shall be of the designation ‘Executive Director’\nor ‘Senior Director’ and should have requisite experience, capabilities, and\nexpertise to contribute effectively to the committee.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "01b1c688-1cc7-525f-a04e-a7f94218662c",
+      "clause_number": "7.3",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "7.3. The PDC representative/s shall be preferably at the CXO level1, to ensure\nstrategic oversight and operational alignment, and should possess the\nrequisite experience, capabilities, and expertise to contribute effectively to the\ncommittee.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "9849151a-6992-5f63-8b68-7e5c010c875d",
+      "clause_number": "7.4",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 16,
+      "text": "7.4. Member/s representing at least two of the intermediaries/regulated persons.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "ccb40e2f-ec7e-5915-a982-2fc1725f2655",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 17,
+      "text": "8. The committee shall consist of a minimum of five members and may be expanded\nby PaRRVA to include more members if required. However, the total number of\nindependent members (i.e. Chairperson, representatives of\nintermediaries/regulated persons and investor association) shall be more than the\ntotal number of representatives of PaRRVA and PDC.\nCompliance by regulated persons",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "fa355533-866a-5899-82db-72d76437a4fe",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 18,
+      "text": "9. The provisions of Paragraph 27 of the SEBI circular dated April 4, 2025 stands\nmodified to the extent of Paragraph no. 7 and 8 as detailed above. All other\nprovisions specified in said circular shall continue to remain applicable.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "ff19bdc9-3f05-53f2-90a7-4321d6069855",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 19,
+      "text": "10. This circular is issued in exercise of powers conferred under Section 11(1) of the\nSecurities and Exchange Board of India Act, 1992 read with",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "89b2aabe-1b0e-5a1a-886e-4fffad888d03",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 20,
+      "text": "1 CXO means CRO (Chief Regulatory Officer), CTO (Chief Technology Officer), CFO (Chief Financial\nOfficer) or an official holding similar position in Stock Exchange\n(i) Regulation 16D, 16E and 16F of the Intermediaries Regulations\n(ii) Regulation 33 of the Securities and Exchange Board of India(Research\nAnalysts) Regulations,2014,\n(iii) Regulation 29 of the Securities and Exchange Board of India (Investment\nAdvisers) Regulations,2013,",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "aedd8551-4594-5fb9-997d-e52c69c9edf5",
+      "clause_number": "(iv",
+      "kind": "roman",
+      "page": 4,
+      "paragraph_index": 21,
+      "text": "(iv) Regulation 50 of the Securities and Exchange Board of India (Stock\nBrokers) Regulations, 2026,\n(v) Regulation 12A of the CRA Regulations and\n(vi) Regulation 38B of Securities Contracts (Regulation) (Stock Exchanges and\nClearing Corporations) Regulations, 2018\nto protect the interests of investors in securities market and to promote the\ndevelopment of, and to regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    },
+    {
+      "uid": "7580babc-0336-5349-83c8-c6c4dc6b186b",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 22,
+      "text": "11. This circular is available on SEBI website at www.sebi.gov.in under the category\n\"Legal > Circulars.\nYours faithfully,\nAradhana Verma\nGeneral Manager\n+91-22-26449633\nE-mail: aradhanad@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777473564120.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/operationalisation-of-past-risk-and-return-verification-agency-parrva-_101185.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e84f4cf7-1777473564120.pdf",
+        "sha256": "e84f4cf71daadebbc9d1f3a0c7120658c2910624e52e91cf9d007cb26d36e9db",
+        "downloaded_at": "2026-07-06T12:04:27Z"
+      }
+    }
+  ]
+}

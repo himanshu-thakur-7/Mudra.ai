@@ -64,6 +64,15 @@ def status(db: Session = Depends(get_db), user: User = Depends(get_current_user)
 
     activity = [json.loads(x) for x in rdb.lrange("ingest:activity", 0, 99)]
 
+    # Ingestion state machine: DISCOVERED -> DOWNLOADED -> PARSED -> CHUNKED -> …
+    doc_states: dict[str, int] = {}
+    try:
+        for raw in rdb.hvals("ingest:docstate"):
+            state = json.loads(raw).get("state", "?")
+            doc_states[state] = doc_states.get(state, 0) + 1
+    except Exception:
+        pass
+
     changes = db.scalars(
         select(CorpusChangeEvent).order_by(CorpusChangeEvent.created_at.desc()).limit(6)
     ).all()
@@ -80,9 +89,11 @@ def status(db: Session = Depends(get_db), user: User = Depends(get_current_user)
         "inbox": inbox,
         "total_docs": total_docs,
         "total_change_events": db.scalar(select(func.count(CorpusChangeEvent.id))) or 0,
+        "doc_states": doc_states,
         "recent_changes": [
             {"regulator": c.regulator, "n_chunks": c.n_chunks, "method": c.extraction_method,
-             "status": c.status, "created_at": c.created_at.isoformat()}
+             "status": c.status, "created_at": c.created_at.isoformat(),
+             "supersession_hints": len(c.supersession_hints or [])}
             for c in changes
         ],
         "activity": activity,

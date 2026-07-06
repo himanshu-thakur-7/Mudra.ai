@@ -7,7 +7,8 @@
       "title": "Advertisement code for Investment Advisers (IA) and Research Analysts (RA) — Circular SEBI/HO/MIRSD/MIRSD-PoD-2/P/CIR/2023/51",
       "source_url": "https://www.sebi.gov.in/legal/circulars/apr-2023/advertisement-code-for-investment-advisers-ia-and-research-analysts-ra-_69798.html",
       "source_file": "sebi-adcode-2023.pdf",
-      "effective_date": "2023-05-01"
+      "effective_date": "2023-05-01",
+      "status": "ACTIVE"
     },
     {
       "id": "AMFI-COC-2022",
@@ -15,7 +16,8 @@
       "title": "AMFI Code of Conduct for Mutual Fund Distributors (April 2022) — CIR/ARN-22a/2022-23",
       "source_url": "https://www.amfiindia.com/Themes/Theme1/downloads/circulars/ARNCircular22a-RevisedCodeofConductforMFDs2022.pdf",
       "source_file": "amfi-code-of-conduct-2022.pdf",
-      "effective_date": "2022-04-07"
+      "effective_date": "2022-04-07",
+      "status": "ACTIVE"
     },
     {
       "id": "AMFI-DOSDONTS-FAQ",
@@ -23,7 +25,8 @@
       "title": "AMFI FAQs on Do's & Don'ts for MFDs (advertisements, social media and nomenclature)",
       "source_url": "https://www.amfiindia.com/Themes/Theme1/downloads/FAQsonRoleofMFDsAdvts.pdf",
       "source_file": "amfi-mfd-dos-donts-faq.pdf",
-      "effective_date": ""
+      "effective_date": "",
+      "status": "ACTIVE"
     },
     {
       "id": "AMFI-MASTERCIR-2026",
@@ -31,7 +34,8 @@
       "title": "AMFI Master Circular for Mutual Fund Distributors — AMFI/MFD-CIR/32/2025-26 (January 14, 2026)",
       "source_url": "https://www.amfiindia.com/uploads/AMFI_Master_Cicular_for_MF_Ds_3c7f5ee44f.pdf",
       "source_file": "amfi-master-circular-mfds.pdf",
-      "effective_date": "2026-01-14"
+      "effective_date": "2026-01-14",
+      "status": "ACTIVE"
     },
     {
       "id": "RBI-DLD-2025",
@@ -39,7 +43,12 @@
       "title": "Reserve Bank of India (Digital Lending) Directions, 2025 — RBI/2025-26/36, DOR.STR.REC.19/21.07.001/2025-26 (May 8, 2025)",
       "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12848&Mode=0",
       "source_file": "rbi-digital-lending-2025.pdf",
-      "effective_date": "2025-05-08"
+      "effective_date": "2025-05-08",
+      "status": "ACTIVE",
+      "supersedes": [
+        "RBI-DLG-GUIDELINES-2022",
+        "RBI-DLG-DEFAULT-LOSS-2023"
+      ]
     },
     {
       "id": "IRDAI-ADREG-2021",
@@ -47,7 +56,8 @@
       "title": "IRDAI (Insurance Advertisements and Disclosure) Regulations, 2021 — IRDAI/Reg/2/174/2021 (effective April 9, 2021)",
       "source_url": "https://irdai.gov.in/document-detail?documentId=397359",
       "source_file": "irdai-ad-regulations-2021.pdf",
-      "effective_date": "2021-04-09"
+      "effective_date": "2021-04-09",
+      "status": "ACTIVE"
     }
   ],
   "clauses": [

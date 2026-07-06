@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+    "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+    "downloaded_at": "2026-07-06T12:07:26Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.841644+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "9e3bbcc6-0050-513f-8f13-c2d7f1cf13e5",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/38/12/12(1)2026-MIRSD-SEC-FATF/I/7933/2026 March 25, 2026\nTo,\nAll registered Investment Advisers,\nInvestment Advisers Administration and Supervisory Body (IAASB)\nMadam/ Sir,\nSubject: Clarification regarding eligibility of members of the Institute of Cost Accountants of\nIndia to conduct annual audit of Investment Advisers",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "3ed66d12-e22a-56f6-92a3-79a67f382c38",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI vide Master Circular for Investment Advisers dated February 06, 20261 (‘Master Circular’),\nhas provided a consolidated document containing all directions/ instructions/ reporting\nrequirements pertaining to Investment Advisers (IAs).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "3ad5429f-981a-5ef5-8d0a-b37a2347f32b",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. The paragraph 31.2 of Chapter VII of the Master Circular, inter-alia, provides that a member of\nInstitute of Chartered Accountants of India or Institute of Company Secretaries of India can conduct\nannual audit of an IA to verify compliance with the provisions of the SEBI (Investment Advisers)\nRegulations, 2013 (‘IA Regulations’) and circulars issued thereunder.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "dca6e286-a153-5d61-b26b-73ee0b6490a9",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Given the representation from the Institute of Cost Accountants of India and considering the\nrecognition of Cost Accountants to conduct annual audit of IAs, under Regulation 19(3) of the IA\nRegulations, it has been decided to modify the aforementioned paragraph to clarify eligibility of\nmembers of the Institute of Cost Accountants of India to conduct annual audit of IAs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "2b210407-c6f9-560e-a8b0-e38505db35bf",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. Accordingly, the paragraph 31.2 of Chapter VII of the Master Circular, shall be replaced with the\nfollowing:\n\"To conduct annual audit and submit a report and adverse findings, if any\nIn terms of regulation 19(3) of the IA Regulations, IA is required to conduct an annual audit in\nrespect of compliance with the IA Regulations and circulars issued thereunder from a member of\nthe Institute of Chartered Accountants of India or Institute of Company Secretaries of India or\nInstitute of Cost Accountants of India within six months from the end of each financial year. Submit\na report of the same and adverse findings of the audit, if any, along with action taken thereof duly\napproved by the individual IA/ management of the non-individual IA within a period of one month\nfrom the date of the audit report but not later than October 31st of each year for the previous\nfinancial year.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "6a019014-a828-5784-96de-1b7ef40703d1",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "1 Cir. no. HO/38/12/11(2)2026-MIRSD-POD/I/4300/2026 dated February 6, 2026;",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "10f56fba-77ae-5a68-b6b1-7cf3cbd0ac11",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "5. Additionally, paragraph 1 (i) (i) of Chapter I of the Master Circular, shall be replaced with the\nfollowing:\n“The IAs shall maintain on record an annual certificate from a member of ICAI/ ICSI/ ICMAI or\nfrom an auditor confirming compliance with the client level segregation requirements as specified\nin Regulation 22 of the IA Regulations. Such annual certificate shall be obtained within 6 months\nof the end of the financial year and form part of compliance audit, in terms of Regulation 19(3) of\nthe IA Regulations.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "f4451d2e-66eb-547c-aa66-9f73ce4b06d2",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "6. The provisions of this circular shall be applicable from the date of issue of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "344bd606-eeea-584b-b1a5-3a61bb53f982",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "7. This circular is issued in exercise of powers conferred under Section 11(1) of the Securities and\nExchange Board of India Act, 1992, read with Regulations 19(3) and 22(5) of the SEBI (Investment\nAdvisers) Regulations, 2013, to protect the interests of investors in securities and to promote the\ndevelopment of, and to regulate the securities markets.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "078968e5-06ea-5447-a507-09b1c95c3045",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "8. This circular is issued with the approval of the competent authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    },
+    {
+      "uid": "fb1c1f4e-7225-5c7c-b1c9-f0f4082fac46",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "9. This circular is available on the SEBI website at www.sebi.gov.in under the category, ‘Legal →\nCirculars’.\nYours faithfully,\nDivya Hamirbasia\nDeputy General Manager\n022-26449293\ndivyah@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1774433771470.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/clarification-regarding-eligibility-of-members-of-the-institute-of-cost-accountants-of-india-to-conduct-annual-audit-of-investment-advisers_100561.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c3db09b5-1774433771470.pdf",
+        "sha256": "c3db09b5924337dd154319baaa1df9cf46d7cc582e84d46d3117b88e38c5c7d0",
+        "downloaded_at": "2026-07-06T12:07:26Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+    "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+    "downloaded_at": "2026-07-06T12:05:09Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:26.974364+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "8a69a411-d29f-5bbf-ae30-468d5558dae0",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/(1)2026-AFD-POD2/I/10157/2026 April 24, 2026\nTo,",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "52974dfd-f613-50de-a0b2-c1f6a9f1c9a7",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. All Registered Foreign Portfolio Investors",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "19b2aca9-bbec-57a5-b859-aa502d45e7cf",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. All Registered Custodians\n3. All Recognised Clearing Corporations\n4. All Recognised Stock Exchanges\n5. All Registered Stock Brokers through Recognised Stock Exchanges\nDear Sir / Madam,\nSubject: Framework for net settlement of funds for transactions done by Foreign\nPortfolio Investors (FPIs) in cash market",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "50ebe07f-a5b0-57f5-a5d3-b27624c081fd",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "1. SEBI’s Master Circular for Stock Exchanges and Clearing Corporations dated\nDecember 30, 2024 inter-alia stipulates that no institutional investor shall be\nallowed to do day trading, i.e., square off their transactions intra-day. Thus, all\ntransactions carried out by FPIs are required to be grossed at custodians’ level and\nobligations are fulfilled by FPIs on a gross basis. The custodians, however, settle\ntheir deliveries on a net basis with the Clearing Corporations (CCs).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "4a94e10b-8ed8-563c-a421-14aa590699e0",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "2. Representations were received from market participants highlighting that the gross\nsettlement of transactions results in additional liquidity requirements, increased\nfunding costs due to forex slippage and operational inefficiency for FPIs,\nparticularly during days of index rebalancing.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "cdafcfc0-75b0-5db4-9ffa-169a3156f8a5",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "3. Accordingly, with an objective to enhance operational efficiency and reduce cost of\nfunding for FPIs, it is decided to permit net settlement of funds for outright\ntransactions undertaken by FPIs in cash market. For the purpose of this circular,\n‘outright transactions’ shall mean either a purchase or a sale transaction, but not\nboth, in a security in a settlement cycle undertaken by an FPI.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "53258620-8110-55a8-acab-784cfc33b9eb",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "4. The framework for netting of funds for transactions undertaken by FPIs in cash\nmarket shall be as follows:\na) FPI transactions in securities with only outright sell or outright purchase shall\nbe net settled to arrive at net fund obligation for such outright transactions.\nTransactions in securities having both purchase and sale transactions in a\nsettlement cycle shall be excluded from netting. Such non-outright transactions\nshall continue to be settled by FPI as per the current procedure, i.e. on gross\nbasis.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "9c07daf4-8ad8-5421-9798-7c159cbf2835",
+      "clause_number": "b",
+      "kind": "lettered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "b) In case value of outright sale is less than the value of outright purchase, the\nresidual amount along with non-outright purchase obligations shall be funded\nby the FPI. However, if value of outright sale exceeds the value of outright\npurchase, the excess outright sale shall not be adjusted towards non-outright\npurchase obligations.\nc) An illustration of the FPI obligations as per current practice and new mechanism\nis placed at Annexure A.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "215cbe44-5610-5234-b5c4-b094e3c37a8f",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "5. Further, it is clarified that settlement of securities shall continue to be carried out\non gross basis between FPI and custodian. Also, Securities Transaction Tax (STT)\nand stamp duty shall continue to be charged on delivery basis.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "26a04e93-e453-5d4d-ae1d-f829282c6168",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "6. Accordingly, the provisions stated at Para 4 of Annexure 3 of Chapter 1 (Trading)\nof SEBI’s Master Circular for Stock Exchanges and Clearing Corporations dated\nDecember 30, 2024 shall stand modified to the extent specified herein.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "0551e3e7-ea3a-56a9-bce4-d5f28e77a69b",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "7. The implementation standards shall be formulated by the Custodians and\nDesignated Depository Participants Standards Setting Forum (CDSSF), after\nconsulting the relevant stakeholders.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "119d884b-dadc-5f12-93b7-bb7e3d7ea76d",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "8. Custodians, FPIs and all relevant stakeholders are advised to make necessary\nchanges in their systems to effect the changes specified above.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "4d78f772-4c36-5f1f-a851-249deec5e42b",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 13,
+      "text": "9. The provisions of this circular shall be implemented on or before December 31,\n2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "c03081d5-c950-5a62-acc2-7a59f1d1a0ad",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "10. This Circular is issued in exercise of the powers conferred under Section 11(1) of\nthe Securities and Exchange Board of India Act, 1992 read with Regulation 44 of\nSEBI (Foreign Portfolio Investors) Regulations, 2019 to protect the interest of\ninvestors in securities and to promote the development of, and to regulate the\nsecurities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "57667ff0-2362-5a0f-b08e-3271a2178584",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "11. This Circular is available at www.sebi.gov.in under the link “Legal ---Circulars”.\nYours faithfully,\nManish Kumar Jha\nDeputy General Manager\nTel no. +91-22-26449219\nEmail: manishkj@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "64adf856-7f85-5e6d-b2f6-95626b5379d5",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 16,
+      "text": "1. Consider an example wherein on a particular day, an FPI has bought 10 shares of\nstocks A and B worth 1000 each and sold 20 shares of stocks B and C worth 2000\neach. For the sake of simplicity, it is assumed that all the transactions are on\naccount of the said FPI, and the custodian clears the transactions of only this single\nFPI. All transactions are assumed to be confirmed. The example is summarised in\nthe table given below:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z",
+        "chapter": "Annexure A\nIllustration of obligations of FPI as per current practice and new mechanism"
+      }
+    },
+    {
+      "uid": "877579fc-8a10-5dc1-baf4-0b7ac60011a2",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 17,
+      "text": "2. The obligations of FPI under the current practice and new mechanism is as under:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z",
+        "chapter": "Annexure A\nIllustration of obligations of FPI as per current practice and new mechanism"
+      }
+    },
+    {
+      "uid": "d1a6d92e-0186-5bf7-99c1-d3e38ff81cfc",
+      "clause_number": "2.1",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 18,
+      "text": "2.1. Current Practice (Gross Settlement):\na) All the transactions of the FPI are settled on a gross basis with the custodian.\nb) The custodian, however, settles its obligations on a net basis with the\nClearing Corporation (CC).\nc) Accordingly, in the example given above, the pay-in and pay-out obligations\nof FPI towards the custodian and of custodian towards CC are given below:\ni. Obligation of FPI towards custodian\nii. Obligation of custodian towards CC\niii. Pictorial depiction of the obligations of FPI, custodian and CC is given below:\n₹2000\n₹4000 ₹2000\nFPI Custodian CC\nB:20 B:10\nC:20 C:20\nA:10 A:10\nB:10",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z",
+        "chapter": "Annexure A\nIllustration of obligations of FPI as per current practice and new mechanism"
+      }
+    },
+    {
+      "uid": "0e149b74-0ef3-5792-a97d-37f2487368fa",
+      "clause_number": "2.2",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 19,
+      "text": "2.2. New Mechanism (Netting of funds):\na) The transactions in securities with only outright sell or outright purchase shall\nbe netted to arrive at a net fund obligation for outright transactions.\nb) In the instant example, there is an outright purchase in stock A and an\noutright sale in stock C, therefore, they shall be netted to arrive at a net fund\nobligation for outright transactions.\nc) Since stock B involves both purchase and sale under the same settlement\ncycle, it shall be settled as per the existing practice of gross settlement.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z",
+        "chapter": "Annexure A\nIllustration of obligations of FPI as per current practice and new mechanism"
+      }
+    },
+    {
+      "uid": "dba1e170-552b-5887-bce7-d8243db2252c",
+      "clause_number": "d",
+      "kind": "lettered",
+      "page": 5,
+      "paragraph_index": 20,
+      "text": "d) The excess outright sell value (on account of netting of funds for stocks A\nand C) shall not be adjusted towards non-outright buy obligations.\ne) Further, the manner of settlement between custodian and CC shall remain\nunchanged.\nf) Accordingly, in the example given above, the pay-in and pay-out obligations\nof FPI towards the custodian and of custodian towards CC are given below:\ni. Obligation of FPI towards custodian\nii. Obligation of custodian towards CC\niii. Pictorial depiction of the obligations of FPI, custodian and CC is given\nbelow:\n₹1000\n₹3000 ₹2000\nFPI Custodian CC\nB:20 B:10\nC:20 C:20\nA:10 A:10\nB:10",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z",
+        "chapter": "Annexure A\nIllustration of obligations of FPI as per current practice and new mechanism"
+      }
+    },
+    {
+      "uid": "7178460a-c495-59d0-9f6d-9aeb34a7a9ee",
+      "clause_number": "table-p4-1",
+      "kind": "table",
+      "page": 4,
+      "paragraph_index": 21,
+      "text": "Table on page 4 (3 rows): Stock | Buy Quantity | Buy Value | Sell Quantity | Sell Value\n\n| Stock | Buy Quantity | Buy Value | Sell Quantity | Sell Value |\n|---|---|---|---|---|\n| A | 10 | 1000 | 0 | 0 |\n| B | 10 | 1000 | 20 | 2000 |\n| C | 0 | 0 | 20 | 2000 |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "8c9c7847-6906-57eb-9e27-2d5319376956",
+      "clause_number": "table-p4-2",
+      "kind": "table",
+      "page": 4,
+      "paragraph_index": 22,
+      "text": "Table on page 4 (2 rows): Pay-in | Pay-out\n\n|  | Pay-in | Pay-out |\n|---|---|---|\n| Funds | 2000 | 4000 |\n| Securities | Stock B: 20 Stock C: 20 | Stock A: 10 Stock B: 10 |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "20647b13-1f8c-5bef-aa0c-66b1fb30648f",
+      "clause_number": "table-p4-3",
+      "kind": "table",
+      "page": 4,
+      "paragraph_index": 23,
+      "text": "Table on page 4 (2 rows): Pay-in | Pay-out\n\n|  | Pay-in | Pay-out |\n|---|---|---|\n| Funds | 0 | 2000 |\n| Securities | Stock B: 10 Stock C: 20 | Stock A: 10 |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "a1d88281-ffb7-5ac4-a5e3-274cb47a9971",
+      "clause_number": "table-p5-4",
+      "kind": "table",
+      "page": 5,
+      "paragraph_index": 24,
+      "text": "Table on page 5 (2 rows): Pay-i n | Pay-out\n\n|  | Pay-i n | Pay-out |\n|---|---|---|\n| Funds | 1000 | 3000 |\n| Securities | Stock B: 20 Stock C: 20 | Stock A: 10 Stock B: 10 |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    },
+    {
+      "uid": "e24d661c-5ec8-517f-8766-6968a7bde233",
+      "clause_number": "table-p6-5",
+      "kind": "table",
+      "page": 6,
+      "paragraph_index": 25,
+      "text": "Table on page 6 (2 rows): Pay-in | Pay-out\n\n|  | Pay-in | Pay-out |\n|---|---|---|\n| Funds | 0 | 2000 |\n| Securities | Stock B: 10 Stock C: 20 | Stock A: 10 |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777030013013.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/framework-for-net-settlement-of-funds-for-transactions-done-by-foreign-portfolio-investors-fpis-in-cash-market_101090.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/867f568b-1777030013013.pdf",
+        "sha256": "867f568b39b326c7516bcc32066e365d904581a39f9ba5df4069e8ec3cee2508",
+        "downloaded_at": "2026-07-06T12:05:09Z"
+      }
+    }
+  ]
+}

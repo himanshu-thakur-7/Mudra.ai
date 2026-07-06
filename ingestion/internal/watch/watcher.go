@@ -17,6 +17,7 @@ import (
 	"golang.org/x/net/html"
 
 	"github.com/little-beast/compliance-ingestion/internal/config"
+	"github.com/little-beast/compliance-ingestion/internal/httpx"
 	"github.com/little-beast/compliance-ingestion/internal/limiter"
 	"github.com/little-beast/compliance-ingestion/internal/queue"
 	"github.com/little-beast/compliance-ingestion/internal/snapshot"
@@ -34,7 +35,7 @@ type Watcher struct {
 func New(cfg config.Config, lim *limiter.Limiter, snaps *snapshot.Store, q queue.Queue, log *slog.Logger) *Watcher {
 	return &Watcher{
 		cfg: cfg, lim: lim, snaps: snaps, q: q,
-		client: &http.Client{Timeout: 45 * time.Second},
+		client: httpx.NewClient(45 * time.Second),
 		log:    log,
 	}
 }
@@ -129,6 +130,7 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 		job := queue.DownloadJob{
 			URL: link, Regulator: t.Regulator, SourcePage: t.URL,
 			DiscoveredAt: time.Now().UTC().Format(time.RFC3339),
+			PDFPattern:   t.PDFPattern,
 		}
 		// Push before MarkSeen: a crash in between re-enqueues next sweep
 		// (duplicates are absorbed downstream) instead of losing the document.
@@ -138,6 +140,7 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 		if err := w.q.MarkSeen(ctx, t.Regulator, link); err != nil {
 			return err
 		}
+		w.q.SetDocState(ctx, link, queue.StateDiscovered, "")
 		enqueued++
 	}
 	// Hash is committed only after every new link is enqueued, so a mid-sweep
@@ -167,6 +170,35 @@ func (w *Watcher) fetch(ctx context.Context, rawURL string) ([]byte, int, error)
 	defer resp.Body.Close()
 	body, err := io.ReadAll(io.LimitReader(resp.Body, 20<<20))
 	return body, resp.StatusCode, err
+}
+
+var rawURLRe = regexp.MustCompile(`https?://[^\s"'<>\\]+`)
+
+// ExtractBodyURLs finds document URLs anywhere in the page body — hrefs AND
+// JS-embedded strings (SEBI detail pages carry the PDF only inside an inline
+// iframe src like web/?file=https://.../sebi_data/attachdocs/....pdf).
+func ExtractBodyURLs(body []byte, baseURL, pattern string) []string {
+	re, err := regexp.Compile(pattern)
+	if err != nil {
+		return nil
+	}
+	seen := map[string]bool{}
+	var out []string
+	for _, raw := range rawURLRe.FindAllString(string(body), -1) {
+		raw = strings.TrimRight(raw, ".,;)")
+		if re.MatchString(raw) && !seen[raw] {
+			seen[raw] = true
+			out = append(out, raw)
+		}
+	}
+	// Also resolve relative <a href> links the raw scan cannot see.
+	for _, link := range ExtractLinks(body, baseURL, pattern) {
+		if !seen[link] {
+			seen[link] = true
+			out = append(out, link)
+		}
+	}
+	return out
 }
 
 // ExtractLinks pulls every <a href> from the page, resolves it against the

@@ -1,0 +1,559 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+    "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+    "downloaded_at": "2026-07-06T12:00:51Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:22.899247+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "24419843-c341-51c6-a677-0b9cc3257aff",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/47/11/11(1)2026-MRD-POD3/I/13804/2026 June 15, 2026\nTo\nAll Recognized Stock Exchanges\nAll Recognized Clearing Corporations\nAll Asset Management Companies of Mutual Funds\nAssociation of Mutual Funds in India\nSir/Madam,\nSubject: Norms for Base Price, Price Bands, Call Auction in pre-open session and\nClose-out procedure for Exchange Traded Funds (ETFs)",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "0cecab0a-12cb-5eaf-9d00-60808c3285ce",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. In terms of Paragraph 2.3.1 of Chapter 1 of SEBI Master Circular for “Stock Exchanges\nand Clearing Corporations” dated December 30, 2024 (hereinafter referred to as “Master\nCircular”), individual scrip wise price bands up to 20% either way for all scrips in the rolling\nsettlement except for the scrips on which derivatives products are available, has been\nprescribed. Further, in terms of Paragraph 2.5 of Chapter 1 of the Master Circular, dynamic\nprice bands (operating range) have been prescribed for scrips on which derivative\nproducts are available. These price bands are applied on the T-1 day closing price.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "7b5ee2b5-8303-57b6-b389-1d22eff78bb1",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Currently, for Exchange Traded Funds (ETFs) (based on Equity, Debt and Commodities),\na fixed price band of +20% (except for Overnight ETFs, for which the price band is +5%)\nis applicable on the base price, which is T-2 day Net Asset Value (NAV) of the ETFs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "d9316c2b-3209-5309-b2e6-9f0eb98be27a",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. In order to address the issues involved due to lag of 1 trading day in base price of ETFs\nand the fixed price band of ETFs not being commensurate with the price range of the\nunderlying; and based on the recommendations of the Working Group of Stock\nExchanges, the matter was discussed in the Secondary Market Advisory Committee of\nSEBI (SMAC). Based on the recommendations of the SMAC, comments received through\npublic consultation and subsequent discussion with various stakeholders, the norms for\ndetermination of base price, price bands, call auction in pre-open session and close-out\nmark-up for ETFs are provided below:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "58c535ce-7600-5a7a-a44d-2cff48ae8c8f",
+      "clause_number": "4.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. Base Price for ETFs\n4.1. Considering the operational challenges in usage of T-1 day closing NAV of the ETFs as\nbase price, to start with, the base price for determination of price bands of ETFs shall be\nT-1 day Closing Price i.e. last 30 minutes of Volume Weighted Average Price (VWAP) of\nthe ETF.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "c3df9452-b18a-599a-8123-ee9371e30d8d",
+      "clause_number": "4.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "4.2. In case there is no trading in the ETF during the last 30 minutes of T-1 day, then base\nprice shall be the Last Traded Price (LTP) of the day. Further, in case there is no trade\non T-1 day, then base price shall be the latest available closing NAV of the ETF.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "bf77f0db-7142-51aa-9a3d-e997ab00fd15",
+      "clause_number": "4.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "4.3. The Base price shall be adjusted for corporate action(s), if any.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "d3e4977f-e9f8-5969-8820-0f81a345ca35",
+      "clause_number": "4.4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "4.4. However, the Stock Exchanges and Asset Management Companies of Mutual Funds\nshall jointly address the operational challenges to implement the use of T-1 day closing\nNAV of the ETFs as the base price w.e.f. April 01, 2027.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "345bae7f-3c88-54ee-bcf2-0391cfa1bbc0",
+      "clause_number": "5.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "5. Price Bands for ETFs\n5.1. For Equity ETFs and Debt ETFs (other than Overnight ETFs and Liquid ETFs):",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "4a31d70d-3cc9-5f00-9bf0-4fe0faf1dec2",
+      "clause_number": "5.1.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "5.1.1. For Equity ETFs and Debt ETFs (other than Overnight ETFs and Liquid ETFs), there\nshall be dynamic price bands, with an initial price band of +10%, which can be flexed\nupto +20% after a cooling off period.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "bc71ef7e-507c-530f-ada5-482d0aeba8b4",
+      "clause_number": "5.1.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "5.1.2. The cooling off period shall be of 15 minutes after trades are executed at or above\n9.90% and so on, during which trading shall continue within the prevailing price band.\nIf the trades are executed at or above 9.90% and so on, during the last 30 minutes of\ntrading, then the cooling-off period shall be of 5 minutes.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "d7928147-78ab-521a-aa26-00cef9247b8e",
+      "clause_number": "5.1.3",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 12,
+      "text": "5.1.3. The price band would be flexed by 5% of the base price after the cooling off period, for\na maximum of two instances in one direction.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "e3f79d52-855d-5bff-a7a4-db32154e92dc",
+      "clause_number": "5.1.4",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 13,
+      "text": "5.1.4. The price band shall be flexed only in the direction of the price movement without\ncorresponding adjustment (sliding) of the band on the opposite side.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "b47dd1bd-c171-5126-af0a-6508c60ded9b",
+      "clause_number": "5.1.5",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "5.1.5. Flexing of price band for an ETF at one exchange shall be applicable for other\nexchanges.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "eedb1cf3-c7d7-514b-9ced-81e23fd52eec",
+      "clause_number": "5.2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "5.2. For Overnight ETFs and Liquid ETFs:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "7dafb02e-e536-5ab0-aa89-0cc162e2878c",
+      "clause_number": "5.2.1",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 16,
+      "text": "5.2.1. Overnight ETFs and Liquid ETFs shall have a fixed price band of +5%.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "391a4a50-ba33-5c4a-9d4a-7d263f212a45",
+      "clause_number": "5.3.1",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 17,
+      "text": "5.3. Commodity ETFs (Gold/Silver):\n5.3.1. For Commodity ETFs, there shall be dynamic price bands, with an initial price band of\n+6%. The price band would be flexed by 3% of the base price, after a cooling off period.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "1a6699f7-4427-5cad-b1a1-ceb07159b503",
+      "clause_number": "5.3.2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 18,
+      "text": "5.3.2. In case the price movement in the international markets is more than the aggregate\nDaily Price Limit (DPL) of +9%, the same may be further relaxed in stages of 3% by\nthe Stock Exchange with the cooling-off period. For such instances, the Stock\nExchanges shall give appropriate notice to the market along with all the relevant details\nand justification for the same.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "78ab8316-cdd1-5f6e-830a-23e6d8da6381",
+      "clause_number": "5.3.3",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 19,
+      "text": "5.3.3. The cooling off period shall be of 15 minutes after the trades are executed at or above\n5.90% and so on, during which trading shall continue within the prevailing price band.\nIf the trades are executed at or above 5.90% and so on, during the last 30 minutes of\ntrading, then the cooling-off period shall be of 5 minutes.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "7d3f4bfc-89f9-5d3c-8e7d-a7481718bdd4",
+      "clause_number": "5.3.4",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 20,
+      "text": "5.3.4. The price band shall be flexed only in the direction of the price movement without\ncorresponding adjustment (sliding) of the band on the opposite side.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "3896d6ab-14e1-5a22-9fbb-aca450258c49",
+      "clause_number": "5.3.5",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 21,
+      "text": "5.3.5. Flexing of price band for an ETF at one exchange shall be applicable for other\nexchanges.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "6886f9f6-d760-5caf-a0b0-78991e68c64e",
+      "clause_number": "5.3.6",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 22,
+      "text": "5.3.6. In the event of exceptional circumstances, where there is extreme price movement in\nthe underlying commodities beyond the initial price band of 6% in the international\nmarkets, after the closure of trading of the ETFs on domestic exchanges, the stock\nexchanges can relax the initial price band, by giving appropriate notice to the market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "e0dd59a6-6a8c-5870-85c6-2296688ea1a4",
+      "clause_number": "5.3.7",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 23,
+      "text": "5.3.7. There will be no upper or lower cap of the price bands and no restriction on the number\nof times the price bands can be flexed during the trading session.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "9d0ad8d7-fa80-5f90-9221-f003c5d99886",
+      "clause_number": "6.1",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 24,
+      "text": "6. Close-out Procedure for ETFs\n6.1. For Overnight ETFs and Liquid ETFs\n“The close-out price will be the highest price recorded in that ETF on the exchange in\nthe settlement in which the concerned contract was entered into and up to the date of\nauction or close out”\nOR\n“5% above the latest available closing price at the exchange on the day on which\nauction offers are called for”\nwhichever is higher.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "85e477d1-4ca7-5577-b110-02407fea6be7",
+      "clause_number": "6.2",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 25,
+      "text": "6.2. For all other ETFs the existing provisions as specified in paragraph 2.1 of Chapter 3 of\nthe Master Circular shall remain applicable.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "ab22d084-bfb8-5a74-bbba-43467b4fab93",
+      "clause_number": "6.3",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 26,
+      "text": "6.3. The existing provisions on “Auction” and “Proceeds from Auction or Close-out” as\nspecified at paragraphs 2.2 and 2.3 respectively of Chapter 3 of the Master Circular shall\ncontinue to be applicable for ETFs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "f52d9e5b-49d0-5eef-8268-96979c03129a",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 27,
+      "text": "7. Call Auction in Pre-open Session for Commodity ETFs (Gold/Silver)",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "387af4a3-d182-511c-a01c-148afd7c9b67",
+      "clause_number": "7.1",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 28,
+      "text": "7.1. The commodities underlying the Commodity ETFs are traded continuously across various\ninternational jurisdictions, while the corresponding ETFs trade only during the trading\nhours of domestic stock exchanges.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "bb9ad539-cdd9-5f41-b489-c3ec7cdb66f7",
+      "clause_number": "7.2",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 29,
+      "text": "7.2. To enable efficient price discovery, similar to scrips, it has been decided that a call auction\nin the pre-open session shall be conducted for Commodity ETFs to facilitate discovery of\nthe equilibrium price for trading in units of such ETFs.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "2e3ce541-00e9-5137-9ca7-7c4235a0dd98",
+      "clause_number": "7.3",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 30,
+      "text": "7.3. The mechanism for the call auction in pre-open session shall be the same as prescribed\nat Paragraph 17.1 of Chapter 1 of the Master Circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "77adfafb-20e8-597a-a08e-7ec6340990ab",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 31,
+      "text": "8. Applicability: The provisions of the circular shall come into effect from 1st September,\n2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "97af34d7-fe5f-5cab-8948-10d4eac1f7f2",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 32,
+      "text": "9. All MIIs are advised to:\n9.1. take necessary steps and put in place necessary systems for implementation of the\nabove.\n9.2. make necessary amendments to the relevant bye-laws, rules and regulations, wherever\nrequired, for the implementation of the above; and.\n9.3. bring the provisions of this circular to the notice of the market participants (including\ninvestors) and disseminate the same on their website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "6c223107-3132-53f8-93f2-08c860f3cf1a",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 33,
+      "text": "10. This circular is issued in exercise of the powers conferred under section 11(1) of the\nSecurities and Exchange Board of India Act 1992 read with regulation 51 of the Securities\nContracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2018,\nto protect the interests of investors in securities and to promote the development of, and\nto regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    },
+    {
+      "uid": "892ad82d-bcb0-5968-95e0-f016519ed2f4",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 6,
+      "paragraph_index": 34,
+      "text": "11. This circular is available on SEBI website at www.sebi.gov.in at “Legal Framework -\nCirculars.”\nYours faithfully,\nHruda Ranjan Sahoo\nGeneral Manager\nTel. No. 022-26449586\nEmail: hrsahoo@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1781524158363.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jun-2026/norms-for-base-price-price-bands-call-auction-in-pre-open-session-and-close-out-procedure-for-exchange-traded-funds-etfs-_102121.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/02a17a03-1781524158363.pdf",
+        "sha256": "02a17a0314b23d8f92959db249aea9c1a9cf683ea42a951dd017ebc35fbfc7c5",
+        "downloaded_at": "2026-07-06T12:00:51Z"
+      }
+    }
+  ]
+}

@@ -51,6 +51,10 @@ class CorpusDoc(Base):
     source_url: Mapped[str] = mapped_column(String(1000), default="")
     source_file: Mapped[str] = mapped_column(String(500), default="")
     effective_date: Mapped[str] = mapped_column(String(20), default="")  # ISO date string
+    # Temporal state ("git for laws"): regulations are living documents.
+    status: Mapped[str] = mapped_column(String(20), default="ACTIVE", index=True)  # ACTIVE | SUPERSEDED | AMENDED
+    supersedes: Mapped[list] = mapped_column(JSON, default=list)  # doc IDs / circular refs this doc replaced
+    superseded_by: Mapped[str | None] = mapped_column(String(100), nullable=True)
     ingested_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_now)
 
     clauses: Mapped[list["Clause"]] = relationship(back_populates="doc")
@@ -67,6 +71,11 @@ class Clause(Base):
     tags: Mapped[list] = mapped_column(JSON, default=list)  # e.g. ["performance-claims"]
     # Clauses tagged mandatory are always included in the retrieval set.
     mandatory: Mapped[bool] = mapped_column(default=False)
+    # Temporal validity: retrieval hard-filters status == ACTIVE; valid_from/to
+    # (ISO dates) support as-of historical queries for audit replays.
+    status: Mapped[str] = mapped_column(String(20), default="ACTIVE", index=True)
+    valid_from: Mapped[str] = mapped_column(String(20), default="")
+    valid_to: Mapped[str | None] = mapped_column(String(20), nullable=True)
     embedding: Mapped[bytes | None] = mapped_column(LargeBinary, nullable=True)  # float32 numpy bytes
 
     doc: Mapped[CorpusDoc] = relationship(back_populates="clauses")
@@ -90,6 +99,10 @@ class CorpusChangeEvent(Base):
     n_chunks: Mapped[int] = mapped_column(default=0)
     extraction_method: Mapped[str] = mapped_column(String(10), default="")  # native | ocr
     status: Mapped[str] = mapped_column(String(20), default="pending_review")  # pending_review | merged | ignored
+    # Detected supersession language ("rescinds…", "consolidates and replaces…")
+    # with nearby circular references — surfaced to the human reviewer, who
+    # confirms via `ingest supersede` (temporal pillar, human-in-the-loop).
+    supersession_hints: Mapped[list] = mapped_column(JSON, default=list)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_now, index=True)
 
 

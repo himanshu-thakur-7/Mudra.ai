@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+    "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+    "downloaded_at": "2026-07-06T12:02:46Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:24.845794+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "6761258a-2fce-5fde-b10d-30d24aebb283",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/47/17/12(11)2025-MRD-POD3/I/11107/2026 May 08, 2026\nTo\nAll Recognized Stock Exchanges\nAll Recognized Clearing Corporations\nAll Depositories\nAll Registered Intermediaries\nBSE Limited (Administration and Supervisory Body for Investment Advisers and\nResearch Analysts- IAASB/RAASB)\nSir/Madam,\nSubject: Norms for sharing and usage of price data for educational purposes",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "8aa5aa81-2054-5dc3-8181-1e97be7ae27d",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI vide Circular No. SEBI/HO/MRD/MRD-PoD-3/P/CIR/2024/56 dated May 24, 2024,\ninter alia, prescribed Norms for sharing of real time price data to third parties by Stock\nExchanges, Clearing Corporations, Depositories (collectively referred to as Market\nInfrastructure Institutions (MIIs)) and registered market intermediaries. The said norms\nrestricted sharing of real time price data only for orderly functioning of the securities\nmarket or for fulfilling regulatory requirements, and prescribed a time lag of one day for\nsharing of price data for educational and awareness activities.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "cdedf55f-de09-53d8-8f1e-0d678a21a9e2",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Subsequently, SEBI vide Circular No.SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2025/11\ndated January 29, 2025 further tightened the norms by stipulating that entities solely\nengaged in education may use the price data only with a lag of three months.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "b71ec2a9-3315-5254-95c4-1e96b822a72e",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. The purposes of these two circulars were different. The Circular dated May 24, 2024\nallowed exchanges to share data for educational purposes with a time lag of one day,\nwhile the Circular dated January 29, 2025 operates after that as to how much old data\ncan be actually used for sole educational purposes and for that a time lag of three\nmonths had been prescribed.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "72a5d3d3-1c7e-5c91-b3e6-1410ee4273cd",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. Based on feedback received from various stakeholders that the lag of one day for\nsharing of price data is very short and there is possibility of mis-use of the same, and lag\nof three months for usage of the price data being too long for educational purposes; and\nsubsequent comments received through public consultation, it has been decided to\nprescribe a time lag of 30 days for both sharing and usage of price data for educational\npurposes.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "9d57aa12-daf6-5e77-9785-4f8a9646fec0",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "5. National Institute of Securities Markets (NISM) is a capacity building initiative of SEBI\nand has an important role in imparting SEBI mandated training and certification\nprogrammes as well as training SEBI officers and market intermediaries. Therefore, it\nhas been decided that NISM may have access to market price data, with a lag of one\nday, for the purpose of usage in its simulation lab.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "43d45f6f-73e6-52f1-88e8-a850a504ea2d",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. Accordingly, the relevant provisions of SEBI Circulars dated May 24, 2024 and January\n29, 2025 have been modified as under:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "31321e9e-ef44-55c8-892c-4b1be75dd133",
+      "clause_number": "6.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "6.1. Paragraphs 2(iii) & (iv) of SEBI Circular No. SEBI/HO/MRD/MRD-PoD-\n3/P/CIR/2024/56 dated May 24, 2024 on “Norms for sharing of real time price data to\nthird parties” stands modified as under:\n“2(iii). Market price data may be shared for investor education and awareness activities\nwithout offering any kind of monetary incentive to the participants, with a lag of thirty\ndays. However, the market price data may be shared with National Institute of\nSecurities Markets (NISM) with a lag of one day only for the purpose of usage in its\nsimulation lab. For this purpose, the MIIs or the market intermediaries shall also enter\ninto appropriate legal agreement with entities/persons with whom the data is being\nshared.\n2(iv). MIIs and market intermediaries shall ensure due diligence while sharing such\ndata. The legal agreement for sharing the data shall have provisions to prevent any\nkind of misuse of the same by the entities/persons including maintenance of audit\ntrail for usage of such data.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "a7e45ea0-338b-552e-9c23-cecb8ebb3c9c",
+      "clause_number": "6.2",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 9,
+      "text": "6.2. Question No.8 of FAQ at Annexure-A of SEBI Circular No. SEBI/HO/MIRSD/MIRSD-\nPoD-1/P/CIR/2025/11 dated January 29, 2025 on “Details/clarifications on provisions\nrelated to association of persons regulated by the Board, MIIs, and their agents with\npersons engaged in prohibited activities” stands modified as under:\n“8. What distinguishes education and advice/recommendation?\nA person engaged solely in education shall mean that such person is not engaged in\nany of the two prohibited activities. Such person should not be using the market price\ndata of the preceding thirty days to speak/talk/display the name of any security\nincluding using any code name of the security in his/her talk/speech, video, ticker,\nscreen share etc. indicating the future price, advice or recommendation related to\nsecurity or securities. However, the National Institute of Securities Markets (NISM) can\nuse the market price data with a lag of one day only for the purpose of usage in its\nsimulation lab.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "2de1791d-be97-5354-aedc-644bbfa61c74",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 10,
+      "text": "7. Applicability: The provisions of the circular shall be applicable with effect from July 01,\n2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "7642ad8a-4f0e-5eec-b477-a516801e73f0",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 11,
+      "text": "8. All MIIs are advised to:\n8.1. take necessary steps and put in place necessary systems for implementation of the\nabove.\n8.2. make necessary amendments to the relevant bye-laws, rules and regulations,\nwherever required, for the implementation of the above; and.\n8.3. bring the provisions of this circular to the notice of the market participants (including\ninvestors) and disseminate the same on their website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "5a06ba81-0868-5a63-9019-8298e060c9fa",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 12,
+      "text": "9. This circular is issued in exercise of the powers conferred under section 11(1) of the\nSecurities and Exchange Board of India Act 1992 read with regulation 51 of the\nSecurities Contracts (Regulation) (Stock Exchanges and Clearing Corporations)\nRegulations, 2018, section 26(3) of the Depositories Act, 1996 and regulation 97 of\nSecurities and Exchange Board of India (Depositories and Participants) Regulations,\n2018 to protect the interests of investors in securities and to promote the development\nof, and to regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    },
+    {
+      "uid": "66b6c82e-a557-5578-af85-e393a58cfc1c",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 13,
+      "text": "10. This circular is available on SEBI website at www.sebi.gov.in at “Legal Framework -\nCirculars.”\nYours faithfully,\nHruda Ranjan Sahoo\nGeneral Manager\nTel no.: 022-26449586\nEmail: hrsahoo@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778242522289.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/norms-for-sharing-and-usage-of-price-data-for-educational-purposes_101293.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/1bcc99b2-1778242522289.pdf",
+        "sha256": "1bcc99b2b316f1506c20c9527f0eb2b5dca13db39c32fc328d58b70358aa653d",
+        "downloaded_at": "2026-07-06T12:02:46Z"
+      }
+    }
+  ]
+}

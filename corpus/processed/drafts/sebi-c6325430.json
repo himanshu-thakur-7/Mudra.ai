@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+    "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+    "downloaded_at": "2026-07-06T12:03:31Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:25.251439+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "a1a9fb56-dfec-5a4f-8a1a-7a50e6259490",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/47/17/12(8)2025-MRD-POD2 May 05, 2026\nTo,\nAll Index Providers\nAll Stock Exchanges\nAll Mutual Funds\nAll Asset Management Companies\nAssociation of Mutual Funds in India\nSir/Madam,\nSubject: ‘Significant Indices’ under SEBI (Index Providers) Regulations, 2024",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "3834e57b-42a0-5d87-ba2a-1734b0ced280",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI has notified the regulatory framework for Index Providers in the securities\nmarket through the SEBI (Index Provider) Regulations, 2024 (hereinafter “IP\nRegulations”) with the objective of fostering transparency and accountability in\ngovernance and administration of Indices in the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "a9c9bb1e-27ed-593e-a0a6-df69c94b7189",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Regulation 3(1) of IP Regulations states as follows:\n“These regulations shall be applicable only to Index Providers that administer\nSignificant Indices consisting of securities listed on a recognized stock\nexchange in India for use in the Indian securities market.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "506cea31-4d02-5b38-9789-71ce1379a72d",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Further, Regulation 2(1)(u) of IP Regulations defines ‘Significant Indices’ as\nfollows:\n“Indices administered by an Index Provider, which are tracked or benchmarked\nby domestic mutual fund schemes with the cumulative assets under\nmanagement exceeding the limits as may be specified from time to time.\nExplanation: The list of ‘Significant Indices’ shall be specified by the Board from\ntime to time”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "d00cb8c7-5093-54f2-a538-b65028b5fb0c",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "4. In this context, taking into account feedback received from the various\nstakeholders, it is specified that a Benchmark or Index (including index of\nindices) based on listed securities shall be considered as ‘Significant Indices’,\nif the daily average cumulative Asset Under Management (AUM) tracking the\nBenchmark or Index across schemes of Mutual Fund(s) exceeds ₹20,000 Crore\nfor each of the past six months, ending on 30th June and 31st December each\nyear.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "9b92e22d-a45e-554f-a974-ead720e28365",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "5. Further, an Index specified by the Board in the list of ‘Significant Indices’ shall\ncontinue to remain in the list of ‘Significant Indices’ unless the value of\ncumulative AUM tracking or benchmarking such Index does not meet the\nspecified threshold for a continuous period of three years (i.e., six consecutive\nhalf-yearly reviews).",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "aecd1232-abad-542e-9f4d-9f6f925f14e7",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. Accordingly, the list of ‘Significant Indices’ is specified in terms of Regulation\n2(1)(u) of IP Regulations, based on cumulative AUM of schemes of Mutual\nFunds tracking the Benchmark or Index for the period from July 01, 2025 to\nDecember 31, 2025, is placed at Annexure-A.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "45d1c0c8-569b-593d-9703-9ead8ae974b3",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "7. Index Providers providing any of the ‘Significant Indices’ listed in Annexure-A\nshall submit an application for registration as an Index Provider to SEBI, in\naccordance with Regulation 4 of the IP Regulations, within a period of six\nmonths from the date of issuance of this circular. This requirement shall not\napply to the Index Providers, if all the ‘Significant Indices’ provided by them are:\na. Indices notified by RBI as ‘Significant Benchmarks’ under relevant\ndirections issued by RBI under Section 45W of the RBI Act, 1934; or\nb. Indices classified by RBI as ‘Authorized Benchmarks’ under relevant\ndirections issued by RBI under Section 45W of the RBI Act, 1934",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "25de2629-094e-5e21-a419-959a83a1ff9f",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "8. An Index Provider providing ‘Significant Indices’ as on the date of this circular,\nmay continue to carry on its Index Provider activity, provided it submit an\napplication for registration as an Index Provider to SEBI within a period of six\nmonths from the date of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "d96fcaa7-ced1-5ab8-870b-a6de782cf607",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 10,
+      "text": "9. If an entity registered with SEBI in any other capacity, also provides ‘Significant\nIndices’ by undertaking Index Provider activities departmentally, shall be\nrequired to form a separate legal entity to carry out the activities of an Index\nProvider within a period of two years from the date of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "47e33f8f-b243-5b95-b301-4d109e96bb3d",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 11,
+      "text": "10. Further, it is clarified that the grievance redressal mechanism under Regulation\n23 of IP Regulations shall apply only to ‘Significant Indices’ provided by the\nIndex Providers registered with SEBI. Accordingly, subscribers to such\n‘Significant Indices’ shall have recourse to grievance redressal under IP\nRegulations.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "b9cadc96-bc7c-52a4-8a9a-157933bbd084",
+      "clause_number": "11",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 12,
+      "text": "11. The provisions of this circular shall come into force with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "6830e02f-2fa3-5353-811e-03cb835936a5",
+      "clause_number": "12",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 13,
+      "text": "12. This circular is being issued in exercise of powers conferred under Section\n11(1) of the Securities and Exchange Board of India Act, 1992 read with\nRegulation 38 and Regulation 2(1)(u) of IP Regulations to protect the interest\nof investors in securities and to promote development of, and to regulate\nsecurities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "28ad6756-0ae7-5076-ac63-fe3ffaa7c51f",
+      "clause_number": "13",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "13. This circular is available on SEBI website at www.sebi.gov.in at “Legal\nFramework - Circulars.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "8179c008-7797-56ec-b7eb-79ee36d745a9",
+      "clause_number": "14",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 15,
+      "text": "14. The circular has been issued with the approval of the competent authority.\nYours faithfully,\nSanjay Singh Bhati\nGeneral Manager\nTel. No. 022-26449222\nEmail: ssbhati@sebi.gov.in\n\n# As stated at Para 7 of this Circular, any of the aforementioned ‘Significant Indices’\nnotified as a ‘Significant Benchmark’ or classified as an ‘Authorized Benchmark’\nunder relevant directions issued by RBI under Section 45W of the RBI Act 1934,\nshall be excluded from the purview of IP Regulations.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "6460572c-f158-528f-8df4-375bd690e9d9",
+      "clause_number": "table-p4-1",
+      "kind": "table",
+      "page": 4,
+      "paragraph_index": 16,
+      "text": "Table on page 4 (28 rows): ANNEXURE – A: List of ‘Significant Indices’#\n\n| ANNEXURE – A: List of ‘Significant Indices’# |  |  |\n|---|---|---|\n| Sr. No | Index | Index Provider |\n| 1 | BSE 100 | BSE Index Services Pvt. Ltd. |\n| 2 | BSE 200 | BSE Index Services Pvt. Ltd. |\n| 3 | BSE 250 Smallcap | BSE Index Services Pvt. Ltd. |\n| 4 | BSE 500 | BSE Index Services Pvt. Ltd. |\n| 5 | BSE Healthcare | BSE Index Services Pvt. Ltd. |\n| 6 | BSE India Infrastructure | BSE Index Services Pvt. Ltd. |\n| 7 | BSE 150 Midcap | BSE Index Services Pvt. Ltd. |\n| 8 | BSE Sensex | BSE Index Services Pvt. Ltd. |\n| 9 | BSE Teck | BSE Index Services Pvt. Ltd. |\n| 10 | CRISIL Hybrid 35+65 - Aggressive | CRISIL |\n| 11 | CRISIL Hybrid 50+50 - Moderate | CRISIL |\n| 12 | CRISIL Liquid Debt A I | CRISIL |\n| 13 | CRISIL Liquid Overnight | CRISIL |\n| 14 | CRISIL Low Duration Debt A-I | CRISIL |\n| 15 | CRISIL Money Market A-I | CRISIL |\n| 16 | CRISIL Short Duration Debt A-II | CRISIL |\n| 17 | CRISIL Ultra Short Duration Debt A-I | CRISIL |\n| 18 | Nifty 100 | NSE Indices Limited |\n| 19 | Nifty 1D Rate | NSE Indices Limited |\n| 20 | Nifty 200 | NSE Indices Limited |\n| 21 | Nifty 50 | NSE Indices Limited |\n| 22 | Nifty 50 Arbitrage | NSE Indices Limited |\n| 23 | Nifty 50 Hybrid Composite Debt 50:50 | NSE Indices Limited |\n| 24 | Nifty 50 Hybrid Composite Debt 65:35 | NSE Indices Limited |\n| 25 | Nifty 500 | NSE Indices Limited |\n| 26 | Nifty All Duration G-Sec | NSE Indices Limited |\n| 27 | Nifty Bank | NSE Indices Limited |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    },
+    {
+      "uid": "264286fe-7aaf-53d9-896e-629d1f3f6a94",
+      "clause_number": "table-p5-2",
+      "kind": "table",
+      "page": 5,
+      "paragraph_index": 17,
+      "text": "Table on page 5 (22 rows): ANNEXURE – A: List of ‘Significant Indices’#\n\n| ANNEXURE – A: List of ‘Significant Indices’# |  |  |\n|---|---|---|\n| Sr. No | Index | Index Provider |\n| 28 | Nifty Banking & PSU Debt A-II | NSE Indices Limited |\n| 29 | Nifty BHARAT Bond - April 2030 | NSE Indices Limited |\n| 30 | Nifty Composite Debt | NSE Indices Limited |\n| 31 | Nifty Composite Debt A-III | NSE Indices Limited |\n| 32 | Nifty Corporate Bond A-II | NSE Indices Limited |\n| 33 | Nifty CPSE | NSE Indices Limited |\n| 34 | Nifty Equity Savings | NSE Indices Limited |\n| 35 | Nifty Financial Services | NSE Indices Limited |\n| 36 | Nifty India Consumption | NSE Indices Limited |\n| 37 | Nifty India Manufacturing | NSE Indices Limited |\n| 38 | Nifty Infrastructure | NSE Indices Limited |\n| 39 | Nifty LargeMidcap 250 | NSE Indices Limited |\n| 40 | Nifty Liquid A-I | NSE Indices Limited |\n| 41 | Nifty Low Duration Debt A-I | NSE Indices Limited |\n| 42 | Nifty Midcap 150 | NSE Indices Limited |\n| 43 | Nifty Money Market A-I | NSE Indices Limited |\n| 44 | Nifty Next 50 | NSE Indices Limited |\n| 45 | Nifty Short Duration Debt A-II | NSE Indices Limited |\n| 46 | Nifty Smallcap 250 | NSE Indices Limited |\n| 47 | Nifty Ultra Short Duration Debt A-I | NSE Indices Limited |\n| 48 | Nifty500 Multicap 50:25:25 | NSE Indices Limited |",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1777994522786.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/-significant-indices-under-sebi-index-providers-regulations-2024_101271.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/c6325430-1777994522786.pdf",
+        "sha256": "c6325430e8420812b02b48b4239ad559f77296a7d48f6c867a95d3c3aefbe6b8",
+        "downloaded_at": "2026-07-06T12:03:31Z"
+      }
+    }
+  ]
+}

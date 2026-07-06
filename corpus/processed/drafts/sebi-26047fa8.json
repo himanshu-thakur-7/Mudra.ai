@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+    "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+    "downloaded_at": "2026-07-06T12:02:07Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:24.485896+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "5e772c31-c742-5bb6-afda-00c5bd18901e",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nSEBI/HO/DDHS/DDHS-PoD-2/I/11698/2026 May 15, 2026\nTo,\nAll Infrastructure Investment Trusts (“InvITs”)\nAll Parties to InvITs\nAll Depositories\nAll Recognized Stock Exchanges\nMadam / Sir,\nSubject: Status of SPVs post conclusion or termination of Concession\nAgreement.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "8f597c56-f881-5ea0-a92f-2b332122a614",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. Regulation 2(1)(zy)(ii) of SEBI (Infrastructure Investment Trusts) Regulations,\n2014 (“InvIT Regulations”) was amended on April 17, 2026 to include the\nfollowing proviso –\n“Provided that, in respect of an SPV holding an infrastructure project, the\nconclusion or termination of the concession agreement or such other agreement\nof a similar nature shall not affect its status as an SPV and such an SPV shall\ncontinue to be classified as an SPV subject to the fulfillment of such conditions\nas may be specified by the Board”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "62aec8e2-5dc4-5fbf-a296-fa6bf4bfea66",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Accordingly, the conditions to be fulfilled by the Investment Manager in this\nregard are specified as follows –",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "aca5cc3f-70f2-5847-9c67-ad1be2aa87d1",
+      "clause_number": "2.1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "2.1. The Investment Manager shall either exit investment in such SPV by way of\nsale / liquidation / winding-up / merger of such SPV, or acquire any new\ninfrastructure project in such SPV, within one year from -\n2.1.1. completion/termination of concession agreement or such other\nagreement of similar nature, or\n2.1.2. conclusion of all pending claims/litigations/tax assessments and\nrelated appeals, or\n2.1.3. completion of defect liability period,\nwhichever is later.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "c694af12-b883-52d6-91d5-f4ab7fa81a9f",
+      "clause_number": "2.2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "2.2. The time taken to obtain relevant statutory or regulatory approvals for exiting\ninvestment in such SPV by way of sale / liquidation / winding-up / merger,\nshall be excluded from the above timeline of one year.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "0a8db32f-006b-5ed0-aec4-8d5099b5b7b2",
+      "clause_number": "2.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "2.3. Further, till the time investment in such SPV is held by the InvIT, adequate\ndisclosures shall be made in the annual report of the InvIT including the\nfollowing –",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "140e6895-50fe-53a9-b52b-978bcabe21d1",
+      "clause_number": "2.3.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "2.3.1. InvIT Level: The Investment Manager shall disclose a detailed\nbreakup of the value of investments (gross and net basis) in the SPV(s)\nwherein the concession agreement or such other agreement of similar\nnature has ended/terminated.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "0a477b8a-b179-561e-967d-f0cea7cbf618",
+      "clause_number": "2.3.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "2.3.2. SPV Level: The Investment Manager shall provide additional\ndisclosures pertaining to each SPV wherein the concession agreement\nor such other agreement of similar nature has ended/terminated, which\nshall include the following information:",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "063fd028-f152-54df-89c8-295ac726e586",
+      "clause_number": "2.3.2.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "2.3.2.1. Brief details of the project, date when such agreement ended\nand status of vesting certificate or any other document issued\nby the concessioning authority upon successful completion of\nhandover of the project to the said authority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "607e9d88-214a-58a0-974b-49139c52a39e",
+      "clause_number": "2.3.2.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "2.3.2.2. Assets and Liabilities of the SPV (including specific reserves, if\nany): Provide the nature and amount of respective carrying\nvalue of assets and liabilities (including specific reserves, if any)\non broad/grouped basis as determined in the annual audited\nfinancial statements of the SPV.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "bb35550b-efca-58af-abf9-0cfb4e076d99",
+      "clause_number": "2.3.2.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 11,
+      "text": "2.3.2.3. Contingent Liabilities: Details of Contingent Liabilities of the\nSPV as set out in its annual audited financial statements.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "794ddfc4-1321-55dd-9b33-e30c690d16ce",
+      "clause_number": "2.3.2.4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 12,
+      "text": "2.3.2.4. Debt Repayment: Brief details of outstanding debt of the SPV,\nif any, along with repayment schedule.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "e27e8921-aea5-5a3a-94ee-71ab0f171efc",
+      "clause_number": "2.3.2.5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 13,
+      "text": "2.3.2.5. Whether SPV has sufficient assets to meet its liabilities\n(including contingent liabilities). If not, how such liabilities are\nplanned to be met.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "6c016928-db2d-5f38-9750-699be137ca9c",
+      "clause_number": "2.3.2.6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 14,
+      "text": "2.3.2.6. Exit Strategy and Timeline: A clear plan of action detailing how\nand when the InvIT intends to exit its investment in the SPV or\nplans to acquire new infrastructure project, along with the brief\ndetails of steps taken so far and expected timeline for\ncompletion.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "430da810-952c-545a-93d8-59eb9cb381c4",
+      "clause_number": "2.3.2.7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 15,
+      "text": "2.3.2.7. Other Material Details: Other material details related to such\nSPV including details related to pending claims, pending\nlitigations, pending assessments, pending statutory/contractual\nobligations, balance period of defect liability period, etc.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "13c8f614-98fb-5150-a094-a7b3e067db1b",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 16,
+      "text": "3. This circular shall come into force with immediate effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "52fc7688-3d3e-5d4a-b352-e7553459b5d7",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 17,
+      "text": "4. This circular is issued in exercise of the powers conferred under Section 11(1)\nof the Securities and Exchange Board of India Act, 1992, Regulation 33 and\nRegulation 2(1)(zy)(ii) of the SEBI (Infrastructure Investment Trusts)\nRegulations, 2014. This circular is issued with the approval of the competent\nauthority.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "f4af759c-6be2-5627-9646-c454068b7404",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 18,
+      "text": "5. The recognized Stock Exchanges are advised to disseminate the contents of\nthis Circular on their website.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    },
+    {
+      "uid": "5ab1caea-2d7d-5ac3-9d34-eba378c39cff",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 19,
+      "text": "6. This circular is available on the website of Securities and Exchange Board of\nIndia at www.sebi.gov.in under the category “Legal  Circulars”.\nYours faithfully\nRitesh Nandwani\nDeputy General Manager\nDepartment of Debt and Hybrid Securities\nTel No. +91-22-2644 9696\nEmail id – riteshn@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1778844282193.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/may-2026/status-of-spvs-post-conclusion-or-termination-of-concession-agreement_101467.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/26047fa8-1778844282193.pdf",
+        "sha256": "26047fa8a4bcb8dcf3c1ca597e9d878d0de9246e28c48d6cc9c869d825cd6c03",
+        "downloaded_at": "2026-07-06T12:02:07Z"
+      }
+    }
+  ]
+}

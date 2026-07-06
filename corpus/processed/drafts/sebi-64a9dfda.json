@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+    "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+    "downloaded_at": "2026-07-06T12:06:08Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:27.336927+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "51302b16-31fb-53c6-bd2f-e30d12a0e646",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/49/(17)2026-CFD-POD2/I/8965/2026 April 8, 2026\nTo,\nAll recognised Stock Exchanges\nAll Depositories\nAll registered Merchant Bankers\nMadam / Sir,\nSubject: Ease of doing business - mechanism for lock-in of pledged shares under SEBI\n(Issue of Capital and Disclosure Requirements) Regulations, 2018",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "5b3be256-68d4-5c62-ba07-5dad60fe8841",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. SEBI vide notification dated March 21, 2026 has amended the SEBI (Issue of Capital and\nDisclosure Requirements) Regulations, 2018 (“ICDR Regulations”), to inter-alia, provide\nthat specified securities on which lock-in cannot be created, may be recorded as “non-\ntransferable” by Depositories for the duration of the applicable lock-in period.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "05574f16-dc36-51e0-a418-8eb38beb9da3",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. To operationalise this, the Depositories have issued the framework to be followed by\nissuers including, inter-alia, incorporation of suitable provisions in the Articles of\nAssociation, issuance of necessary intimations to the concerned lenders / pledgees, and\nsuitable disclosures in the offer documents.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "3296112c-f8bb-55a9-b9b4-a92b1123ab2e",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. The Depositories have made necessary changes to their systems and processes.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "1df5416c-b931-5a68-8b11-cdcaf8376089",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. Accordingly, Stock Exchanges, Depositories, Merchant Bankers and issuers shall ensure\ncompliance with the mechanism for lock-in of pledged shares.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "d0498369-6524-5c3e-8bee-d27b9348c317",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. This Circular is issued in exercise of powers conferred under Section 11 (1) of the\nSecurities and Exchange Board of India Act, 1992 and Section 26(3) of the Depositories\nAct, 1996 to protect the interests of investors in securities and to promote the\ndevelopment of, and to regulate the securities market.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    },
+    {
+      "uid": "33505530-0eb3-5bd7-8e85-90b60fe81ffd",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. This Circular is available at www.sebi.gov.in under the link “LegalCirculars”.\nYours faithfully,\nRaj Kumar Das\nDeputy General Manager\nCorporation Finance Department\nPolicy and Development-2\n+91-22-26449253\nrajkd@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775650797133.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/ease-of-doing-business-mechanism-for-lock-in-of-pledged-shares-under-sebi-issue-of-capital-and-disclosure-requirements-regulations-2018_100826.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/64a9dfda-1775650797133.pdf",
+        "sha256": "64a9dfdaade911232c6e775a153d0e9d90d197c2778d21bafa1960c40c47cf13",
+        "downloaded_at": "2026-07-06T12:06:08Z"
+      }
+    }
+  ]
+}

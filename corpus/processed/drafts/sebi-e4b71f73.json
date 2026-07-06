@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+    "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+    "downloaded_at": "2026-07-06T12:04:49Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:26.578214+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "7cb9b55c-4229-552f-86a5-7159e0838b35",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/(201)2026-DDHS-POD1 I/10421/2026 April 28, 2026\nTo,\nAll Registered Debenture Trustees,\nRecognized Stock Exchanges\nDear Sir/ Madam,\nSub: Extension of timeline for compliance with terms and conditions by\nDebenture Trustees for carrying out activities outside the purview of\nSEBI",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "dea65d1b-5083-5245-b206-4adc5a08995c",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. On October 27, 2025, amendments to the SEBI (Debenture Trustees)\nRegulations, 1993 (“DT Regulations”) were notified, inter alia introducing\nRegulation 9C to provide clarity on the scope of permitted activities for Debenture\nTrustees (DTs). The provision inter-alia stipulates that a debenture trustee holding\na valid certificate of registration may transfer its activities that are not regulated by\nSEBI to separate business unit(s) within a period of six months from the date of\nnotification of the SEBI (Debenture Trustees) (Amendment) Regulations, 2025 in\nthe Official Gazette, or within such extended period as may be specified by the\nBoard.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "97af68df-91a0-571c-830c-24ceda7f1b44",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Subsequently, the operational framework, including the terms and conditions\ngoverning activities undertaken by debenture trustees, was prescribed vide SEBI\ncircular HO/17/11/12(3)2025-DDHS-POD1/ I/146/2025 dated November 25, 2025.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "231566cb-aff1-5b16-8985-a96e1f55ce7b",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Based on representations received from the industry highlighting operational\nchallenges in establishing the necessary systems and processes for effective\nimplementation, it has been decided to grant additional six months for compliance\nby the DTs. Accordingly, the provisions of the aforesaid amendment and circular\nshall be implemented by Debenture Trustees by October 27, 2026.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "e6a6dd48-19b5-579f-8bbc-0f2963aec082",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 5,
+      "text": "4. All other provisions of the SEBI Circular dated November 25, 2025 shall remain\nunchanged.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "2ab8f4d3-3ec0-5278-8c8e-79ecda2d687f",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 6,
+      "text": "5. This circular is issued in exercise of powers conferred under Section 11(1) of\nSecurities and Exchange Board of India Act, 1992 and Regulation 2A of SEBI\n(Debenture Trustees) Regulations, 1993, to protect the interest of investors in\nsecurities and to promote the development of, and to regulate, the securities\nmarket.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "2e737d41-0f4c-5a08-80ae-e90aadd04ca1",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "6. This circular is available on the website of the Securities and Exchange Board of\nIndia at www.sebi.gov.in under the category “Legal” and under the drop down\n“Circulars”.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    },
+    {
+      "uid": "6002b65e-e409-5e18-9ae7-4e2130ffdee7",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "7. This circular is issued with the approval of the competent authority.\nYours faithfully,\nRitesh Nandwani\nDeputy General Manager\nDepartment of Debt and Hybrid Securities\nTel No.022-2644-9696\nEmail ID - riteshn@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1777434657240.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/apr-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-for-carrying-out-activities-outside-the-purview-of-sebi_101152.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/e4b71f73-1777434657240.pdf",
+        "sha256": "e4b71f73e089eae69d5ef57a241c2993fdbdea33bd977f9f6df1f44092c51030",
+        "downloaded_at": "2026-07-06T12:04:49Z"
+      }
+    }
+  ]
+}

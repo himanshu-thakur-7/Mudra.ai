@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "regulator": "SEBI",
+    "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+    "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+    "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+    "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+    "downloaded_at": "2026-07-06T11:59:32Z"
+  },
+  "extraction_method": "native",
+  "generated_at": "2026-07-06T13:31:21.367464+00:00",
+  "supersession_hints": [],
+  "chunks": [
+    {
+      "uid": "dff9c477-5258-5b34-94b4-e3bb07bb6097",
+      "clause_number": "preamble",
+      "kind": "preamble",
+      "page": 1,
+      "paragraph_index": 1,
+      "text": "CIRCULAR\nHO/38/11/(9)2026-MIRSD-POD/I/15382/2026 July 03, 2026\nTo,\nAll recognized Stock Exchanges\nAll Depositories\nAll Stock Brokers\nMadam / Sir,\nSub: Handling of Client’s Unpaid Securities by Trading Members",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "6bb3b398-ae4a-5c66-acd3-d2614c1040bb",
+      "clause_number": "1",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 2,
+      "text": "1. Paragraph 46 of the Master Circular for Stock Brokers dated June 17, 2025\n(“Master Circular”) specifies provisions with respect to Handling of Client’s\nSecurities by Trading Members (TM)/ Clearing Members (CM). These provisions\nwere introduced vide SEBI Circular Nos. CIR/HO/MIRSD/DOP/CIR/P/2019/75 and\nSEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2022/153 dated June 20, 2019 and\nNovember 11, 2022 respectively. Post introduction of these provisions, there have\nbeen regulatory developments such as introduction of mandatory pay-out of\nsecurities directly to clients’ demat accounts, as well as changes in market\npractices.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "1e6a1273-314e-51ba-901b-9d51f777bf59",
+      "clause_number": "2",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 3,
+      "text": "2. Representations have been received from Brokers’ Industry Standards Forum\n(ISF) seeking revisions to these provisions to align them with the current regulatory\nand market environment and to address certain operational challenges faced\nduring implementation.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "884c0790-5a49-5c8e-8e29-530f60bce92b",
+      "clause_number": "3",
+      "kind": "numbered",
+      "page": 1,
+      "paragraph_index": 4,
+      "text": "3. Accordingly, in order to enhance the ease of doing business for stockbrokers and\nease of doing investment for clients, it has been decided to amend Paragraph 46\nof the Master Circular as under:\n“46. Handling of Client’s Unpaid Securities by Trading Members (TM)\nCreation of pledge for unpaid securities",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "a8999466-6118-5d16-8231-a9868fada8f3",
+      "clause_number": "46.1",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 5,
+      "text": "46.1 For trades not covered under margin trading facility (MTF), the pay-out of\nunpaid securities (i.e., the securities that have not been paid for in full by the\nclients) shall be directly made to the client’s demat account followed by\ncreation of an auto-pledge (i.e., without any specific instruction from the\nclient) with the reason “unpaid”, in favor of a separate account titled –“client\nunpaid securities pledgee account (CUSPA)”, which shall be opened by TM.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "c3974438-7168-5d33-96e6-f392f36df9d5",
+      "clause_number": "46.2",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 6,
+      "text": "46.2 After the creation of pledge, a communication (email / SMS) shall be sent\nby TM informing the client about the client’s funds obligation and also about\nthe right of TM to sell such securities in the event of failure by client to fulfill\nsuch obligation.\nPolicy by TM for handling unpaid securities",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "ef511b27-25c9-5e44-975b-d6471463efa0",
+      "clause_number": "46.3",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 7,
+      "text": "46.3 The TM shall formulate and maintain a policy, either on standalone basis or\nas part of its Risk Management Policy, for handling unpaid securities in\nterms of this circular and any circulars/ operational guidelines issued by\nexchanges in this regard and communicate the same to all clients prior to\nimplementation.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "953af8fe-5aab-5c87-b4a8-f3a4cdc063d8",
+      "clause_number": "46.4",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 8,
+      "text": "46.4 The policy must include clear processes and indicate reasons, manner,\ntiming etc. pertaining to invocation/release of pledge and liquidation of\nunpaid securities. Such policy must indicate the maximum period (shall not\nexceed five trading days from the pay-out date) within which the client must\nmeet the payment obligation.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "8e962908-3e3e-5df2-ba12-d30853fc6155",
+      "clause_number": "46.5",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 9,
+      "text": "46.5 While unpaid securities pledged to CUSPA of TM may be considered for\nreporting client margin collection to Clearing Corporation, the TM shall not\nallow exposure on the basis of such securities to the client.\nRelease of pledge on the securities",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "a8eb6d74-8a83-58ba-9265-3f73755f7146",
+      "clause_number": "46.6",
+      "kind": "numbered",
+      "page": 2,
+      "paragraph_index": 10,
+      "text": "46.6 During the period in which client’s funds obligation for unpaid securities\ncontinue, the TM shall, on daily basis, determine the maximum value of\nsecurities that may remain pledged in accordance with the operational\nguidelines issued by the exchanges from time to time. Such maximum\npledge value shall be based on the client’s ledger balance, the client’s\noverall margin obligations or any other relevant factor as specified in the\noperational guidelines of the exchanges.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "93fcbb50-c43d-5e41-a9de-be013aedc9d1",
+      "clause_number": "46.7",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 11,
+      "text": "46.7 If the value of pledged securities exceeds this maximum pledge value, the\nTM shall release the pledge on the appropriate quantity of securities\ncorresponding to the excess value on or before next trading day in\naccordance with operational guidelines of the exchanges.\nInvocation of pledge",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "fb8a30ac-2cb6-5583-b4cb-9ea8b25c2e1f",
+      "clause_number": "46.8",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 12,
+      "text": "46.8 If the client fails to meet the payment obligation within the prescribed\ntimeline, the TM shall, in accordance with its policy, invoke the pledge and\nliquidate the unpaid securities. The TM shall give reasonable notice to the\nclient before invocation of pledge and liquidation of unpaid securities.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "e5ef2a43-b2be-5138-b0af-1be57fbc0b22",
+      "clause_number": "46.9",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 13,
+      "text": "46.9 On invocation, the securities shall be blocked for early pay-in in the client’s\ndemat account with a trail being maintained in the TM’s CUSPA account.\nOnce such securities are blocked for early pay-in in client’s demat account,\nthe depositories shall verify the block details against the client level\nobligation.\nThe unpaid securities shall be sold in the market with Unique Client Code\n(UCC) of the respective client. Any surplus funds remaining after settling the\nclient’s obligation shall be credited to the client’s ledger.\nAuto-release of pledge",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "66b0dcb1-4cbc-5363-8309-3eaed8ab0062",
+      "clause_number": "46.10",
+      "kind": "numbered",
+      "page": 3,
+      "paragraph_index": 14,
+      "text": "46.10 In case, such pledge on unpaid securities is neither invoked nor released\nwithin five trading days after pay-out, the pledge on securities shall be\nautomatically released by the depositories at the end of the sixth trading day\nafter pay-out, and the securities shall become available to the client as free\nbalance without encumbrance.\nIn this regard, it is clarified that TM may request for release of pledge any\ntime before auto-release by depository.\nProhibition on further pledging/transferring CUPSA pledged securities",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "e7550639-6372-50f2-89f5-0e06c5d3b874",
+      "clause_number": "46.11",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 15,
+      "text": "46.11 Securities pledged in favor of CUSPA of TM shall not be permitted to be\npledged/transferred to Banks/NBFCs for raising funds.\nExtension of pledge in exceptional circumstances",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "7b4a1b40-fdb1-56f2-9f78-c55b3c42b37f",
+      "clause_number": "46.12",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 16,
+      "text": "46.12 In exceptional circumstances, if the unpaid pledged securities cannot be\nliquidated by stockbroker within 5 trading days after pay-out due to-\na. the security being in lower circuit with only sellers;\nb. suspension or trading halt due to surveillance or other reasons; or\nc. any other valid reasons as recognized by MIIs including unforeseen\ncircumstances beyond the control of the TM,\nthe TM may make a request by 6 PM on fifth trading day after pay-out, to\nextend the pledge by up to one additional calendar week.\nIf the above conditions continue through the extended period, further\nextensions of similar period may be sought.\nHowever once the aforesaid circumstances no longer exist, the TM shall not\nbe permitted to seek any further extension for any reason.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "5e8df6f1-8dd1-5ce5-8caf-f0333f586c54",
+      "clause_number": "46.13",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 17,
+      "text": "46.13 In case of each extension of pledge, the TM shall send a communication to\nthe client to that effect.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "ed9ddfe4-85e8-5b72-985b-120792badcfa",
+      "clause_number": "46.14",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 18,
+      "text": "46.14 Failure by the TM to request a pledge extension within the stipulated\ntimeframe will result in automatic system-based release of the pledged\nsecurities.”",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "e4c94968-f35c-5095-ba77-d13c9a823fdd",
+      "clause_number": "4",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 19,
+      "text": "4. Accordingly, Paragraph 46 of Master Circular stands amended to the extent of\nParagraph 3 as detailed above. All other provisions specified in Master Circular\nshall continue to remain applicable.\nTimelines for implementation",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "a8d08737-0208-5df8-8173-4e11903bfc89",
+      "clause_number": "5",
+      "kind": "numbered",
+      "page": 4,
+      "paragraph_index": 20,
+      "text": "5. Stock exchanges shall issue operational guidelines for implementation of\nprovisions of this circular, in consultation with depositories within 30 days from the\ndate of issuance of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "9e728c90-5a0e-5ebe-89ee-01132d4310ff",
+      "clause_number": "6",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 21,
+      "text": "6. The amended provisions of Paragraph 46.1 to 46.11 of Master Circular shall come\ninto force with effect from three months from the date of issuance of operational\nguidelines by stock exchanges.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "2b052fbf-36b8-5096-b8b9-f761125123b7",
+      "clause_number": "7",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 22,
+      "text": "7. The amended provisions of Paragraph 46.12 to 46.14 of Master Circular shall come\ninto force with effect from six months from the date of issuance of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "e8e9dd53-5853-5859-a373-4c1fde3d1c00",
+      "clause_number": "8",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 23,
+      "text": "8. Stock exchanges/depositories are directed to:\n8.1. bring the provisions of this circular to the notice of their members / participants\nand also disseminate the same on their websites;\n8.2. make necessary amendments to the relevant Bye-laws, Rules and Regulations\nfor the implementation of the above decision;\n8.3. have in place appropriate systems and arrangements for effecting the\nprovisions of this circular.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "5c4df2c9-5df2-589a-93af-726ac270bf20",
+      "clause_number": "9",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 24,
+      "text": "9. This circular is issued in exercise of powers conferred under Section 11(1) of",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "8473ecbe-0533-5b9d-9c01-af3109e03f6d",
+      "clause_number": "Chapter",
+      "kind": "chapter",
+      "page": 5,
+      "paragraph_index": 25,
+      "text": "Chapter IV of the Securities and Exchange Board of India Act, 1992 read with\nRegulation 50 of SEBI (Stock Brokers) Regulations, 2026, Regulation 51 of\nSecurities Contracts (Regulation) (Stock Exchanges and Clearing Corporations)\nRegulations, 2018 and Regulation 97 of SEBI (Depositories and Participants)\nRegulations, 2018 to protect the interests of investors in securities and to promote\nthe development of, and to regulate the securities markets.",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    },
+    {
+      "uid": "b0e2c6ef-655a-592d-a296-726dacd03ac7",
+      "clause_number": "10",
+      "kind": "numbered",
+      "page": 5,
+      "paragraph_index": 26,
+      "text": "10. This circular is available on SEBI website at www.sebi.gov.in under the category:\n‘Legal → Circulars’.\nYours faithfully,\nKumar Abhishek\nDeputy General Manager\nMarket Intermediaries Regulation and Supervision Department\nTel. No. 022-2644-9248\nEmail id – kumara@sebi.gov.in",
+      "metadata": {
+        "regulator": "SEBI",
+        "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+        "source_page_url": "https://www.sebi.gov.in/legal/circulars/jul-2026/handling-of-client-s-unpaid-securities-by-trading-members_102584.html",
+        "raw_pdf_path": "../corpus/inbox/sebi/064c5883-1783077132079.pdf",
+        "sha256": "064c588312906b472af76fbb0048151ca8d56063ca0cfedc27159b2f802cc8f7",
+        "downloaded_at": "2026-07-06T11:59:32Z"
+      }
+    }
+  ]
+}

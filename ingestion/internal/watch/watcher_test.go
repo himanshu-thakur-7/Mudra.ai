@@ -28,3 +28,21 @@ func TestExtractLinksBadPattern(t *testing.T) {
 		t.Fatalf("expected nil for invalid pattern, got %v", links)
 	}
 }
+
+// Real-world SEBI detail-page shape: the PDF URL only exists inside an inline
+// iframe src / JS string, never as an <a href>.
+func TestExtractBodyURLsFindsJSEmbeddedPDF(t *testing.T) {
+	body := []byte(`<html><body><script>
+		var f = "../../../web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf' width='100%'";
+	</script>
+	<a href="https://www.sebi.gov.in/sebi_data/commondocs/annexure_1.PDF">Annexure</a>
+	<a href="../../../index.html">home</a></body></html>`)
+	got := ExtractBodyURLs(body, "https://www.sebi.gov.in/legal/circulars/jul-2026/x.html", `(?i)sebi\.gov\.in/.*\.pdf`)
+	want := []string{
+		"https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783077132079.pdf",
+		"https://www.sebi.gov.in/sebi_data/commondocs/annexure_1.PDF",
+	}
+	if !reflect.DeepEqual(got, want) {
+		t.Fatalf("got %v want %v", got, want)
+	}
+}

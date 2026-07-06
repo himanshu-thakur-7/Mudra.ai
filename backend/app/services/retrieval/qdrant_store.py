@@ -37,9 +37,30 @@ def _point_id(clause_id: str) -> str:
     return str(uuid.uuid5(uuid.NAMESPACE_URL, clause_id))
 
 
+def _epoch(iso_date: str | None, default: int) -> int:
+    """ISO date -> epoch seconds for indexed integer range filters."""
+    if not iso_date:
+        return default
+    from datetime import datetime, timezone
+
+    try:
+        return int(datetime.fromisoformat(iso_date).replace(tzinfo=timezone.utc).timestamp())
+    except ValueError:
+        return default
+
+
+FAR_FUTURE = 4102444800  # 2100-01-01: open-ended validity
+
+
 def sync_from_db(db: Session) -> int:
-    """Rebuild the collection from the clause registry in SQLAlchemy."""
-    from qdrant_client.models import Distance, PointStruct, VectorParams
+    """Rebuild the collection from the clause registry in SQLAlchemy.
+
+    Temporal design: `status` is a write-time MATERIALIZED flag (the
+    supersession worker flips it), so the hot-path query filter is a single
+    indexed keyword match — not a pair of range comparisons. valid_from/
+    valid_to are still stored as indexed epoch ints for as-of audit replays.
+    """
+    from qdrant_client.models import Distance, PayloadSchemaType, PointStruct, VectorParams
 
     clauses = [c for c in db.scalars(select(Clause)).all() if c.embedding]
     if not clauses:
@@ -49,6 +70,13 @@ def sync_from_db(db: Session) -> int:
     if client.collection_exists(COLLECTION):
         client.delete_collection(COLLECTION)
     client.create_collection(COLLECTION, vectors_config=VectorParams(size=dim, distance=Distance.COSINE))
+    # Payload indexes: filters are evaluated INSIDE the HNSW traversal, so the
+    # ACTIVE/audience hard-filter adds no meaningful query latency.
+    client.create_payload_index(COLLECTION, "status", field_schema=PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION, "tags", field_schema=PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION, "mandatory", field_schema=PayloadSchemaType.BOOL)
+    client.create_payload_index(COLLECTION, "valid_from_ts", field_schema=PayloadSchemaType.INTEGER)
+    client.create_payload_index(COLLECTION, "valid_to_ts", field_schema=PayloadSchemaType.INTEGER)
     client.upsert(COLLECTION, points=[
         PointStruct(
             id=_point_id(c.id),
@@ -60,6 +88,11 @@ def sync_from_db(db: Session) -> int:
                 "text": c.text,
                 "tags": c.tags or [],
                 "mandatory": c.mandatory,
+                "status": c.status or "ACTIVE",
+                "valid_from": c.valid_from or "",
+                "valid_to": c.valid_to,
+                "valid_from_ts": _epoch(c.valid_from, 0),
+                "valid_to_ts": _epoch(c.valid_to, FAR_FUTURE),
             },
         )
         for c in clauses
@@ -78,7 +111,8 @@ class QdrantStore:
         if not client.collection_exists(COLLECTION):
             sync_from_db(self.db)  # cold start: build the collection from the registry
         audience_filter = Filter(must=[
-            FieldCondition(key="tags", match=MatchValue(value=_audience_tag(audience)))
+            FieldCondition(key="tags", match=MatchValue(value=_audience_tag(audience))),
+            FieldCondition(key="status", match=MatchValue(value="ACTIVE")),
         ])
 
         qvec = await embed_query(query)
@@ -100,6 +134,7 @@ class QdrantStore:
         mandatory_filter = Filter(must=[
             FieldCondition(key="tags", match=MatchValue(value=_audience_tag(audience))),
             FieldCondition(key="mandatory", match=MatchValue(value=True)),
+            FieldCondition(key="status", match=MatchValue(value="ACTIVE")),
         ])
         points, _ = client.scroll(COLLECTION, scroll_filter=mandatory_filter, limit=256, with_payload=True)
         for pt in points:
