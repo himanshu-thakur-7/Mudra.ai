@@ -25,13 +25,13 @@ export default function ReviewResultPage() {
   if (error)
     return (
       <p className="rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
-        {error} — <Link className="underline" to="/">back to checker</Link>
+        {error} — <Link className="underline" to="/check">back to checker</Link>
       </p>
     )
   if (!review)
     return (
       <div className="flex items-center gap-3 text-sm text-slate-500">
-        <span className="h-4 w-4 animate-spin rounded-full border-2 border-slate-300 border-t-indigo-600" />
+        <span className="h-4 w-4 animate-spin rounded-full border-2 border-slate-300 border-t-emerald-600" />
         Loading review…
       </div>
     )

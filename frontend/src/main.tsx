@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './index.css'
 import './lib/i18n'
 import App from './App.tsx'
+import LandingPage from './pages/LandingPage.tsx'
 import CheckerPage from './pages/CheckerPage.tsx'
 import HistoryPage from './pages/HistoryPage.tsx'
 import IngestionPage from './pages/IngestionPage.tsx'
@@ -13,8 +14,9 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
+        <Route path="/" element={<LandingPage />} />
         <Route element={<App />}>
-          <Route index element={<CheckerPage />} />
+          <Route path="check" element={<CheckerPage />} />
           <Route path="reviews" element={<HistoryPage />} />
           <Route path="reviews/:id" element={<ReviewResultPage />} />
           <Route path="ingestion" element={<IngestionPage />} />

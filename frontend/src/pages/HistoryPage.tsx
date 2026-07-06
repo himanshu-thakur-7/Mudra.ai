@@ -29,7 +29,7 @@ export default function HistoryPage() {
       <h1 className="text-2xl font-bold tracking-tight">Review history</h1>
       {items.length === 0 ? (
         <p className="mt-4 text-sm text-slate-500">
-          Nothing yet — <Link className="text-indigo-600 underline" to="/">run your first pre-check</Link>.
+          Nothing yet — <Link className="text-emerald-600 underline" to="/check">run your first pre-check</Link>.
         </p>
       ) : (
         <ul className="mt-5 divide-y divide-slate-200 rounded-lg border border-slate-200 bg-white shadow-sm">

@@ -42,7 +42,7 @@ function PipelineProgress() {
             {i < step ? (
               <span className="flex h-5 w-5 items-center justify-center rounded-full bg-emerald-100 text-xs text-emerald-600">✓</span>
             ) : i === step ? (
-              <span className="h-4 w-4 animate-spin rounded-full border-2 border-slate-200 border-t-indigo-600" />
+              <span className="h-4 w-4 animate-spin rounded-full border-2 border-slate-200 border-t-emerald-600" />
             ) : (
               <span className="h-1.5 w-1.5 rounded-full bg-slate-300" />
             )}
@@ -79,8 +79,8 @@ export default function CheckerPage() {
   return (
     <div className="mx-auto max-w-2xl">
       <div className="text-center">
-        <span className="inline-flex items-center gap-1.5 rounded-full bg-indigo-50 px-3 py-1 text-xs font-medium text-indigo-700 ring-1 ring-indigo-100">
-          <span className="h-1.5 w-1.5 rounded-full bg-indigo-500" /> Pre-review co-pilot
+        <span className="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-100">
+          <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" /> Pre-review co-pilot
         </span>
         <h1 className="mt-4 text-3xl font-bold tracking-tight text-slate-900">{t('checker.title')}</h1>
         <p className="mt-2 text-[15px] text-slate-500">{t('checker.subtitle')}</p>
@@ -100,19 +100,19 @@ export default function CheckerPage() {
                 disabled={running}
                 className={`flex flex-col items-center gap-0.5 rounded-xl px-2 py-2.5 text-center transition-all ${
                   audience === a.id
-                    ? 'bg-indigo-600 text-white shadow-sm'
+                    ? 'bg-emerald-600 text-white shadow-sm'
                     : 'bg-slate-50 text-slate-600 ring-1 ring-slate-200 hover:bg-slate-100'
                 }`}
               >
                 <span className="text-sm font-semibold">{a.short}</span>
-                <span className={`text-[10px] ${audience === a.id ? 'text-indigo-100' : 'text-slate-400'}`}>{a.reg}</span>
+                <span className={`text-[10px] ${audience === a.id ? 'text-emerald-100' : 'text-slate-400'}`}>{a.reg}</span>
               </button>
             ))}
           </div>
         </div>
 
         <textarea
-          className="h-40 w-full resize-none rounded-xl border border-slate-200 bg-slate-50/50 p-3.5 text-[15px] leading-relaxed placeholder:text-slate-400 focus:border-indigo-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-100"
+          className="h-40 w-full resize-none rounded-xl border border-slate-200 bg-slate-50/50 p-3.5 text-[15px] leading-relaxed placeholder:text-slate-400 focus:border-emerald-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-emerald-100"
           placeholder={t('checker.placeholder')}
           value={content}
           onChange={(e) => setContent(e.target.value)}
@@ -137,7 +137,7 @@ export default function CheckerPage() {
               </select>
             </label>
             <button
-              className="text-xs font-medium text-indigo-600 hover:underline"
+              className="text-xs font-medium text-emerald-600 hover:underline"
               onClick={() => setContent(SAMPLES[audience] ?? SAMPLES.mfd)}
               disabled={running}
             >
@@ -145,7 +145,7 @@ export default function CheckerPage() {
             </button>
           </div>
           <button
-            className="flex items-center gap-2 rounded-xl bg-indigo-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-indigo-700 disabled:opacity-40"
+            className="flex items-center gap-2 rounded-xl bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-emerald-700 disabled:opacity-40"
             onClick={submit}
             disabled={running || !content.trim()}
           >

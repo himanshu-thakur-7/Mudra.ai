@@ -8,7 +8,7 @@ const SEV: Record<string, { chip: string; bar: string; label: string }> = {
 }
 
 const REG_DOT: Record<string, string> = {
-  SEBI: 'bg-indigo-500',
+  SEBI: 'bg-violet-500',
   AMFI: 'bg-emerald-500',
   RBI: 'bg-amber-500',
   IRDAI: 'bg-rose-500',
@@ -88,7 +88,7 @@ export default function IssueCard({ issue, index }: { issue: Issue; index: numbe
             ))}
             <button
               onClick={() => setShowClauses((v) => !v)}
-              className="text-xs font-medium text-indigo-600 hover:underline"
+              className="text-xs font-medium text-emerald-600 hover:underline"
             >
               {showClauses ? 'Hide' : 'View'} regulation text
             </button>
@@ -105,7 +105,7 @@ export default function IssueCard({ issue, index }: { issue: Issue; index: numbe
                         href={c.source_url}
                         target="_blank"
                         rel="noreferrer"
-                        className="text-xs text-indigo-600 hover:underline"
+                        className="text-xs text-emerald-600 hover:underline"
                       >
                         Source PDF ↗
                       </a>
