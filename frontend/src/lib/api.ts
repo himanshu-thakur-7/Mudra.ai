@@ -71,6 +71,34 @@ export function listReviews(): Promise<ReviewListItem[]> {
   return request('/reviews')
 }
 
+export interface IngestionActivity {
+  ts: string
+  source: 'watcher' | 'downloader' | 'consumer'
+  kind: string
+  regulator?: string
+  detail: string
+}
+
+export interface IngestionStatus {
+  redis: boolean
+  sweep_running?: boolean
+  queues?: { download: number; process: number; failed: number }
+  targets?: { regulator: string; name: string; url: string; seen: number }[]
+  inbox?: { file: string; regulator: string; kb: number }[]
+  total_docs?: number
+  total_change_events?: number
+  recent_changes?: { regulator: string; n_chunks: number; method: string; status: string; created_at: string }[]
+  activity?: IngestionActivity[]
+}
+
+export function getIngestionStatus(): Promise<IngestionStatus> {
+  return request('/ingestion/status')
+}
+
+export function triggerSweep(): Promise<{ started: boolean }> {
+  return request('/ingestion/sweep', { method: 'POST' })
+}
+
 export async function downloadAuditPdf(reviewId: string): Promise<void> {
   const res = await fetch(`/api/audit/${reviewId}/pdf`, {
     headers: { Authorization: `Bearer ${TOKEN}` },

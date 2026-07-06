@@ -26,6 +26,9 @@ export default function App() {
             <NavLink to="/reviews" className={navClass}>
               History
             </NavLink>
+            <NavLink to="/ingestion" className={navClass}>
+              Ingestion
+            </NavLink>
             <button
               onClick={toggleLang}
               className="ml-2 rounded-md border border-slate-300 px-2 py-1 text-xs font-medium text-slate-600 hover:bg-slate-100"

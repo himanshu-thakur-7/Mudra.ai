@@ -16,7 +16,19 @@ const (
 	DownloadQueue = "ingest:download" // fleet-internal: listing watcher -> downloader
 	ProcessQueue  = "ingest:process"  // cross-language: downloader -> Python consumer
 	SeenSetPrefix = "ingest:seen:"    // per-regulator set of already-handled doc URLs
+	ActivityList  = "ingest:activity" // capped feed of structured fleet events (dashboard)
+	activityCap   = 500
 )
+
+// Activity is one dashboard-feed event. The Python consumer publishes the
+// same shape, so the feed interleaves fleet and processing activity.
+type Activity struct {
+	TS        string `json:"ts"`
+	Source    string `json:"source"` // watcher | downloader | consumer
+	Kind      string `json:"kind"`   // sweep_start | unchanged | changed | stored | skipped | fetch_failed | processed | failed
+	Regulator string `json:"regulator,omitempty"`
+	Detail    string `json:"detail"`
+}
 
 // DownloadJob asks the downloader to fetch one newly discovered document.
 type DownloadJob struct {
@@ -41,6 +53,7 @@ type Queue interface {
 	PushProcess(ctx context.Context, job ProcessJob) error
 	IsSeen(ctx context.Context, regulator, url string) (bool, error)
 	MarkSeen(ctx context.Context, regulator, url string) error
+	PublishActivity(ctx context.Context, a Activity)
 }
 
 type RedisQueue struct{ rdb *redis.Client }
@@ -82,4 +95,17 @@ func (q *RedisQueue) IsSeen(ctx context.Context, regulator, url string) (bool, e
 // content hash and the Python consumer is idempotent per sha256.
 func (q *RedisQueue) MarkSeen(ctx context.Context, regulator, url string) error {
 	return q.rdb.SAdd(ctx, SeenSetPrefix+regulator, url).Err()
+}
+
+// PublishActivity pushes a dashboard event (best-effort: feed loss must never
+// affect ingestion, so errors are deliberately dropped).
+func (q *RedisQueue) PublishActivity(ctx context.Context, a Activity) {
+	if a.TS == "" {
+		a.TS = time.Now().UTC().Format(time.RFC3339)
+	}
+	b, _ := json.Marshal(a)
+	pipe := q.rdb.Pipeline()
+	pipe.LPush(ctx, ActivityList, b)
+	pipe.LTrim(ctx, ActivityList, 0, activityCap-1)
+	_, _ = pipe.Exec(ctx)
 }

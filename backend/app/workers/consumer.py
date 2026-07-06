@@ -25,7 +25,20 @@ from app.services.corpus.chunker import chunk_legal
 
 PROCESS_QUEUE = "ingest:process"
 DEAD_LETTER_QUEUE = "ingest:process:failed"  # poison jobs parked here with their error
+ACTIVITY_LIST = "ingest:activity"  # shared dashboard feed (same shape the Go fleet publishes)
 DRAFTS_DIR = CORPUS_DIR / "processed" / "drafts"
+
+
+def publish_activity(rdb, kind: str, detail: str, regulator: str = "") -> None:
+    """Best-effort dashboard event; feed loss must never affect processing."""
+    try:
+        rdb.lpush(ACTIVITY_LIST, json.dumps({
+            "ts": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
+            "source": "consumer", "kind": kind, "regulator": regulator, "detail": detail,
+        }))
+        rdb.ltrim(ACTIVITY_LIST, 0, 499)
+    except Exception:
+        pass
 
 
 def process_job(job: dict) -> CorpusChangeEvent | None:
@@ -86,13 +99,22 @@ def run(drain: bool) -> None:
                 return
             continue
         try:
-            process_job(json.loads(item[1]))
+            job = json.loads(item[1])
+            event = process_job(job)
+            if event is not None:
+                publish_activity(
+                    rdb, "processed",
+                    f"{Path(event.pdf_path).name}: {event.n_chunks} clauses chunked ({event.extraction_method}) → review queue",
+                    regulator=event.regulator,
+                )
         except Exception as e:  # a bad PDF must not kill the service — or vanish
             print(f"[consumer] job failed: {type(e).__name__}: {e}")
             try:
                 dead = json.loads(item[1])
                 dead["_error"] = f"{type(e).__name__}: {e}"
                 rdb.lpush(DEAD_LETTER_QUEUE, json.dumps(dead))
+                publish_activity(rdb, "failed", f"processing failed → dead-letter: {type(e).__name__}: {e}",
+                                 regulator=dead.get("regulator", ""))
             except Exception:
                 rdb.lpush(DEAD_LETTER_QUEUE, item[1])
 

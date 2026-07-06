@@ -55,6 +55,10 @@ func (d *Downloader) Drain(ctx context.Context, idleFor time.Duration) error {
 		}
 		if err := d.handle(ctx, *job); err != nil {
 			d.log.Error("download failed", "url", job.URL, "err", err)
+			d.q.PublishActivity(ctx, queue.Activity{
+				Source: "downloader", Kind: "fetch_failed", Regulator: job.Regulator,
+				Detail: fmt.Sprintf("download failed: %s (%v)", job.URL, err),
+			})
 		}
 	}
 }
@@ -88,6 +92,10 @@ func (d *Downloader) handle(ctx context.Context, job queue.DownloadJob) error {
 	}
 	if !isPDF(data, resp.Header.Get("Content-Type")) {
 		d.log.Info("skipped non-PDF", "url", job.URL, "content_type", resp.Header.Get("Content-Type"))
+		d.q.PublishActivity(ctx, queue.Activity{
+			Source: "downloader", Kind: "skipped", Regulator: job.Regulator,
+			Detail: fmt.Sprintf("non-PDF response (%s) from %s", resp.Header.Get("Content-Type"), u.Host),
+		})
 		return nil
 	}
 
@@ -108,6 +116,10 @@ func (d *Downloader) handle(ctx context.Context, job queue.DownloadJob) error {
 	}
 
 	d.log.Info("stored", "regulator", job.Regulator, "path", dest, "bytes", len(data))
+	d.q.PublishActivity(ctx, queue.Activity{
+		Source: "downloader", Kind: "stored", Regulator: job.Regulator,
+		Detail: fmt.Sprintf("stored %s (%d KB) → process queue", filepath.Base(dest), len(data)/1024),
+	})
 	return d.q.PushProcess(ctx, queue.ProcessJob{
 		PDFPath: dest, URL: job.URL, Regulator: job.Regulator,
 		SHA256: shaHex, DownloadedAt: time.Now().UTC().Format(time.RFC3339),

@@ -41,6 +41,10 @@ func New(cfg config.Config, lim *limiter.Limiter, snaps *snapshot.Store, q queue
 
 // RunOnce sweeps every target a single time (used by `fleet sweep` and tests).
 func (w *Watcher) RunOnce(ctx context.Context) error {
+	w.q.PublishActivity(ctx, queue.Activity{
+		Source: "watcher", Kind: "sweep_start",
+		Detail: fmt.Sprintf("sweeping %d regulator targets", len(w.cfg.Targets)),
+	})
 	errs := make(chan error, len(w.cfg.Targets))
 	for _, t := range w.cfg.Targets {
 		t := t
@@ -83,10 +87,18 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 	body, status, err := w.fetch(ctx, t.URL)
 	if err != nil {
 		w.log.Warn("fetch failed", "target", t.Name, "err", err)
+		w.q.PublishActivity(ctx, queue.Activity{
+			Source: "watcher", Kind: "fetch_failed", Regulator: t.Regulator,
+			Detail: fmt.Sprintf("%s: %v", t.Name, err),
+		})
 		return nil // transient portal failures must not kill the sweep
 	}
 	if status != http.StatusOK {
 		w.log.Warn("non-200 listing", "target", t.Name, "status", status)
+		w.q.PublishActivity(ctx, queue.Activity{
+			Source: "watcher", Kind: "fetch_failed", Regulator: t.Regulator,
+			Detail: fmt.Sprintf("%s answered HTTP %d", t.Name, status),
+		})
 		return nil
 	}
 
@@ -97,6 +109,10 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 	}
 	if oldHash == newHash {
 		w.log.Info("unchanged", "target", t.Name)
+		w.q.PublishActivity(ctx, queue.Activity{
+			Source: "watcher", Kind: "unchanged", Regulator: t.Regulator,
+			Detail: fmt.Sprintf("%s: no change (hash %s…)", t.Name, newHash[:10]),
+		})
 		return nil
 	}
 
@@ -130,6 +146,10 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 		return err
 	}
 	w.log.Info("listing changed", "target", t.Name, "candidate_links", len(links), "new_enqueued", enqueued)
+	w.q.PublishActivity(ctx, queue.Activity{
+		Source: "watcher", Kind: "changed", Regulator: t.Regulator,
+		Detail: fmt.Sprintf("%s CHANGED: %d candidate links, %d new enqueued", t.Name, len(links), enqueued),
+	})
 	return nil
 }
 
