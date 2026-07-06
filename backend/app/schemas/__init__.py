@@ -31,6 +31,35 @@ class FindingOut(BaseModel):
     model_config = {"from_attributes": True}
 
 
+class ClauseCitationOut(BaseModel):
+    clause_id: str
+    clause_quote: str
+    regulator: str
+    doc_title: str
+    source_page: int | None
+    source_url: str
+    doc_status: str
+
+
+class OffendingSpanOut(BaseModel):
+    text: str
+    explanation: str
+    source: str
+    confidence: float
+
+
+class IssueOut(BaseModel):
+    """A synthesized, adjudicated issue — the product-facing unit. Overlapping
+    atomic findings are collapsed here; each issue cites its clauses once."""
+    key: str
+    title: str
+    blurb: str
+    severity: Severity
+    citations: list[ClauseCitationOut]
+    spans: list[OffendingSpanOut]
+    missing_requirements: list[str]
+
+
 class ReviewOut(BaseModel):
     id: str
     channel: str
@@ -42,7 +71,8 @@ class ReviewOut(BaseModel):
     rewrite: str | None
     summary: str
     created_at: datetime
-    findings: list[FindingOut]
+    issues: list[IssueOut]
+    findings: list[FindingOut]  # atomic rows, retained for the audit trail
 
     model_config = {"from_attributes": True}
 

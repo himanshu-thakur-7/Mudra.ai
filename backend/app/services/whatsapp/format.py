@@ -13,18 +13,22 @@ VERDICT_TEXT = {
 }
 
 
-def format_whatsapp_reply(review: Review, web_url: str, max_findings: int = 3) -> str:
+def format_whatsapp_reply(review: Review, web_url: str, max_issues: int = 4) -> str:
+    from app.services.grouping import group_findings
+
+    issues = group_findings(review.findings)
     lines = [
         f"{VERDICT_EMOJI.get(review.verdict, '')} *{VERDICT_TEXT.get(review.verdict, review.verdict)}*",
         "",
     ]
-    if review.findings:
-        lines.append(f"Top issues ({min(len(review.findings), max_findings)} of {len(review.findings)}):")
-        for f in review.findings[:max_findings]:
-            lines.append(f"• [{f.severity}] {f.explanation} ({f.clause_id})")
+    if issues:
+        lines.append(f"*{len(issues)} issue{'s' if len(issues) != 1 else ''} found:*")
+        for issue in issues[:max_issues]:
+            clause = issue.citations[0].clause_id if issue.citations else ""
+            lines.append(f"• [{issue.severity}] {issue.title} ({clause})")
         lines.append("")
     if review.rewrite:
-        lines.append("*Suggested compliant version:*")
+        lines.append("*✅ Ready-to-post compliant version:*")
         lines.append(review.rewrite)
         lines.append("")
     lines.append(f"Full report + audit PDF: {web_url}/reviews/{review.id}")

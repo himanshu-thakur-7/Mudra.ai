@@ -70,7 +70,8 @@
         "audience:ia-ra",
         "scope"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 1
     },
     {
       "id": "SEBI-ADCODE-2023/1.a.ii",
@@ -82,7 +83,8 @@
         "scope",
         "social-media"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 2
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.i",
@@ -93,7 +95,8 @@
         "audience:ia-ra",
         "identity-disclosure"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 2
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.ii",
@@ -104,7 +107,8 @@
         "audience:ia-ra",
         "misleading-statements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 2
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.iii",
@@ -116,7 +120,8 @@
         "standard-warning",
         "risk-disclosure"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 2
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.v",
@@ -128,7 +133,8 @@
         "standard-warning",
         "vernacular"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 2
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.vi",
@@ -140,7 +146,8 @@
         "identity-disclosure",
         "social-media"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.vii",
@@ -152,7 +159,8 @@
         "disclaimers",
         "specific-securities"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.b.viii",
@@ -163,7 +171,8 @@
         "audience:ia-ra",
         "disclaimers"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.ii",
@@ -174,7 +183,8 @@
         "audience:ia-ra",
         "misleading-statements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.iii",
@@ -186,7 +196,8 @@
         "misleading-statements",
         "testimonials"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.iv",
@@ -197,7 +208,8 @@
         "audience:ia-ra",
         "misleading-statements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.vi",
@@ -208,7 +220,8 @@
         "audience:ia-ra",
         "misleading-statements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.vii",
@@ -220,7 +233,8 @@
         "misleading-statements",
         "risk-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.ix",
@@ -232,7 +246,8 @@
         "inducements",
         "free-services"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.x",
@@ -243,7 +258,8 @@
         "audience:ia-ra",
         "assured-returns"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.xi",
@@ -254,7 +270,8 @@
         "audience:ia-ra",
         "comparisons"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.xii",
@@ -265,7 +282,8 @@
         "audience:ia-ra",
         "past-performance"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.xiii",
@@ -276,7 +294,8 @@
         "audience:ia-ra",
         "superlatives"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "SEBI-ADCODE-2023/1.c.xiv",
@@ -287,7 +306,8 @@
         "audience:ia-ra",
         "logo"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "SEBI-ADCODE-2023/1.d.i",
@@ -298,7 +318,8 @@
         "audience:ia-ra",
         "prior-approval"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 5
     },
     {
       "id": "SEBI-ADCODE-2023/1.d.iii",
@@ -309,7 +330,8 @@
         "audience:ia-ra",
         "inducements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "SEBI-ADCODE-2023/1.d.v",
@@ -320,7 +342,8 @@
         "audience:ia-ra",
         "record-keeping"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "AMFI-COC-2022/1.d",
@@ -331,7 +354,8 @@
         "audience:mfd",
         "inducements"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 1
     },
     {
       "id": "AMFI-COC-2022/1.e.v",
@@ -343,7 +367,8 @@
         "misleading-statements",
         "risk-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 2
     },
     {
       "id": "AMFI-COC-2022/2.a",
@@ -355,7 +380,8 @@
         "scope",
         "past-performance"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 2
     },
     {
       "id": "AMFI-COC-2022/4.b",
@@ -367,7 +393,8 @@
         "risk-disclosure",
         "misleading-statements"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "AMFI-COC-2022/4.g",
@@ -378,7 +405,8 @@
         "audience:mfd",
         "assured-returns"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 5
     },
     {
       "id": "AMFI-COC-2022/4.h",
@@ -390,7 +418,8 @@
         "assured-returns",
         "risk-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "AMFI-COC-2022/4.k",
@@ -402,7 +431,8 @@
         "scheme-marketing",
         "prior-approval"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 5
     },
     {
       "id": "AMFI-COC-2022/4.m",
@@ -413,7 +443,8 @@
         "audience:mfd",
         "comparisons"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 6
     },
     {
       "id": "AMFI-COC-2022/5.g",
@@ -425,7 +456,8 @@
         "nomenclature",
         "tagline-arn"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 7
     },
     {
       "id": "AMFI-COC-2022/6.b",
@@ -438,7 +470,8 @@
         "social-media",
         "comparisons"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 7
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q2",
@@ -450,7 +483,8 @@
         "financial-planning-terms",
         "nomenclature"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 1
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q8.c",
@@ -462,7 +496,8 @@
         "inducements",
         "free-services"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q8.d",
@@ -473,7 +508,8 @@
         "audience:mfd",
         "financial-planning-terms"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 3
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q9",
@@ -487,7 +523,8 @@
         "past-performance",
         "tagline-arn"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q10",
@@ -500,7 +537,8 @@
         "scheme-marketing",
         "past-performance"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 4
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q13",
@@ -512,7 +550,8 @@
         "scheme-marketing",
         "prior-approval"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "AMFI-DOSDONTS-FAQ/Q14",
@@ -524,7 +563,8 @@
         "tagline-arn",
         "identity-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 5
     },
     {
       "id": "AMFI-MASTERCIR-2026/1.3.2",
@@ -535,7 +575,8 @@
         "audience:mfd",
         "nomenclature"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 8
     },
     {
       "id": "AMFI-MASTERCIR-2026/1.3.6",
@@ -547,7 +588,8 @@
         "tagline-arn",
         "identity-disclosure"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 8
     },
     {
       "id": "RBI-DLD-2025/5.vii",
@@ -559,7 +601,8 @@
         "scope",
         "liability"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 6
     },
     {
       "id": "RBI-DLD-2025/6.i",
@@ -571,7 +614,8 @@
         "identity-disclosure",
         "comparisons"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 6
     },
     {
       "id": "RBI-DLD-2025/6.iii",
@@ -583,7 +627,8 @@
         "identity-disclosure",
         "apr-kfs"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 7
     },
     {
       "id": "RBI-DLD-2025/6.iv",
@@ -595,7 +640,8 @@
         "misleading-statements",
         "dark-patterns"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 7
     },
     {
       "id": "RBI-DLD-2025/8.i",
@@ -607,7 +653,8 @@
         "apr-kfs",
         "disclaimers"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 4
     },
     {
       "id": "RBI-DLD-2025/8.iv",
@@ -618,7 +665,8 @@
         "audience:nbfc-lsp",
         "identity-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 8
     },
     {
       "id": "IRDAI-ADREG-2021/3.g",
@@ -630,7 +678,8 @@
         "misleading-statements",
         "benefit-claims"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 9
     },
     {
       "id": "IRDAI-ADREG-2021/4.3",
@@ -641,7 +690,8 @@
         "audience:insurance",
         "misleading-statements"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 9
     },
     {
       "id": "IRDAI-ADREG-2021/7.1",
@@ -652,7 +702,8 @@
         "audience:insurance",
         "prior-approval"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 10
     },
     {
       "id": "IRDAI-ADREG-2021/9.1",
@@ -663,7 +714,8 @@
         "audience:insurance",
         "identity-disclosure"
       ],
-      "mandatory": false
+      "mandatory": false,
+      "source_page": 10
     },
     {
       "id": "IRDAI-ADREG-2021/9.2",
@@ -675,7 +727,8 @@
         "risk-disclosure",
         "disclaimers"
       ],
-      "mandatory": true
+      "mandatory": true,
+      "source_page": 10
     }
   ]
 }

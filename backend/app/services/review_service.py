@@ -12,8 +12,9 @@ import hashlib
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from app.models import AuditEvent, Clause, Finding, Review
+from app.models import AuditEvent, Clause, CorpusDoc, Finding, Review
 from app.services.agents.llm import LLMClient
+from app.services.grouping import category_for_tags
 from app.services.agents.pipeline import (
     LLMFinding,
     run_adjudicator,
@@ -29,6 +30,27 @@ SEVERITY_RANK = {"critical": 0, "major": 1, "minor": 2}
 def _audit(db: Session, review_id: str, stage: str, payload: dict) -> None:
     db.add(AuditEvent(review_id=review_id, stage=stage, payload=payload))
     db.flush()
+
+
+def _load_clause_meta(db: Session) -> dict[str, dict]:
+    """clause_id -> full provenance (verbatim text, tags, page, doc URL/title/status)."""
+    doc_rows = {
+        d.id: d
+        for d in db.scalars(select(CorpusDoc)).all()
+    }
+    meta: dict[str, dict] = {}
+    for c in db.scalars(select(Clause)).all():
+        doc = doc_rows.get(c.doc_id)
+        meta[c.id] = {
+            "text": c.text,
+            "tags": c.tags or [],
+            "status": c.status or "ACTIVE",
+            "source_page": getattr(c, "source_page", None),
+            "regulator": doc.regulator if doc else "",
+            "doc_title": doc.title if doc else "",
+            "source_url": doc.source_url if doc else "",
+        }
+    return meta
 
 
 def _compute_verdict(severities: list[str]) -> str:
@@ -79,7 +101,7 @@ async def run_review(
     _audit(db, review.id, "submitted", {"sha256": review.content_sha256, "channel": channel, "audience": audience})
 
     registry_ids = set(db.scalars(select(Clause.id)).all())
-    clause_quotes = dict(db.execute(select(Clause.id, Clause.text)).all())
+    clause_meta = _load_clause_meta(db)
 
     # 1. Deterministic checks — always run, zero-hallucination.
     det = run_deterministic_checks(content, audience=audience)
@@ -145,20 +167,38 @@ async def run_review(
         except Exception as e:
             _audit(db, review.id, "rewriter_error", {"error": f"{type(e).__name__}: {e}"})
 
+    def _provenance(clause_id: str | None, offending_text: str) -> dict:
+        m = clause_meta.get(clause_id or "", {})
+        # A structural absence is always a "missing disclosures" issue, whatever
+        # other tags the cited clause happens to carry.
+        is_missing = (offending_text or "").strip().startswith("(")
+        issue_key = "missing_disclosures" if is_missing else category_for_tags(m.get("tags", []))
+        return {
+            "clause_quote": m.get("text", ""),
+            "regulator": m.get("regulator", ""),
+            "doc_title": m.get("doc_title", ""),
+            "source_page": m.get("source_page"),
+            "source_url": m.get("source_url", ""),
+            "doc_status": m.get("status", "ACTIVE"),
+            "issue_key": issue_key,
+        }
+
     for f in det:
         db.add(Finding(
             review_id=review.id, source="deterministic", severity=f.severity,
             severity_rank=SEVERITY_RANK[f.severity], clause_id=f.clause_id,
-            clause_quote=clause_quotes.get(f.clause_id, ""), offending_text=f.offending_text,
+            offending_text=f.offending_text,
             explanation=f.explanation, suggested_fix=f.suggested_fix,
+            **_provenance(f.clause_id, f.offending_text),
         ))
     for f in llm_findings:
         db.add(Finding(
             review_id=review.id, source="llm", severity=f.severity,
             severity_rank=SEVERITY_RANK[f.severity], clause_id=f.clause_id,
-            clause_quote=clause_quotes.get(f.clause_id, ""), offending_text=f.offending_text,
+            offending_text=f.offending_text,
             explanation=f.explanation, suggested_fix=f.suggested_fix,
             adjudication=f.adjudication, confidence=f.confidence,
+            **_provenance(f.clause_id, f.offending_text),
         ))
 
     n_crit = sum(1 for s in all_severities if s == "critical")

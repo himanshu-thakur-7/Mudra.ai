@@ -70,6 +70,7 @@ def load_registry(registry_path: Path = REGISTRY_PATH, embed: bool = True) -> tu
             clause.status = c.get("status", parent.get("status", "ACTIVE"))
             clause.valid_from = c.get("valid_from", parent.get("effective_date", ""))
             clause.valid_to = c.get("valid_to")
+            clause.source_page = c.get("source_page")
             if vec is not None:
                 clause.embedding = vec.tobytes()
             db.merge(clause)

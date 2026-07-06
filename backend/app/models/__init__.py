@@ -76,6 +76,8 @@ class Clause(Base):
     status: Mapped[str] = mapped_column(String(20), default="ACTIVE", index=True)
     valid_from: Mapped[str] = mapped_column(String(20), default="")
     valid_to: Mapped[str | None] = mapped_column(String(20), nullable=True)
+    # Exact page in the source PDF — courtroom lineage for every citation.
+    source_page: Mapped[int | None] = mapped_column(nullable=True)
     embedding: Mapped[bytes | None] = mapped_column(LargeBinary, nullable=True)  # float32 numpy bytes
 
     doc: Mapped[CorpusDoc] = relationship(back_populates="clauses")
@@ -141,6 +143,14 @@ class Finding(Base):
     suggested_fix: Mapped[str] = mapped_column(Text, default="")
     adjudication: Mapped[str] = mapped_column(String(20), default="upheld")  # upheld|downgraded|dropped
     confidence: Mapped[float] = mapped_column(Float, default=1.0)
+    # Courtroom-grade provenance (Reg 16C): every flag is defensible on its own.
+    regulator: Mapped[str] = mapped_column(String(20), default="")
+    doc_title: Mapped[str] = mapped_column(String(500), default="")
+    source_page: Mapped[int | None] = mapped_column(nullable=True)
+    source_url: Mapped[str] = mapped_column(String(1000), default="")
+    doc_status: Mapped[str] = mapped_column(String(20), default="ACTIVE")  # ACTIVE|SUPERSEDED|AMENDED
+    # Grouping key: the issue category this finding rolls up into.
+    issue_key: Mapped[str] = mapped_column(String(60), default="")
 
     review: Mapped[Review] = relationship(back_populates="findings")
 

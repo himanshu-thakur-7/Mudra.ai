@@ -92,27 +92,34 @@ def build_audit_pdf(review: Review) -> bytes:
     story.append(Paragraph("Submitted content", h2))
     story.append(Paragraph(_esc(review.content).replace("\n", "<br/>"), quote))
 
-    story.append(Paragraph(f"Findings ({len(review.findings)})", h2))
-    if not review.findings:
-        story.append(Paragraph("No violations found.", body))
-    for i, f in enumerate(review.findings, 1):
-        sev = SEV_COLOR.get(f.severity, colors.black)
-        story.append(Paragraph(
-            f'<font color="{sev.hexval()}"><b>{i}. [{f.severity.upper()}]</b></font> '
-            f"<b>{_esc(f.clause_id)}</b> — {_esc(f.explanation)}", body))
-        if f.offending_text:
-            story.append(Paragraph(f"Content: <i>{_esc(f.offending_text)}</i>", quote))
-        if f.clause_quote:
-            story.append(Paragraph(f"Clause (verbatim): “{_esc(f.clause_quote)}”", quote))
-        if f.suggested_fix:
-            story.append(Paragraph(f"Suggested fix: {_esc(f.suggested_fix)}", quote))
-        story.append(Paragraph(
-            f"source: {f.source} · adjudication: {f.adjudication} · confidence: {f.confidence:.2f}", small))
-        story.append(Spacer(1, 4))
-
+    # Remediation is presented first: one compliant rewrite resolving everything.
     if review.rewrite:
-        story.append(Paragraph("Suggested compliant rewrite", h2))
+        story.append(Paragraph("Recommended compliant version", h2))
         story.append(Paragraph(_esc(review.rewrite).replace("\n", "<br/>"), quote))
+
+    from app.services.grouping import group_findings
+
+    issues = group_findings(review.findings)
+    story.append(Paragraph(f"Issues ({len(issues)})", h2))
+    if not issues:
+        story.append(Paragraph("No violations found.", body))
+    for i, issue in enumerate(issues, 1):
+        sev = SEV_COLOR.get(issue.severity, colors.black)
+        story.append(Paragraph(
+            f'<font color="{sev.hexval()}"><b>{i}. [{issue.severity.upper()}] {_esc(issue.title)}</b></font>',
+            body))
+        for span in issue.spans:
+            story.append(Paragraph(f"Flagged text: <i>“{_esc(span.text)}”</i> — {_esc(span.explanation)}", quote))
+        if issue.missing_requirements:
+            story.append(Paragraph("Missing: " + _esc(", ".join(issue.missing_requirements)), quote))
+        for cit in issue.citations:
+            page = f", p.{cit.source_page}" if cit.source_page else ""
+            story.append(Paragraph(
+                f"Authority: <b>{_esc(cit.clause_id)}</b> ({_esc(cit.regulator)}{page}, status: {cit.doc_status})", small))
+            story.append(Paragraph(f"“{_esc(cit.clause_quote)}”", quote))
+            if cit.source_url:
+                story.append(Paragraph(f"Source: {_esc(cit.source_url)}", small))
+        story.append(Spacer(1, 6))
 
     story.append(Paragraph("Pipeline journal", h2))
     rows = [["#", "Stage", "Timestamp (UTC)"]]
