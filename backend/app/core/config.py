@@ -34,6 +34,9 @@ class Settings(BaseSettings):
     twilio_auth_token: str = ""
     twilio_whatsapp_from: str = ""  # e.g. "whatsapp:+14155238886" (sandbox)
 
+    razorpay_key_id: str = ""
+    razorpay_key_secret: str = ""
+
 
 @lru_cache
 def get_settings() -> Settings:

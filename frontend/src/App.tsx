@@ -7,7 +7,8 @@ const navClass = ({ isActive }: { isActive: boolean }) =>
   }`
 
 export default function App() {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
+  const toggleLang = () => i18n.changeLanguage(i18n.language === 'en' ? 'hi' : 'en')
   return (
     <div className="flex min-h-screen flex-col">
       <header className="border-b border-slate-200 bg-white">
@@ -18,13 +19,20 @@ export default function App() {
             </span>
             <p className="text-xs text-slate-500">{t('tagline')}</p>
           </div>
-          <nav className="flex gap-1">
+          <nav className="flex items-center gap-1">
             <NavLink to="/" end className={navClass}>
               Checker
             </NavLink>
             <NavLink to="/reviews" className={navClass}>
               History
             </NavLink>
+            <button
+              onClick={toggleLang}
+              className="ml-2 rounded-md border border-slate-300 px-2 py-1 text-xs font-medium text-slate-600 hover:bg-slate-100"
+              title="Switch language"
+            >
+              {i18n.language === 'en' ? 'हिं' : 'EN'}
+            </button>
           </nav>
         </div>
       </header>

@@ -1,9 +1,14 @@
 # ComplianceCopilot — AI Compliance Officer for Indian Financial Services
 
-Pre-review co-pilot that checks MFD/RIA marketing content (WhatsApp posts, social
-captions, ad copy) against the SEBI 2023 Advertisement Code and AMFI Code of
-Conduct — with every flag cited to a verbatim regulatory clause, a compliant
-rewrite, and a downloadable audit-trail PDF.
+Pre-review co-pilot that checks financial marketing content (WhatsApp posts,
+social captions, ad copy) against SEBI, AMFI, RBI and IRDAI rules — with every
+flag cited to a verbatim regulatory clause, a compliant rewrite, and a
+downloadable audit-trail PDF.
+
+Four audiences are live: **MFD** (SEBI/AMFI), **IA/RA** (SEBI Ad Code 2023),
+**Digital lender / LSP** (RBI Digital Lending Directions 2025), **Insurer /
+agent** (IRDAI Advertisement Regulations 2021). English + Hindi UI; rewrites
+stay in the original language (incl. Hinglish).
 
 **Positioning (by design):** a pre-review layer with the human compliance officer
 in the loop — never a replacement. SEBI's Intermediaries (Amendment) Regulations
@@ -65,6 +70,33 @@ RUN_LLM_TESTS=1 uv run pytest # + live LLM golden tests
    `POST https://<your-ngrok>/webhooks/whatsapp`
 3. Send any marketing text to the sandbox number — you get verdict, top issues
    with clause citations, the compliant rewrite, and a link to the full report.
+
+## Living knowledge base (distributed ingestion engine)
+
+The Go fleet watches regulator listing pages, detects changes by normalized
+DOM hash, and downloads new circulars under a fleet-wide per-domain token
+bucket (Redis). PDFs land in `corpus/inbox/` (the object-store seam) and a
+ProcessJob goes on the Redis broker; the Python consumer cascade-extracts
+(pdfplumber → tesseract OCR), chunks by **legal structure** with forced
+provenance metadata, and files a change event for human review.
+
+```bash
+redis-server --port 6379 --dir .redis --save '' --appendonly no &   # broker + limiter + snapshots
+cd ingestion && go run ./cmd/fleet -config targets.json sweep       # one pass (or: watch)
+cd backend && uv run python -m app.workers.consumer --drain        # process the backlog
+# review drafts in corpus/processed/drafts/, merge vetted clauses into clauses.json, then:
+uv run python -m app.services.corpus.ingest load
+```
+
+Change feed: `GET /api/corpus/changes`. Production swaps: Redis list → RabbitMQ
+(queue interface), local inbox → S3, embedded Qdrant → Qdrant server.
+
+### Retrieval backends
+
+`RETRIEVAL_BACKEND=sqlite` (default, numpy cosine) or `qdrant` (embedded local
+mode, audience payload filtering — zero cross-regulator contamination inside
+the vector engine). `uv run python -m app.services.corpus.ingest sync-qdrant`
+rebuilds the collection.
 
 ## Corpus maintenance
 

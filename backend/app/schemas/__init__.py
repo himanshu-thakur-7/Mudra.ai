@@ -4,7 +4,7 @@ from typing import Literal
 from pydantic import BaseModel, Field
 
 Channel = Literal["whatsapp", "social", "email", "web"]
-Audience = Literal["mfd", "ia-ra"]
+Audience = Literal["mfd", "ia-ra", "nbfc-lsp", "insurance"]
 Verdict = Literal["pass", "needs_changes", "fail", "error", "pending"]
 Severity = Literal["critical", "major", "minor"]
 

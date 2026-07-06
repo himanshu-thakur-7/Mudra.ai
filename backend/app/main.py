@@ -24,11 +24,12 @@ def create_app() -> FastAPI:
         allow_headers=["*"],
     )
 
-    from app.api import audit, corpus, reviews, whatsapp
+    from app.api import audit, billing, corpus, reviews, whatsapp
 
     app.include_router(reviews.router, prefix="/api")
     app.include_router(audit.router, prefix="/api")
     app.include_router(corpus.router, prefix="/api")
+    app.include_router(billing.router, prefix="/api")
     app.include_router(whatsapp.router)
 
     @app.get("/health")

@@ -32,6 +32,22 @@
       "source_url": "https://www.amfiindia.com/uploads/AMFI_Master_Cicular_for_MF_Ds_3c7f5ee44f.pdf",
       "source_file": "amfi-master-circular-mfds.pdf",
       "effective_date": "2026-01-14"
+    },
+    {
+      "id": "RBI-DLD-2025",
+      "regulator": "RBI",
+      "title": "Reserve Bank of India (Digital Lending) Directions, 2025 — RBI/2025-26/36, DOR.STR.REC.19/21.07.001/2025-26 (May 8, 2025)",
+      "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12848&Mode=0",
+      "source_file": "rbi-digital-lending-2025.pdf",
+      "effective_date": "2025-05-08"
+    },
+    {
+      "id": "IRDAI-ADREG-2021",
+      "regulator": "IRDAI",
+      "title": "IRDAI (Insurance Advertisements and Disclosure) Regulations, 2021 — IRDAI/Reg/2/174/2021 (effective April 9, 2021)",
+      "source_url": "https://irdai.gov.in/document-detail?documentId=397359",
+      "source_file": "irdai-ad-regulations-2021.pdf",
+      "effective_date": "2021-04-09"
     }
   ],
   "clauses": [
@@ -40,7 +56,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(a)(i)",
       "text": "Advertisement shall include all forms of communications, issued by or on behalf of IA/RA, that may influence investment decisions of any investor or prospective investor.",
-      "tags": ["audience:ia-ra", "scope"],
+      "tags": [
+        "audience:ia-ra",
+        "scope"
+      ],
       "mandatory": false
     },
     {
@@ -48,7 +67,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(a)(ii)",
       "text": "The forms of communications, to which the advertisement code shall be applicable, shall include pamphlets, circulars, brochures, notices, research reports or any other literature, document, information or material published, or designed for use in any publication or displays (such as newspaper, magazine, sign boards/hoardings at any location), in any electronic, wired or wireless communication (such as electronic mail, text messaging, messaging platforms, social media platforms, radio, telephone, or in any other form over the internet) or over any other audio-visual form of communication (such as television, tape recording, video tape recordings, motion pictures) or in any other manner whatsoever.",
-      "tags": ["audience:ia-ra", "scope", "social-media"],
+      "tags": [
+        "audience:ia-ra",
+        "scope",
+        "social-media"
+      ],
       "mandatory": false
     },
     {
@@ -56,7 +79,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(i)",
       "text": "The advertisement shall contain the name of the IA/RA as registered with SEBI, registered office address, SEBI Registration No., logo/brand name/trade name of IA/RA, and CIN of the IA/RA, if applicable.",
-      "tags": ["audience:ia-ra", "identity-disclosure"],
+      "tags": [
+        "audience:ia-ra",
+        "identity-disclosure"
+      ],
       "mandatory": true
     },
     {
@@ -64,7 +90,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(ii)",
       "text": "The advertisement shall contain information which is accurate, true and complete in unambiguous and concise language.",
-      "tags": ["audience:ia-ra", "misleading-statements"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements"
+      ],
       "mandatory": false
     },
     {
@@ -72,7 +101,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(iii)",
       "text": "The advertisement shall contain a standard warning in legible fonts (minimum 10 font size) which states “Investment in securities market are subject to market risks. Read all the related documents carefully before investing.”. No addition or deletion of words shall be made to/from the standard warning.",
-      "tags": ["audience:ia-ra", "standard-warning", "risk-disclosure"],
+      "tags": [
+        "audience:ia-ra",
+        "standard-warning",
+        "risk-disclosure"
+      ],
       "mandatory": true
     },
     {
@@ -80,7 +113,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(v)",
       "text": "Whenever the advertisement is being issued in a language other than English, it will be ensured that the standard warning is accurately translated in the language of the advertisement.",
-      "tags": ["audience:ia-ra", "standard-warning", "vernacular"],
+      "tags": [
+        "audience:ia-ra",
+        "standard-warning",
+        "vernacular"
+      ],
       "mandatory": false
     },
     {
@@ -88,7 +125,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(vi)",
       "text": "In case the mode of advertisement is SMS/Message/Pop-up, social media etc. and the details such as full name, logo/brand name, full registered office address, SEBI registration number, membership number of a SEBI recognized supervisory body and standard disclaimer are not mentioned, then official website hyperlink should be provided in such SMS/Message/Pop-up, etc. and the website must contain all such details.",
-      "tags": ["audience:ia-ra", "identity-disclosure", "social-media"],
+      "tags": [
+        "audience:ia-ra",
+        "identity-disclosure",
+        "social-media"
+      ],
       "mandatory": true
     },
     {
@@ -96,7 +137,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(vii)",
       "text": "In case any specific security/securities are displayed in the advertisement as examples, disclaimer that \"The securities quoted are for illustration only and are not recommendatory\" should be mentioned.",
-      "tags": ["audience:ia-ra", "disclaimers", "specific-securities"],
+      "tags": [
+        "audience:ia-ra",
+        "disclaimers",
+        "specific-securities"
+      ],
       "mandatory": false
     },
     {
@@ -104,7 +149,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(b)(viii)",
       "text": "Advertisements and communications/correspondences with clients shall include the disclaimer that “Registration granted by SEBI, membership of BASL (in case of IAs) and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors.”",
-      "tags": ["audience:ia-ra", "disclaimers"],
+      "tags": [
+        "audience:ia-ra",
+        "disclaimers"
+      ],
       "mandatory": true
     },
     {
@@ -112,7 +160,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(ii)",
       "text": "The advertisement shall not contain statements which are false, misleading, biased or deceptive, based on assumptions or projections.",
-      "tags": ["audience:ia-ra", "misleading-statements"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements"
+      ],
       "mandatory": false
     },
     {
@@ -120,7 +171,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(iii)",
       "text": "The advertisement shall not contain any misleading or deceptive testimonials.",
-      "tags": ["audience:ia-ra", "misleading-statements", "testimonials"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements",
+        "testimonials"
+      ],
       "mandatory": false
     },
     {
@@ -128,7 +183,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(iv)",
       "text": "The advertisement shall not contain statements which, directly or by implication or by omission, may mislead the investor.",
-      "tags": ["audience:ia-ra", "misleading-statements"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements"
+      ],
       "mandatory": false
     },
     {
@@ -136,7 +194,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(vi)",
       "text": "The advertisement shall not contain any statement designed to exploit the lack of experience or knowledge of the investors.",
-      "tags": ["audience:ia-ra", "misleading-statements"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements"
+      ],
       "mandatory": false
     },
     {
@@ -144,7 +205,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(vii)",
       "text": "The advertisement shall not contain any statement that is exaggerated or is inconsistent with or unrelated to the nature and risk and return profile of the product.",
-      "tags": ["audience:ia-ra", "misleading-statements", "risk-disclosure"],
+      "tags": [
+        "audience:ia-ra",
+        "misleading-statements",
+        "risk-disclosure"
+      ],
       "mandatory": false
     },
     {
@@ -152,7 +217,11 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(ix)",
       "text": "The advertisement shall not contain reference to any report, analysis, or service as free, unless it actually is free and without condition or obligation.",
-      "tags": ["audience:ia-ra", "inducements", "free-services"],
+      "tags": [
+        "audience:ia-ra",
+        "inducements",
+        "free-services"
+      ],
       "mandatory": false
     },
     {
@@ -160,7 +229,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(x)",
       "text": "The advertisement shall not contain any promise or guarantee of assured or risk free return to the investors. The advertisement shall not imply any assured returns or minimum returns or target return or percentage accuracy or service provision till achievement of target returns or any other nomenclature that gives the impression to the client that the investment advice/recommendation of research report is risk-free and/or not susceptible to market risks and/or that it can generate returns with any level of assurance.",
-      "tags": ["audience:ia-ra", "assured-returns"],
+      "tags": [
+        "audience:ia-ra",
+        "assured-returns"
+      ],
       "mandatory": true
     },
     {
@@ -168,7 +240,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(xi)",
       "text": "The advertisement shall not contain any statement which directly or indirectly discredits other advertisements or intermediaries or makes unfair comparisons or ascribes any qualitative advantage over other intermediaries directly or indirectly.",
-      "tags": ["audience:ia-ra", "comparisons"],
+      "tags": [
+        "audience:ia-ra",
+        "comparisons"
+      ],
       "mandatory": false
     },
     {
@@ -176,7 +251,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(xii)",
       "text": "The advertisement shall not contain reference to past performance of the IA/RA.",
-      "tags": ["audience:ia-ra", "past-performance"],
+      "tags": [
+        "audience:ia-ra",
+        "past-performance"
+      ],
       "mandatory": true
     },
     {
@@ -184,7 +262,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(xiii)",
       "text": "The advertisement shall not contain superlative terms such as “Best”, “No. 1”, Top Adviser/Research Analyst, “Leading”, “One of the best amongst market leaders”, etc. so as to provide any endorsement of quality or standing of the IA/RA. However, factual details of awards received by the IA/RA from independent organizations may be included.",
-      "tags": ["audience:ia-ra", "superlatives"],
+      "tags": [
+        "audience:ia-ra",
+        "superlatives"
+      ],
       "mandatory": true
     },
     {
@@ -192,7 +273,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(c)(xiv)",
       "text": "Advertisements shall not include SEBI Logo.",
-      "tags": ["audience:ia-ra", "logo"],
+      "tags": [
+        "audience:ia-ra",
+        "logo"
+      ],
       "mandatory": false
     },
     {
@@ -200,7 +284,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(d)(i)",
       "text": "Prior approval for the advertisement/material shall be obtained from SEBI recognized supervisory body (e.g. BSE Administration & Supervision Ltd. (BASL) in case of IAs) before issue.",
-      "tags": ["audience:ia-ra", "prior-approval"],
+      "tags": [
+        "audience:ia-ra",
+        "prior-approval"
+      ],
       "mandatory": true
     },
     {
@@ -208,7 +295,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(d)(iii)",
       "text": "The IA/RA shall not engage in games, leagues, schemes, competitions etc. which may involve distribution of prize monies, medals, gifts, etc.",
-      "tags": ["audience:ia-ra", "inducements"],
+      "tags": [
+        "audience:ia-ra",
+        "inducements"
+      ],
       "mandatory": false
     },
     {
@@ -216,7 +306,10 @@
       "doc_id": "SEBI-ADCODE-2023",
       "clause_number": "1(d)(v)",
       "text": "Copy of the advertisement shall be retained by IA/RA for a period of five years in terms of Regulation 19(2) of the SEBI (Investment Advisers) Regulations, 2013 and Regulation 25(2) of SEBI (Research Analysts) Regulations, 2014 respectively.",
-      "tags": ["audience:ia-ra", "record-keeping"],
+      "tags": [
+        "audience:ia-ra",
+        "record-keeping"
+      ],
       "mandatory": false
     },
     {
@@ -224,7 +317,10 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.1(d)",
       "text": "MFDs shall not rebate or pass-back commission to investors and shall refrain from attracting investors through inducement of rebate or gifts / gift-vouchers etc.",
-      "tags": ["audience:mfd", "inducements"],
+      "tags": [
+        "audience:mfd",
+        "inducements"
+      ],
       "mandatory": false
     },
     {
@@ -232,7 +328,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.1(e)(v)",
       "text": "MFDs shall not collude or undertake malpractices such as carrying out unethical practices such as churning, selling unsuitable products to clients, selling of units of schemes of any mutual fund, directly or indirectly, by making false or misleading statements, concealing or omitting material facts of the scheme, concealing the associated risk factors of the schemes, etc.",
-      "tags": ["audience:mfd", "misleading-statements", "risk-disclosure"],
+      "tags": [
+        "audience:mfd",
+        "misleading-statements",
+        "risk-disclosure"
+      ],
       "mandatory": false
     },
     {
@@ -240,7 +340,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.2(a)",
       "text": "MFDs shall adhere to Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 (“Mutual Fund Regulations”) and guidelines/circulars issued by Securities and Exchange Board of India (“SEBI”) and AMFI, from time to time, pertaining to distributors, selling, distribution and advertising practices (including the preparation of sales promotional literature and content) and code of conduct. Performance disclosures should also comply with the requirements specified by SEBI.",
-      "tags": ["audience:mfd", "scope", "past-performance"],
+      "tags": [
+        "audience:mfd",
+        "scope",
+        "past-performance"
+      ],
       "mandatory": false
     },
     {
@@ -248,7 +352,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.4(b)",
       "text": "MFDs shall highlight risk factors of each scheme to their investors, desist from making any misrepresentation or exaggerated statements or conceal associated risk factors of a scheme and shall advise and urge their investors to go through SAI/SID/KIM before deciding to make investments.",
-      "tags": ["audience:mfd", "risk-disclosure", "misleading-statements"],
+      "tags": [
+        "audience:mfd",
+        "risk-disclosure",
+        "misleading-statements"
+      ],
       "mandatory": true
     },
     {
@@ -256,7 +364,10 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.4(g)",
       "text": "MFDs shall (i) not provide any indicative portfolio or indicative yield or indicative return for any particular scheme or transaction and (ii) abstain from indicating or assuring returns for any particular scheme or transaction.",
-      "tags": ["audience:mfd", "assured-returns"],
+      "tags": [
+        "audience:mfd",
+        "assured-returns"
+      ],
       "mandatory": true
     },
     {
@@ -264,7 +375,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.4(h)",
       "text": "MFDs engaged in providing other financial services in addition to distribution of mutual fund products, where other financial products with assured return are being offered to clients, MFDs and their employees shall ensure that they do not mis-sell mutual fund products on the basis of indicative or assured return or regular income to the customers seeking to make investments. It shall be explained to the clients that MF investments are not guaranteed or assured return products and that the principal amount may be exposed to risk of loss.",
-      "tags": ["audience:mfd", "assured-returns", "risk-disclosure"],
+      "tags": [
+        "audience:mfd",
+        "assured-returns",
+        "risk-disclosure"
+      ],
       "mandatory": false
     },
     {
@@ -272,7 +387,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.4(k)",
       "text": "MFDs shall use marketing material as is provided to them by the AMCs and shall not design their own marketing materials in respect of any scheme or display the name, logo, mark of any AMC without the prior written approval of the AMC.",
-      "tags": ["audience:mfd", "scheme-marketing", "prior-approval"],
+      "tags": [
+        "audience:mfd",
+        "scheme-marketing",
+        "prior-approval"
+      ],
       "mandatory": true
     },
     {
@@ -280,7 +399,10 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.4(m)",
       "text": "MFDs shall ensure that comparisons, if any, are made with similar and comparable schemes/ products along with complete facts.",
-      "tags": ["audience:mfd", "comparisons"],
+      "tags": [
+        "audience:mfd",
+        "comparisons"
+      ],
       "mandatory": false
     },
     {
@@ -288,7 +410,11 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.5(g)",
       "text": "Pursuant to Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013, MFDs shall not use terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers, Consultant/s, etc. or any other similar name in their name, unless registered with SEBI as an Investment Adviser. The name of an MFD should reflect the registration held by the entity and should not in any way create an impression of performing a role for which the entity is not registered. The registered name of the MFD shall not contain any misleading phrase about the role of the entity. Thus, every MFD, while dealing in distribution of mutual fund schemes/products, should clearly specify to the client that he /she is acting as a MFD. MFDs shall mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name, in a clear and legible font of at least font size 12, in all forms of printed communication. MFD shall display their name and tagline in a clear and legible font in all forms of communication i.e., website, mobile app, printed or electronic materials, business card, sign board etc.",
-      "tags": ["audience:mfd", "nomenclature", "tagline-arn"],
+      "tags": [
+        "audience:mfd",
+        "nomenclature",
+        "tagline-arn"
+      ],
       "mandatory": true
     },
     {
@@ -296,7 +422,12 @@
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.6(b)",
       "text": "MFDs shall refrain from making false or defamatory statements about any AMC, AMFI, Mutual Fund schemes or other MFDs in any private or public forum (including chat groups, social media, print or electronic press, conferences etc.). MFDs shall maintain professional decorum, provide fair and balanced perspective and not participate in transmitting untrue statements or rumors so as to malign any AMC or Mutual Fund scheme or bring disrepute to any AMC, AMFI or the Mutual Fund industry. Any written or oral communication should be based on facts and be presented in an unbiased manner so as not to mislead the public.",
-      "tags": ["audience:mfd", "misleading-statements", "social-media", "comparisons"],
+      "tags": [
+        "audience:mfd",
+        "misleading-statements",
+        "social-media",
+        "comparisons"
+      ],
       "mandatory": false
     },
     {
@@ -304,7 +435,11 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.2",
       "text": "MFDs are NOT permitted to provide investment advice, unless they are registered with SEBI as Investment Advisers (“IA”). MFDs are not permitted to undertake / offer Financial Planning to their MF clients nor use the term Financial Planning and Financial advice in any advertisement/ promotional / marketing material / social media etc., unless they are registered with SEBI as IAs and have a ‘separately identifiable department or division’ (SIDD).",
-      "tags": ["audience:mfd", "financial-planning-terms", "nomenclature"],
+      "tags": [
+        "audience:mfd",
+        "financial-planning-terms",
+        "nomenclature"
+      ],
       "mandatory": true
     },
     {
@@ -312,7 +447,11 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.8(c)",
       "text": "MFDs should refrain from attracting investors through inducement of rebate or gifts / gift-vouchers etc. or offering “free advise” / “free portfolio review”.",
-      "tags": ["audience:mfd", "inducements", "free-services"],
+      "tags": [
+        "audience:mfd",
+        "inducements",
+        "free-services"
+      ],
       "mandatory": false
     },
     {
@@ -320,7 +459,10 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.8(d)",
       "text": "MFDs should refrain from offering financial planning or using terms such as 'financial planning' or 'financial planner' in their advertisements.",
-      "tags": ["audience:mfd", "financial-planning-terms"],
+      "tags": [
+        "audience:mfd",
+        "financial-planning-terms"
+      ],
       "mandatory": false
     },
     {
@@ -328,7 +470,13 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.9",
       "text": "Mutual fund distributors can launch a YouTube channel, but they should strictly refrain from making scheme specific recommendations or performance claims about individual schemes. They may provide only educational content about investing in mutual funds. MFDs should avoid discussing about past performance or making future return predictions about specific mutual fund schemes on their YouTube channel. MFDs must clearly disclose their affiliation as a mutual fund distributor along with their ARN and any potential conflicts of interest. The above pointers also apply to all other social media platforms such as LinkedIn, Facebook, Instagram, X etc.",
-      "tags": ["audience:mfd", "social-media", "scheme-marketing", "past-performance", "tagline-arn"],
+      "tags": [
+        "audience:mfd",
+        "social-media",
+        "scheme-marketing",
+        "past-performance",
+        "tagline-arn"
+      ],
       "mandatory": true
     },
     {
@@ -336,7 +484,12 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.10",
       "text": "Giving scheme specific recommendations to (unknown) viewers for making investments in specific mutual fund schemes without knowing their risk profile or the suitability of the products, is undesirable and would be in clear violation of Code of Conduct for Mutual Fund Distributors and regulatory guidelines. Making comments on performance of specific mutual fund schemes without appropriate disclosures / disclaimers etc. as required under the SEBI Regulations would be in violation of the regulations and Code of Conduct for MFDs and is liable for strict disciplinary action.",
-      "tags": ["audience:mfd", "social-media", "scheme-marketing", "past-performance"],
+      "tags": [
+        "audience:mfd",
+        "social-media",
+        "scheme-marketing",
+        "past-performance"
+      ],
       "mandatory": false
     },
     {
@@ -344,7 +497,11 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.13",
       "text": "MFDs shall use marketing material as is provided to them by the AMCs and shall not design their own marketing materials in respect of any scheme or display the name, logo, mark of any AMC / MF including in their websites/apps/ social media platforms without the prior written approval of the AMC. MFD needs to take prior approval of the AMC for displaying / circulating any write ups/articles/performance comparison reports / customised performance comparison reports involving / mentioning the scheme name.",
-      "tags": ["audience:mfd", "scheme-marketing", "prior-approval"],
+      "tags": [
+        "audience:mfd",
+        "scheme-marketing",
+        "prior-approval"
+      ],
       "mandatory": false
     },
     {
@@ -352,7 +509,11 @@
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.14",
       "text": "The MFD may have a common website / issue common marketing brochure for all services being offered by the entity, provided the entity is duly complying with the relevant / applicable regulatory guidelines in this regard, and clearly mentions the registered name and AMFI / SEBI / IRDA registration number. In addition, the MFD is required to display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below the name, in a clear and legible font of at least font size 12, in all forms of printed communications.",
-      "tags": ["audience:mfd", "tagline-arn", "identity-disclosure"],
+      "tags": [
+        "audience:mfd",
+        "tagline-arn",
+        "identity-disclosure"
+      ],
       "mandatory": false
     },
     {
@@ -360,7 +521,10 @@
       "doc_id": "AMFI-MASTERCIR-2026",
       "clause_number": "1.3.1-1.3.2",
       "text": "As per Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013 notified on July 3, 2020, ‘No person, while dealing in distribution of securities, shall use the nomenclature “Independent Financial Adviser or IFA or Wealth Adviser or any other similar name” unless registered with SEBI as an Investment Adviser.’ Pursuant to the above regulatory amendment, mutual fund distributors whose registered name has the terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers etc. are required get their registered name changed.",
-      "tags": ["audience:mfd", "nomenclature"],
+      "tags": [
+        "audience:mfd",
+        "nomenclature"
+      ],
       "mandatory": false
     },
     {
@@ -368,7 +532,139 @@
       "doc_id": "AMFI-MASTERCIR-2026",
       "clause_number": "1.3.6",
       "text": "Mandatory Tagline to be mentioned by MFDs with their name: SEBI has also advised AMFI that MFD should display their name and tagline in a clear and legible font in all forms of communication i.e. website, mobile app, printed or electronic materials, business card, sign board etc. The MFD’s Name and Tagline, should be placed together in a clear and legible font size. The same disclosure should be followed in all forms of communication i.e. website, mobile app, printed or electronic materials, business card, sign board etc’. Accordingly, MFDs are required to mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name and ARN Code in a clear and legible font of at least font size 12, in all forms of printed communication so as to ensure compliance with the above requirement.",
-      "tags": ["audience:mfd", "tagline-arn", "identity-disclosure"],
+      "tags": [
+        "audience:mfd",
+        "tagline-arn",
+        "identity-disclosure"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "RBI-DLD-2025/5.vii",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "5(vii)",
+      "text": "As an overarching principle, any outsourcing agreement entered into by the RE with an LSP shall in no manner dilute or absolve the RE of its obligations under any statutory or regulatory provision, and the RE shall remain fully responsible and liable for all acts and omissions of the LSP.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "scope",
+        "liability"
+      ],
+      "mandatory": false
+    },
+    {
+      "id": "RBI-DLD-2025/6.i",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "6(i)",
+      "text": "In cases where a LSP has agreements with multiple REs for digital lending, each RE shall ensure the following: LSP shall provide a digital view of all the loan offers matching the borrower's request on the DLA which meets the requirement of the borrower. The name of the unmatched lenders shall also be disclosed in the digital view.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "identity-disclosure",
+        "comparisons"
+      ],
+      "mandatory": false
+    },
+    {
+      "id": "RBI-DLD-2025/6.iii",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "6(iii)",
+      "text": "The digital view of loan offers from matching lenders shall include the name (s) of the RE (s) extending the loan offer, amount and tenor of loan, APR, monthly repayment obligation and penal charges (if applicable), in a way which enables the borrower to make a fair comparison between various offers. A link to the KFS shall also be provided in respect of each of the RE.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "identity-disclosure",
+        "apr-kfs"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "RBI-DLD-2025/6.iv",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "6(iv)",
+      "text": "The content displayed by the LSP shall be unbiased, objective and shall not directly/ indirectly promote or push a product of a particular RE, including the use of dark patterns/deceptive patterns designed to mislead borrowers into choosing a particular loan offer. However, ranking of loan offers based on a publicly pre-disclosed metric for such ranking shall not be construed as promoting a particular product.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "misleading-statements",
+        "dark-patterns"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "RBI-DLD-2025/8.i",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "8(i)",
+      "text": "RE shall provide a Key Fact Statement (KFS), as per instructions contained in circular no. DOR.STR.REC.13/13.03.00/2024-25 on 'Key Facts Statement (KFS) for Loans & Advances' dated April 15, 2024, as amended from time to time.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "apr-kfs",
+        "disclaimers"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "RBI-DLD-2025/8.iv",
+      "doc_id": "RBI-DLD-2025",
+      "clause_number": "8(iv)",
+      "text": "RE shall maintain a website of their own in public domain, which shall be kept up to date, inter-alia, with the following details at a prominent single place on the website for ease of accessibility: a. Details of all of its digital lending products and its DLAs; b. Details of LSPs and the DLAs of the LSPs along with the details of the activities for which they have been engaged for; c. Particulars of RE's customer care and internal grievance redressal mechanism; d. Link to RBI's Complaint Management System (CMS) and Sachet Portal; e. Privacy policies and other details as required under extant guidelines of the Reserve Bank. RE shall ensure that DLAs / LSPs have links to the above website of the RE.",
+      "tags": [
+        "audience:nbfc-lsp",
+        "identity-disclosure"
+      ],
+      "mandatory": false
+    },
+    {
+      "id": "IRDAI-ADREG-2021/3.g",
+      "doc_id": "IRDAI-ADREG-2021",
+      "clause_number": "3(g)",
+      "text": "“Unfair or misleading advertisement” means and includes any advertisement that: (i) fails to clearly identify the product as insurance in any insurance advertisement; (ii) makes claims beyond the ability of the policy to deliver or beyond the reasonable expectation of performance; (iii) describes benefits that do not match the policy provisions; (iv) uses words or phrases in a way which hides or underplays the risks inherent in the policy; (v) omits to disclose or discloses insufficiently, important exclusions, limitations and conditions of the policy; (vi) gives information in a misleading way; (vii) illustrates future benefits on assumptions which are not realistic nor realisable in the light of the insurer's current performance; or deviates from the stipulation by the authority through regulatory provisions. (viii) where the benefits are not guaranteed, does not explicitly say so as prominently as the benefits are stated or says so in a manner or form that it could remain unnoticed; (ix) implies a group or other relationship like sponsorship, affiliation or approval, that does not exist; (x) makes unfair or incomplete comparisons with products which are not comparable or disparages competitors. (xi) uses design, content or format which disguise, obscure or diminish the significance of any statement, warning or other matter which an advertisement should contain. (xii) use or denigrate names, logos, brand names, distinguishing marks, symbols etc., which may be similar to those already used by others in the market that may lead to confusion in the market place. (xiii) use terms or phrases that convey a fabricated sense of security. (xiv) where features or benefits prominently displayed are the features or benefits that are applicable under extreme or exceptional scenarios.",
+      "tags": [
+        "audience:insurance",
+        "misleading-statements",
+        "benefit-claims"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "IRDAI-ADREG-2021/4.3",
+      "doc_id": "IRDAI-ADREG-2021",
+      "clause_number": "4(3)",
+      "text": "No person shall publish any unfair or misleading advertisement which comes under the provision of Regulation 3(g).",
+      "tags": [
+        "audience:insurance",
+        "misleading-statements"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "IRDAI-ADREG-2021/7.1",
+      "doc_id": "IRDAI-ADREG-2021",
+      "clause_number": "7(1)-(2)",
+      "text": "Every advertisement by an insurance agent must be approved by the insurer in writing prior to its issue; It shall be the responsibility of the insurer while granting such approval to ensure that all advertisements that pertain to the company or its products or performance comply with these regulations and are not deceptive or misleading.",
+      "tags": [
+        "audience:insurance",
+        "prior-approval"
+      ],
+      "mandatory": true
+    },
+    {
+      "id": "IRDAI-ADREG-2021/9.1",
+      "doc_id": "IRDAI-ADREG-2021",
+      "clause_number": "9(1)",
+      "text": "Website or portal of every insurer, intermediary or insurance intermediary shall — (i) contain disclosure statements which outline the website's specific policies vis-á-vis the privacy of personal information for the protection of both their own businesses and the consumers they serve. (ii) display their registration numbers on their web sites.",
+      "tags": [
+        "audience:insurance",
+        "identity-disclosure"
+      ],
+      "mandatory": false
+    },
+    {
+      "id": "IRDAI-ADREG-2021/9.2",
+      "doc_id": "IRDAI-ADREG-2021",
+      "clause_number": "9(2)",
+      "text": "In case of communications on or through internet or any other electronic media, an insurer, intermediary or insurance intermediary should ensure that the recipients or viewers have the opportunity to view the full text of the relevant key features, coverage and exclusions; relevant terms and conditions; any other applicable risk information and they shall not be hidden away in the body of the text. It shall be easily obtained, before any application or proposal form is offered. In case of e-mail communications there should be a provision to unsubscribe from the mailing list.",
+      "tags": [
+        "audience:insurance",
+        "risk-disclosure",
+        "disclaimers"
+      ],
       "mandatory": true
     }
   ]

@@ -13,8 +13,12 @@ const PIPELINE_STEPS = [
   'pipeline.rewriter',
 ]
 
-const SAMPLE =
-  'Guaranteed 15% returns with XYZ Midcap Fund! 🚀 Best fund of 2026. DM for free portfolio review!'
+const SAMPLES: Record<string, string> = {
+  mfd: 'Guaranteed 15% returns with XYZ Midcap Fund! 🚀 Best fund of 2026. DM for free portfolio review!',
+  'ia-ra': 'Our research calls gave 40% profit last quarter — risk-free intraday tips, join now! We are the No.1 analysts in India.',
+  'nbfc-lsp': 'Instant loan approval in 5 minutes! No credit check, no documents. Just 1.5% monthly interest. Only 20 slots left — apply now!',
+  insurance: 'Get guaranteed bonus of ₹10 lakh with our IRDAI-approved plan. 100% safe investment, zero paperwork!',
+}
 
 function PipelineProgress() {
   const { t } = useTranslation()
@@ -61,9 +65,7 @@ export default function CheckerPage() {
   return (
     <div>
       <h1 className="text-2xl font-bold tracking-tight">{t('checker.title')}</h1>
-      <p className="mt-1 text-sm text-slate-500">
-        Every flag cites the exact SEBI/AMFI clause it comes from.
-      </p>
+      <p className="mt-1 text-sm text-slate-500">{t('checker.subtitle')}</p>
 
       <textarea
         className="mt-5 h-44 w-full rounded-lg border border-slate-300 bg-white p-3 text-sm shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-200"
@@ -74,10 +76,10 @@ export default function CheckerPage() {
       />
       <button
         className="mt-1 text-xs text-indigo-600 hover:underline"
-        onClick={() => setContent(SAMPLE)}
+        onClick={() => setContent(SAMPLES[audience] ?? SAMPLES.mfd)}
         disabled={running}
       >
-        Try a non-compliant sample
+        {t('checker.sample')}
       </button>
 
       <div className="mt-4 flex flex-wrap items-end gap-4">
@@ -106,6 +108,8 @@ export default function CheckerPage() {
           >
             <option value="mfd">{t('checker.audienceMfd')}</option>
             <option value="ia-ra">{t('checker.audienceIaRa')}</option>
+            <option value="nbfc-lsp">{t('checker.audienceNbfc')}</option>
+            <option value="insurance">{t('checker.audienceInsurance')}</option>
           </select>
         </label>
         <button

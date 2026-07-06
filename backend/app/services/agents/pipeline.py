@@ -17,6 +17,8 @@ from app.services.retrieval.store import RetrievedClause
 AUDIENCE_LABEL = {
     "mfd": "an AMFI-registered Mutual Fund Distributor (MFD)",
     "ia-ra": "a SEBI-registered Investment Adviser / Research Analyst (IA/RA)",
+    "nbfc-lsp": "an RBI-regulated entity or its Lending Service Provider marketing digital loans",
+    "insurance": "an IRDAI-regulated insurer or insurance intermediary/agent",
 }
 
 
@@ -201,21 +203,28 @@ async def run_rewriter(
         if audience == "mfd"
         else ""
     )
-    mandatory_bits = (
-        "the author name with ARN, the tagline “AMFI-registered Mutual Fund Distributor”, and the risk "
+    mandatory_bits = {
+        "mfd": "the author name with ARN, the tagline “AMFI-registered Mutual Fund Distributor”, and the risk "
         "disclaimer “Mutual fund investments are subject to market risks. Read all scheme related documents "
-        "carefully before investing.”"
-        if audience == "mfd"
-        else "the SEBI registration number (or official website link), the verbatim standard warning "
+        "carefully before investing.”",
+        "ia-ra": "the SEBI registration number (or official website link), the verbatim standard warning "
         "“Investment in securities market are subject to market risks. Read all the related documents "
-        "carefully before investing.”, and the SEBI/BASL/NISM no-guarantee disclaimer"
-    )
+        "carefully before investing.”, and the SEBI/BASL/NISM no-guarantee disclaimer",
+        "nbfc-lsp": "the lender (RE) name, APR (not just a flat/monthly rate), a reference to the Key Facts "
+        "Statement, and neutral non-promotional presentation with no guaranteed-approval or no-credit-check claims",
+        "insurance": "clear identification of the product as insurance, the insurer/intermediary registered "
+        "name and IRDAI registration number, and — where benefits are not guaranteed — an equally prominent "
+        "statement that they are not guaranteed",
+    }[audience]
     system = (
         "You rewrite Indian financial-services marketing content to be compliant while preserving the "
         "author's voice, language and intent as much as legally possible. "
         f"{identity}{mfd_social_rule}Fix every violation listed. Ensure the rewrite includes {mandatory_bits}. "
         "Remove prohibited claims entirely rather than softening them. Keep it natural for the channel "
         "(e.g. a WhatsApp post stays short; emojis may stay). "
+        "Write the rewrite in the SAME language/mix as the original (Hindi stays Hindi, Hinglish stays "
+        "Hinglish); mandatory warnings must be accurately translated into that language, since regulators "
+        "require the standard warning in the advertisement's own language. "
         "Also produce a one-sentence plain-English summary of what was wrong overall."
     )
     user = (

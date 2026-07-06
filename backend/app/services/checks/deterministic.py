@@ -64,6 +64,34 @@ FREE_SERVICE_RE = re.compile(
     r"\bfree\s+(advi[sc]e|portfolio\s+review|consultation|financial\s+plan|report|analysis)\b",
     re.IGNORECASE,
 )
+# --- digital lending (RBI) ---
+LOAN_GUARANTEE_RE = re.compile(
+    r"\b(guaranteed|assured|instant|100%)\s*(loan\s*)?(approval|sanction)\b"
+    r"|\bno\s+(credit\s+(check|score)|documents?|paperwork|verification)\b"
+    r"|\bloan\s+in\s+\d+\s*(minutes?|seconds?)\s+guaranteed\b",
+    re.IGNORECASE,
+)
+INTEREST_RATE_RE = re.compile(
+    r"\b\d{1,2}(\.\d+)?\s*%\s*(per\s+month|monthly|p\.?m\.?|flat|interest|per\s+annum|p\.?a\.?)\b",
+    re.IGNORECASE,
+)
+APR_RE = re.compile(r"\bAPR\b|annual\s+percentage\s+rate", re.IGNORECASE)
+KFS_RE = re.compile(r"\bKFS\b|key\s+facts?\s+statement", re.IGNORECASE)
+URGENCY_DARK_RE = re.compile(
+    r"\b(last\s+chance|only\s+\d+\s+(slots?|offers?)\s+left|expires\s+in\s+\d+\s*(minutes?|hours?)|"
+    r"act\s+now\s+or)\b",
+    re.IGNORECASE,
+)
+# --- insurance (IRDAI) ---
+INSURANCE_GUARANTEE_RE = re.compile(
+    r"\b(guaranteed|assured)\s+(returns?|bonus(es)?|income|maturity|benefits?)\b|\b100%\s*safe\b",
+    re.IGNORECASE,
+)
+IRDAI_ENDORSE_RE = re.compile(
+    r"\bIRDAI?\s*[-\s]?(approved|endorsed|certified|recommended|backed)\b", re.IGNORECASE
+)
+INSURANCE_WORD_RE = re.compile(r"\binsurance\b|\binsurer\b|\bpolicy\b|\bbima\b|\bबीमा\b", re.IGNORECASE)
+IRDAI_REG_NO_RE = re.compile(r"\bIRDAI?\s*(regn|registration|reg)\.?\s*(no|number)", re.IGNORECASE)
 
 
 @dataclass
@@ -157,7 +185,110 @@ def _missing_disclosure_checks_ia_ra(content: str) -> list[DeterministicFinding]
     return findings
 
 
+def _checks_nbfc_lsp(content: str) -> list[DeterministicFinding]:
+    findings = []
+    for m in LOAN_GUARANTEE_RE.finditer(content):
+        findings.append(
+            DeterministicFinding(
+                severity="critical",
+                clause_id="RBI-DLD-2025/6.iv",
+                offending_text=_snippet(m, content),
+                explanation=f"“{m.group(0)}” is a deceptive lending claim (guaranteed approval / no verification) — LSP content must be unbiased and must not use dark/deceptive patterns designed to mislead borrowers.",
+                suggested_fix="Remove guaranteed-approval / no-check claims; loans are subject to credit assessment.",
+                tags=["dark-patterns", "misleading-statements"],
+            )
+        )
+    if INTEREST_RATE_RE.search(content) and not APR_RE.search(content):
+        findings.append(
+            DeterministicFinding(
+                severity="major",
+                clause_id="RBI-DLD-2025/6.iii",
+                offending_text="(interest rate quoted without APR)",
+                explanation="A rate is advertised without the APR. Loan offers must be presented with APR, repayment obligation and charges in a way that enables fair comparison.",
+                suggested_fix="State the APR (Annual Percentage Rate) alongside any rate, plus tenure and charges.",
+                tags=["apr-kfs"],
+            )
+        )
+    if INTEREST_RATE_RE.search(content) and not KFS_RE.search(content):
+        findings.append(
+            DeterministicFinding(
+                severity="minor",
+                clause_id="RBI-DLD-2025/8.i",
+                offending_text="(no Key Facts Statement reference found)",
+                explanation="Loan terms are advertised without pointing the borrower to the Key Facts Statement (KFS).",
+                suggested_fix="Add a link/reference to the Key Facts Statement for the loan offer.",
+                tags=["apr-kfs"],
+            )
+        )
+    for m in URGENCY_DARK_RE.finditer(content):
+        findings.append(
+            DeterministicFinding(
+                severity="major",
+                clause_id="RBI-DLD-2025/6.iv",
+                offending_text=_snippet(m, content),
+                explanation=f"Urgency framing “{m.group(0)}” is a dark-pattern technique that pressures borrowers into a particular offer.",
+                suggested_fix="Remove artificial urgency/scarcity framing from the loan promotion.",
+                tags=["dark-patterns"],
+            )
+        )
+    return findings
+
+
+def _checks_insurance(content: str) -> list[DeterministicFinding]:
+    findings = []
+    for m in INSURANCE_GUARANTEE_RE.finditer(content):
+        findings.append(
+            DeterministicFinding(
+                severity="critical",
+                clause_id="IRDAI-ADREG-2021/3.g",
+                offending_text=_snippet(m, content),
+                explanation=f"“{m.group(0)}” claims guaranteed benefits. Unless benefits are contractually guaranteed, an advertisement must say they are NOT guaranteed as prominently as the benefits are stated — and claims beyond the policy's ability to deliver are unfair/misleading.",
+                suggested_fix="Remove the guarantee claim, or state 'benefits are not guaranteed' with equal prominence if that is the case.",
+                tags=["benefit-claims", "misleading-statements"],
+            )
+        )
+    for m in IRDAI_ENDORSE_RE.finditer(content):
+        findings.append(
+            DeterministicFinding(
+                severity="major",
+                clause_id="IRDAI-ADREG-2021/3.g",
+                offending_text=_snippet(m, content),
+                explanation=f"“{m.group(0)}” implies IRDAI approval/affiliation. Implying a sponsorship, affiliation or approval that does not exist makes an advertisement unfair/misleading.",
+                suggested_fix="Remove any suggestion of IRDAI endorsement; the regulator does not approve or endorse products.",
+                tags=["misleading-statements"],
+            )
+        )
+    if not INSURANCE_WORD_RE.search(content):
+        findings.append(
+            DeterministicFinding(
+                severity="major",
+                clause_id="IRDAI-ADREG-2021/3.g",
+                offending_text="(product not identified as insurance)",
+                explanation="The content does not clearly identify the product as insurance — failing to do so makes an insurance advertisement unfair/misleading.",
+                suggested_fix="State clearly that the product being marketed is an insurance product.",
+                tags=["identity-disclosure"],
+            )
+        )
+    if not IRDAI_REG_NO_RE.search(content):
+        findings.append(
+            DeterministicFinding(
+                severity="minor",
+                clause_id="IRDAI-ADREG-2021/9.1",
+                offending_text="(IRDAI registration number not found)",
+                explanation="No IRDAI registration number found. Insurers/intermediaries must display their registration numbers in their communications and on their websites.",
+                suggested_fix="Add your IRDAI registration number (e.g. “IRDAI Regn. No. 123”).",
+                tags=["identity-disclosure"],
+            )
+        )
+    return findings
+
+
 def run_deterministic_checks(content: str, audience: str = "mfd") -> list[DeterministicFinding]:
+    if audience == "nbfc-lsp":
+        return _checks_nbfc_lsp(content)
+    if audience == "insurance":
+        return _checks_insurance(content)
+
     is_mfd = audience == "mfd"
     findings = (
         _missing_disclosure_checks_mfd(content) if is_mfd else _missing_disclosure_checks_ia_ra(content)
