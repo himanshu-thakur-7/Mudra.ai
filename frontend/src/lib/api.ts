@@ -16,6 +16,33 @@ export interface Finding {
   confidence: number
 }
 
+export interface ClauseCitation {
+  clause_id: string
+  clause_quote: string
+  regulator: string
+  doc_title: string
+  source_page: number | null
+  source_url: string
+  doc_status: string
+}
+
+export interface OffendingSpan {
+  text: string
+  explanation: string
+  source: 'deterministic' | 'llm'
+  confidence: number
+}
+
+export interface Issue {
+  key: string
+  title: string
+  blurb: string
+  severity: Severity
+  citations: ClauseCitation[]
+  spans: OffendingSpan[]
+  missing_requirements: string[]
+}
+
 export interface Review {
   id: string
   channel: string
@@ -27,6 +54,7 @@ export interface Review {
   rewrite: string | null
   summary: string
   created_at: string
+  issues: Issue[]
   findings: Finding[]
 }
 
