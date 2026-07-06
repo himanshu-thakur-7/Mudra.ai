@@ -5,7 +5,7 @@ POST {public_backend_url}/webhooks/whatsapp (use ngrok for local dev).
 Replies use TwiML so no outbound API call/credentials are required for the MVP.
 """
 
-from fastapi import APIRouter, Depends, Form
+from fastapi import APIRouter, Depends, Form, HTTPException, Request
 from fastapi.responses import Response
 from sqlalchemy.orm import Session
 
@@ -16,12 +16,29 @@ from app.core.db import get_db
 router = APIRouter(prefix="/webhooks", tags=["whatsapp"])
 
 
+async def _verify_twilio_signature(request: Request) -> None:
+    """Reject requests not signed by Twilio. Skipped when no auth token is
+    configured (local dev / tests) — set TWILIO_AUTH_TOKEN in any deployment."""
+    settings = get_settings()
+    if not settings.twilio_auth_token:
+        return
+    from twilio.request_validator import RequestValidator
+
+    validator = RequestValidator(settings.twilio_auth_token)
+    form = await request.form()
+    signature = request.headers.get("X-Twilio-Signature", "")
+    if not validator.validate(str(request.url), dict(form), signature):
+        raise HTTPException(status_code=403, detail="Invalid Twilio signature")
+
+
 @router.post("/whatsapp")
 async def whatsapp_inbound(
+    request: Request,
     Body: str = Form(default=""),
     From: str = Form(default=""),
     db: Session = Depends(get_db),
 ):
+    await _verify_twilio_signature(request)
     from app.services.review_service import run_review
     from app.services.whatsapp.format import format_whatsapp_reply, twiml_message
 

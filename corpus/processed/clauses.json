@@ -1,5 +1,5 @@
 {
-  "_note": "Human-reviewed clause registry. Clause text is verbatim from the source PDFs in corpus/sources/ (whitespace normalised). Every citation shown to a user resolves to one of these IDs. Audience is encoded as tags: audience:mfd (mutual fund distributors), audience:ia-ra (investment advisers / research analysts).",
+  "_note": "Human-reviewed clause registry. Clause text is verbatim from the source PDFs in corpus/sources/ (whitespace/quote normalised; obvious source typography artifacts — a stray comma, a missing sentence period, spacing inside citations like 'Regulation 3 (3)' — are normalised). List-item clauses are quoted as '<parent stem> + <item text>' compositions (the stem may be abridged for standalone readability, e.g. 'The advertisement shall not contain…'); the item text itself is verbatim and nothing inside a clause is silently elided. Every citation shown to a user resolves to one of these IDs. Audience is encoded as tags: audience:mfd (mutual fund distributors), audience:ia-ra (investment advisers / research analysts).",
   "docs": [
     {
       "id": "SEBI-ADCODE-2023",
@@ -239,7 +239,7 @@
       "id": "AMFI-COC-2022/2.a",
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.2(a)",
-      "text": "MFDs shall adhere to Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 and guidelines/circulars issued by SEBI and AMFI, from time to time, pertaining to distributors, selling, distribution and advertising practices (including the preparation of sales promotional literature and content) and code of conduct. Performance disclosures should also comply with the requirements specified by SEBI.",
+      "text": "MFDs shall adhere to Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 (“Mutual Fund Regulations”) and guidelines/circulars issued by Securities and Exchange Board of India (“SEBI”) and AMFI, from time to time, pertaining to distributors, selling, distribution and advertising practices (including the preparation of sales promotional literature and content) and code of conduct. Performance disclosures should also comply with the requirements specified by SEBI.",
       "tags": ["audience:mfd", "scope", "past-performance"],
       "mandatory": false
     },
@@ -287,7 +287,7 @@
       "id": "AMFI-COC-2022/5.g",
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.5(g)",
-      "text": "Pursuant to Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013, MFDs shall not use terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers, Consultant/s, etc. or any other similar name in their name, unless registered with SEBI as an Investment Adviser. The name of an MFD should reflect the registration held by the entity and should not in any way create an impression of performing a role for which the entity is not registered. MFDs shall mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name, in a clear and legible font of at least font size 12, in all forms of printed communication. MFD shall display their name and tagline in a clear and legible font in all forms of communication i.e., website, mobile app, printed or electronic materials, business card, sign board etc.",
+      "text": "Pursuant to Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013, MFDs shall not use terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers, Consultant/s, etc. or any other similar name in their name, unless registered with SEBI as an Investment Adviser. The name of an MFD should reflect the registration held by the entity and should not in any way create an impression of performing a role for which the entity is not registered. The registered name of the MFD shall not contain any misleading phrase about the role of the entity. Thus, every MFD, while dealing in distribution of mutual fund schemes/products, should clearly specify to the client that he /she is acting as a MFD. MFDs shall mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name, in a clear and legible font of at least font size 12, in all forms of printed communication. MFD shall display their name and tagline in a clear and legible font in all forms of communication i.e., website, mobile app, printed or electronic materials, business card, sign board etc.",
       "tags": ["audience:mfd", "nomenclature", "tagline-arn"],
       "mandatory": true
     },
@@ -295,7 +295,7 @@
       "id": "AMFI-COC-2022/6.b",
       "doc_id": "AMFI-COC-2022",
       "clause_number": "II.6(b)",
-      "text": "MFDs shall refrain from making false or defamatory statements about any AMC, AMFI, Mutual Fund schemes or other MFDs in any private or public forum (including chat groups, social media, print or electronic press, conferences etc.). Any written or oral communication should be based on facts and be presented in an unbiased manner so as not to mislead the public.",
+      "text": "MFDs shall refrain from making false or defamatory statements about any AMC, AMFI, Mutual Fund schemes or other MFDs in any private or public forum (including chat groups, social media, print or electronic press, conferences etc.). MFDs shall maintain professional decorum, provide fair and balanced perspective and not participate in transmitting untrue statements or rumors so as to malign any AMC or Mutual Fund scheme or bring disrepute to any AMC, AMFI or the Mutual Fund industry. Any written or oral communication should be based on facts and be presented in an unbiased manner so as not to mislead the public.",
       "tags": ["audience:mfd", "misleading-statements", "social-media", "comparisons"],
       "mandatory": false
     },
@@ -303,7 +303,7 @@
       "id": "AMFI-DOSDONTS-FAQ/Q2",
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.2",
-      "text": "MFDs are NOT permitted to provide investment advice, unless they are registered with SEBI as Investment Advisers. MFDs are not permitted to undertake / offer Financial Planning to their MF clients nor use the term Financial Planning and Financial advice in any advertisement/ promotional / marketing material / social media etc., unless they are registered with SEBI as IAs and have a 'separately identifiable department or division' (SIDD).",
+      "text": "MFDs are NOT permitted to provide investment advice, unless they are registered with SEBI as Investment Advisers (“IA”). MFDs are not permitted to undertake / offer Financial Planning to their MF clients nor use the term Financial Planning and Financial advice in any advertisement/ promotional / marketing material / social media etc., unless they are registered with SEBI as IAs and have a ‘separately identifiable department or division’ (SIDD).",
       "tags": ["audience:mfd", "financial-planning-terms", "nomenclature"],
       "mandatory": true
     },
@@ -327,7 +327,7 @@
       "id": "AMFI-DOSDONTS-FAQ/Q9",
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.9",
-      "text": "Mutual fund distributors can launch a YouTube channel, but they should strictly refrain from making scheme specific recommendations or performance claims about individual schemes. They may provide only educational content about investing in mutual funds. MFDs should avoid discussing about past performance or making future return predictions about specific mutual fund schemes. MFDs must clearly disclose their affiliation as a mutual fund distributor along with their ARN and any potential conflicts of interest. The above pointers also apply to all other social media platforms such as LinkedIn, Facebook, Instagram, X etc.",
+      "text": "Mutual fund distributors can launch a YouTube channel, but they should strictly refrain from making scheme specific recommendations or performance claims about individual schemes. They may provide only educational content about investing in mutual funds. MFDs should avoid discussing about past performance or making future return predictions about specific mutual fund schemes on their YouTube channel. MFDs must clearly disclose their affiliation as a mutual fund distributor along with their ARN and any potential conflicts of interest. The above pointers also apply to all other social media platforms such as LinkedIn, Facebook, Instagram, X etc.",
       "tags": ["audience:mfd", "social-media", "scheme-marketing", "past-performance", "tagline-arn"],
       "mandatory": true
     },
@@ -351,15 +351,15 @@
       "id": "AMFI-DOSDONTS-FAQ/Q14",
       "doc_id": "AMFI-DOSDONTS-FAQ",
       "clause_number": "Q.14",
-      "text": "The MFD is required to display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below the name, in a clear and legible font of at least font size 12, in all forms of printed communications. The MFD may have a common website / issue common marketing brochure for all services being offered by the entity, provided the entity clearly mentions the registered name and AMFI / SEBI / IRDA registration number.",
+      "text": "The MFD may have a common website / issue common marketing brochure for all services being offered by the entity, provided the entity is duly complying with the relevant / applicable regulatory guidelines in this regard, and clearly mentions the registered name and AMFI / SEBI / IRDA registration number. In addition, the MFD is required to display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below the name, in a clear and legible font of at least font size 12, in all forms of printed communications.",
       "tags": ["audience:mfd", "tagline-arn", "identity-disclosure"],
       "mandatory": false
     },
     {
       "id": "AMFI-MASTERCIR-2026/1.3.2",
       "doc_id": "AMFI-MASTERCIR-2026",
-      "clause_number": "1.3.2",
-      "text": "Pursuant to Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013, mutual fund distributors whose registered name has the terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers etc. are required to get their registered name changed. No person, while dealing in distribution of securities, shall use the nomenclature “Independent Financial Adviser or IFA or Wealth Adviser or any other similar name” unless registered with SEBI as an Investment Adviser.",
+      "clause_number": "1.3.1-1.3.2",
+      "text": "As per Regulation 3(3) of the SEBI (Investment Advisers) Regulations, 2013 notified on July 3, 2020, ‘No person, while dealing in distribution of securities, shall use the nomenclature “Independent Financial Adviser or IFA or Wealth Adviser or any other similar name” unless registered with SEBI as an Investment Adviser.’ Pursuant to the above regulatory amendment, mutual fund distributors whose registered name has the terms such as Adviser / Advisor / Financial Adviser/ Investment Adviser/ Wealth Adviser/Wealth Manager/Wealth Managers etc. are required get their registered name changed.",
       "tags": ["audience:mfd", "nomenclature"],
       "mandatory": false
     },
@@ -367,7 +367,7 @@
       "id": "AMFI-MASTERCIR-2026/1.3.6",
       "doc_id": "AMFI-MASTERCIR-2026",
       "clause_number": "1.3.6",
-      "text": "Mandatory Tagline to be mentioned by MFDs with their name: MFDs are required to mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name and ARN Code in a clear and legible font of at least font size 12, in all forms of printed communication. The MFD's Name and Tagline should be placed together in a clear and legible font size. The same disclosure should be followed in all forms of communication i.e. website, mobile app, printed or electronic materials, business card, sign board etc.",
+      "text": "Mandatory Tagline to be mentioned by MFDs with their name: SEBI has also advised AMFI that MFD should display their name and tagline in a clear and legible font in all forms of communication i.e. website, mobile app, printed or electronic materials, business card, sign board etc. The MFD’s Name and Tagline, should be placed together in a clear and legible font size. The same disclosure should be followed in all forms of communication i.e. website, mobile app, printed or electronic materials, business card, sign board etc’. Accordingly, MFDs are required to mention/display a tagline, “AMFI-registered Mutual Fund Distributor” along with / below their name and ARN Code in a clear and legible font of at least font size 12, in all forms of printed communication so as to ensure compliance with the above requirement.",
       "tags": ["audience:mfd", "tagline-arn", "identity-disclosure"],
       "mandatory": true
     }
