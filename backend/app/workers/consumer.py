@@ -24,6 +24,7 @@ from app.services.corpus.cascade import extract_text_cascade
 from app.services.corpus.chunker import chunk_legal
 
 PROCESS_QUEUE = "ingest:process"
+DEAD_LETTER_QUEUE = "ingest:process:failed"  # poison jobs parked here with their error
 DRAFTS_DIR = CORPUS_DIR / "processed" / "drafts"
 
 
@@ -86,8 +87,14 @@ def run(drain: bool) -> None:
             continue
         try:
             process_job(json.loads(item[1]))
-        except Exception as e:  # a bad PDF must not kill the service
+        except Exception as e:  # a bad PDF must not kill the service — or vanish
             print(f"[consumer] job failed: {type(e).__name__}: {e}")
+            try:
+                dead = json.loads(item[1])
+                dead["_error"] = f"{type(e).__name__}: {e}"
+                rdb.lpush(DEAD_LETTER_QUEUE, json.dumps(dead))
+            except Exception:
+                rdb.lpush(DEAD_LETTER_QUEUE, item[1])
 
 
 if __name__ == "__main__":

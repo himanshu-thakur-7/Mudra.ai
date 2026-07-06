@@ -68,7 +68,12 @@ func main() {
 			log.Error("drain", "err", err)
 		}
 	case "watch":
-		go dl.Drain(ctx, 0) // 0 timeout = block forever on BRPOP
+		go func() {
+			// 0 timeout = block forever on BRPOP
+			if err := dl.Drain(ctx, 0); err != nil && ctx.Err() == nil {
+				log.Error("downloader stopped", "err", err)
+			}
+		}()
 		watcher.Watch(ctx)
 	}
 }

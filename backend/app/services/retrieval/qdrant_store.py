@@ -75,6 +75,8 @@ class QdrantStore:
         from qdrant_client.models import FieldCondition, Filter, MatchValue
 
         client = _get_client()
+        if not client.collection_exists(COLLECTION):
+            sync_from_db(self.db)  # cold start: build the collection from the registry
         audience_filter = Filter(must=[
             FieldCondition(key="tags", match=MatchValue(value=_audience_tag(audience)))
         ])

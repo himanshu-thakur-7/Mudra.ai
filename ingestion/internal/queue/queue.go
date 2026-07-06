@@ -39,7 +39,8 @@ type Queue interface {
 	PushDownload(ctx context.Context, job DownloadJob) error
 	PopDownload(ctx context.Context, timeout time.Duration) (*DownloadJob, error)
 	PushProcess(ctx context.Context, job ProcessJob) error
-	MarkSeen(ctx context.Context, regulator, url string) (bool, error) // false if already seen
+	IsSeen(ctx context.Context, regulator, url string) (bool, error)
+	MarkSeen(ctx context.Context, regulator, url string) error
 }
 
 type RedisQueue struct{ rdb *redis.Client }
@@ -71,8 +72,14 @@ func (q *RedisQueue) PushProcess(ctx context.Context, job ProcessJob) error {
 	return q.rdb.LPush(ctx, ProcessQueue, b).Err()
 }
 
-// MarkSeen returns true when the URL is new (and records it atomically).
-func (q *RedisQueue) MarkSeen(ctx context.Context, regulator, url string) (bool, error) {
-	added, err := q.rdb.SAdd(ctx, SeenSetPrefix+regulator, url).Result()
-	return added == 1, err
+func (q *RedisQueue) IsSeen(ctx context.Context, regulator, url string) (bool, error) {
+	return q.rdb.SIsMember(ctx, SeenSetPrefix+regulator, url).Result()
+}
+
+// MarkSeen is called only AFTER the download job is safely enqueued, so a
+// crash in between re-enqueues (at-least-once) instead of losing the document.
+// Duplicate deliveries are absorbed downstream: the downloader stores by
+// content hash and the Python consumer is idempotent per sha256.
+func (q *RedisQueue) MarkSeen(ctx context.Context, regulator, url string) error {
+	return q.rdb.SAdd(ctx, SeenSetPrefix+regulator, url).Err()
 }

@@ -35,7 +35,7 @@ BASL_DISCLAIMER_FULL_RE = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 NEGATION_RE = re.compile(
-    r"(\bno\s+way\b|\bnot\b|\bnever\b|\baren'?t\b|\bare\s+not\b|\bdo\s+not\b|\bdon'?t\b|"
+    r"(\bno\b|\bnot\b|\bnever\b|\baren'?t\b|\bare\s+not\b|\bdo\s+not\b|\bdon'?t\b|"
     r"\bcannot\b|\bcan'?t\b|\bwithout\b)[^.!?\n]{0,30}$",
     re.IGNORECASE,
 )
@@ -193,7 +193,7 @@ def _checks_nbfc_lsp(content: str) -> list[DeterministicFinding]:
                 severity="critical",
                 clause_id="RBI-DLD-2025/6.iv",
                 offending_text=_snippet(m, content),
-                explanation=f"“{m.group(0)}” is a deceptive lending claim (guaranteed approval / no verification) — LSP content must be unbiased and must not use dark/deceptive patterns designed to mislead borrowers.",
+                explanation=f"“{m.group(0)}” is a deceptive lending claim (guaranteed approval / no verification). The Digital Lending Directions prohibit dark/deceptive patterns designed to mislead borrowers (direction addressed to LSP-displayed content; for an RE's own advertising the same conduct breaches its fair-practice obligations).",
                 suggested_fix="Remove guaranteed-approval / no-check claims; loans are subject to credit assessment.",
                 tags=["dark-patterns", "misleading-statements"],
             )
@@ -237,6 +237,10 @@ def _checks_nbfc_lsp(content: str) -> list[DeterministicFinding]:
 def _checks_insurance(content: str) -> list[DeterministicFinding]:
     findings = []
     for m in INSURANCE_GUARANTEE_RE.finditer(content):
+        # "benefits are NOT guaranteed" / "no guaranteed returns" are the
+        # mandated disclaimers, not violations.
+        if NEGATION_RE.search(content[: m.start()]):
+            continue
         findings.append(
             DeterministicFinding(
                 severity="critical",

@@ -108,7 +108,7 @@ async def run_reviewer(
 ) -> list[LLMFinding]:
     system = (
         "You are a compliance reviewer for Indian financial-services marketing content. "
-        f"The content below was written by {AUDIENCE_LABEL[audience]} for the '{channel}' channel. "
+        f"The content below was written by {AUDIENCE_LABEL.get(audience, audience)} for the '{channel}' channel. "
         "Review it ONLY against the regulatory clauses provided. Rules:\n"
         "- Cite clause_id EXACTLY as given in [brackets]; never invent or modify an ID.\n"
         "- offending_text must be a verbatim quote from the content (or a short '(missing: …)' note for absent disclosures).\n"
@@ -215,7 +215,7 @@ async def run_rewriter(
         "insurance": "clear identification of the product as insurance, the insurer/intermediary registered "
         "name and IRDAI registration number, and — where benefits are not guaranteed — an equally prominent "
         "statement that they are not guaranteed",
-    }[audience]
+    }.get(audience, "all disclosures the cited clauses require")
     system = (
         "You rewrite Indian financial-services marketing content to be compliant while preserving the "
         "author's voice, language and intent as much as legally possible. "

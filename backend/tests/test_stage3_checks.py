@@ -74,3 +74,11 @@ def test_product_not_identified_as_insurance():
 def test_missing_registration_number_minor():
     content = COMPLIANT_INSURANCE.replace("IRDAI Regn. No. 123. ", "")
     assert sev(content, "insurance", "IRDAI-ADREG-2021/9.1") == ["minor"]
+
+
+def test_not_guaranteed_disclaimer_is_not_flagged():
+    content = COMPLIANT_INSURANCE + "\nBonus rates vary; there are no guaranteed returns under this plan."
+    assert not [
+        f for f in run_deterministic_checks(content, "insurance")
+        if f.severity == "critical"
+    ]

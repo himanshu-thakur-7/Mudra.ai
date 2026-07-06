@@ -47,16 +47,18 @@ func key(targetURL string) string {
 	return fmt.Sprintf("ingest:snapshot:%s", hex.EncodeToString(sum[:8]))
 }
 
-// Changed stores the new hash and reports whether it differs from the last one.
-// A first-ever observation counts as changed.
-func (s *Store) Changed(ctx context.Context, targetURL, newHash string) (bool, error) {
-	k := key(targetURL)
-	old, err := s.rdb.Get(ctx, k).Result()
-	if err != nil && err != redis.Nil {
-		return false, err
+// Get returns the last stored hash for a target ("" if never seen).
+func (s *Store) Get(ctx context.Context, targetURL string) (string, error) {
+	old, err := s.rdb.Get(ctx, key(targetURL)).Result()
+	if err == redis.Nil {
+		return "", nil
 	}
-	if err := s.rdb.Set(ctx, k, newHash, 0).Err(); err != nil {
-		return false, err
-	}
-	return old != newHash, nil
+	return old, err
+}
+
+// Set records the hash. Callers store it only AFTER the sweep's links are
+// enqueued — a crash mid-sweep then re-detects the change next run
+// (at-least-once; the seen-set dedupes re-enqueued documents).
+func (s *Store) Set(ctx context.Context, targetURL, newHash string) error {
+	return s.rdb.Set(ctx, key(targetURL), newHash, 0).Err()
 }

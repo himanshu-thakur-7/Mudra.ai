@@ -90,11 +90,12 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 		return nil
 	}
 
-	changed, err := w.snaps.Changed(ctx, t.URL, snapshot.Hash(body))
+	newHash := snapshot.Hash(body)
+	oldHash, err := w.snaps.Get(ctx, t.URL)
 	if err != nil {
 		return err
 	}
-	if !changed {
+	if oldHash == newHash {
 		w.log.Info("unchanged", "target", t.Name)
 		return nil
 	}
@@ -102,21 +103,31 @@ func (w *Watcher) check(ctx context.Context, t config.Target) error {
 	links := ExtractLinks(body, t.URL, t.LinkPattern)
 	enqueued := 0
 	for _, link := range links {
-		isNew, err := w.q.MarkSeen(ctx, t.Regulator, link)
+		seen, err := w.q.IsSeen(ctx, t.Regulator, link)
 		if err != nil {
 			return err
 		}
-		if !isNew {
+		if seen {
 			continue
 		}
 		job := queue.DownloadJob{
 			URL: link, Regulator: t.Regulator, SourcePage: t.URL,
 			DiscoveredAt: time.Now().UTC().Format(time.RFC3339),
 		}
+		// Push before MarkSeen: a crash in between re-enqueues next sweep
+		// (duplicates are absorbed downstream) instead of losing the document.
 		if err := w.q.PushDownload(ctx, job); err != nil {
 			return err
 		}
+		if err := w.q.MarkSeen(ctx, t.Regulator, link); err != nil {
+			return err
+		}
 		enqueued++
+	}
+	// Hash is committed only after every new link is enqueued, so a mid-sweep
+	// crash re-detects this change on the next run.
+	if err := w.snaps.Set(ctx, t.URL, newHash); err != nil {
+		return err
 	}
 	w.log.Info("listing changed", "target", t.Name, "candidate_links", len(links), "new_enqueued", enqueued)
 	return nil
