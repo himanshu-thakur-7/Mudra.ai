@@ -18,19 +18,24 @@ def create_app() -> FastAPI:
     app = FastAPI(title=settings.app_name, lifespan=lifespan)
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+        allow_origins=[
+            "http://localhost:5173", "http://127.0.0.1:5173",  # legacy React app
+            "http://localhost:4321", "http://127.0.0.1:4321",  # Astro app
+        ],
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
     )
 
-    from app.api import audit, billing, corpus, ingestion, reviews, whatsapp
+    from app.api import audit, billing, corpus, ingestion, reviews, system, voice, whatsapp
 
     app.include_router(reviews.router, prefix="/api")
+    app.include_router(voice.router, prefix="/api")
     app.include_router(audit.router, prefix="/api")
     app.include_router(corpus.router, prefix="/api")
     app.include_router(billing.router, prefix="/api")
     app.include_router(ingestion.router, prefix="/api")
+    app.include_router(system.router, prefix="/api")
     app.include_router(whatsapp.router)
 
     @app.get("/health")

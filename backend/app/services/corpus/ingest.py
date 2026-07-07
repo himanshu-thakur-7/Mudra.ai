@@ -107,6 +107,50 @@ def apply_supersession(db, new_doc_id: str, old_doc_ids: list[str]) -> int:
     return changed
 
 
+def sync_to_convex() -> int:
+    """Push the clause registry into Convex's `clauses` table (built-in vector
+    search). Requires CONVEX_URL; the embeddings are already in the DB."""
+    import httpx
+    import numpy as np
+    from sqlalchemy import select
+
+    from app.core.db import get_session_factory
+    from app.models import Clause, CorpusDoc
+
+    settings = get_settings()
+    if not settings.convex_url:
+        raise RuntimeError("CONVEX_URL not configured")
+
+    db = get_session_factory()()
+    headers = {"Content-Type": "application/json"}
+    if settings.convex_deploy_key:
+        headers["Authorization"] = f"Convex {settings.convex_deploy_key}"
+    n = 0
+    try:
+        docs = {d.id: d for d in db.scalars(select(CorpusDoc)).all()}
+        with httpx.Client(timeout=30) as client:
+            for c in db.scalars(select(Clause)).all():
+                if not c.embedding:
+                    continue
+                doc = docs.get(c.doc_id)
+                args = {
+                    "clauseId": c.id, "docId": c.doc_id,
+                    "regulator": doc.regulator if doc else "",
+                    "clauseNumber": c.clause_number, "text": c.text,
+                    "tags": c.tags or [], "mandatory": c.mandatory,
+                    "status": c.status or "ACTIVE", "sourcePage": c.source_page,
+                    "sourceUrl": doc.source_url if doc else "",
+                    "embedding": np.frombuffer(c.embedding, dtype=np.float32).astype(float).tolist(),
+                }
+                client.post(f"{settings.convex_url.rstrip('/')}/api/mutation",
+                            json={"path": "clauses:upsert", "args": args, "format": "json"},
+                            headers=headers)
+                n += 1
+    finally:
+        db.close()
+    return n
+
+
 def extract_draft(pdf_path: Path, regulator: str, doc_id: str) -> Path:
     """LLM-assisted clause segmentation: PDF -> draft JSON for human review."""
     import pdfplumber
@@ -158,6 +202,7 @@ def main() -> None:
     p_ext.add_argument("--doc-id", required=True)
 
     sub.add_parser("sync-qdrant", help="Rebuild the Qdrant collection from the DB registry")
+    sub.add_parser("sync-convex", help="Push the clause registry into Convex (clauses:upsert)")
 
     p_sup = sub.add_parser("supersede", help="Mark old docs SUPERSEDED by a new doc (temporal state)")
     p_sup.add_argument("new_doc_id")
@@ -186,6 +231,10 @@ def main() -> None:
             print(f"Synced {sync_from_db(db)} clauses to Qdrant")
         finally:
             db.close()
+    elif args.cmd == "sync-convex":
+        init_db()
+        n = sync_to_convex()
+        print(f"Pushed {n} clauses to Convex (clauses:upsert)")
     elif args.cmd == "supersede":
         init_db()
         from app.core.db import get_session_factory

@@ -2,8 +2,48 @@
 
 Pre-review co-pilot that checks financial marketing content (WhatsApp posts,
 social captions, ad copy) against SEBI, AMFI, RBI and IRDAI rules — with every
-flag cited to a verbatim regulatory clause, a compliant rewrite, and a
-downloadable audit-trail PDF.
+flag cited to a verbatim regulatory clause, a compliant rewrite, an
+audit-trail PDF, and a **voice copilot that reads the verdict back to you.**
+
+## Buildathon partner stack
+
+Everything runs today on OpenAI alone; each partner is a **key-ready adapter**
+that activates the moment its key lands in `backend/.env`.
+
+| Layer | Partner | Where |
+|---|---|---|
+| Core agents (reviewer/adjudicator/rewriter) | **Nous Hermes** | `services/agents/llm.py` (auto-falls back to OpenAI) |
+| Vision/OCR preprocessing, large-context distillation | **OpenAI GPT-5.5** | `PreprocessClient` in `services/agents/llm.py` |
+| Realtime DB · vector search · workflow state | **Convex** | `convex/` project + `services/convex_bridge.py` |
+| Live regulatory search (Hermes tool) | **Linkup** | `services/ingestion/linkup.py` |
+| LLM routing · latency/cache/token observability | **Cloudflare AI Gateway** | `CF_AI_GATEWAY_BASE` env |
+| Voice copilot (reads flags + rewrite aloud) | **ElevenLabs** | `services/voice/` + `api/voice.py` |
+| Self-serve ₹2–5k/mo UPI AutoPay subscription | **Razorpay** | `services/billing.py` |
+| Global edge frontend | **Cloudflare Pages** | `web/wrangler.toml` |
+| Frontend | **Astro + Aceternity** | `web/` |
+
+Live partner status is at `GET /api/system/partners` and rendered in the
+landing page's "Powered by" panel. The agent pipeline reports which provider
+serves it right now (Hermes when keyed, OpenAI otherwise).
+
+### Run it
+
+```bash
+# backend
+cd backend && cp .env.example .env   # add OPENAI_API_KEY (+ any partner keys)
+uv sync && uv run python -m app.services.corpus.ingest load
+uv run uvicorn app.main:app --port 8000
+
+# Astro frontend (voice-first)
+cd web && npm install && npm run dev    # http://localhost:4321
+
+# Convex (optional realtime + vector): cd convex && npx convex dev
+```
+
+The **voice demo works without any extra key** — it falls back to the browser's
+speech engine and upgrades to ElevenLabs natural voice once `ELEVENLABS_API_KEY`
+is set. `web/` is the new Astro app; the previous React app (`frontend/`) stays
+as a fallback until Astro reaches full parity.
 
 Four audiences are live: **MFD** (SEBI/AMFI), **IA/RA** (SEBI Ad Code 2023),
 **Digital lender / LSP** (RBI Digital Lending Directions 2025), **Insurer /

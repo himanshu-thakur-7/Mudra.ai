@@ -1,0 +1,14 @@
+# Cloudflare Pages deploy for the Astro frontend.
+#   npm run build && npx wrangler pages deploy dist
+# The AI Gateway (for LLM observability) is configured on the backend via
+# CF_AI_GATEWAY_BASE; this file deploys the global edge frontend.
+name = "compliancecopilot"
+compatibility_date = "2026-01-01"
+pages_build_output_dir = "dist"
+
+[vars]
+PUBLIC_API_TOKEN = "dev-token"
+
+# Route /api/* to the FastAPI backend (Worker or external host). In production,
+# set BACKEND_ORIGIN and add a _redirects / Functions proxy; in dev, Astro's
+# vite proxy handles /api -> localhost:8000.

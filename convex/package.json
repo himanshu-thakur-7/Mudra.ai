@@ -1,0 +1,13 @@
+{
+  "name": "compliancecopilot-convex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Convex backend — realtime DB, vector search, multi-agent workflow state",
+  "scripts": {
+    "dev": "convex dev",
+    "deploy": "convex deploy"
+  },
+  "dependencies": {
+    "convex": "^1.17.0"
+  }
+}

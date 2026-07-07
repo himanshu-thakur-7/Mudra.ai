@@ -14,3 +14,12 @@ dist/
 # OS
 .DS_Store
 .redis/
+
+# Astro
+web/node_modules/
+web/dist/
+web/.astro/
+
+# Convex
+convex/node_modules/
+convex/convex/_generated/

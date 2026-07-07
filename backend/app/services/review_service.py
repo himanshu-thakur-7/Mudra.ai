@@ -12,7 +12,9 @@ import hashlib
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
+from app.core.config import get_settings
 from app.models import AuditEvent, Clause, CorpusDoc, Finding, Review
+from app.services import convex_bridge
 from app.services.agents.llm import LLMClient
 from app.services.grouping import category_for_tags
 from app.services.agents.pipeline import (
@@ -98,14 +100,18 @@ async def run_review(
     )
     db.add(review)
     db.flush()
-    _audit(db, review.id, "submitted", {"sha256": review.content_sha256, "channel": channel, "audience": audience})
+    provider = get_settings().agent_provider
+    _audit(db, review.id, "submitted", {"sha256": review.content_sha256, "channel": channel, "audience": audience, "provider": provider})
+    await convex_bridge.push_step(review.id, "submitted", "done", f"{channel}/{audience}", provider)
 
     registry_ids = set(db.scalars(select(Clause.id)).all())
     clause_meta = _load_clause_meta(db)
 
     # 1. Deterministic checks — always run, zero-hallucination.
+    await convex_bridge.push_step(review.id, "deterministic", "running", "rule checks", provider)
     det = run_deterministic_checks(content, audience=audience)
     _audit(db, review.id, "deterministic_checks", {"findings": [vars(f) for f in det]})
+    await convex_bridge.push_step(review.id, "deterministic", "done", f"{len(det)} rule flags", provider)
     det_keys = {
         (f.clause_id, "missing" if f.offending_text.strip().startswith("(") else f.offending_text[:40].lower())
         for f in det
@@ -116,19 +122,23 @@ async def run_review(
     llm_error: str | None = None
     try:
         # 2. Retrieval — audience-filtered, mandatory clauses unioned in.
+        await convex_bridge.push_step(review.id, "retrieval", "running", "vector search", provider)
         store = get_store(db)
         retrieved = await store.search(content, audience=audience)
+        await convex_bridge.push_step(review.id, "retrieval", "done", f"{len(retrieved)} clauses", provider)
         _audit(
             db, review.id, "retrieval",
             {"clauses": [{"id": c.id, "score": c.score, "mandatory": c.mandatory} for c in retrieved]},
         )
         clauses_by_id = {c.id: c for c in retrieved}
 
-        # 3. Reviewer agent.
+        # 3. Reviewer agent (Hermes).
+        await convex_bridge.push_step(review.id, "reviewer", "running", "scanning against clauses", provider)
         llm = LLMClient()
         already = [f"[{f.clause_id}] {f.explanation}" for f in det]
         raw_findings = await run_reviewer(llm, content, audience, channel, retrieved, already)
         _audit(db, review.id, "reviewer", {"findings": [f.raw for f in raw_findings]})
+        await convex_bridge.push_step(review.id, "reviewer", "done", f"{len(raw_findings)} findings", provider)
 
         # 4. Server-side citation validation BEFORE adjudication.
         valid, stripped = [], []
@@ -138,8 +148,10 @@ async def run_review(
             _audit(db, review.id, "citation_validation",
                    {"stripped": [{"clause_id": f.clause_id, "offending_text": f.offending_text} for f in stripped]})
 
-        # 5. Adjudicator agent re-verifies each surviving finding.
+        # 5. Adjudicator agent (Hermes strict-JSON) re-verifies each finding.
+        await convex_bridge.push_step(review.id, "adjudicator", "running", "verifying every flag", provider)
         adjudicated = await run_adjudicator(llm, content, valid, clauses_by_id)
+        await convex_bridge.push_step(review.id, "adjudicator", "done", f"{len(adjudicated)} upheld", provider)
         _audit(
             db, review.id, "adjudicator",
             {"kept": [{"clause_id": f.clause_id, "adjudication": f.adjudication,
@@ -156,6 +168,7 @@ async def run_review(
 
     # 6. Rewriter — only when something needs fixing and the LLM is available.
     if verdict != "pass" and llm_error is None:
+        await convex_bridge.push_step(review.id, "rewriter", "running", "drafting compliant version", provider)
         try:
             descs = [f"{f.explanation} (clause {f.clause_id})" for f in det] + [
                 f"{f.explanation} (clause {f.clause_id})" for f in llm_findings
@@ -218,6 +231,7 @@ async def run_review(
     review.rewrite = (rewrite_data or {}).get("rewrite")
 
     _audit(db, review.id, "verdict", {"verdict": review.verdict, "counts": counts, "llm_error": llm_error})
+    await convex_bridge.push_step(review.id, "verdict", "done", f"{review.verdict} · {counts}", provider)
     db.commit()
     db.refresh(review)
     return review

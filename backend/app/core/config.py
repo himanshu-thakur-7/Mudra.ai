@@ -11,31 +11,70 @@ CORPUS_DIR = REPO_DIR / "corpus"
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=BACKEND_DIR / ".env", extra="ignore")
 
-    app_name: str = "AI Compliance Officer"
+    app_name: str = "ComplianceCopilot"
     database_url: str = f"sqlite:///{BACKEND_DIR / 'compliance.db'}"
 
+    # ---- LLM provider layer (Buildathon: Hermes primary, OpenAI preprocessing) ----
+    # llm_provider: "hermes" | "openai". The system prefers Hermes for the agent
+    # pipeline; falls back to OpenAI automatically when no Hermes key is set, so
+    # the demo runs today and flips to Hermes the moment HERMES_API_KEY lands.
+    llm_provider: str = "hermes"
+
+    # Nous Hermes — OpenAI-compatible inference endpoint (or an OpenRouter route).
+    hermes_api_key: str = ""
+    hermes_base_url: str = "https://inference-api.nousresearch.com/v1"
+    hermes_model: str = "Hermes-4-405B"
+
+    # OpenAI (GPT-5.5) — heavy preprocessing: vision/OCR on complex PDF tables,
+    # large-context distillation before handing refined context to Hermes.
     openai_api_key: str = ""
     openai_model: str = "gpt-5.1"
+    openai_preprocess_model: str = "gpt-5.1"  # vision/large-context model
     openai_embedding_model: str = "text-embedding-3-small"
 
-    # Single-tenant MVP auth: one bearer token for the seeded org.
+    # Cloudflare AI Gateway — when set, ALL LLM traffic is routed through the
+    # gateway for latency tracking, caching and token accounting. Format:
+    # https://gateway.ai.cloudflare.com/v1/<account_id>/<gateway>
+    cf_ai_gateway_base: str = ""
+
+    # ---- Convex (data + realtime + vector search + workflow state) ----
+    convex_url: str = ""          # https://<deployment>.convex.cloud
+    convex_deploy_key: str = ""   # for server-side mutations from FastAPI
+
+    # ---- Linkup (real-time regulatory web search, called as a Hermes tool) ----
+    linkup_api_key: str = ""
+    linkup_base_url: str = "https://api.linkup.so/v1"
+
+    # ---- ElevenLabs (voice copilot) ----
+    elevenlabs_api_key: str = ""
+    elevenlabs_voice_id: str = "JBFqnCBsd6RMkjVDRZzb"  # a calm, professional default
+    elevenlabs_model: str = "eleven_turbo_v2_5"  # low-latency
+
+    # ---- Razorpay (self-serve INR subscription, UPI AutoPay) ----
+    razorpay_key_id: str = ""
+    razorpay_key_secret: str = ""
+    razorpay_webhook_secret: str = ""
+
+    # ---- Single-tenant MVP auth / infra ----
     api_token: str = "dev-token"
-
     redis_url: str = "redis://localhost:6379/0"
-
-    # Retrieval backend: "sqlite" (numpy cosine) or "qdrant" (payload-filtered vector DB).
-    retrieval_backend: str = "sqlite"
+    retrieval_backend: str = "sqlite"  # sqlite | qdrant | convex
     qdrant_path: str = str(BACKEND_DIR / ".qdrant")
-
-    # Base URL used in WhatsApp replies to link back to the web result page.
-    public_web_url: str = "http://localhost:5173"
+    public_web_url: str = "http://localhost:4321"  # Astro dev server
 
     twilio_account_sid: str = ""
     twilio_auth_token: str = ""
-    twilio_whatsapp_from: str = ""  # e.g. "whatsapp:+14155238886" (sandbox)
+    twilio_whatsapp_from: str = ""
 
-    razorpay_key_id: str = ""
-    razorpay_key_secret: str = ""
+    # ---- resolved helpers ----
+    @property
+    def use_hermes(self) -> bool:
+        return self.llm_provider == "hermes" and bool(self.hermes_api_key)
+
+    @property
+    def agent_provider(self) -> str:
+        """Which provider actually serves the agent pipeline right now."""
+        return "hermes" if self.use_hermes else "openai"
 
 
 @lru_cache

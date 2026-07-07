@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro'
+import VoiceChecker from '../components/VoiceChecker.tsx'
+---
+<Base title="Check your content — ComplianceCopilot">
+  <div class="relative min-h-screen">
+    <div class="pointer-events-none absolute inset-x-0 top-0 h-[500px] aurora opacity-60"></div>
+    <div class="grid-overlay pointer-events-none absolute inset-0"></div>
+
+    <header class="relative z-10 mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
+      <a href="/" class="flex items-center gap-2.5">
+        <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-brand-400 to-cyan-accent text-sm font-bold text-emerald-950">✓</span>
+        <span class="font-bold text-white">Compliance<span class="text-brand-400">Copilot</span></span>
+      </a>
+      <a href="/#pricing" class="rounded-lg border border-white/10 px-4 py-2 text-sm text-slate-300 hover:bg-white/5">Pricing</a>
+    </header>
+
+    <main class="relative z-10 mx-auto max-w-5xl px-6 pb-24 pt-6">
+      <div class="mb-8 text-center">
+        <h1 class="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">Check it. <span class="gradient-text">Hear the verdict.</span></h1>
+        <p class="mt-2 text-slate-400">Every flag cites the exact clause and page. The compliance officer reads it back to you.</p>
+      </div>
+      <VoiceChecker client:load />
+    </main>
+  </div>
+</Base>

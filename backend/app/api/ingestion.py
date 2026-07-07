@@ -117,6 +117,28 @@ def _run_sweep_then_drain() -> None:
         rdb.delete(SWEEP_LOCK)
 
 
+@router.get("/linkup")
+async def linkup_available(user: User = Depends(get_current_user)):
+    from app.services.ingestion import linkup
+
+    return {"available": linkup.available()}
+
+
+@router.post("/linkup-refresh")
+async def linkup_refresh(
+    body: dict,
+    user: User = Depends(get_current_user),
+):
+    """Live regulatory search via Linkup: pull the latest circular on a topic."""
+    from app.services.ingestion import linkup
+
+    if not linkup.available():
+        raise HTTPException(status_code=501, detail="LINKUP_API_KEY not configured")
+    query = body.get("query") or "latest advertisement / marketing compliance circular"
+    regulator = body.get("regulator", "any")
+    return await linkup.find_latest(query, regulator)
+
+
 @router.post("/sweep")
 def trigger_sweep(user: User = Depends(get_current_user)):
     rdb = _redis()

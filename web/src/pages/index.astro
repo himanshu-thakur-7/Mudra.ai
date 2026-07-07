@@ -1,0 +1,168 @@
+---
+import Base from '../layouts/Base.astro'
+import PartnerStack from '../components/PartnerStack.tsx'
+
+const stats = [
+  { n: '1.71 lakh', l: 'MFDs self-policing their content' },
+  { n: '₹546 cr', l: 'impounded from one finfluencer academy' },
+  { n: '4', l: 'regulators, one pipeline' },
+  { n: '< 20s', l: 'paste → compliant rewrite, read aloud' },
+]
+const steps = [
+  { n: '01', t: 'Paste your draft', d: 'WhatsApp forward, ad, reel caption — English or Hinglish. Pick your regulator hat.' },
+  { n: '02', t: 'Hermes reviews live law', d: 'Rule checks + Convex vector search + a reviewer→adjudicator agent pair on Nous Hermes, citing every flag.' },
+  { n: '03', t: 'Hear it & ship it', d: 'The ElevenLabs voice officer reads each flag and the compliant rewrite. Export a courtroom-grade audit PDF.' },
+]
+const features = [
+  { t: 'Voice-first copilot', d: 'ElevenLabs reads out each flagged clause and the rewrite in a natural, conversational tone.', big: true },
+  { t: 'Every flag → exact clause + page', d: 'Verbatim clause, source page, and ACTIVE/SUPERSEDED status. No vague “Source: SEBI”.' },
+  { t: 'One rewrite, not nine fixes', d: 'A single publish-ready string that resolves every violation, in your voice.' },
+  { t: 'Live rulebook via Linkup', d: 'Hermes calls Linkup mid-review to pull the very latest circular — the rulebook is never stale.' },
+  { t: 'Realtime on Convex', d: 'Vector search + multi-agent workflow state sync live as the pipeline runs.' },
+  { t: 'Routed via Cloudflare AI Gateway', d: 'Every LLM call tracked for latency, cache and token spend; deployed globally.' },
+]
+const pricing = [
+  { name: 'Self-serve', price: '₹2,500', unit: '/mo', tag: 'MFD / RIA', feats: ['200 pre-checks / month', 'Voice copilot', 'Audit-trail PDFs', 'WhatsApp bot'], cta: 'Start with UPI AutoPay' },
+  { name: 'Pro', price: '₹5,000', unit: '/mo', tag: 'Multi-user', feats: ['1,000 pre-checks / month', 'Team seats', 'Priority queue', 'All 4 regulators'], cta: 'Start with UPI AutoPay', highlight: true },
+  { name: 'Enterprise', price: 'Custom', unit: '', tag: 'AMC / NBFC / Insurer', feats: ['SSO & role-based access', 'Dedicated corpus', 'Audit exports', 'SLA'], cta: 'Talk to us' },
+]
+---
+<Base>
+  <!-- NAV -->
+  <header class="sticky top-0 z-50 border-b border-white/5 bg-ink-950/80 backdrop-blur-xl">
+    <div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
+      <a href="/" class="flex items-center gap-2.5">
+        <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-brand-400 to-cyan-accent text-sm font-bold text-emerald-950 shadow-lg shadow-emerald-500/30">✓</span>
+        <span class="font-bold text-white">Compliance<span class="text-brand-400">Copilot</span></span>
+      </a>
+      <nav class="hidden items-center gap-8 text-sm text-slate-400 md:flex">
+        <a href="#how" class="hover:text-white">How it works</a>
+        <a href="#features" class="hover:text-white">Features</a>
+        <a href="#stack" class="hover:text-white">Stack</a>
+        <a href="#pricing" class="hover:text-white">Pricing</a>
+      </nav>
+      <a href="/app" class="rounded-lg bg-gradient-to-r from-brand-400 to-cyan-accent px-4 py-2 text-sm font-bold text-emerald-950 shadow-lg shadow-emerald-500/20 transition-transform hover:scale-[1.03]">Try it free</a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="relative overflow-hidden">
+    <div class="pointer-events-none absolute inset-x-0 -top-24 h-[620px] aurora"></div>
+    <div class="grid-overlay pointer-events-none absolute inset-0"></div>
+    <div class="relative mx-auto max-w-6xl px-6 pb-20 pt-20 text-center">
+      <div class="mx-auto inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium text-brand-300">
+        <span class="h-2 w-2 rounded-full bg-brand-400 animate-pulse-dot"></span>
+        Voice-first · SEBI · AMFI · RBI · IRDAI · live rulebook
+      </div>
+      <h1 class="mx-auto mt-6 max-w-4xl text-5xl font-extrabold leading-[1.03] tracking-tight text-white sm:text-6xl lg:text-7xl">
+        Post it without <span class="gradient-text">a compliance notice.</span>
+      </h1>
+      <p class="mx-auto mt-6 max-w-2xl text-lg text-slate-400">
+        The AI pre-review layer for Indian financial marketing. Every violation flagged to the exact
+        regulation, one ready-to-publish rewrite — and a compliance officer that <span class="text-slate-200">reads it back to you.</span>
+      </p>
+      <div class="mt-9 flex flex-wrap items-center justify-center gap-4">
+        <a href="/app" class="group flex items-center gap-2 rounded-xl bg-gradient-to-r from-brand-400 to-cyan-accent px-7 py-3.5 text-[15px] font-bold text-emerald-950 shadow-xl shadow-emerald-500/25 transition-transform hover:scale-[1.03]">
+          Check your content <span class="transition-transform group-hover:translate-x-0.5">→</span>
+        </a>
+        <a href="#stack" class="rounded-xl border border-white/10 px-7 py-3.5 text-[15px] font-medium text-slate-300 hover:bg-white/5">See the stack</a>
+      </div>
+      <div class="mt-6 flex items-center justify-center gap-6 text-xs text-slate-500">
+        <span>🔊 Hears you out loud</span><span>✓ Clause + page citations</span><span>✓ Human in the loop</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <section class="mx-auto max-w-6xl px-6 py-14">
+    <div class="grid grid-cols-2 gap-px overflow-hidden rounded-3xl border border-white/10 bg-white/5 lg:grid-cols-4">
+      {stats.map((s) => (
+        <div class="bg-ink-950 p-6">
+          <div class="text-3xl font-extrabold text-white">{s.n}</div>
+          <div class="mt-1 text-sm text-slate-500">{s.l}</div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- HOW -->
+  <section id="how" class="mx-auto max-w-6xl px-6 py-16">
+    <p class="text-center text-xs font-semibold uppercase tracking-widest text-brand-400">How it works</p>
+    <h2 class="mx-auto mt-3 max-w-2xl text-center text-3xl font-extrabold text-white sm:text-4xl">From risky draft to publish-ready — out loud</h2>
+    <div class="mt-12 grid gap-5 md:grid-cols-3">
+      {steps.map((s) => (
+        <div class="rounded-2xl border border-white/10 bg-gradient-to-b from-white/5 to-transparent p-6">
+          <div class="text-sm font-bold text-brand-400">{s.n}</div>
+          <h3 class="mt-3 text-lg font-semibold text-white">{s.t}</h3>
+          <p class="mt-2 text-sm leading-relaxed text-slate-400">{s.d}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section id="features" class="mx-auto max-w-6xl px-6 py-16">
+    <p class="text-center text-xs font-semibold uppercase tracking-widest text-brand-400">Why it holds up</p>
+    <h2 class="mx-auto mt-3 max-w-2xl text-center text-3xl font-extrabold text-white sm:text-4xl">Built like a regulator would audit it</h2>
+    <div class="mt-12 grid gap-4 md:grid-cols-3">
+      {features.map((f) => (
+        <div class={`rounded-2xl border border-white/10 p-6 ${f.big ? 'md:col-span-2 bg-gradient-to-br from-brand-500/10 to-cyan-400/5' : 'bg-white/[0.03]'}`}>
+          <h3 class="text-lg font-semibold text-white">{f.t}</h3>
+          <p class="mt-2 text-sm leading-relaxed text-slate-400">{f.d}</p>
+          {f.big && <div class="mt-4 inline-flex items-center gap-2 rounded-full bg-brand-500/15 px-3 py-1.5 text-xs font-medium text-brand-300"><span class="animate-pulse-dot h-2 w-2 rounded-full bg-brand-400"></span> ElevenLabs voice · demo it live</div>}
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- STACK -->
+  <section id="stack" class="border-y border-white/5 bg-white/[0.02] py-16">
+    <div class="mx-auto max-w-6xl px-6">
+      <p class="text-center text-xs font-semibold uppercase tracking-widest text-brand-400">Powered by</p>
+      <h2 class="mx-auto mt-3 max-w-2xl text-center text-3xl font-extrabold text-white sm:text-4xl">The Buildathon partner stack, wired end-to-end</h2>
+      <p class="mx-auto mb-10 mt-3 max-w-xl text-center text-sm text-slate-400">Hermes agents · OpenAI vision preprocessing · Convex realtime + vector · Linkup live search · Cloudflare AI Gateway · ElevenLabs voice · Razorpay UPI.</p>
+      <PartnerStack client:load />
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section id="pricing" class="mx-auto max-w-6xl px-6 py-20">
+    <p class="text-center text-xs font-semibold uppercase tracking-widest text-brand-400">Pricing</p>
+    <h2 class="mx-auto mt-3 max-w-2xl text-center text-3xl font-extrabold text-white sm:text-4xl">Self-serve, on UPI AutoPay</h2>
+    <div class="mt-12 grid gap-5 md:grid-cols-3">
+      {pricing.map((p) => (
+        <div class={`rounded-3xl border p-6 ${p.highlight ? 'border-brand-500/40 bg-gradient-to-b from-brand-500/10 to-transparent' : 'border-white/10 bg-white/[0.03]'}`}>
+          <div class="flex items-center justify-between">
+            <span class="text-sm font-semibold text-white">{p.name}</span>
+            <span class="rounded-full bg-white/5 px-2 py-0.5 text-[10px] text-slate-400">{p.tag}</span>
+          </div>
+          <div class="mt-4"><span class="text-4xl font-extrabold text-white">{p.price}</span><span class="text-slate-500">{p.unit}</span></div>
+          <ul class="mt-5 space-y-2">
+            {p.feats.map((ft) => (<li class="flex items-center gap-2 text-sm text-slate-300"><span class="text-brand-400">✓</span> {ft}</li>))}
+          </ul>
+          <a href="/app" class={`mt-6 block rounded-xl px-4 py-2.5 text-center text-sm font-bold ${p.highlight ? 'bg-gradient-to-r from-brand-400 to-cyan-accent text-emerald-950' : 'border border-white/10 text-slate-200 hover:bg-white/5'}`}>{p.cta}</a>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="mx-auto max-w-6xl px-6 pb-24">
+    <div class="relative overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-br from-brand-500/15 via-ink-900 to-cyan-400/10 px-8 py-16 text-center">
+      <div class="pointer-events-none absolute inset-x-0 top-0 h-40 aurora opacity-60"></div>
+      <h2 class="relative text-3xl font-extrabold text-white sm:text-4xl">Check your next post before SEBI does.</h2>
+      <p class="relative mx-auto mt-4 max-w-xl text-slate-400">A pre-review co-pilot, not a replacement for your compliance officer. Final responsibility stays with you — we make it impossible to miss a rule.</p>
+      <a href="/app" class="relative mt-8 inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-brand-400 to-cyan-accent px-7 py-3.5 text-[15px] font-bold text-emerald-950 shadow-xl shadow-emerald-500/25 transition-transform hover:scale-[1.03]">Start checking — free →</a>
+    </div>
+  </section>
+
+  <footer class="border-t border-white/5 py-10">
+    <div class="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 sm:flex-row">
+      <div class="flex items-center gap-2.5">
+        <span class="flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-br from-brand-400 to-cyan-accent text-xs font-bold text-emerald-950">✓</span>
+        <span class="text-sm font-semibold text-white">ComplianceCopilot</span>
+      </div>
+      <p class="text-xs text-slate-500">Pre-review layer for SEBI · AMFI · RBI · IRDAI. Not legal advice.</p>
+    </div>
+  </footer>
+</Base>

@@ -1,0 +1,3 @@
+# Cloudflare Pages: proxy API calls to the backend origin.
+# Replace BACKEND_ORIGIN with your deployed FastAPI URL.
+/api/*  https://BACKEND_ORIGIN/api/:splat  200
