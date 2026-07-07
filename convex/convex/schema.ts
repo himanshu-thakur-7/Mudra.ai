@@ -25,8 +25,14 @@ export const AGENT_NODE = v.union(
   v.literal("Adjudicator"),
   v.literal("Remediator"),
   v.literal("VoiceOfficer"),
+  // advanced autonomous patterns
+  v.literal("Detective"), // pre-retrieval query expansion
+  v.literal("Marketer"), // Red-Team Agent A
+  v.literal("SEBIOfficer"), // Red-Team Agent B
+  v.literal("Director"), // emotional-steerage director
 );
 export const CRITICALITY = v.union(v.literal("critical"), v.literal("major"), v.literal("minor"));
+export const VOICE_EMOTION = v.union(v.literal("casual"), v.literal("stern"), v.literal("urgent"));
 
 export default defineSchema({
   // --- semantically-chunked rulebook + built-in vector search --------------
@@ -58,6 +64,9 @@ export default defineSchema({
     remediatedText: v.optional(v.string()),
     riskScore: v.number(), // 0-100, drives the ₹546 Cr Risk Radar
     auditTrailPdfId: v.optional(v.id("_storage")),
+    // Director-agent emotional-steerage output (voice copilot).
+    voiceClipId: v.optional(v.id("_storage")),
+    voiceEmotion: v.optional(VOICE_EMOTION),
   }).index("by_user", ["userId"]),
 
   // --- streaming agent thoughts for the Agent Execution Grid --------------

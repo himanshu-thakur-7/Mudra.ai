@@ -104,7 +104,7 @@ export const runCompliancePipeline = action({
       const rawViolations: any[] = Array.isArray(ruling.violations) ? ruling.violations : [];
 
       // 4) VALIDATE citations + batch insert violations, compute risk
-      const byClause = new Map(docs.map((d: any) => [d.clauseId, d]));
+      const byClause = new Map<string, any>(docs.map((d: any) => [d.clauseId, d]));
       let risk = 0;
       const rows = rawViolations
         .filter((x) => byClause.has(x.clauseId)) // hallucinated citations dropped

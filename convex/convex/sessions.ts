@@ -3,7 +3,7 @@
 import { v } from "convex/values";
 import { mutation, query, internalMutation } from "./_generated/server";
 import { api } from "./_generated/api";
-import { SESSION_STATUS } from "./schema";
+import { SESSION_STATUS, VOICE_EMOTION } from "./schema";
 
 export const start = mutation({
   args: { userId: v.string(), rawInputDraft: v.string() },
@@ -39,4 +39,15 @@ export const complete = internalMutation({
   args: { sessionId: v.id("complianceSessions"), riskScore: v.number(), remediatedText: v.optional(v.string()) },
   handler: (ctx, { sessionId, riskScore, remediatedText }) =>
     ctx.db.patch(sessionId, { sessionStatus: "COMPLETED", riskScore, remediatedText }),
+});
+
+// The Director agent pushes its emotionally-steered voice clip onto the session.
+export const attachVoiceClip = internalMutation({
+  args: {
+    sessionId: v.id("complianceSessions"),
+    voiceClipId: v.id("_storage"),
+    voiceEmotion: VOICE_EMOTION,
+  },
+  handler: (ctx, { sessionId, voiceClipId, voiceEmotion }) =>
+    ctx.db.patch(sessionId, { voiceClipId, voiceEmotion, sessionStatus: "VOICE_STREAMING" }),
 });
