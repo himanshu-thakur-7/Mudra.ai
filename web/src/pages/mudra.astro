@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro'
+import MudraConsole from '../components/mudra/MudraConsole.tsx'
+---
+<Base title="Mudra.ai — Live Compliance War Room">
+  <div class="relative min-h-screen">
+    <div class="pointer-events-none absolute inset-x-0 top-0 h-[520px] aurora opacity-50"></div>
+    <div class="grid-overlay pointer-events-none absolute inset-0"></div>
+
+    <header class="relative z-10 mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
+      <a href="/" class="flex items-center gap-2.5">
+        <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-brand-400 to-cyan-accent text-sm font-bold text-emerald-950">म</span>
+        <span class="font-bold text-white">Mudra<span class="text-brand-400">.ai</span></span>
+      </a>
+      <a href="/#pricing" class="rounded-lg border border-white/10 px-4 py-2 text-sm text-slate-300 hover:bg-white/5">Pricing</a>
+    </header>
+
+    <main class="relative z-10 mx-auto max-w-6xl px-6 pb-24 pt-4">
+      <div class="mb-8 text-center">
+        <div class="mx-auto inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium text-brand-300">
+          <span class="h-2 w-2 rounded-full bg-brand-400 animate-pulse-dot"></span>
+          Live multi-agent interrogation · Hermes · Convex · ElevenLabs
+        </div>
+        <h1 class="mt-5 text-4xl font-extrabold tracking-tight text-white sm:text-5xl">The Compliance <span class="gradient-text">War Room</span></h1>
+        <p class="mt-2 text-slate-400">Watch the agents interrogate your draft in real time. Every flag priced in rupees. Every clause read aloud.</p>
+      </div>
+      <MudraConsole client:only="react" />
+    </main>
+  </div>
+</Base>
