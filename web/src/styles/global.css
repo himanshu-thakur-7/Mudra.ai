@@ -75,5 +75,6 @@ body {
   background: conic-gradient(from var(--a,0deg), transparent 60%, #34d399, #22d3ee, transparent);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   -webkit-mask-composite: xor; mask-composite: exclude; opacity: .5;
+  pointer-events: none; /* the border overlay must not steal clicks from inputs */
 }
 ::selection { background:#6ee7b7; color:#052015; }

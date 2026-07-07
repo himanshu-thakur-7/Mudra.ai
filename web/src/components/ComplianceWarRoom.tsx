@@ -163,21 +163,8 @@ function AgentExecutionGrid({ monologue, status }: { monologue: Thought[]; statu
 
 /* ----------------------------------------------- Text Canvas + Voice ------ */
 function TextCanvas({ session, violations }: { session: Session | null; violations: Violation[] }) {
-  const audioRef = useRef<HTMLAudioElement | null>(null)
-
-  // When the pipeline enters VOICE_STREAMING, trigger the voice stream.
-  useEffect(() => {
-    if (session?.sessionStatus === 'VOICE_STREAMING') {
-      if (!audioRef.current) {
-        const a = new Audio(`/api/voice/stream?session=${session._id}`)
-        audioRef.current = a
-        a.play().catch(() => {/* autoplay blocked; user can click */})
-      }
-    } else if (audioRef.current) {
-      audioRef.current.pause()
-      audioRef.current = null
-    }
-  }, [session?.sessionStatus, session?._id])
+  // The Director agent synthesises voice into Convex storage; the UI reflects
+  // the VOICE_STREAMING state via the pill below. (No local backend needed.)
 
   // Highlight each offending phrase inside the draft.
   const highlighted = useMemo(() => {

@@ -2,7 +2,6 @@ import { useMemo, useState } from 'react'
 import { ConvexProvider, useMutation } from 'convex/react'
 import { api, convexClient } from '../lib/convex'
 import ComplianceWarRoom from './ComplianceWarRoom'
-import MudraConsole from './mudra/MudraConsole'
 
 const SAMPLE =
   'Market is looking incredibly bullish right now! If you want a guaranteed way to beat inflation, you need to put your money into the Nippon India Small Cap Fund today. My clients have easily seen 20%+ returns this year. Don’t miss out on these sure-shot gains, DM me to start your SIP! - Rajesh Sharma'
@@ -55,6 +54,12 @@ export default function MudraLauncher() {
       </ConvexProvider>
     )
   }
-  // No Convex deployment configured → the scripted demo (its own DEMO MODE badge).
-  return <MudraConsole />
+  // No Convex deployment configured.
+  return (
+    <div className="glass mx-auto max-w-lg rounded-2xl p-6 text-center text-sm text-slate-400">
+      <p className="mb-1 font-semibold text-white">War Room not connected</p>
+      Set <code className="rounded bg-white/5 px-1 text-brand-300">PUBLIC_CONVEX_URL</code> to run live on
+      Convex + Nous Hermes + ElevenLabs.
+    </div>
+  )
 }
