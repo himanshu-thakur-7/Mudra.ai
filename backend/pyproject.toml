@@ -19,6 +19,7 @@ dependencies = [
     "python-multipart>=0.0.12",
     "redis>=8.0.1",
     "qdrant-client>=1.18.0",
+    "pymupdf>=1.28.0",
 ]
 
 [dependency-groups]

@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro'
-import MudraConsole from '../components/mudra/MudraConsole.tsx'
+import MudraLauncher from '../components/MudraLauncher.tsx'
 ---
 <Base title="Mudra.ai — Live Compliance War Room">
   <div class="relative min-h-screen">
@@ -24,7 +24,7 @@ import MudraConsole from '../components/mudra/MudraConsole.tsx'
         <h1 class="mt-5 text-4xl font-extrabold tracking-tight text-white sm:text-5xl">The Compliance <span class="gradient-text">War Room</span></h1>
         <p class="mt-2 text-slate-400">Watch the agents interrogate your draft in real time. Every flag priced in rupees. Every clause read aloud.</p>
       </div>
-      <MudraConsole client:only="react" />
+      <MudraLauncher client:only="react" />
     </main>
   </div>
 </Base>

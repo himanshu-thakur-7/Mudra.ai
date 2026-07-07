@@ -1,9 +1,9 @@
-// Structured Adjudicator output, streamed to the UI (Risk Radar + strikethroughs).
+// Reactive violations + the batch insert the pipeline calls.
 import { v } from "convex/values";
 import { query, internalMutation } from "./_generated/server";
-import { SEVERITY } from "./schema";
+import { CRITICALITY } from "./schema";
 
-export const forSession = query({
+export const getViolations = query({
   args: { sessionId: v.id("complianceSessions") },
   handler: (ctx, { sessionId }) =>
     ctx.db
@@ -12,22 +12,20 @@ export const forSession = query({
       .collect(),
 });
 
-export const add = internalMutation({
+export const batchInsert = internalMutation({
   args: {
     sessionId: v.id("complianceSessions"),
-    corpusId: v.optional(v.id("regulatoryCorpus")),
-    clauseId: v.string(),
-    severity: SEVERITY,
-    category: v.string(),
-    offendingText: v.string(),
-    sentenceIndex: v.optional(v.number()),
-    rationale: v.string(),
-    suggestedFix: v.string(),
-    exposureWeight: v.number(),
-    confidence: v.number(),
-    adjudication: v.union(v.literal("upheld"), v.literal("downgraded")),
+    rows: v.array(
+      v.object({
+        corpusId: v.id("regulatoryCorpus"),
+        targetPhrase: v.string(),
+        criticality: CRITICALITY,
+        explanation: v.string(),
+        suggestedFix: v.string(),
+      }),
+    ),
   },
-  handler: async (ctx, a) => {
-    await ctx.db.insert("violations", { ...a, at: Date.now() });
+  handler: async (ctx, { sessionId, rows }) => {
+    for (const r of rows) await ctx.db.insert("violations", { sessionId, ...r });
   },
 });

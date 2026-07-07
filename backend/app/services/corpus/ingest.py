@@ -201,8 +201,8 @@ def main() -> None:
     p_ext.add_argument("--regulator", required=True)
     p_ext.add_argument("--doc-id", required=True)
 
-    sub.add_parser("sync-qdrant", help="Rebuild the Qdrant collection from the DB registry")
-    sub.add_parser("sync-convex", help="Push the clause registry into Convex (clauses:upsert)")
+    # Convex is the sole vector store — the only sync target is Convex.
+    sub.add_parser("sync-convex", help="Push the seed clause registry into Convex vector storage")
 
     p_sup = sub.add_parser("supersede", help="Mark old docs SUPERSEDED by a new doc (temporal state)")
     p_sup.add_argument("new_doc_id")
@@ -212,29 +212,10 @@ def main() -> None:
     if args.cmd == "load":
         n_docs, n_clauses = load_registry(args.file, embed=not args.no_embed)
         print(f"Loaded {n_docs} docs, {n_clauses} clauses (embed={not args.no_embed})")
-        if get_settings().retrieval_backend == "qdrant" and not args.no_embed:
-            from app.core.db import get_session_factory
-            from app.services.retrieval.qdrant_store import sync_from_db
-
-            db = get_session_factory()()
-            try:
-                print(f"Synced {sync_from_db(db)} clauses to Qdrant")
-            finally:
-                db.close()
-    elif args.cmd == "sync-qdrant":
-        init_db()
-        from app.core.db import get_session_factory
-        from app.services.retrieval.qdrant_store import sync_from_db
-
-        db = get_session_factory()()
-        try:
-            print(f"Synced {sync_from_db(db)} clauses to Qdrant")
-        finally:
-            db.close()
     elif args.cmd == "sync-convex":
         init_db()
         n = sync_to_convex()
-        print(f"Pushed {n} clauses to Convex (clauses:upsert)")
+        print(f"Pushed {n} clauses to Convex regulatoryCorpus")
     elif args.cmd == "supersede":
         init_db()
         from app.core.db import get_session_factory
@@ -243,10 +224,6 @@ def main() -> None:
         try:
             n = apply_supersession(db, args.new_doc_id, args.old_doc_ids)
             print(f"Marked {len(args.old_doc_ids)} doc(s) / {n} clause(s) SUPERSEDED by {args.new_doc_id}")
-            if get_settings().retrieval_backend == "qdrant":
-                from app.services.retrieval.qdrant_store import sync_from_db
-
-                print(f"Resynced {sync_from_db(db)} clauses to Qdrant")
         finally:
             db.close()
     elif args.cmd == "extract":

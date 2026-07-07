@@ -1,74 +1,53 @@
-"""Legal-structure chunker: boundaries follow legal structure, never token counts."""
+"""Phase 3 — PyMuPDF layout-aware chunker: clause grouping + markdown tables.
+Runs against the committed SEBI source PDF (native text)."""
 
-from app.services.corpus.chunker import MAX_CHUNK_CHARS, chunk_legal
+from app.core.config import CORPUS_DIR
+from app.services.corpus.chunker import (
+    CorpusChunk,
+    _looks_tabular,
+    _to_markdown_table,
+    extract_chunks,
+)
 
-META = {"regulator": "RBI", "source_url": "https://x", "sha256": "abc"}
-
-DOC = """Reserve Bank of India
-Digital Lending Directions, 2025
-
-Chapter I Preliminary
-
-1. Short title and commencement
-These Directions shall be called the Digital Lending Directions, 2025. They shall come into force with immediate effect.
-
-2. Applicability
-2.1 These Directions shall apply to all commercial banks and non-banking financial companies engaged in digital lending. The provisions cover every lending service provider engaged by a regulated entity, and extend to all digital lending apps deployed for sourcing, underwriting or servicing loans across products and platforms in India.
-2.2 Nothing in these Directions shall absolve the regulated entity of its responsibilities.
-
-Q.1 What is a Key Facts Statement?
-A Key Facts Statement means a statement of key facts of a loan agreement, in simple language.
-
-Chapter II Marketing Norms
-
-3. Advertising conduct
-Lending Service Providers must remain impartial and objective, and must not directly or indirectly endorse or promote the product of any specific regulated entity. Advertisements must not be misleading in any manner whatsoever.
-Page 4 of 12
-"""
+SEBI_PDF = CORPUS_DIR / "sources" / "sebi-adcode-2023.pdf"
+AMFI_MASTER = CORPUS_DIR / "sources" / "amfi-master-circular-mfds.pdf"
 
 
-def test_chunks_follow_legal_structure():
-    chunks = chunk_legal(DOC, META)
-    labels = [c.clause_number for c in chunks]
-    assert any(c.kind == "faq" and c.clause_number.startswith("Q.") for c in chunks)
-    numbered = [c for c in chunks if c.kind == "numbered"]
-    assert numbered, labels
-    # chapter headings become metadata context on following clauses
-    marketing = next(c for c in chunks if "Advertising conduct" in c.text)
-    assert "Chapter II" in marketing.metadata.get("chapter", "")
-    # bare clause headings are prepended, not dropped
-    applicability = next(c for c in chunks if c.clause_number == "2.1")
-    assert "2. Applicability" in applicability.text
+def test_extract_chunks_groups_by_clause():
+    chunks = extract_chunks(SEBI_PDF, "SEBI", "SEBI-ADCODE-2023", source_url="https://sebi.gov.in/x.pdf")
+    assert len(chunks) >= 5
+    assert all(isinstance(c, CorpusChunk) for c in chunks)
+    # every chunk carries the doc id prefix + a clause marker
+    assert all(c.clauseId.startswith("SEBI-ADCODE-2023/") for c in chunks)
+    # provenance + defaults
+    assert all(c.regulator == "SEBI" and c.status == "ACTIVE" and c.sourcePdfUrl for c in chunks)
+    # the prohibitions clause block should be captured somewhere
+    joined = "\n".join(c.rawText for c in chunks).lower()
+    assert "guarantee" in joined and "past performance" in joined
 
 
-def test_every_chunk_carries_forced_metadata():
-    for c in chunk_legal(DOC, META):
-        assert c.metadata["regulator"] == "RBI"
-        assert c.metadata["source_url"] == "https://x"
+def test_markdown_table_detection():
+    tabular = "Name    Rate    Unit\nProcessing fee    1%    flat\nPenal charge    2%    p.a."
+    assert _looks_tabular(tabular)
+    md = _to_markdown_table(tabular)
+    assert md is not None
+    assert md.startswith("| Name | Rate | Unit |")
+    assert "|---|---|---|" in md
+    assert "| Penal charge | 2% | p.a. |" in md
 
 
-def test_page_noise_stripped():
-    assert not any("Page 4 of 12" in c.text for c in chunk_legal(DOC, META))
+def test_pipe_delimited_table():
+    md = _to_markdown_table("Col A | Col B\n1 | 2\n3 | 4")
+    assert md is not None and "| Col A | Col B |" in md
 
 
-def test_oversized_clause_splits_at_sentence_boundaries_only():
-    long_doc = "1. Long clause\n" + " ".join(
-        f"This is sentence number {i} of an extremely verbose regulatory clause." for i in range(120)
-    )
-    chunks = chunk_legal(long_doc, META)
-    assert len(chunks) > 1
-    for c in chunks:
-        assert len(c.text) <= MAX_CHUNK_CHARS + 100
-        assert c.text.rstrip().endswith(".")  # never cut mid-sentence
+def test_prose_is_not_a_table():
+    assert not _looks_tabular("This is an ordinary regulatory sentence about advertisements.")
 
 
-def test_short_subitems_stay_with_parent():
-    doc = """4. Prohibited conduct
-The following are prohibited:
-(a) misleading claims.
-(b) dark patterns.
-(c) hidden charges.
-"""
-    chunks = chunk_legal(doc, META)
-    assert len(chunks) == 1  # tiny (a)/(b)/(c) items must not explode into confetti
-    assert "(b) dark patterns." in chunks[0].text
+def test_real_master_circular_yields_tables():
+    # the 89-page AMFI master circular contains fee/appendix tables
+    chunks = extract_chunks(AMFI_MASTER, "AMFI", "AMFI-MASTERCIR-2026")
+    assert len(chunks) > 10
+    with_tables = [c for c in chunks if "|---|" in c.cleanMarkdown or "| ---" in c.cleanMarkdown]
+    assert with_tables, "expected at least one rendered markdown table in the master circular"

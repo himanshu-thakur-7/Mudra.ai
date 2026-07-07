@@ -37,9 +37,11 @@ class Settings(BaseSettings):
     # https://gateway.ai.cloudflare.com/v1/<account_id>/<gateway>
     cf_ai_gateway_base: str = ""
 
-    # ---- Convex (data + realtime + vector search + workflow state) ----
-    convex_url: str = ""          # https://<deployment>.convex.cloud
-    convex_deploy_key: str = ""   # for server-side mutations from FastAPI
+    # ---- Convex (sole backend + vector store) ----
+    convex_url: str = ""           # https://<deployment>.convex.cloud
+    convex_site_url: str = ""      # https://<deployment>.convex.site (HTTP actions)
+    convex_deploy_key: str = ""    # server-side mutations
+    convex_ingest_token: str = ""  # shared secret for the bulkIngest HTTP action
 
     # ---- Linkup (real-time regulatory web search, called as a Hermes tool) ----
     linkup_api_key: str = ""
@@ -58,8 +60,6 @@ class Settings(BaseSettings):
     # ---- Single-tenant MVP auth / infra ----
     api_token: str = "dev-token"
     redis_url: str = "redis://localhost:6379/0"
-    retrieval_backend: str = "sqlite"  # sqlite | qdrant | convex
-    qdrant_path: str = str(BACKEND_DIR / ".qdrant")
     public_web_url: str = "http://localhost:4321"  # Astro dev server
 
     twilio_account_sid: str = ""

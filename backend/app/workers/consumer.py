@@ -21,8 +21,7 @@ from sqlalchemy import select
 from app.core.config import CORPUS_DIR, get_settings
 from app.core.db import get_session_factory, init_db
 from app.models import CorpusChangeEvent
-from app.services.corpus.cascade import extract_pages
-from app.services.corpus.chunker import chunk_legal
+from app.services.corpus.chunker import extract_chunks, push_to_convex
 
 # Supersession language + nearby circular references, surfaced as review hints.
 SUPERSESSION_RE = re.compile(
@@ -96,51 +95,29 @@ def process_job(job: dict, rdb=None) -> CorpusChangeEvent | None:
         # State-machine key = the URL the document was DISCOVERED at (the
         # detail/listing page on a two-hop crawl), matching the fleet's key.
         state_key = job.get("source_page") or job["url"]
-        pages, method = extract_pages(job["pdf_path"])
+
+        # Phase 3: PyMuPDF layout-aware parse → push straight to Convex. No local
+        # vector storage, no drafts on disk — Convex is the sole store.
+        doc_id = f"{job['regulator']}-{job['sha256'][:8]}"
+        chunks = extract_chunks(job["pdf_path"], job["regulator"], doc_id, source_url=job["url"])
         if rdb is not None:
             _set_doc_state(rdb, state_key, "PARSED", job["sha256"])
 
-        metadata = {
-            # Courtroom-grade lineage: every chunk carries all of this.
-            "regulator": job["regulator"],
-            "source_url": job["url"],
-            "source_page_url": job.get("source_page", ""),
-            "raw_pdf_path": job["pdf_path"],
-            "sha256": job["sha256"],
-            "downloaded_at": job.get("downloaded_at", ""),
-        }
-        chunks = chunk_legal(pages, metadata)
-        hints = detect_supersession_hints(pages)
-
-        DRAFTS_DIR.mkdir(parents=True, exist_ok=True)
-        draft_path = DRAFTS_DIR / f"{job['regulator'].lower()}-{job['sha256'][:8]}.json"
-        draft_path.write_text(json.dumps({
-            "metadata": metadata,
-            "extraction_method": method,
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "supersession_hints": hints,
-            "chunks": [
-                {
-                    "uid": c.uid, "clause_number": c.clause_number, "kind": c.kind,
-                    "page": c.page, "paragraph_index": c.paragraph_index,
-                    "text": c.text, "metadata": c.metadata,
-                }
-                for c in chunks
-            ],
-        }, indent=2, ensure_ascii=False))
+        pushed = {"ingested": 0}
+        if get_settings().convex_url or get_settings().convex_site_url:
+            pushed = push_to_convex(chunks)
 
         event = CorpusChangeEvent(
             regulator=job["regulator"], url=job["url"], sha256=job["sha256"],
-            pdf_path=job["pdf_path"], draft_path=str(draft_path),
-            n_chunks=len(chunks), extraction_method=method,
-            supersession_hints=hints,
+            pdf_path=job["pdf_path"], draft_path="",
+            n_chunks=len(chunks), extraction_method="pymupdf",
+            supersession_hints=[],
         )
         db.add(event)
         db.commit()
         if rdb is not None:
-            _set_doc_state(rdb, state_key, "CHUNKED", job["sha256"])
-        hint_note = f", {len(hints)} supersession hint(s)" if hints else ""
-        print(f"[consumer] {job['regulator']}: {len(chunks)} chunks ({method}){hint_note} -> {draft_path.name}")
+            _set_doc_state(rdb, state_key, "PUSHED_TO_CONVEX", job["sha256"])
+        print(f"[consumer] {job['regulator']}: {len(chunks)} chunks parsed, {pushed.get('ingested', 0)} pushed to Convex")
         return event
     finally:
         db.close()
